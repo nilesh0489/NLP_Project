@@ -1,0 +1,43 @@
+The system is powered by Nvidia GPUs and thought to be one of the two fastest supercomputers in the world. It's capable of making 20,000 trillion calculations each second.
+
+Forecasting for weather like this week's "Frankenstorm" may become a lot more accurate with the help of the Department of Energy's Titan supercomputer, a system that launched this month for open research development.
+
+The computer, an update to the Jaguar system, is operated in Tennessee by Oak Ridge National Laboratory, part of the DOE's network of research labs. Researchers from academia, government labs, and various industries will be able to use Titan -- believed to be one of the two most powerful machines in the world -- to research things such as climate change and alternative fuels.
+
+"Why care about these big computers? It's really because society's got big problems," Steve Scott, chief technology officer of Nvidia's GPU accelerated computing business, said in a recent interview. "There are healthcare issues, lots of diseases across the board, an aging population. Energy is a huge problem facing the world and our country. ... Increasingly computers are used to solve these problems."
+
+As part of this month's launch of Titan, the DOE has awarded 4.7 billion supercomputing hours at Oak Ridge and another facility to 61 science and engineering projects with "high potential for accelerating discovery and innovation" through its Innovative and Novel Computational Impact on Theory and Experiment (INCITE) program.
+
+While the areas of research vary, there are six main areas targeted for Titan, according to Nvidia's Scott:
+
+ Material science code. This is basically looking at material at the atom level, to understand its properties. It also involves figuring out how to construct new materials to have superior properties of strength, weight, and other characteristics.
+
+ Climate change. Researchers want to answer questions about what's going on, how to change it, how to adapt to it, etc.
+
+ Biofuels. This involves looking at certain plants -- like switchgrass -- and converting them into ethanol using an enzymatic process.
+
+ Nuclear energy. The technology can be used to simulate neutron flux in fusion and fission. It includes looking at a new form of fusion energy that would be safer and cleaner, as well as new fuels that would burn longer and cleaner.
+
+ Combustion. Titan can allow the simulation of combustion for researchers trying to optimize the fuel, process, and engine design to get a cleaner burning fuel.
+
+"All of these areas have tremendous real world societal benefits," Scott said. "And they need high performance computing to drive them forward."
+
+None of the research would be possible without the massive computing abilities provided by Titan. The system is believed to be more powerful than the world's current top supercomputers from Japan and China, and it rivals the Top500's No. 1 machine from June, the DOE's Sequoia machine at Lawrence Livermore National Laboratory.
+
+Titan is one of the new types of systems that combine discrete graphics chips, or GPUs, commonly used for videogames, along with standard microprocessors. In this case, Nvidia is providing the GPUs while the CPUs come from Advanced Micro Devices. Graphics chips are used to accelerate the number-crunching functions of supercomputers by allowing many tasks to be completed at once, and they require less power than CPUs alone.
+
+Titan is 10-times more powerful and five-times more energy efficient than Oak Ridge's last system, dubbed Jaguar. Oak Ridge says the use of GPUs combined with CPUs allows Titan to take up the same physical space as Jaguar while using only "marginally" more electricity (9 megawatts for Titan versus 7 megawatts for Jaguar).
+
+If Oak Ridge upgraded Jaguar by simply expanding the CPUs, the system would be more than four-times its current size and would consume more than 30 megawatts of power.
+
+Jaguar became the world's most powerful supercomputer in late 2009, and it held onto that title for a year before being passed by a Chinese system. The DOE's Sequoia system, meanwhile, nabbed the top spot in June with a performance of 16.32 petaflops. That system is powered by IBM chips and is used for classified national defense research.
+
+Titan may prove to be the most powerful system when the list is again released early next month, Scott said.
+
+It's almost mindboggling how fast Titan operates. The system is capable of churning through more than 20,000 trillion calculations each second -- or 20 petaflops -- by using GPUs.
+
+The system, developed by Cray, contains 18,688 nodes, with each containing a 16-core AMD Opteron processor and an Nvidia Tesla GPU based on the graphics chipmaker's Kepler architecture. Titan also has more than 700 terabytes of memory.
+
+Bill Blake, chief technology officer at Cray, said the industry is at an inflection point where GPUs become necessary to reach higher performance in supercomputers.
+
+"For the foreseeable future, for sure the next 10 years plus, the industry will be on this inflection point of change because of accelerated computing," he said in a recent interview.

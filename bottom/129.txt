@@ -1,0 +1,37 @@
+BERLIN — Angry Birds, the top-selling paid mobile app for the iPhone in the United States and Europe, has been downloaded more than a billion times by devoted game players around the world, who often spend hours slinging squawking fowl at groups of egg-stealing pigs.
+
+While regular players are familiar with the particular destructive qualities of certain of these birds, many are unaware of one facet: The game possesses a ravenous ability to collect personal information on its users.
+
+When Jason Hong, an associate professor at the Human-Computer Interaction Institute at Carnegie Mellon University, surveyed 40 users, all but two were unaware that the game was storing their locations so that they could later be the targets of ads.
+
+“When I am giving a talk about this, some people will pull out their smartphones while I am still speaking and erase the game,” Mr. Hong, an expert in mobile application privacy, said during an interview. “Generally, most people are simply unaware of what is going on.”
+
+What is going on, according to experts, is that applications like Angry Birds and even more innocuous-seeming software, like that which turns your phone into a flashlight, defines words or delivers Bible quotes, are also collecting personal information, usually the user’s location and sex and the unique identification number of a smartphone. But in some cases, they cull information from contact lists and pictures from photo libraries.
+
+As the Internet goes mobile, privacy issues surrounding phone apps have moved to the front lines of the debate over what information can be collected, when and by whom. Next year, more people around the world will gain access to the Internet through mobile phones or tablet computers than from desktop PCs, according to Gartner, the research group.
+
+The shift has brought consumers into a gray legal area, where existing privacy protections have failed to keep up with technology. The move to mobile has set off a debate between privacy advocates and online businesses, which consider the accumulation of personal information the backbone of an ad-driven Internet.
+
+In the United States, the data collection practices of app makers are loosely regulated, if at all; some do not even disclose what kind of data they are collecting and why. Last February, the California attorney general, Kamala D. Harris, reached an agreement with six leading operators of mobile application platforms that they would sell or distribute only mobile apps with privacy policies that consumers could review before downloading.
+
+In announcing the voluntary pact with Amazon, Apple, Google, Hewlett-Packard, Microsoft and Research in Motion, whose distribution platforms make up the bulk of the American mobile app market, Ms. Harris noted that most mobile apps came without privacy policies.
+
+“Your personal privacy should not be the cost of using mobile apps, but all too often it is,” Ms. Harris said at the time.
+
+But simple disclosure, in itself, is often insufficient.
+
+The makers of Angry Birds, Rovio Entertainment of Finland, discloses its information collection practices in a 3,358-word policy posted on its Web site. But as with most application makers around the world, the terms of Rovio’s warnings are more of a disclaimer than a choice.
+
+The company advises consumers who do not want their data collected or ads directed at them to visit the Web site of its analytics firm, Flurry, and to list their details on two industry-sponsored Web sites. But Rovio notes that some companies do not honor the voluntary lists.
+
+As a last resort, Rovio cautions those who want to avoid data collection or ads simply to move on: “If you want to be certain that no behaviorally targeted advertisements are not displayed to you, please do not use or access the services.”
+
+Despite multiple requests by phone and Internet over five days, Rovio did not respond to questions.
+
+Policy practices like Rovio’s often do little to inform consumers. Most people simply click through privacy permissions without reading them, said Mr. Hong, the Carnegie Mellon professor. His institute is developing a software tool called App Scanner that aims to help consumers identify what types of information an application is collecting and for what likely purpose.
+
+In Europe, lawmakers in Brussels are planning to bring Web businesses for the first time under stringent data protection rules and to give consumers new legal powers, the better to control the information that is being collected on them.
+
+Proposed revisions to the European Union’s General Data Protection regulation now before the Civil Liberties, Justice and Home Affairs Committee of the European Parliament would require Web businesses to get explicit consent from consumers to collect data. A proposal would also give consumers the ability to choose what information an app can store on them without losing the ability to use the software.
+
+But the drafting of the revisions, which are not expected until late 2013 at the earliest, has set off a concerted lobbying battle by global technology companies, most of which are based in the United States, to weaken the consent requirements, which could undermine the advertising-financed business models that drive many free applications.

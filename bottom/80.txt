@@ -1,0 +1,23 @@
+Chipmaker AMD is looking for a partner to help revive its flagging fortunes and help build some kick-ass server chips. And we think that partner is going to be ARM, the U.K. design shop that’s best known for coming up with the brains of the iPhone.
+
+Next Monday, the day before ARM’s annual developer conference kicks off in Santa Clara, California, AMD is gathering CEO Rory Read and an unnamed “special guest” together to talk about something it calls its “ambidextrous strategy.”
+
+AMD first floated this ambidextrous strategy idea at its financial analyst meeting back in February. Essentially, it means that the company wants to license other companies’ intellectual property and work that into its chip designs. The problem is that AMD hasn’t said a lot about exactly whose designs it’s considering. Back in February, we asked AMD CTO Mark Papermaster flat out if he was going to do an ARM-based chip. His response? “The answer is not no.”
+
+Since that meeting AMD has indeed taken out an ARM license — for a very basic chip design called the Cortex-A5. It’s using this to develop some new security capabilities for its future client chips, but we guess that next week’s announcement is going to be about servers, and about a different, server-friendly ARM design called ARMv8.
+
+ARM is starting to look like like a pretty neat fit with the server room. ARM’s chips are so power efficient, they’ve already bested Intel in the mobile phone market. So maybe the companies that license ARMS designs could make a go of it in the server space, where Intel’s high-wattage Xeon chips are now king?
+
+To date, ARM has been missing some key features that server-room geeks really need. Most importantly, ARM’s chips don’t work well in computers that have more than 4 gigabytes of memory. Servers are memory hogs, so AMD and Intel moved their most popular server microprocessors to 64-bit designs about a decade ago, but ARM is now catching up. And next year, the first ARM licensees will start shipping 64-bit chips based on the V8 design.
+
+Last spring, ARM’s Simon Segars told us that he sees the V8 being ideal for a certain class of very popular web applications — serving video or search results, for example — that would work fine with the low-power ARM designs. There “is a potential for 90 percent power saving by adopting this type of approach,” said Segars, the general manager of ARM’s Processor and Physical IP Divisions. “So the prize is potentially very big.”
+
+If AMD joins companies like Calxeda and Applied Micro and starts building 64-bit ARM processors for servers, it could give AMD a low-power alternative to Intel’s Xeon, says Kevin Krewell, an analyst with chip-watching firm The Linley Group. “There’s definitely an ongoing battle right now that’s really just staring to heat up between the ARM architecture and Intel.”
+
+AMD is desperate for an edge. Intel has drubbed it on servers and AMD has been badly hurt by the downturn in PC sales. Last week, as he was walking financial analysts through AMD’s dreary quarterly results and plans to chop 15 percent of his company’s staff, CEO Rory Read said that the company was looking for “third-party processor cores,” to help it build more power-efficient servers.
+
+Will those “third-party” cores include ARM’s? We can’t say for sure, Krewell thinks that there’s a pretty good chance, especially given the fact that AMD is promising an announcement with a surprise guest the day before ARM kicks off its developer conference.
+
+“The timing is interesting,” he says. “I’d have to admit that I’d fall into the ‘one plus one equals two’ camp on this one.”
+
+Cade Metz contributed to this story. This story has been updated to include the correct name for ARM’s next-generation processor design. It is ARMv8.

@@ -1,0 +1,69 @@
+Whoever wins the presidential election will command not just a military with a bigger budget than the militaries of the next ten nations combined, but a ‘homeland security’ surveillance state which we taxpayers have paid nearly $700 billion to construct.
+
+Central to the intelligence dragnet is the National Counterterrorism Center (NCTC), which was established in 2004 to “serve as the nation’s primary organization for analyzing and integrating all foreign and domestic terrorism-related intelligence possessed or acquired by the United States.”
+
+If the NCTC has not been on your radar before, you should pay close attention to it now. According to The Washington Post’sGreg Miller, the NCTC is the designer and host of a futuristic “new blueprint for pursuing terrorists, a next-generation targeting list called the ‘disposition matrix’,” which will not just provide names for kill lists, but map plans “for the ‘disposition’ of suspects beyond the reach of American drones.”
+
+And don’t think what goes on at the NCTC only concerns the “bad guys.”
+
+Think instead of all the personal information that is collected about you and held in various databases. As ACLU staff attorney Alexander Abdo has written, under its new 2012 guidelines, “the NCTC could potentially combine all the databases that store that sensitive and private information into a single, massive searchable and data-minable database.”
+
+He goes on:
+
+“The guidelines accomplished this sweeping transformation of the NCTC’s data-mining abilities primarily by allowing the NCTC to intentionally collect data on US citizens even where those people have no suspected ties to terrorism, and to keep that data for 5 years.” Before the guidelines were changed on March 22, 2012, data about ordinary Americans with no link to terrorism had to be discarded within 180 days.
+
+From the start, the NCTC has been a mega fusion center by design in search of an identity. And now it has emerged as nation’s leading practitioner of ‘Total Information Awareness.
+
+After the 9/11 Commission called for the establishment of a new intelligence unit which would compile “all-source” information on terrorism and at the same time plan counterterrorism activities, the NCTC was established by Executive Order 13354 in August 2004. It was given an expansive statutory charter and placed in the newly-created Office of the Director of National Intelligence (ODNI) by the December 2004 Intelligence Reform and Terrorism Prevention Act.
+
+As befitting its dual information collection/operation planning mission, its director (now former NSA general counsel Matthew Olsen) has a unique dual reporting role. He reports to the Director of National Intelligence when dealing with the collection and analysis of intelligence and directly to the President for planning joint counterterrorism operations. In time, this access to the White House would make the NCTC a logical choice for “disposition matrix” activities.
+
+But first, the new bureaucracy needed to muscle its way into territory locked down by various intelligence agencies, most prominently, the CIA Counterterrorism Center, which had in 2003 collaborated with the FBI, DHS and DOD to set up a new Terrorist Threat Integration Center (TTIC).
+
+Eventually, the TTIC was integrated with the NCTC, and agents from the CIA, FBI, DOD, State Department, Treasury, National Geospatial Intelligence Agency among many other government agencies were enlisted as NCTC collaborators.
+
+But not everyone was happy with the results.
+
+In the spring of 2006, Rep. Bennie Thompson, a member the House Committee on Homeland Security, wrote an article for a law journal entitled “The National Counterterrorism Center: Foreign and Domestic Intelligence Fusion and the Potential Threat to Privacy.”
+
+He warned that having the CIA, FBI and other agencies at the same table could pose a major threat to constitutional rights:
+
+“In the NCTC’s zeal to help root out terrorists and their plans, it is possible that the rules of foreign intelligence gathering, which are largely free of civil liberties concerns, will overtake traditional rules that apply to both domestic intelligence and law enforcement operations. Given the risk of ‘mission creep,’ Congressional oversight alone will not ensure that the NCTC will adequately respect privacy rights.”
+
+And would it protect national security? In mid 2006, Karen DeYoung in the Washington Post described a counterterrorism infrastructure “that has become so immense and unwieldy that many looking at it from the outside, and even some on the inside, have trouble understanding how it works or how much safer it has made the country.”
+
+During the next few years, the safety issue would move from a behind-the-scenes concern to a public scandal.
+
+The NCTC was the keeper of the giant TIDE (Terrorist Identities Datamart Environment) system, which had by January contained the identities of some 500,000 people suspected of terrorist ties.
+
+According to Rep. Brad Miller, the chairman of the House Committee on Science and Technology’s Subcommittee on Investigations and Oversight, “the TIDE database is suffering from serious, long-standing technical problems” and the supposed “fix” represented by the $300 million Railhead software “will leave our country more vulnerable than the existing yet flawed system in operation today.”
+
+TIDE, he wrote to the Inspector General of the ODNI on August 21, 2008, was unable to properly process tens of thousands of “potentially vital CIA messages.” It contained fundamental design flaws that made the data in the system difficult or even impossible to search. It had a tendency to crash, and “there is no fool proof way to ensure that only good data gets into the TIDE database and unqualified data stays out.”
+
+Just over a year later, the nation’s intelligence flaws hit the headlines.
+
+After the father of a 23-year-old Nigerian national, Umar Farouk Abdulmutallab, told the US Embassy in Abuja as well as CIA officials about his son’s possible ties to extremists in Yemen, the youth’s name was placed in the TIDE database.
+
+Despite the fact that Abdulmutallab had been listed on a UK watch list in May 2009, and despite intelligence about a plot involving a “Nigerian” trained in Yemen, his name was never moved from the TIDE system to the master watch list in the Terrorist Screening Center, maintained by the FBI, a NCTC partner. The giant US intelligence apparatus was therefore none the wiser when, on Christmas Day 2009, Abdulmutallab boarded a plane for Detroit with an explosive device in his underwear.
+
+Judging from thereport on the NCTC which Richard Best prepared for the Congressional Research Service in December 2011, questions about the appropriate role of the NCTC, about its relationship with the CIA’s Counterterrorism Center and its ability to “connect the dots” in a timely manner remain unanswered.
+
+Some 16 different agencies are now involved in NCTC information collection and analysis, and more than half of its staff of 500 are on detail from other agencies. Best highlights the problem of different bureaucratic cultures, and the fact that people who work there can be more loyal to their own agencies. He points to concerns that the NCTC approach “may jeopardize privacy rights” especially in the case of “home-grown terrorists.”
+
+Just how accurate is the information in the TIDE database?
+
+A recent Congressional subcommittee report on fusion centers suggests that being in the TIDE database is not necessarily a red flag for Department of Homeland Security officials. “While reporting information on an individual who is listed in the TIDE database sounds significant, the Subcommittee found that DHS officials tended to be skeptical about the value of such reporting, because of concerns about the quality of data contained in TIDE.”
+
+NCTC head Matthew Olsen told the Senate Homeland Security Committee on September 19, 2012 that key reforms have been undertaken to improve “NCTC’s receipt, processing, and quality of information sharing.”
+
+How? By “taking a more aggressive and innovative approach to seek methodologies and data repositories to ingest biographic, biometric, and derogatory information. As the threat continues to evolve, our watchlisting experts are proactively working with NCTC’s Pursuit Group and the counterterrorism community to expedite the sharing of information to build more complex terrorist identities. We have also enhanced our ability to store, compare, match, and export biometrics such as fingerprint, facial images and iris scans.”
+
+So we now know that the NCTC has a ‘Pursuit Group’ set up “to develop tactical leads and pursue terrorism threats” and is in hot pursuit of biometric data. We also know that “the community watchlisting guidance was revised in 2010 to provide flexibility to push forward information that previously had not met the requirements.”
+
+Community watchlisting guidance? NCTC director Olsen hastens to add the following:
+
+“Nevertheless, nominations of US persons to a watchlist must still be supported by ‘reasonable suspicion’ that the person is a ‘known or suspected terrorist,’ and a person cannot be watchlisted based solely upon a First Amendment protected activity.”
+
+Coming immediately after his claim that the FISA Amendments Act was “thoughtfully crafted and carefully implemented to ensure the privacy and civil liberties of Americans are protected,” and his insistence that the newly-adopted NCTC guidelines “ensure we protect civil liberties and privacy when executing our mission,” Olsen’s rhetorical nod to constitutional rights seems unlikely to reassure Rep. Bennie Thompson, for one.
+
+And needless to say, the existence of a “disposition matrix” never gets a mention.

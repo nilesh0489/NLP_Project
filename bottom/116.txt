@@ -1,0 +1,25 @@
+The new version of Windows is now available on store shelves, and we have the complete lowdown on Microsoft's latest operating system. Join us as we thoroughly dissect the Windows 8 UI (Metro), Apps, Desktop, Gestures, IE10, SkyDrive, and Windows Store.
+
+During the past year, all corners of the technology community were abuzz with news, rumors, and opinions regarding Windows 8. The vast majority of that chatter involved the operating system's completely new tile-based user interface. Up until the end of this summer, the new UI was referred to as Metro. But Microsoft's marketing department decided to change the interface's name to Windows 8 UI.
+
+Big logo, right? Well, perhaps that's fitting, since Windows 8 is the biggest thing to happen to Windows since...well, windows. At this point, Microsoft could quite justifiably change the operating system's name to Tiles.
+
+As the resident “Linux guy,” I'm no stranger to drastic changes and bizarre user interfaces, though. I've seen plenty of both in Linux, and the shift to something new no longer scares me. Naturally, then, I was tasked with writing our Windows 8 review.
+
+My first foray into Windows 8 was with the Developer Preview released back in September of last year. Like (seemingly) everyone else, I was taken aback by the changes Microsoft presented in its then-Metro UI. But I thought, "Hey, it's just a developer preview. Most of this will probably change anyway."
+
+Next came the Consumer Preview in February. This release actually moved Windows 8 further away from the classic Windows experience. I rationalized the changes yet again. After all, it was just a beta, and carrying the label ofConsumer Preview, maybe it would yield enough negative feedback that Microsoft would have no choice but to reverse direction.
+
+Then, in May, Microsoft released its Windows 8 ReleasePreview. Surely this one would address the serious workflow and usability issues that bloggers were publicly skewering. Nope, not even close.
+
+Finally, a 90-day trial of Windows 8 Enterprise Edition was made available this past August, and I grabbed that too. Very quickly, I realized that Microsoft had no plans to pull the plug and back out of its bold design departure.
+
+Which brings us to the here and now: Window 8 is officially available for purchase. If you were waiting for Microsoft to jump out from behind a bush and yell "April Fools!" after all of those early peeks at the operating system, you're no doubt flabbergasted by the operating system's final form.
+
+But don't count Microsoft out too quickly. I didn't take Windows 8 very seriously until a few days ago either. But, during the course of writing this review, found my stubborn disdain turning into something else.
+
+Along with Windows 8 RTM, I had early access to two genuine Windows 8-based notebooks from Toshiba: the Satellite S955 and P845t. Between my time with those two laptops and installing Windows 8 on every x86-based platform I could find, I finally understand Windows 8, and I'm confident that I can explain it to you, too.
+
+Over the next 20 pages, we'll break down the Windows 8 UI, piece-by-piece in sometimes-sickening detail. We'll use the keyboard, mouse, and touch. We cover the installation and setup. We have the apps, the Store, and the settings. Then, we get into the "classic" desktop, following up with an exploration of how Windows 8 affects the traditional Windows experience. Plus, we show you how to either create synergy between Windows 8 UI and the desktop, or to ignore the new stuff altogether.
+
+Let's kick this story off by going over the vitals: system requirements, upgrade paths, available versions, and pricing.

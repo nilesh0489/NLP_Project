@@ -1,0 +1,7 @@
+We first posted about the situation at our data center 8:57 am on Tuesday. 60 hours later, it has stabilized. What does that mean? Mostly, it means that the methods being used to power our services are unremarkable. Data centers throughout New York City and the surrounding area are using the same types of generators to keep countless hosted services running.
+
+It also means that we will spare you the hourly status reports on the nuts and bolts of maintaining power at our data center. Barring a completely new problem, the only further post here will be to let you know that our data center is back on the grid.
+
+The total actual downtime during this incident was approximately three hours, from about 10:45am to about 2pm on Tuesday. This was self-imposed, to protect our customers against data corruption. If this has materially impacted your ability to do business, please let us know.
+
+As is our policy with any unplanned downtime, we are planning a full postmortem, which will appear on this site. Though you will see no new evidence of it, the entire Fog Creek team continues to work full steam on contingency plans. If something unforeseen happens in the near future, or when the next natural disaster strikes, we will be able to respond quickly and effectively.

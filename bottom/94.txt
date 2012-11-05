@@ -1,0 +1,57 @@
+WASHINGTON - It is expected to be the mother of all cyber diplomatic battles.
+
+When delegates gather in Dubai in December for an obscure UN agency meeting, fighting is expected to be intense over proposals to rewrite global telecom rules to effectively give the United Nations control over the Internet.
+
+Russia, China and other countries back a move to place the Internet under the authority of the International Telecommunications Union, a UN agency that sets technical standards for global phone calls.
+
+US officials say placing the Internet under UN control would undermine the freewheeling nature of cyberspace, which promotes open commerce and free expression, and could give a green light for some countries to crack down on dissidents.
+
+Observers say a number of authoritarian states will back the move, and that the major Western nations will oppose it, meaning the developing world could make a difference.
+
+"The most likely outcome is a tie, and if that happens there won't be any dramatic changes, although that could change if the developing countries make a big push," said James Lewis, director of the Technology and Public Policy Program at the Washington-based Center for Strategic and International Studies.
+
+"But there is a lot of discontent with how the Internet is governed and the US will have to deal with that at some point."
+
+Lewis said there was still an overwhelming perception that the US owns and manages the Internet. Opponents have a "powerful argument" to create a global authority to manage the Internet, Lewis said, but "we need to find some way to accommodate national laws in a way that doesn't sacrifice human rights."
+
+Terry Kramer, the special US envoy for the talks, has expressed Washington's position opposing proposals by Russia, China and others to expand the ITU's authority to regulate the Internet.
+
+"The Internet has grown precisely because it has not been micro-managed or owned by any government or multinational organization," Kramer told a recent forum.
+
+"There is no Internet central office. Its openness and decentralization are its strengths."
+
+The head of the ITU, Hamadoun Toure, said his agency has "the depth of experience that comes from being the world's longest established intergovernmental organization."
+
+Toure wrote in the British newspaper The Guardian that any change in regulation should "express the common will of ITU's major stakeholders" and "find win-win solutions that will act as a positive catalyst."
+
+But Harold Feld of the US-based non-government group Public Knowledge said any new rules could have devastating consequences.
+
+"These proposals, from the Russian Federation and several Arab states, would for the first time explicitly embrace the concept that governments have a right to control online communications and disrupt Internet access services," Feld said on a blog post.
+
+"This would reverse the trend of the last few years increasingly finding that such actions violate fundamental human rights."
+
+Paul Rohmeyer, who follows cybersecurity at the Stevens Institute of Technology, pointed to a "sense of anxiety" about the meeting in part because of a lack of transparency.
+
+He said it was unclear why the ITU is being considered for a role in the Internet.
+
+"The ITU historically has been a standards-setting body and its roots are in the telecom industry. I'm not familiar with anything they've done that's had an impact on the Internet today," Rohmeyer told AFP.
+
+And the analyst noted that the significance of extending "governance" of the Internet to the ITU remains unclear.
+
+Some observers point out that the ITU hired a Russian security firm to investigate the Flame virus, which sparked concerns about the dangers in cyberspace and the need for better cybersecurity cooperation.
+
+Rohmeyer said it was unclear whether a conspiracy was at hand, but that "the suggestion that the Internet is a dangerous place could be used to justify greater controls."
+
+Observers are also troubled by a proposal by European telecom operators seeking to shift the cost of communication from the receiving party to the sender. This could mean huge costs for US Internet giants like Facebook and Google.
+
+"This would create a new revenue stream for corrupt, autocratic regimes and raise the cost of accessing international websites and information on the Internet," said Eli Dourado of George Mason University.
+
+Milton Mueller, a professor of information studies at Syracuse University who specializes in Internet governance, said most of the concerns are being blown out of proportion.
+
+Mueller said the ITU "already recognizes the sovereign right of nations to restrict communications into and out of the country."
+
+"What gets lost in the confusion over content regulation is that the real motive of most of the reactionary governments is to protect themselves from economic competition caused by telecom liberalization and deregulation, of which the Internet is only one part," he said.
+
+Related: US Says It Will Oppose Major Revisions of Global Telecom Rules
+
+Related Reading: 'Internet Kill Switch' - Is this Technically Feasible in the US?

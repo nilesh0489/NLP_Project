@@ -1,0 +1,47 @@
+On Monday, the US Supreme Court will hear arguments in a case that pits a major textbook publisher against Supap Kirtsaeng, a student-entrepreneur who built a small business importing and selling textbooks.
+
+Like many Supreme Court cases, though, there's more than meets the eye. It's not merely a question of whether the Thai-born Kirtsaeng will have to cough up his profits as a copyright infringer; the case is a long-awaited rematch between content companies seeking to knock out the "first sale" doctrine on goods made abroad (not to mention their many opponents). That makes Wiley v. Kirtsaeng the highest-stakes intellectual property case of the year, if not the decade. It's not an exaggeration to say the outcome could affect the very notion of property ownership in the United States. Since most consumer electronics are manufactured outside the US and include copyrighted software in it, a loss for Kirtsaeng would mean copyright owners could tax, or even shut down, resales of everything from books to DVDs to cellphones.
+
+"First sale" is the rule that allows owners to resell, lend out, or give away copyrighted goods without interference. Along with fair use, it's the most important limitation on copyright. So Kirtsaeng's cause has drawn a wide array of allies to his side. These include the biggest online marketplaces like eBay, brick-and-mortar music and game retailers, and Goodwill—all concerned they may lose their right to freely sell used goods. Even libraries are concerned their right to lend out books bought abroad could be inhibited.
+
+John Wiley and Sons, the textbook publisher suing Kirtsaeng, has its share of backers as well, including the movie and music industries, software companies, and other book publishers. Those companies argue differential pricing schemes are vital to their success, and should be enforced by US courts. Nearly 30 amicus briefs have been filed in all.
+
+Supporters of Kirtsaeng are mobilized, following an alarming—but not precedential—loss in an earlier case, Omega v. Costco. On a call with reporters this week, librarians and lawyers for pro-Kirtsaeng companies painted a stark picture of what might happen should he lose the case. If the appellate court ruling against Kirtsaeng is allowed to stand, they suggest copyright owners could start to chip away at the basic idea of "you bought it, you own it."
+
+"This case is an attempt by some brands and manufacturers to manipulate copyright law, to control the distribution and pricing of legitimate, authentic goods," said eBay's top policy lawyer, Hillary Brill. "When an American purchases an authentic item, he shouldn't have to ask permission from the manufacturer to do with it what he wants."
+
+Without "first sale" doctrine in place, content companies would be allowed to control use of their goods forever. They could withhold permission for resale and possibly even library lending—or they could allow it, but only for an extra fee. It would have the wild effect of actually encouraging copyrighted goods to be manufactured offshore, since that would lead to much further-reaching powers.
+
+"When we purchase something, we assume it's ours," said Overstock.com general counsel Mark Griffin. "What is proposed by [the content companies] is that we change the fundamental notion of ownership rights."
+
+Book publishers and their content-industry allies say those concerns are overblown. No assault on libraries and garage sales is forthcoming, they argue. These organizations simply have a right to set different prices abroad, without being undermined in the US by importation they say is illegal.
+
+The road to the Kirtsaeng clash has been a long one. Ultimately, this confrontation has been brewing since the rise of Internet marketplaces like eBay and Amazon in the mid-1990s. It became easier to get price information about goods being sold overseas, and consumers could see that identical or good-enough products were often being offered for prices much lower than the products being hawked in the US. At the same time, the big shopping sites made it simple for anyone to become their own business, selling and shipping around the globe.
+
+The textbook market was an obvious place to look for arbitrage. Students have been complaining about the high cost of books for many years; they also became the first group to enthusiastically embrace life online, and naturally looked for ways to cut costs.
+
+Foreign-born students, exposed to the lower-priced textbooks on trips home, became some of the first to see the opportunity. The same textbooks they were using to study medicine, engineering, and mathematics in the US were being sold in their home countries for a fraction of the cost. Often a Chinese, Thai, or Indian edition of a textbook had a more cheaply bound cover, sometimes with the local lettering on the front, and perhaps cheaper paper. The internal contents, however, were often the exact same English words being read by their classmates buying high-priced US editions.
+
+By 2003, the secret was out. Students' Internet-age solution to the problem of costly textbooks hit the front page of the New York Times. For some students, it was as simple as logging on to Amazon's UK site to comparison-shop.  A biochemistry text was $146.15 on the American Amazon site, but sold on the UK site for a mere $63.48, plus $8.05 shipping, one student found. A math textbook cost $110 in the US, but sold for $41.76 plus shipping in Britain.
+
+Even cheaper prices were found in Asia on English textbooks. The local college bookstore at Purdue University began buying overseas after it had to start competing with student-resellers—the Indian Association at Purdue bought hundreds of books on their own.
+
+Neither the students nor the bookstores quoted by the Times in 2003 thought they were doing anything illegal. It was thought to be settled law; in a 1998 Supreme Court case called Quality King, the high court found that copyright owners couldn't control the re-importation of goods. They were limited by the "first sale" doctrine, which meant the rights held in a particular copy of a work expired once it was sold or given away.
+
+Years passed, and copyright owners found a wrinkle in that ruling. The shampoo bottles in Quality King had been made in the US but then shipped abroad, and re-imported. In cases where goods were actually produced abroad—as foreign textbooks generally were—copyright owners argued unauthorized importers were guilty of infringement. Because imported foreign textbooks were not "made legally under this title [the Copyright Act]," they weren't subject to first sale at all. Or so the thinking went.
+
+It seems like an audacious argument, but sure enough, student book-sellers were hit with copyright lawsuits. They fought back hard—but, for the most part, they have lost.
+
+Supap Kirtsaeng lost first and lost hardest. He came to the US from Thailand in 1997 to study at Cornell University, and later went on to get a PhD in mathematics from the University of Southern California. From 2007 to 2008, he financed his education—and made extra money, doubtless—by importing textbooks from Thailand and selling them under his eBay handle, bluechristine99.
+
+The book publisher, John Wiley and Sons, didn't want to see those books in the US—and it had said so. Each book was marked: "[A]uthorized for sale in Europe, Asia, Africa and the Middle East Only... The Publisher may recover damages including but not limited to lost profits and attorney's fees, in the event legal action is required."
+
+Kirtsaeng didn't abide by those warnings. He talked to some Thai friends; he consulted "Google Answers;" and he went ahead and sold books.
+
+The warning in the books was not an idle one. Wiley and Sons followed through on their threat and sued Kirtsaeng in 2008. Kirtsaeng's lawyer was unable to get the case thrown out on "first sale" grounds. By the end of 2009 Kirtsaeng was in court, justifying his importation business to a jury.
+
+Lawyers portrayed Kirtsaeng to the jury as a Thai "gray market" mogul who had gone far beyond financing his own college education—a portrayal that US publishers continue to push. Working with friends and family who packaged and shipped his books, he made plenty of money selling extra books on eBay. Publishers' lawyers tallied up his receipts for the jury: $1.2 million in a few short years.
+
+The jury found Kirtsaeng guilty of infringing copyrights in eight books he had sold, and he was ordered to pay $600,000 in damages—$75,000 per book. He appealed, but a panel of judges ruled 2-1 in the publishers' favor.
+
+Kirtsaeng returned to Thailand in 2010 after earning his doctorate from USC, but his court case continues.

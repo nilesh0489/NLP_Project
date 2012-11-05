@@ -1,0 +1,11 @@
+Last night, a transformer exploded at a Con Edison plant in lower Manhattan, sparking a flurry of tweets, texts and Facebook posts from residents who witnessed or caught the event on camera. Power failed from 39th Street all the way to the southern tip of Manhattan, and the affected area likely will not regain power for up to a week. So far, authorities don’t know whether the explosion was directly related to the storm since it happened just as Con Ed intentionally cut power to 65,000 customers in an effort to protect equipment, CBS News writes.
+
+Although we don’t yet know what happened at this particular plant, we do know several general problems that can cause transformers to explode. Popular Mechanics explains:
+
+When flooded with too much electricity, the sudden surge can cause a transformer explosion. As transformers detect an energy spike, they’re programmed to turn off, but it can take up to 60 milliseconds for the shutdown. However fast those milliseconds may seem, they still may be too slow to stop the electrical overload. A chamber full of several gallons of mineral oil keeps the circuits cool, but given too much electricity, the circuits fry and melt, failing in a shower of sparks and setting the mineral oil aflame. Mineral oil, in turn, combusts explosively and rockets transformer scything into the air. All it takes is a trigger, a corroded or faulty wire, and the circuits surge will get ahead of the breaker.
+
+Salt from sea water, for example, can create hazardous conditions for underground electrical systems since it acts as a corrosive agent. Old transformers can explode when their insulating materials begin to fail, too.
+
+We should have a more specific answer about what happened during Hurricane Sandy to trigger the transformer explosion soon, but hopefully the thousands without electricity will have their power restored even sooner.
+
+An Unholy Alliance of Unusual Weather and Scarce Coal Nuked India’s Power Grid  How Smart Can a City Get? 
