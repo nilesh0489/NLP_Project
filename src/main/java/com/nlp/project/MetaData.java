@@ -19,16 +19,19 @@ public class MetaData {
 				PrintWriter out = new PrintWriter(new File("metadata-" + mode + "-150.txt"));
 				PrintWriter out1 = new PrintWriter(new File("url-" + mode + "-150.txt"));
 				String s;
-				int i=1;
+				boolean flag;
+//				int i=1;
 				while ((s = fp.readLine()) != null){
 					String[] posts = s.split("}},");
 					for (String post : posts){
+						flag = false;
 						String[] fields = post.split(", \"");
-							out.println(i++ + ". ");
+//							out.println(i++ + ". ");
 						for( String field : fields) {
 							if (field.startsWith("score") || field.startsWith("title") || field.startsWith("created") || field.startsWith("created_utc") || field.startsWith("data\": {\"domain\":") || field.startsWith("permalink") || field.startsWith("url") ) {
 								if (field.startsWith("data\": {\"domain\": \"youtube.com")) {
-									out.println("DOMAIN NOT APPLICABLE\n");
+									flag = true;
+									break;
 								}									
 								else if (field.startsWith("created") || field.startsWith("created_utc")) {
 									String[] field_parts = field.split(" ");
@@ -52,7 +55,10 @@ public class MetaData {
 									}
 							}
 						}
-						out.println("\n");						
+						if(!flag) {
+							out.println("\n");
+						}
+												
 					}
 				}
 				fp.close();
