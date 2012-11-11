@@ -1,0 +1,10 @@
+NEW YORK (CNNMoney) -- A number of popular websites went down late Monday after Superstorm Sandy took out a major Internet service provider.
+The Huffington Post, Gawker and many other sites were unreachable after Datagram, a New York-based provider of corporate Internet connections and servers, said it was battling flooding in its offices. The floods caused Datagram's fiber network to lose power, and the company said its backup generators were rendered useless because the diesel fuel pumps used to refuel generators were offline.
+Datagram is located on 33 Whitehall Street in Battery Park -- a large area of reclaimed land at the southern tip of Manhattan that was in an evacuation zone. It was among the worst-hit areas in the city.
+BuzzFeed, another Datagram customer, was able to get its site back up online and running Tuesday afternoon.
+On its Tumblr page, the company said Datagram told its staff that its basement was flooded with five feet of water. A Datagram representative was unreachable for comment.
+Many sites were updating their status on Twitter and publishing news stories on Tumblr accounts.
+Gawker was completely unreachable Tuesday morning.
+"Gawker is temporarily down because the 57th Street Crane just flooded our servers with sea foam, or something," the company posted on Twitter. "Back with you shortly."
+The Huffington Post's site was down Tuesday morning, but it automatically redirected to a company blog. "We are working around the clock to get the site back to normal," the news organization, owned by AOL (AOL), noted. AOL's site was unaffected by the storm. The site came back online around noon ET.
+Cloud storage company Internap, located just four blocks away from Datagram, also flooded and was unable to refuel its generators. The company issued an emergency notification to customers suggesting they back up their data and make contingency plans.
