@@ -36,3 +36,4 @@ Disable "Include online search results" by default. Users should be able to inst
 Explain in detail what you do with search queries and IP addresses, how long you store them, and in what circumstances you give them to third parties.
 Make the Search Results tab of the Privacy settings let users toggle on and off specific online search results. Some users might want Amazon products in their search results, but never anything from Facebook.
 We love that Ubuntu is bold enough to break new ground and compete directly with the large proprietary operating systems, but please make sure that you respect your users' privacy and security while you're doing it. Windows and Mac users are used to having their data sent to third parties without their express consent by software companies that are trying to maximize profits for their shareholders. Let's make sure Ubuntu, like the GNU/Linux operating system at its heart, remains an exception to this.
+
