@@ -1,0 +1,17 @@
+The machine, located at Oak Ridge National Laboratory in Tennessee, bumps the IBM-based Sequoia system down a notch with its performance of 17.59 petaflops per second.
+
+Predictions that Oak Ridge National Laboratory's Titan supercomputer had become the most powerful machine in the world have turned out to be right.
+
+The machine, powered by Nvidia graphics processors and Advanced Micro Devices computer chips, stole the No. 1 spot on the Top500's list from another U.S. machine, Lawrence Livermore National Laboratory's Sequoia.
+
+Sequoia, which uses processors from IBM, became the top computer in June with a performance of 16.32 petaflops a second. Titan beat that showing, sending Sequoia to second place on the list, with a result of 17.59 petaflops per second.
+
+The computer, built by Cray, is operated in Tennessee as part of the Department of Energy's network of research labs. Researchers from academia, government labs, and various industries will be able to use Titan to research things such as climate change and alternative fuels.
+
+The machine is one of the new types of systems that combine discrete graphics chips, or GPUs, commonly used for video games, along with standard microprocessors. In this case, Nvidia is providing the GPUs while the CPUs come from AMD. Graphics chips are used to accelerate the number-crunching functions of supercomputers by allowing many tasks to be completed at once, and they require less power than CPUs alone.
+
+Many other machines on the Top500's list, published twice a year, also use GPUs. As the group noted, 62 systems on the list are using accelerator/co-processor technology. Six months ago, 58 systems used such technology.
+
+While the top machine on the list uses AMD processors, Intel continues to provide the chips for most Top500 systems, a whopping 76 percent of them, to be precise. Its new many integrated core, or MIC, architecture, is used in several machines, including Stampede, a Dell system installed at the Texas Advanced Computing Center at the University of Texas in Austin. That supercomputer made the top 10.
+
+Rounding out the top five systems are Fujitsu's K computer installed at the RIKEN Advanced Institute for Computational Science in Kobe, Japan; an IBM Blue Gene/Q system named Mira at Argonne National Laboratory; and an IBM BlueGene/Q system named Juqueen at the Forschungszentrum Juelich in Germany.

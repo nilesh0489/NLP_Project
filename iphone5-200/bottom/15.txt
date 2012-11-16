@@ -1,0 +1,53 @@
+This Product Has Been Announced: Apple Announces iPhone 5 with 4-Inch Display
+
+The next iPhone will be announced at Apple's September 12 media event, with in-store availability likely on September 21. Apple usually offers some way to pre-order the iPhone so you don't have to wait in line. This year appears to be no different, with pre-orders reportedly opening up on or a couple of days after the announcement day.
+
+The biggest distinguishing feature in the new iPhone will be a longer 4" screen, up from 3.5" on all earlier iPhone models. The screen will be longer, but not wider. It should feel about the same in your hand, but the added vertical height will provide some extra screen space for your apps. Movies will also be able to play in full widescreen (16:9) format without any black bars at the top and bottom.
+
+This mockup video shows how this might work.
+
+Overall the next iPhone will look similar to the iPhone 4S but have a two-tone (aluminum/glass) back, as shown below, and also be slightly thinner. We've seen photos and video of newly designed headphones that we believe are destined for the new iPhone.
+
+The dock connector has been replaced with a smaller/thinner connector, so existing accessories and cables won't work. You will have to either buy an adapter or all new accessories if you are upgrading from an existing iPhone.
+
+The wireless cellular networking in the next iPhone is believed to be the faster LTE standard which means downloads (video, email, music) will be much faster than the existing models which support only 3G. We also expect the processor to be upgraded (likely to an "A6"), but exact details are still pretty scarce. Generally, though, "faster" is a safe bet for any subsequent iPhone.
+
+Apple had dropped the numbering scheme from the iPad with the most recent release, so it has seemed likely that Apple would do the same for the iPhone. The media event invitation, however, seems to suggest that the new iPhone will indeed be called the "iPhone 5".
+
+The iPhone 3GS is likely to be discontinued, with the iPhone 4 and 4S being used to fill the free-with-contract and $99-with-contract spots in Apple's lineup. Pricing for the iPhone 5 will be at the same price points as the iPhone 4S ($199/$299/$399) with contract.
+
+There is an overwhelming amount of evidence that Apple is going to adopt a taller 4-inch iPhone screen. The evidence comes primarily from countless iPhone part leaks. Apple's upcoming iOS 6 software also supports the expected taller resolution of 1136x640.
+
+The part leaks have also been numerous and consistent over the past few months. Apple is believed to have already started to ramp up production on the next iPhone, and these parts are a side effect of that massive ramp-up.
+
+In order to avoid a huge slump in iPhone sales, Apple needs to launch the next iPhone shortly after they announce it. And in order to do that they need stock -- a lot of it -- to be ready quickly. The only way to accomplish that is to start building them early.
+
+Naysayers are quick to point to last year's iPhone 5 renders (Yes, we called that one "iPhone 5" too) being wrong. They were wrong, but the difference is that we never saw part leaks for that device, just case designs. Part leaks are much stronger evidence that this is it. Last year, we did see part leaks... for the iPhone 4S. They just looked so similar to the iPhone 4 that we couldn't tell the difference or ascribed them to rumors of two new iPhones.
+
+This year, Apple is making a massive change-up to its iPhone ecosystem, changing the near-ubiquitous 30-pin dock connector to a much smaller connector. Apple has been on an almost constant quest to reduce the size of its components, so it makes sense that the dock connector is on Apple's list.
+
+The new dock cable is much smaller and offers a fewer number of pins, but we're not sure if that means we are losing any functionality to our dock connectors. Apple is expected to sell an adapter for your existing accessories.
+
+Following in the "smaller" theme, it appears Apple has also adopted a smaller SIM standard known as "nano-SIM". Most of us in the U.S. never eject our SIM cards, so the change should represent no inconvenience. For those who do regularly swap out your SIM cards, this is probably going to be a nuisance since no other phones presently have a nano-SIM.
+
+Finally, the parts show that Apple has moved the headphone jack from the top of the unit to the bottom, next to the dock connector.
+
+High-speed LTE networking seems a given for the next iPhone, especially since the latest iPad shipped with the technology.
+
+The problem with LTE in the iPhone has always been one of battery consumption, and LTE phones released to date have required larger batteries and offered shorter battery life. Apple has said in the past that they weren't willing to make those battery life compromises in the iPhone.
+
+The chipset that promises LTE speeds with much improved power consumption is the Qualcomm MDM9615. Conveniently, that chip is set to arrive in time for late 2012 delivery -- just in time for the new iPhone.
+
+The iPhone's processor remains another area where we've heard few rumors in the lead-up to the launch. We all assume that Apple will make a stride in processor technology with a combination of lower power and/or faster speeds.
+
+The iPhone 4S presently uses a dual-core A5 processor. When Apple introduced the third-generation iPad, the company bumped it to an "A5X" processor. The A5X has the same dual-core processor as the A5, but with a quad-core graphics chip to help handle the higher density Retina display of the new iPad. The new iPhone won't need nearly as large a boost in graphics power to support the marginal increase in screen size.
+
+What we have heard is that the A6 processor is destined for the 2012 iPhone. Reports had suggested that Apple might partner with TSMC on chip production using a 28-nanometer process, but it now appers that Apple will stick with Samsung and its 32-nanometer process, while moving to a quad-core processor. All of this should mean a faster CPU with decreased power requirements.
+
+We have seen one sketchy photo of an A6 processor, but we aren't convinced the photo is real.
+
+There had been some early talk of the possibility of Apple incorporating near field communication (NFC) capabilities for mobile payments into the 2012 iPhone. That talk has diminished over time, and a Wall Street Journal article has suggested that Apple has been deliberately cautious about moving into mobile payments.
+
+With that, the most recent word is that the new iPhone won't come with this technology.
+
+Discuss and ask questions about the iPhone 5 in our iPhone forums. This document will be continuously updated to take into account new rumors.

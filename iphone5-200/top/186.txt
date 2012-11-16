@@ -1,0 +1,7 @@
+Teardowns provide a look inside a device and should not be used as disassembly instructions.
+
+This guide has been found to be exceptionally cool by the iFixit staff.
+
+Behold, the sixth generation of iPhone! We shall call it…iPhone 5! Buckle down for the iPhone 5 teardown: the biggest thing to happen to teardowns since teardowns.
+
+Follow us on Twitter for all the latest teardown shenanigans, or go on that Facebook thing to keep up with iFixit news.

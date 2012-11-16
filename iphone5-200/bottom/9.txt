@@ -1,0 +1,21 @@
+A newly uncovered Apple patent shows that the iPhone 5 is likely to have NFC functionality.
+
+NFC, near field communication, is a feature that enables users to tap their phones with other NFC phones or with another third-party gadget in order to unlock content.
+
+This Apple patent shows users being able to use their iPhone to connect to an Apple TV, video game console, speaker system, and more.
+
+It basically would turn a phone - potentially the iPhone 5 - into a universal remote control, with functionality that could continue to be expanded.
+
+Of course, it would also enable the iPhone to be a mobile credit card, something that mobile payment platforms would appreciate since it will bring the feature to the attention of millions of consumers.
+
+The technology is the same as many current credit cards, each of which uses a different name.
+
+For Visa, it's Paywave; for Discover, it's Discover Zip; Mastercard calls it Paywave; and American Express uses the moniker Express Pay.
+
+However, the same chips that power those cards are soon to be introduced to smartphones in the US - including Nokia's upcoming N9 phone - which could be the biggest advancement in point-of-sale payments since the introduction of credit cards.
+
+There's potential for specialized third-party apps, new methods of payment, and and remote sales where traditional credit card terminals aren't feasible.
+
+Some of the ideas for NFC apps include letting users automatically split payments between multiple credit cards, getting instant, detailed transaction info, and billing your mobile carrier instead of a credit card provider.
+
+There are other uses for NFC down the road as well, like letting customers wave their phones to "check-in" to a store and receive discounts, using smartphones as virtual hotel keys, and allowing multiple NFC phone owners to interact with each other.

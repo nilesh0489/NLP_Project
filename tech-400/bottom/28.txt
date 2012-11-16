@@ -1,0 +1,15 @@
+South Carolina’s Department of Revenue’s computer system was hacked, resulting in the compromise of some 3.6 million Social Security numbers on top of nearly 400,000 credit and debit card numbers exposed. The actual breaches occurred in September and October.
+
+Adding insult to injury, none of the Social Security numbers were encrypted; nor were 16,000 credit card numbers. The South Carolina Division of Information Technology apparently informed the Department of Revenue of the breach Oct. 10, according to local news reports. Anyone who filed a tax return in South Carolina after 1998 is urged to call 866-578-5422.
+
+“This is not a good day for South Carolina,” governor Nikki Haley told an Oct. 26 press conference, according to WACH Fox News Center, adding about the hacker responsible: “I want this person slammed against the wall.”
+
+On Oct. 26, Haley filed an executive order to beef up the state’s security. “I hereby direct all cabinet agencies to immediately designate an information technology officer,” it read, “to cooperate with the State Inspector General who is authorized to make recommendations to improve information security policies and procedures in state agencies.”
+
+The order also stipulates cooperation with national cyber-security sources such as the Sharing Analysis Center, collaboration with in-state agencies to identify vulnerable points in cyber-security systems, and improvement in the training of government employees in information security measures.
+
+In the meantime, the current breach is under intense investigation by state authorities. Various local news sources are reporting that the attack came from a “foreign country.”
+
+According to Census.gov, the population estimate for the state of South Carolina is a bit over 4.67 million souls, meaning that roughly three-quarters of its citizens’ Social Security numbers are in the hands of hackers.
+
+“From the first moment we learned of this, our top priority has been to protect the taxpayers and the citizens of South Carolina, and every action we’ve taken has been consistent with that priority,” South Carolina DOR director James Etter wrote in an Oct. 26 statement. “We have an obligation to protect the personal information entrusted to us, and we are redoubling our efforts to meet that obligation.”

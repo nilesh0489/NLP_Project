@@ -1,0 +1,33 @@
+After falling behind Asia and Europe in the great race, where success is measured in FLOPS (floating-point operations per second), the US has struck back at the new high-tech Olympians with Titan: quite possibly the fastest supercomputer in the world.
+
+When Tennesseans hear the word Titan, their first thought is going to be gains on the gridiron, rather than leaps and bounds on the field of science.
+
+All of that might now change, as a new supercomputing giant hailing from the Smokey Mountains was unveiled by the US Department of Energy’s (DOE) on Monday.
+
+More than 10 times faster and five times more energy efficient than its predecessor Jaguar, Titan is the brainchild of the DOE’s Oak Ridge National Laboratory (ORNL), nestled in the Tennessee highlands.
+
+Titan’s theoretical peak is 20 petaflops – 20 quadrillion calculations per second – with 299,008 CPUs (central processing units) and 18,688 graphics processing units (GPUs) spinning at breakneck speeds to make to make scientific breakthroughs in record times.
+
+Titan's blistering computation speed will be the equivalent of “the world’s 7 billion people being able to carry out 3 million calculations per second,” ORNL says.
+
+Titan’s precursor Jaguar – which was developed by the Seattle-based Cray Inc. – was the fastest supercomputer in the world in June 2010, though it was later outclassed by the Chinese Tianhe-1A several months later.
+
+The fastest computer to date is currently the California-based IBM Sequoia, which whirred to the 16.32 petaflops mark in June. Titan also boosts more than 700 terabytes of memory, and will be manage higher energy efficiency than Jaguar by innovatively combining CPUs and the more recent GPUs to synergistic effect.
+
+Power limits have long served to trammel those looking to break world records in the great computational race. Jaguar’s 2.3 petaflops needed 7 megawatts of energy – enough to power a small town.
+
+At $7 million dollars a year, Jaguar’s electric bill was nothing to scoff at. Titan – essentially an upgraded version of Jaguar housed in the same 200 cabinets arranged very much like a locker room – will hit nearly 10 times the speed while consuming roughly nine megawatts. That makes Titan approximately five times more energy efficient than its previous incarnation.
+
+The race to outclass the Chinese and other international competitors has driven Titan’s development forward, though as an open-science system, its benefits will be global.
+
+"American competitiveness is very important from a global security and national security perspective," Jeffrey Nichols, associate laboratory director for the computing and computational sciences directorate at ORNL, told PCWorld in an interview.
+
+"It's absolutely important that we are competitive in this high-tech field so the science solutions we are solving are competitive and put us on the leading edge of where we need to be in solving these problems,"he continued.
+
+With Titan poised to help the US conduct research in areas like biosciences, climate change, nuclear energy and space, Nichols believes Oak Ridge has “developers that can use these machines at scale,” while China’s economic development model precludes it from reaching its research potential.
+
+But researchers, academics, government labs and a large swath of industries seeking to expedite the scientific method via Titan's ability to use a powerful computational model of varied natural systems are welcome to give it a spin.
+
+ORNL has opened its doors to all comers, and 40 projects a year will continue to be given access to the lab’s massive computational facilities based on their scientific merits. With Titan, that will mean hundreds of millions CPU hours per project at their disposal.
+
+With the never-ending pace of technological development, Titan will inevitably be overthrown by a race of younger computing gods. The Department of Energy already plans on making Titan’s successor operate at 10 times its speed by 2016, meaning America’s drive to maintain this golden age of supercomputing excellence might be far from seeing its last day.

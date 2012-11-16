@@ -1,0 +1,5 @@
+Interesting video from our friends at TLDToday: If this is not just a Geekbench app glitch, it could indicate why that A6 processor is so 2X fast.
+
+The A6 was clocked at 1.02GHz on Geekbench before the official launch—probably by one of the media reviewers.
+
+Update: It appears to downclock below 600MHz too:

@@ -1,0 +1,1 @@
+Check the widget spec for intended functionality. However, no support is intended for upload direct in the page at this time.

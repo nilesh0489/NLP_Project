@@ -1,0 +1,29 @@
+Last week, we announced 5 reasons to avoid the iPhone. This has been met with a lot of excitement and some great feedback.
+
+Some important questions were raised in this feedback. So, here is an opportunity to have some fun and get answers, straight from the horse's mouth, so to speak.
+
+In every Apple retail store is a so-called "Genius Bar" -- a technical support station, the purpose of which is to offer help and support for Apple products.
+
+You can use Apple's helpful online booking system (no registration required) to reserve time slots at the Genius Bar. There are currently 217 Apple stores in seven countries, giving us plenty of slots to book. We want as many people as possible to book slots this Friday, July 25, and Saturday, July 26. Why not book more than one? Having lots of slots booked will get Apple's attention and ensure that the Geniuses have done their homework.
+
+2) Let us know which stores you have booked using our online counter.
+
+3) Digg this to encourage others to participate
+
+Print out our handy questionnaire and information about how iPhone 3G restricts your freedom. If you have access to a color printer, you can also print out some of our snazzy iPhone flyers to hand out to people outside the store when you're done.
+
+Head over to your local Apple Store at your designated time. Be sure to get a business card from your Genius first and then politely ask them the questions. For each question, give them a score between 1 and 32, with 1 being a really bad answer, and 32 being an answer that really showed insight into the restrictive practices of the iPhone.
+
+The total score will be out of 160 -- the IQ level of Einstein, a certified genius. Rate your Genius's iQ to the same score, and if they get over 130, they're a genius -- any lower than that, and they're screwed. Glory and infamy awaits!
+
+If you feel your Genius did particularly well, or particularly badly, please let us know their name, email address, and the store address -- it'll be on their business card. We'll send prizes and information accordingly.
+
+Start by introducing yourself to your Genius.
+
+"I'm from the DRM elimination crew at DefectiveByDesign.org -- I'd like to ask you a few questions about the defects Apple has designed into the iPhone 3G."
+
+Why do all developers have to submit their applications to Apple before they can be loaded onto an iPhone? Most smartphones, including those by OpenMoko, Nokia, RIM, Palm and even Microsoft, allow applications to come from a variety of sources, including free software developers. Free "as in freedom" software development requires that users and developers be able to share and modify the source code for programs they use. iPhone users are not permitted by Apple to share or load modified versions of programs distributed through the App Store -- even when a program's developer wants users to be able to do this! Apple markets itself as empowering, alternative technology -- How does Apple plan to support free software development? Why does iTunes still contain so much DRM-laden music? Services like Amazon, eMusic, Napster, Rhapsody, Play.com and 7digital are all selling music without DRM. A typical response to this might be that Apple has no option to sell media without DRM, but this is simply untrue. Jobs is the largest individual shareholder at Disney, and he could insist that its films be DRM-free. Apple should be leading the way to promote DRM-free music, but instead is lagging behind. What is Apple doing to fix this? If it really is the RIAA's fault, can you tell me specifically what the RIAA said to Jobs when he asked for the ability to sell DRM-free music? The iPhone 3G has GPS support. How can users be sure that the GPS cannot be used to track their position, without their permission? When the only thing preventing the GPS from being used is software, and the software in question is known only to Apple, why should iPhone users trust Apple? There is a privacy agreement, but how would I ever know that the agreement was violated? In 'Thoughts on Music', Steve Jobs said, "it is useful to remember that all iPods play music that is free of any DRM and encoded in 'open' licensable formats such as MP3 and AAC". If Jobs really wants to see open formats, why doesn't the iPhone play Ogg Vorbis, Ogg Theora video and FLAC? These formats require no licensing costs, and are not encumbered by patents. How does Apple plan to support these formats in the future? Will Apple approve applications for the App Store that support these formats? Last question. Why can the iPhone 3G only be activated by Apple and AT&T? In the United States, the Register of Copyrights has ruled that consumers have the right to unlock their phones and switch to a different carrier. How does Apple plan to remedy this discrepancy?
+
+Give your Genius their score, your contact information (if you want) and your handout, along with any additional feedback you have about the defects in iPhone 3G. Thank them for their time, and quickly and politely leave the store. Outside the store, distribute some of the flyers and spend some time talking to people about these issues.
+
+Let us know how it went by sending an email to info@defectivebydesign.org with your Genius's information, score, and your comments.

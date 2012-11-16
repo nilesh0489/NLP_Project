@@ -1,0 +1,3 @@
+Interesting. Apple has responded publicly to Adobe’s Mike Chambers’s claim that Flash is an open platform:
+
+“Someone has it backwards — it is HTML5, CSS, JavaScript, and H.264 (all supported by the iPhone and iPad) that are open and standard, while Adobe’s Flash is closed and proprietary,” said spokeswoman Trudy Miller in a statement.

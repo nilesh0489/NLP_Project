@@ -1,0 +1,33 @@
+One of the first things you learn in Google's Power Searching class is that if you know about the magic of CTRL+F then you are in the top 10 percent of all searchers. That made someone like me, who uses the word find function on the regular a little cocky about my searching skills, as I embarked on Google's free online class which teaches you how to type words into a search box. The thing I didn't realize, however is that it takes a lot of other, more obscure skills to move into the top 1 percent of savviest Googlers.
+
+If you don't know the CTRL+F skill, learn it now. It's easy: pressing CTRL on Windows or ⌘ on Macs and F at the same will prompt you to enter a word or series of words that your browser will then highlight on that page.
+
+OK. So you're now in the top 10 percent of searchers. On to the harder stuff.
+
+Every few months, Google offers its Power Searching with Google class, which consists of six 50-minute classes split up into 5 to 10 minute YouTube clips. Each and every lesson is taught by Google research scientist (and Search expert) Dan Russell from the same couch, with the same Macbook, wearing the same light blue buttoned down shirt. It's monotony just like a real-live class! Also, like a true place of learning, there is homework. An activity follows each clip, going over (and testing) the information just discussed. There is also a mid-term and a final, which are graded. (If the prospect of limitless shame at not passing your Google Search final doesn't motivate you, nothing will.) And, in order to get a certificate (to hang on your Facebook wall?), you must complete these assessments on time.
+
+Someone who searches all day every day might call this overkill for a skill this person already possesses. I mean, searching for stuff is what I do for my job all day long. CTRL+F is an amateur move. If that qualifies as something that puts someone in the 90th percentile, then how hard could the rest of the class be? But, I soon learned Googling isn't just a skill, it's a series of skills. You can choose to just type into that empty box. Or you can take this class and join the 1 percent of Google Searchers. But beware: getting into this elite of searchers involves watching some very dry YouTube videos. Since I've already spent the time with professor Russell and have weeks of Googling with my new tricks behind me, let me give you my little cheat sheet. 
+
+The Problem This Fixes: Often I find myself looking for a particular article from a particular blog or website but I can't remember the headline. Or, other times I want to see all the things a certain site wrote about a certain thing. 
+
+How It Works: You can limit a search to one website using a site search. It's very easy. Say I want to find articles about a topic just from theatlanticwire.com. In the Google box, I type "site:Theatlanticwire.com" followed by my search term. That will surface only results from the websites www.theatlanticwire.com, as you can see below. 
+
+The Problem This Fixes: Sometimes while Googling for one thing, the same wrong result comes up for a different thing. This skill will remove those results that are just getting in the way. For example, maybe you want a salsa recipe, but hate cilantro. This will help get rid of those results with cilantro. 
+
+How It Works: This demonstrates the power of the minus sign. Simply putting it in front of the term you want to get rid of will remove any results including that word, as you can see below. By the way, any of these commands can be combined. So say you want to remove an entire website from the equation -site:theatlanticwire.com would have that effect. 
+
+The Problem This Fixes: Sometimes an image comes across your screen and you want to know more about it. Google's Image search allows you to 
+
+How It Works: Head to google.com/images. In addition to entering text, the search box allows you to upload photos by clicking the camera icon, as shown below.
+
+After either uploading or pasting the URL link of the photo in question, Google will then find search results based on that, surfacing news articles that feature the photo and "visually similar images." This kind of thing comes in handywhen trying to confirm or deny if a storm photo, for example, is legitimate. (Something you might have wanted to do during Hurricane Sandy). 
+
+The Problem This Fixes: A lot of the times we want to filter our results one way or another. Google search relies on a series of "operators" to do that. The site search is just one of those. You can also filter by filetype and search in between certain numbers and do all sorts of things. 
+
+How It Works: Google has a cheat sheet list of those over here and how they work. Most of them function the same way as the site one above. For example, to filter by file type (say you just want to look at PDFs all day long), Google filetype:pdf and that's what you'll get. 
+
+The Problem This Fixes: Often while searching we forget that the first results aren't always the best results. If you're going to sit through one Russell class, this last one called "Putting It All Together" reminds Googlers that trying combinations of these tricks will often lead to more and more information.
+
+How It Works: Watch teach talk about it below. 
+
+Want to add to this story? Let us know in comments or send an email to the author at rgreenfield at theatlantic dot com. You can share ideas for stories on the Open Wire.

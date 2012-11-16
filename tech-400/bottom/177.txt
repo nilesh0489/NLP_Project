@@ -1,0 +1,23 @@
+Intel's first chip to integrate 60 processor cores is for high-performance computing applications -- with a high-end price to match.
+
+Intel's first 60-core chip is here, but only elite institutions like Cambridge University will get early access.
+
+The chip, generally called Phi, isn't your typical Intel processor. It's less like a central processing unit (CPU) -- which is the chipmaker's bread and butter -- and more akin to a graphics processing unit (GPU) that works in conjunction with the CPU.
+
+In fact, Intel tried to bring out a consumer GPU card called "Larrabee" based on the technology but canceled the project in 2009.
+
+But the company still needs the technology to compete with Nvidia in the supercomputing market because specialized GPU-like processor cores can handle certain supercomputing tasks more efficiently, reducing the prodigious power requirement for supercomputers as well as increasing performance.
+
+Expected to be commercially available early next year, the Xeon Phi coprocessor 3100 family will offer more than 1,000 gigaflops (1 teraflops) double-precision performance -- a rating for chips that do scientific calculations.
+
+By comparison, Intel's consumer processors don't offer anything close to that level of performance when doing specialized computing tasks.
+
+Professor Stephen Hawking and the Cosmos Lab at the University of Cambridge have been given early access to the technology for use in their SGI supercomputer, Intel said.
+
+"With our powerful and flexible SGI UV2000, we can continue to focus on discovery, leading worldwide efforts to advance the understanding of our universe," Hawking said in a statement.
+
+Stateside, Intel customers such as Texas Advanced Computing Center are getting early customized products.
+
+The first commercial versions of the coprocessor, which ship on a PCIe circuit board, are expected to be available January 28 with a recommended customer price of $2,649.
+
+The 3100 product family will be available during the first half of 2013 with a recommended customer price below $2,000.

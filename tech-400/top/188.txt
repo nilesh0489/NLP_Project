@@ -1,0 +1,31 @@
+At WordPress.com, our mission is making publishing democratic — accessible and easy for anyone, anywhere. And while anyone can start a free blog here, not everyone can access upgrades (like going ad-free or enabling custom design) because of limits on traditional payment networks.
+
+Today, that changes: you can now buy WordPress.com upgrades with bitcoins.
+
+PayPal alone blocks access from over 60 countries, and many credit card companies have similar restrictions. Some are blocked for political reasons, some because of higher fraud rates, and some for other financial reasons. Whatever the reason, we don’t think an individual blogger from Haiti, Ethiopia, or Kenya should have diminished access to the blogosphere because of payment issues they can’t control. Our goal is to enable people, not block them.
+
+Bitcoin is a digital currency that enables instant payments over the internet. Unlike credit cards and PayPal, Bitcoin has no central authority and no way to lock entire countries out of the network. Merchants who accept Bitcoin payments can do business with anyone.
+
+If you’re already using Bitcoin you’ll find this payment method even easier than paying by credit card. Our store’s checkout area has a Bitcoin section that shows the amount due in BTC and the address of a wallet created just for your transaction. As soon as we receive notification of the transaction, your purchase is complete. It typically processes in a few seconds, less time than it takes to fill in a credit card form.
+
+If you’re new to Bitcoin you’ll need to get your hands on some bitcoins (BTC) first, which is currently the hardest part of using Bitcoin. Learn more on getting started with BTC at We Use Coins, and check out the answers to some common questions at the end of this post.
+
+With Bitcoin we join a new digital economy that doesn’t leave anyone behind, essentially making financial transactions open source — something WordPress.com is behind 100%. We’re proud to support bloggers from all over the world by providing a Bitcoin option.
+
+How does Bitcoin work? How do I get started? Where can I get BTC? 
+
+We won’t cover these details here. Good documentation already exists at We Use Coins along with links to places where you can get BTC.
+
+How do you handle BTC? Are you participating in the bitcoin network? Mining?
+
+We aren’t mining or handling BTC at all, actually. Our payment processing partner for Bitcoin is BitPay.com. They track the exchange rates, generate the quotes and the wallets, receive your BTC and finally send us USD.
+
+How many times is the transaction confirmed before I get my upgrade?
+
+Zero! We could wait for the first confirmation (typically 5-10 minutes) but we prefer to make the customer experience as smooth as possible. Making you wait for confirmations would virtually eliminate our risk but we’re confident that with digital products like ours the risk is already acceptably low.
+
+Sometimes Bitcoin isn’t an option in your store. What gives?
+
+Affected products include domains and themes when not purchased in bundles, and any purchases made while you have credits already on account. We’re sorry! There are some technical complications. We decided to go now with what we have because, as we said at the beginning, this launch is about enabling people. Bitcoin should be accepted for all purchases within two or three months.
+
+Bitcoin is famous for its irreversible transactions but we will still honor our refund policy. If a refund is granted on a purchase made with BTC we will work with BitPay to issue a refund in BTC.

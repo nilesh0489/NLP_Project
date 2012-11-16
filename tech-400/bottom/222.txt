@@ -1,0 +1,25 @@
+Comment Microsoft's decision to fill the small void left by departing Windows boss Steven Sinofsky with Julie Larson-Green and Tami Reller is a boost for the empowerment of women at US tech companies.
+
+Larson-Green is Microsoft's first female Windows development chief, in the wake of Tuesday's shock departure of Windows and Windows Live president Sinofsky. She's now in charge of building updates to Windows 8 and its successor, Windows Next. Her contemporaries include Facebook's Sheryl Sandberg, Yahoo!'s Marissa Mayer and Hewlett-Packard's Meg Whitman.
+
+The first thing to realise is that Larson-Green is not a straight replacement for Sinofsky: she doesn't enjoy the full group president's role that Sinofsky wielded. Larson-Green is head of Windows software and engineering; the job of running the Windows business goes to existing Windows group vice-president Tami Reller.
+
+Dividing the role of a departing boss between two lower-ranking executives has, incidentally, happened in other Microsoft reorganisations.
+
+Larson-Green joined the Redmond giant in 1993 and spent large parts of her time working on user interfaces and what Microsoft calls the user "experience". She worked with Sinofksy on Office XP and Office 2003 and most notably oversaw the design of Office 2007, which introduced a controversial change: the Ribbon.
+
+She continued to lead the development of the user interface in Windows 7 and 8. As a former corporate vice-president of Windows client program management, she was responsible for the system's graphical design and research, and global releases of software. Larson-Green had up to 1,400 people reporting to her.
+
+Being an "interface expert" is already considered a black mark against her among the Microsofties on the Mini Microsoft blog, who feel she lacks proper engineering chops.
+
+The fact she was behind the Ribbon and the Windows 8 Metro interface will not fill some folk with confidence: the Office Ribbon sowed confusion among those used to drop-down menus. Metro threatens to go the same way; the tiled interface and the death of the Start button presents a new challenge to users.
+
+The road ahead for Larson-Green is forked: rather than just driving forward development of the OS on x86 hardware, she must oversee Intel-compatible and ARM codebases, plus the engineering of Microsoft's Surface tablets in addition to planning a new version of Windows sometime in the next three years.
+
+Saviour, sinner, love him, hate him - nobody took a neutral stance on exiting Windows chief Sinofksy. Those who liked him, admired him for shaking up Microsoft's product delivery - in some ways, he transformed Microsoft back into an engineering organisation.
+
+Remember when the only thing reliable about Microsoft Office was that a new version would ship late? It was Sinofsky who turned that around by overhauling the Office team. He turned around Windows, too, bringing in Windows 7 and 8 on budget and on time following the Windows Vista omnishambles.
+
+For this, many liked and believed in Sinofsky, and saw a future Microsoft without Sinofsky as inconceivable. Those who resented Sinofsky, however, saw him as a destroyer of Windows by green-lighting the new Metro interface.
+
+However, you square it, Larson-Green starts on the back foot: somebody who - at best - is no Steven Sinofsky "genius" and who - at worst - is somebody whose experience and design input are viewed with suspicion. She takes up her new role after the person responsible for delivering Windows 8 has gone suddenly and without much explanation. ®

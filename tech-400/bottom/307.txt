@@ -1,0 +1,13 @@
+Could this spell the end for frustratingly slow internet connections in coffee shops, libraries and airports? Scientists have developed a new system which can improve WiFi connections by 700 per cent.
+
+The new software can be added to existing network setups, the researchers said. Existing systems work by transferring data through a single channel. But they can become clogged when too many requests are sent by users all attempting to access the WiFi network at once.
+
+They can attempt to prioritise data to be sent back to users – which are needed in order to display services such as websites – but that, in turn, slows down new requests by other users, often meaning that pages become slow or even impossible to load.
+
+But the programme developed by the researchers at North Carolina State University solves that by monitoring the amount of traffic passing through a WiFi connection and sorting and prioritising it where a backlog is detected. In doing so, the software - called WiFox – smooths the flow back and forth of traffic, speeding up the connection for more people.
+
+The research team said they used a real WiFi system capable of handling 45 users to test the system. They found that the more users on it, the more the new program improved data throughput performance. Improvements ranged from 400 per cent with approximately 25 users to 700 per cent when there were around 45 users.
+
+This translates to the WiFi system being able to respond to user requests an average of four times faster than a WiFi network that does not use WiFox.
+
+Their paper, “WiFox: Scaling WiFi Performance for Large Audience Environments,” will be presented at a conference in Nice on December 10. The paper was co-authored by Jeongki Min, a Ph.D. student at NC State, and Dr. Injong Rhee, a professor of computer science at NC State. The research was supported by the National Science Foundation.

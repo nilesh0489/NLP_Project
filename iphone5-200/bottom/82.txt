@@ -1,0 +1,17 @@
+Apple is abandoning its usual deference to the big carriers, making the iPhone 5 immediately available to regional players. LTE support, though, is a toss up. Some have no 4G networks. Others don’t have the right bands. Cellcom, however, has all its 4G bases covered.
+
+Wisconsin regional carrier Cellcom won’t have to endure another long waiting period before it gets access to Apple’s newest smartphone. The iPhone 5 will go on sale at Cellcom on Sept. 28, just a week after it arrives at Verizon, AT&T and Sprint.
+
+Cellcom isn’t the only small carrier to land the new iPhone. GCI, Appalachian Wireless, C Spire and Leap Wireless’s Cricket Communication will get the device this month as well. But Cellcom has an advantage those other carriers don’t: namely a network covering 230 million people.
+
+Based in Green Bay, Wis., Cellcom was one of the first carriers to participate in Verizon’s LTE in Rural America program, in which Big Red leases portions of its 700 MHz 4G spectrum to regional carriers, who in turn use it to build out LTE networks. As part of the package, Verizon and its partners sign reciprocal roaming agreements. Verizon gets access to Cellcom’s LTE in footprint covering the population centers of eastern Wisconsin and Michigan’s Upper Peninsula, while Cellcom gets access to Verizon’s footprint of 230 million in nearly 400 markets. Not a bad trade.
+
+LTE is still young in the US, and so most of the carrier haven’t yet brokered the roaming deals that interlock carriers 2G and 3G networks – and one of the big fears of rural operators is they never will get brokered. But Verizon’s rural LTE program is the exception as Verizon seeks to fill in the gaps between major markets as quickly as possible. Appalachian Wireless is also part of the program though it has yet to deploy a network.
+
+While Leap and C Spire will definitely enjoy the prestige only the iPhone can bring, some of the device’s appeal may suffer from the limitations of their own LTE networks. C Spire launched its LTE network earlier this week in a handful of Mississippi markets and plans to have a coverage in 31 markets by the end of October. But it’s not clear if the iPhone 5 will work over its 4G networks. C Spire hasn’t confirmed what spectrum it is using for LTE, according to FierceWireless, but if it is using the 700 MHz A block spectrum it bought at auction for LTE, then its iPhone 5 will most definitely be sans-LTE. None of the three versions Apple announced Wednesday support that band.
+
+Leap Wireless is still in the process of rolling out its LTE network that will cover 21 million people by year end, but so far it’s been slow going with only a single market live, Tucson, Oka. Leap will also have some spectrum issues supporting the iPhone. It is deploying its LTE network over three bands: PCS, Advanced Wireless Services, and the same 700 MHz A block used by C Spire.
+
+The new iPhone supports the first two bands but only in separate variants. The CDMA model – which Leap will have to sell in order to use its 2G and 3G networks – only supports the PCS band. So how well Leap can take advantage of the iPhone 5’s capabilities depends on how much PCS spectrum it can devote to the LTE band.
+
+Meanwhile GCI has yet to reveal its LTE plans so its iPhone 5 will automatically be a 3G-only device.

@@ -1,0 +1,27 @@
+Billionaire Alki David and a number of recording artists have not given up on their copyright infringement battle with CNET’s Download.com. Continuing with their allegations that Download.com induced piracy, the coalition have asked a court to issue a sweeping injunction, one that would ban all BitTorrent client downloads from the popular software download portal. Even an article published by CNET about the band Counting Crows legally distributing their music on BitTorrent is painted in a bad light
+
+In 2011, Alki David, the billionaire behind the FilmOn video service, declared war on CNET and its owner CBS.
+
+David, and a coalition of supportive recording artists, sued the companies for their role in distributing file-sharing software including uTorrent and LimeWire.
+
+Their claim was that CNET had profited from the distribution of file-sharing software that could be used to download infringing material, and had also published software reviews on Download.com that included references to illegal downloads from the likes of Madonna, Lady GaGa and Rihanna.
+
+In July this year CBS and CNET responded that the reviews were merely opinions and that being held liable for inducing infringement would amount to a violation of their right to free speech under the First Amendment.
+
+A judge disagreed, ruling that inducement could be considered since Download.com also distributed the software they reviewed.
+
+While there can be little doubt that LimeWire ended up with a serious black mark after it was shut down by the New York District Court in 2010, BitTorrent client creators and distributors have kept somewhat of a clean sheet. If Alki David gets his way, all that will soon change.
+
+In a new filing in the case (thanks Techdirt), David and his artist coalition launch an attack on BitTorrent clients in general in the hope that a judge will grant an injunction to ban their distribution through Download.com.
+
+The motion for preliminary injunction states that in the wake of the LimeWire shutdown, CBS and CNET “enthusiastically embraced” BitTorrent and distributed more than 65 million torrent clients such as uTorrent. The companies “shamelessly promoted” their use for infringing purposes, despite being aware that those clients were “used overwhelmingly” to infringe copyright, the plaintiffs argue.
+
+CNET’s news reporting is also sucked into the lawsuit. One cited instance involves an article they published in May called “Download This Mr. Jones”, which was about the band Counting Crows distributing their music for free on BitTorrent. CNET included a link for people to download uTorrent to get the music, but why this should be a problem is far from clear.
+
+Another cites CNET’s version of a TorrentFreak story that listed infringements at US universities. The publishing of this article confirms that CNET knows that infringement can happen on BitTorrent, David and the artists argue.
+
+The plaintiffs go on to predict that torrent client makers (described in the filing as a “clear and present danger”) will soon be found secondarily liable for infringement just as LimeWire was before them. On that basis (and despite the software not being under threat in any court) the filing goes on to accuse CBS and CNET of being “intentionally lazy and under-reactive” in continuing to distribute torrent software.
+
+The plaintiffs (referred to as Sugar Hill Music, et al) go on to claim that this distribution is causing infringement of their music “on a massive scale” and that unless it is stopped they will be caused irreparable harm.
+
+An injunction forcing CBS to stop the distribution of uTorrent, Vuze, FrostWire plus any and all BitTorrent-enabled software is required as soon possible, they argue. A hearing is planned for February 2013.

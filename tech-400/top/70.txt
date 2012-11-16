@@ -1,0 +1,5 @@
+Minecraft is the breakout indie game that combined simple game mechanics with an immersive, 3D sandbox experience. A WebGL demo shows that such an experience can be made possible in the browser.
+
+In what is 850 lines of JavaScript combined with three.js, a leading WebGL library, visualization hacker AlteredQualia has recreated the basic Minecraft experience in the browser. There’s no interaction — no mining, monsters, or cute pigs or sheep — but you’re able to fly around using the W, A, S and D keys and by left- and right-clicking the mouse.
+
+Even though WebGL might not achieve the same performance and beauty of games such as Halo or StarCraft, focusing on game mechanics can make even the simplest demo fun.

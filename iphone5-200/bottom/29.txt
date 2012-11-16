@@ -1,0 +1,9 @@
+Apple's next iPhone 5 will dump Infineon but for Qualcomm Chipsets and the following Apple Wireless Products will use Qualcomm's chipset's dumping Infineon's chipset's as well.
+
+At the end of last month, Intel merged the German chipmaker Infineon¡¯s wireless wing (WLS), who provides baseband chips for the iPad 3G and all iPhone models(Verify iPhone Driver) since 2007. However, Apple's next iPhone 5 will dump Infineon but for Qualcomm Chipsets.
+
+There was rumored that the fist CDMA iPhone would use Qualcomm's chipset instead of Infineon's. Then the iPhone 5 will also use Qualcomm's chipsets. That's is to say the following Apple Wireless Products(click to download Apple iPhone/iPod iOS 4 Firmware driver) will use Qualcomm's chipset's dumping Infineon's chipset's.
+
+Infineon's WLS, meanwhile, doesn't currently make chips for iPhone 5, meaning Intel could be left out in the cold, Apple-less. As Qualcomm pioneered CDMA technology, and owns a 69% share of the CDMA mobile phone chipset market making it a solid choice for a picky buyer like Apple who may be thinking of abandoning exclusivity and expanding to other networks.
+
+iPhone 5 dumps Infineon but for Qualcomm would diversify Cupertino's supplier base and reduce dependency on a single supplier.

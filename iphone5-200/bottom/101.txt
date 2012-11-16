@@ -1,0 +1,1 @@
+So something very peculiar is going on with my iPhone 5—I haven't been able to successfully back up since updating to 6.0.1. A couple others on staff have encountered it too. The same error keeps occurring but I have no idea what that error is. Has anyone else encountered this issue? And if so, have you figured out a way to fix it?

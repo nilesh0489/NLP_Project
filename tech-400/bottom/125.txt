@@ -1,0 +1,29 @@
+Picture an eerily human-like tangle of metal, wiring and lights, cables dangling from somewhere above like puppet strings. Imagine it springing to life, lifting a long, lanky leg that bends 180 degrees at the hips like the eerie biomechanical Gekko in Metal Gear Solid 4, then placing one foot on a high bench and flexing its ankle, probing, testing, as it leans its thick cage of a torso forward, its arms splayed against plastic and wood walls on either side.
+
+And then it’s up, hoisting its bulk into the air, its arms swinging forward just as yours or mine would, finding its feet, gently quaking, balancing.
+
+Now picture it leaping back down, landing first one foot, then the other, making a thunderous sound like someone swinging a sledgehammer at sheet metal (or the noise you’d imagine a hulking robot might generate as it falls from above, like a BattleTech mech).
+
+Next — and you can see all this and more in the video above — it’ll straddle a shallow pit teeming with deadly lizards and snakes (okay, just rubber ones, but still scary!) using both legs, edging past the gap fluidly…
+
+Meet Pet-Proto, a Boston Dynamics-designed bipedal robot, related to the company’s anthropomorphic PETMAN project. It’s capable of analyzing and navigating complex obstacle courses, making decisions autonomously, and with, if not the actual dexterity of a human being, at least the functional semblance of one.
+
+It’s all part of DARPA‘s (Defense Advance Research Projects Agency) work to promote its ambitious DARPA Robotics Challenge (DRC), which initiated its second phase on Wednesday, Oct. 24 since launching back in April. The contest will test the sort of capabilities illustrated above and others “in a series of tasks that will simulate conditions in a dangerous, degraded, human-engineered environment.”
+
+“Robot enthusiasts, the time has come,” says DARPA on its website. “The DARPA Robotics Challenge (DRC) begins today. Will you be part of it?”
+
+It’s just the start of what’ll amount to a two-year ordeal for teams competing to design, tweak and test rescue either humanoid or non-humanoid robots: ultra-agile, durable mechanical servants capable of going where most humans wouldn’t dare, say exploring collapsed mines and helping to rescue trapped miners, defusing improvised explosive devices, or working around nuclear meltdown incidents like Fukushima, Chernobyl or Three Mile Island.
+
+The prize? A cool $2 million. All teams have to do is create robots that can perform tasks like: drive a utility vehicle, climb a wobbly industrial ladder, shatter a concrete wall using a power tool, cross a debris-littered field, isolate and close a valve in a leaking pipe and replace industrial equipment. Simple, right?
+
+If you’re from the future, maybe, but today’s robots do almost none of these things — ergo DARPA’s two-year challenge, designed to make some or all of the above a reality, and which as of Wednesday just got even more interesting.
+
+Take the newly announced Track C, which allows participants to compete without touching actual machine parts. It’ll involve using something DARPA calls its “DRC Simulator,” an open-source, cloud-based robotics design tool, and all you need to work it is a little software development know-how and an appetite for robotic simulation.
+
+“The DRC Simulator is going to be one of DARPA’s legacies to the robotics community,” says DRC program manager Gill Pratt. “One of DARPA’s goals for the Challenge is to catalyze robotics development across all fields so that we as a community end up with more capable, more affordable robots that are easier to operate. The value of a cloud-based simulator is that it gives talent from any location a common space to train, design, test and collaborate on ideas without the need for expensive hardware and prototyping. That opens the door to innovation.”
+
+The DRC Simulator has only been in development for a month, according to DARPA, and its future already sounds bright, with a melange of improvements in the offing, including new “models of robots, perception sensors and field environments” that should ultimately allow the simulator to “function as a cloud-based, real-time, operator-interactive virtual test bed that uses physics-based models of inertia, actuation, contact and environment dynamics.”
+
+What about Pet-Proto? As its name suggests, it’s just a prototype — part of how DARPA’s promoting the contest. Pet-Proto is really a predecessor to something theoretically more sophisticated that Boston Dynamics is working on, dubbed “Atlas.”
+
+DARPA says challenge participants selected to advance will receive Government Funded Equipment (GFE) “in the form of a modified robot platform based on the Atlas robot.” In other words, if you make it through the initial hurdles, you get to play with (and work on) something like that.

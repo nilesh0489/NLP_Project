@@ -1,0 +1,33 @@
+Thanks to an embellished statement by Apple following a U.K. court order, the company must now pay Samsung's legal fees.
+
+Apple has been ordered by a U.K. court to cough up Samsung's entire U.K. legal fees for embellishing its court-ordered part-statement, part-apology with additional details, which were highly criticized by the court for being "false and misleading."
+
+The U.K. Court of Appeal's lambasting of Apple comes after the company had first been ordered to issue a statement on its Web site and in a number of U.K. print publications to note that Samsung did not copy the iPad in the U.K. The first order came after Samsung won the patent-infringement case.
+
+As a result of Samsung's complaint to the U.K. Court of Appeal following the not-so-kind apology, Samsung will now be reimbursed its entire legal fees in the country back to the very beginning of the case.
+
+According to the new court order issued Friday, U.K. Court of Appeal Judge Robin Jacob noted that in the embellished statement, Apple tried to lessen the U.K. court defeat by comparing similar cases in other jurisdictions -- notably Germany, wider Europe, and the U.S. -- where Apple won rulings against Samsung. Apple's statement noted: "in a case tried in Germany regarding the same patent, the court found that Samsung engaged in unfair competition by copying the iPad design."
+
+"No patent of any kind has been involved in Germany or here, still less 'the same patent,'" he noted.
+
+One of the more contentious lines, the final paragraph of the original statement that Apple published on its Web site, read:
+
+Jacob noted this was "calculated to produce huge confusion." He added: "The false innuendo is that the UK court came to a different conclusion about copying, which is not true for the UK court did not form any view about copying. There is a further false innuendo that the UK court's decision is at odds with decisions in other countries whereas that is simply not true."
+
+Even noting one report by The Register, an article titled: "Apple: Screw you, Brits, everyone else says Samsung copied us," Jacob noted that "Samsung has supported its application by citation from a large number of press and Web reports showing that the effect of the Contested Notice has indeed been to undermine what was intended."
+
+However, days later Apple published only the court ordered text in a number of U.K. print publications, including The Guardian and The Telegraph, among others. While this included only the two paragraphs sanctioned by the court, Jacob "record[ed] that Apple's compliance with the newspaper advertisement order was lackadaisical at best."
+
+Though the first order was to place the 'advertisements' in the newspapers and magazines "in the earliest available issue," he noted that, "I would have thought that self-evidently meant what it said -- get the advertisements into each publication as soon as possible." He added:
+
+What Apple chose to do as regards the newspapers and magazines was less than that. Its Vice President Worldwide Marketing Communications [Phil Schiller] said he understood the approach to be adopted was "to co-ordinate adverts across those publications in order to ensure the widest readership possible is exposed to the advert on the same day." That apparently meant to Apple so far as the newspapers were concerned the same day, but not the magazines which had longer lead times. Apple accordingly arranged for November 16th for all the newspapers. I note in passing that it is not said that November 16th was the earliest possible date even for just all the newspapers. I would be surprised if it were, given that our order was made on 18th October. So there was self-evident non-compliance with the newspaper/magazine aspect of the publicity order. Apple did not contend otherwise. Its breach of that part of the order is clearly an additional factor justifying the indemnity costs order we made against Apple.
+
+Days later, Apple was found to have modified its U.K. Web site pages with hidden "resize" code to force users, no matter how large their display or dense their screen resolution, to scroll down to see the apology notice. Swiftly removed less than a week later, CNET discovered, this was not covered by the court as far as we are aware. A crisis of conscience, perhaps? One could speculate.
+
+In noting that Apple "needed fourteen days to comply" for "technical reasons," Jacob found this "disturbing" that it was seemingly beyond the technical abilities of the technology supergiant to make even the most minor changes to its Web site.
+
+He added: "We said the time could be extended by an application supported by an affidavit from a senior executive explaining the reasons why more was needed. In the event no such application was made. I hope that the lack of integrity involved in this incident is entirely atypical of Apple."
+
+He ordered that Apple should pay the legal fees for Samsung's defense as a result of the repeated failures by the Cupertino, Calif.-based company: "As to the costs (lawyers' fees) to be awarded against Apple, we concluded that they should be on an indemnity basis. Such a basis (which is higher than the normal, "standard" basis) can be awarded as a mark of the court's disapproval of a party's conduct, particularly in relation to its respect for an order of the court. Apple's conduct warranted such an order."
+
+This story originally appeared as "Apple must pay Samsung's U.K. legal fees after 'false' statement" on ZDNet.

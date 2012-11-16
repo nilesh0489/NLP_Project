@@ -1,0 +1,15 @@
+Exclusive Sophos intends to shed 35 jobs from its development team as part of a company shakeup.
+
+The security software maker confirmed cuts are on the cards, but would not discuss the specifics of the planned redundancies after an anonymous source tipped off the The Reg. The firm said it will attempt to move affected workers within the organisation to avoid laying them off.
+
+The antivirus firm said it will boost its workforce in the growth areas of security-as-a-service (SaaS) packages and unified threat management (UTM) to defend network borders. This comes after Sophos got into the all-in-one appliance market by snapping up security box biz Astaro in July last year. It followed that up with the purchase of mobile device management firm Dialogs Software in April 2012.
+
+The company employs about 1,500 people globally, most working in its offices in Boston, US, and near Oxford, UK.
+
+The privately held firm reported sales of $402.9m in the year ending 31 March, up 17 percent on the year before. Earnings before interest, taxes, depreciation and amortisation (EBITDA) came in at $107.9m, up 14 per cent year on year.
+
+The timing is unfortunate for those developers at risk of redundancy. Last week security researcher Tavis Ormandy was highly critical of the overall quality of programming at Sophos in a technical paper detailing serious shortcomings in Sophos' desktop antivirus products. The software maker patched the vast majority of these bugs prior to the publication of the damning dossier, and only one relatively low-risk bug remained.
+
+Ormandy went at far as recommending that IT bosses should "exclude Sophos products from consideration for [protecting] high-value networks and assets", a suggestion Sophos was quick to rebut. Nonetheless, news of the uncovered insecurities reverberated through the online security world last week.
+
+It would be easy, perhaps too easy, to assume newly appointed Sophos chief exec Kris Hagerman hauled his antivirus team into the boardroom to give them an Apprentice-style dressing down and threaten them with redundancies after the Ormandy report surfaced. However the corporate culture at Sophos is such that everybody probably agreed to pull together, just like an Oxford University rowing crew. ®

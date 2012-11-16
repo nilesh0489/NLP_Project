@@ -1,0 +1,79 @@
+The highly anticipated iPhone 5 is finally in millions of people’s hands.  Within three days of its September 21 launch, Apple had sold a record-breaking five million units. And within a year, analysts project that sales of the iPhone 5 will reach 170 million.
+
+The popularity of the new device got us thinking: how much juice does it take each year to charge a next-generation smartphone? And how does the energy consumption of smartphones compare to that of other consumer electronics?
+
+To find out, we got our hands on a new iPhone 5 and also a Samsung Galaxy S III – currently the hottest Android handset – then headed into the Opower Lab for some testing.
+
+Here’s what we found, and our assessment of what it suggests about the energy impact of our increasingly on-the-go digital lifestyles…
+
+Using a Watts Up Pro Electricity Consumption Meter, we measured how much electricity it took to charge each phone from 0% to 100% full. Taking those results and modeling them across a year (see Methodology), we found that on an individual basis, the latest smartphones use a trivial amount of electricity.
+
+Yes, the Galaxy costs 12 cents more to charge than the iPhone 5, primarily because of the Galaxy’s larger battery. The paramount point here though is not the difference between the two phones, but rather their striking similarity: the energy consumption of a modern smartphone is minuscule.
+
+While the annual electricity requirements of charging a smartphone are negligible, let’s not forget about the power of multiplication. If we consider the astronomical quantity of smartphones being used around the world today and in the coming years, their collective electricity consumption takes on a more intimidating profile. Global smartphone shipments (which includes people upgrading to newer phones) will reach 567 million units this year alone. And by 2016, 1 billion people worldwide will own smartphones.  (There are currently 106 million smartphone users in the US.)
+
+Even if we consider just the 170 million iPhone 5’s that are projected to be sold globally in the next year, their aggregate electricity requirements are nothing to sneeze at.  The collective annual electricity consumption of the iPhone 5’s sold within 12 months will be equivalent to the annual electricity usage of 54,000 US households (roughly equivalent to the size of Cedar Rapids – the second largest city in Iowa). That’s just for one smartphone model over one year.
+
+And the energy requirements of operating smartphones go far beyond charging the battery. In particular, smartphones are driving a huge boom in internet traffic: in 2011, monthly internet traffic stemming from the average smartphone tripled relative to 2010 levels (150 megabytes compared to 55 megabytes), and the current level is projected to grow 17-fold by 2016. Processing all of this data traffic potentially carries a heavy energy price tag of its own, in the form of data centers.
+
+These massive supercomputing facilities, which reportedly number more than 3 million worldwide and account for up to 1.5% of global electricity use , house the data-processing infrastructure that enables our Bing searches, YouTube views, Facebook pokes, and everything else internet-related that we do on our computers, tablets, and phones.  An analysis in last Sunday’s New York Times, which highlighted the wasteful energy practices of these digital warehouses, has reignited a vigorous debate about the environmental costs of our pervasive reliance on internet-connected devices. To the extent that smartphones are putting greater demands on the data volumes and power consumption of data centers, the global energy implications of smartphones may well surpass analogies to Iowa.
+
+So, faced with the growing scale of smartphone use (i.e. soon-to-be 1 billion smartphone users, putting pressure on millions of data centers worldwide), how should we ultimately view the global energy implications of these pocket-sized marvels? To get to some conclusions, let’s examine how the energy profile of smartphones stacks up against other media-connected devices in our lives.
+
+When viewed in isolation, a massive increase in smartphone usage appears to drive higher overall energy consumption. But, the story is more complex than that: in fact, an increase in smartphone usage is likely to cause lower overall energy consumption…
+
+When we evaluate the proliferation of smartphones within the broader ecosystem of media- and internet-connected devices, two key facts emerge:
+
+Fact #1: People are using smartphones to do things that they have historically done on computers, televisions, and gaming consoles.
+
+Recent evidence of the smartphonification trend is abundant. A handful of examples:
+
+And the trend of substituting away from traditional media devices and into smartphones is taking hold across generations. Kids aren’t the only Americans choosing smartphones and tablets over TV. It’s also American moms: compared to their peers without smartphones, smartphone moms use their phones more than twice as much, while spending 26% less time in front of a TV and 24% less time browsing the web on a computer.
+
+Fact #2: Smartphones and tablets use much less energy than the larger devices (e.g. PC’s) that they are displacing
+
+When we compare the electricity consumption of smartphones to the power needs of larger devices we have historically used for connectivity and entertainment, a clear energy efficiency story begins to emerge: going mobile saves energy. And those savings are substantial. The chart below displays our own findings about the tiny energy consumption of next-generation phones, compared to the energy needs of more traditional devices—as calculated in an excellent recent analysis by the Electric Power Research Institute.
+
+The energy-hogging consumer electronics, whose annual energy requirements dwarf comparable statistics for smartphones and tablets, have put enormous upward pressure on US home energy consumption in recent decades. During the last three decades, devices like large-screen TVs, game consoles, and desktop computers have made “Appliances and Electronics” the most formidable category of growth in home energy use since 1978 (nearly doubling between 1978 and 2005, from 1.77 quadrillion Btu to 3.25 quadrillion Btu). The following pie charts show how the combined energy usage across all US homes, broken down into usage categories, has evolved over the years.
+
+With the exception of Appliances and Electronics, total energy usage in the other categories has either increased modestly or declined since 1978.  Note, for example, that the residential sector now uses much less energy for heating than in the past, thanks mainly to more efficient heating equipment and better housing construction.
+
+So what explains the massive growth in the Appliances and Electronics category since 1978?
+
+One hypothesis could be that appliances and electronics have become less efficient over time, but in fact the complete opposite is true.  Since 1978, the energy consumption of every major household appliance has dramatically decreased. A new refrigerator today uses 60% less energy, and a new clothes washer uses 70% less.
+
+Instead, the reason for the explosion in Appliances and Electronics energy usage since 1978 is straightforward: a greater number of households now simply own more appliances and many moreelectronics. A handful of examples:
+
+Given the growing number of devices we’re plugging in, it’s been estimated that consumer electronics alone (i.e. not including larger appliances) now account for more than 13% of US home electricity use. This means that the amount of electricity used each year by TVs, computers, game consoles, and related items in US homes is equivalent to 20% more than the entire annual electricity consumption of Ohio (the 4highest consumption state in the country), or approximately 5% of total US electricity consumption — and three times the consumption of the domestic cloud-computing data centers that feed our devices with content.
+
+In that context, smartphones’ ability to give users the portability and connectivity that they seek, but at a much lower energy cost than is associated with traditional devices, marks a clear and epochal change in the way we use energy.
+
+When all’s said and done, smartphones prevail as an energy-efficiency winner when it comes to the way we send an email, watch a video, or share a family photo (sorry, digital photo frames). Put simply, a day spent web-surfing and facebooking on a smartphone or tablet is a much more energy-efficient day than doing the same on a traditional computer.
+
+It’s again important to point out that the energy usage statistics we considered here solely represent in-home energy consumption (e.g. charging our phones and keeping our TVs plugged in). They don’t reflect the energy requirements of data centers, whose massive computer servers sustain our nonstop internet usage and smartphone activities.
+
+Yet our increasing smartphone usage appears, at least to some degree, simply to be shifting the source of our data traffic, rather than creating more of it. We have gone from playing online games and watching internet-enabled content on TVs and computers, to doing the same activities on smartphones.  Given this trend, we don’t expect that data centers’ outsized energy consumption undermines smartphones’ status as an exemplar of energy frugality in the digital age.
+
+Moreover, smartphones’ energy-saving impact goes beyond just displacing the usage and data traffic of clunkier devices. Their super-efficient computing architecture is also helping to make data centers themselves more energy-lean.  Highlighting the spillover benefits of mobile technology, the MIT Technology Review reports that low-power microchips — which were originally developed for smartphones — are now being installed in data centers to enable significant efficiency improvements in those facilities.
+
+So to all of you who have read this post from a smartphone, be proud…
+
+You are at the forefront of an energy-efficiency revolution.
+
+Methodology: Smartphone power requirements were ascertained via a Watts Up Pro Electricity Consumption Meter. This analysis adopts a simplifying assumption that the average smartphone user will charge their device once per day, in the off position, from 0% to 100%.
+
+Galaxy SIII: consumed 12.3 watt-hours to charge, taking 2 hours and 26 minutes.  Maximum wattage was 6.6 watts, with an average of approximately 5.0 W.  Multiplying 0.0123 kWh/day by 365 days = 4.49 kWh per year. At the average US residential rate of $0.118/kWh, the annual charging cost is projected to be $0.53/year.
+
+iPhone 5: consumed 9.5 watt-hours to charge, taking 1 hour and 50 minutes.  Maximum wattage was 6.3 watts, with an average of approximately 5.0 W.  Multiplying 0.0095 kWh/day by 365 days = 3.47 kWh per year. Annual charging cost is projected to be $0.41/year.
+
+170 million iPhone 5′s forecast to be sold in 12 months, times 3.47 kWh/year per phone, equals 589.9 million kWh. Iowa’s average annual home electricity usage in 2010 was 10,596 kWh.  The 2010 Census indicates the count of households in Cedar Rapids to be 53,376 households.
+
+Xbox 360 figures based on inputs from Hittinger, Mullins, and Azevedo (2012): 25.5 million Xbox 360 consoles sold through 2010, collectively consuming 8,700 gigawatt-hours of electricity.
+
+Total US retail electricity sales in 2010 was ~3.75 billion MWh. Residential sector accounts for a 37% share, and 13.2% of that is consumer electronics. Consumer electronics usage thus represent ~5% of total US retail electricity sales, 183 million kWh, or ~20% more than the 154 million MWh of annual retail electricity sales in Ohio.
+
+Only the consumer-use phase of a smartphone’s product lifecycle was considered in this analysis. With respect to the energy profile of other aspects of the smartphone lifecycle (e.g. raw-material extraction, component manufacturing, and disposal), see Li et al. (2010) and Andrae and Andersen (2010).
+
+Data Privacy: All data analyzed here are completely anonymous and treated in strict adherence to Opower’s Data Principles.
+
+Author’s note: The analysis and commentary presented above solely reflect the views of the author(s) and do not reflect the views of Opower’s utility partners.

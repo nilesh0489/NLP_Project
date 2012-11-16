@@ -1,0 +1,17 @@
+Cray Inc. has launched the Cray XC30 supercomputer, previously code-named “Cascade,” designed to scale high performance computing (HPC) workloads of more than 100 petaflops, with more than one million cores.
+
+Cray did not specify whether the 100 petaflops was Rpeak or Rmax, or when a 100 petaflops installation might be planned.
+
+China’s Guangzhou Supercomputing Center also recently announced the development of a supercomputer capable of 100 petaflops peak performance: the Tianhe-2 supercomputer, due to launch in 2015.
+
+Developed in conjunction with the U.S. Defense Advanced Research Projects Agency, the Cray XC30 combines the new Aries interconnect, Intel Xeon processors, Cray’s fully-integrated software environment, and innovative power and cooling technologies.
+
+Several leading HPC centers have signed contracts to purchase Cray XC30 supercomputers, including:
+
+The Cray XC30 will utilize the Intel Xeon processors E5-2600 product family. Future versions of the Cray XC family of supercomputers will be available with the new Intel Xeon Phi coprocessors and NVIDIA Tesla GPUs based on the next-generation NVIDIA Kepler GPU computing architecture.
+
+Early shipments of the Cray XC30 are starting now, and systems are expected to be widely available in first quarter of 2013.
+
+“Cray is a leader in the high-end of the supercomputing industry, and the Cray XC30 system promises to continue the Company’s strong standing in the market for designing, building and installing leadership-class supercomputers, such as the ‘Titan’ system at Oak Ridge National Laboratory and the ‘Blue Waters’ supercomputer at the University of Illinois’ National Center for Supercomputing Applications,” said Earl Joseph, IDC program vice president for HPC. “The Cray XC30 supercomputer also advances Cray’s Adaptive Supercomputing vision, which aims to boost application performance for their customers by exploiting hybrid processing.”
+
+The Cray XC30 supercomputer is made possible in part by Cray’s participation in the Defense Advanced Research Projects Agency’s (DARPA) High Productivity Computing Systems program.

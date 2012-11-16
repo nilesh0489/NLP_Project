@@ -1,0 +1,25 @@
+We at CM are very trusting of our members, showed by both respect and permissions granted to those people we consider part of the team. Last month, this trust was violated in a substantial way. In the spirit of openness, here is what happened.
+
+CM’s history is well established, with Cyanogen releasing his original ROM for the G1 on XDA forums. Back then, there was no “CyanogenMod” in terms of the organization and structure that we have today. The builds were hosted on Steve’s personal machine, the original server was a donation of spare kit from Phaseburn. And due to the small size (and lack of funds), the CyanogenMod.com domain was bought by a third-party back in 2009 and donated to CM, when CM was a much smaller project and had no online presence besides XDA.
+
+Fast-forward 3 years, we have 3 extremely powerful build boxes donated by the community and an army of developers, contributors, and supported devices. But, a little over a week ago, things took a bad turn. The person owning the CyanogenMod.com domain was caught impersonating Steve to make referral deals with community sites. When confronted and asked to hand over control of the domain amicably, he decided he wanted 10K USD for it, which we won’t (and can’t) pay.
+
+We contacted those he had established deals with, only to discover that the person tasked with maintaining our web presence was setting up deals under the CM name, and impersonating Cyanogen himself. Plenty of satisfying evidence was provided by those sites / entities to make us certain that this wasn’t a misunderstanding or one-time thing.
+
+This leaves us at a critical impasse. Being trusted with CM’s web presence means this member had control over the CM social network accounts (Twitter/FB) as well as domains (cyanogenmod.com). We have changed ownership of the social media accounts. When asked again to make the transition nicely, he responded with the following
+
+“Hi, so you think by removing all my access across the infrastructure was going to be a great idea? We had a chat yesterday, you’ve decided to end this bitter. How about I just change the DNS entries right now. CM will practically go down.”
+
+Refusing to be extorted for funds, and then being threatened is “ending it bitter”? Today, it happened: all of our records were deleted, and cyanogenmod.com is slowly expiring out of the Internet and being replaced by blank pages and non-existing sites. @cyanogenmod.com e-mail is now being directed to a mailserver completely out of our control, too.
+
+We have begun the dispute process with ICANN to reclaim our domain. In the meantime, please utilize CyanogenMod.org and all applicable subdomains.
+
+As mentioned, this member also managed our Google Apps for Business account, and therefore our @cyanogenmod.com email addresses. These addresses should be considered discontinued until further notice. We will be contacting the Google team to reclaim rights to the apps account. In the meantime, please contact devrel (at) cyanogenmod.org for any devrel questions or other issues. A mailserver is being established to transition other support email addresses. We will provide those when they are finalized, and they will utilize the .org domain.
+
+We don’t like how this played out, and we are deeply hurt. Likewise, we are deeply saddened at the confusion this may have caused the community. We will continue to be open about the what, when, how, but unfortunately, we may never know the ‘why’ – though greed comes to mind. The team itself has not made a profit off of CM and that is not our goal. But to have one of our own betray the community like this is beyond our comprehension. We will update you all as things progress.
+
+Know that we are pursuing every available legal means to regain control over our domain.
+
+Please note, all donations that were given directly to Cyanogen (aka [email protected]) did indeed reach their destination and are not affected.
+
+If you are a company out there that believes they have also entered into agreements with “CM”  by this person impersonating Steve, please contact [email protected]. We’d like to get a handle on how widespread this was before we file charges.

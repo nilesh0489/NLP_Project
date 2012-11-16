@@ -1,0 +1,5 @@
+In the first half of 2012, Google said, there were 1,791 requests from government officials around the world to remove 17,746 pieces of content.
+
+Google started disclosing its government requests in 2010, saying that it was important for its users across the globe to know who was requesting data from their services — something that other companies have begun to disclose both on their own and through partnerships with organizations such as Chilling Effects.
+
+“The information we disclose is only an isolated sliver showing how governments interact with the Internet, since for the most part we don’t know what requests are made of other technology or telecommunications companies,” Google senior policy analyst Dorothy Chou wrote. “But we’re heartened that in the past year, more companies like Dropbox, LinkedIn, Sonic.net and Twitter have begun to share their statistics too. Our hope is that over time, more data will bolster public debate about how we can best keep the Internet free and open.”

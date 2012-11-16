@@ -1,0 +1,29 @@
+I know what you’re thinking: “Matt, I hacked my original iPhone. Now I want to share in the iPhone 3G fun, but I’m worried that something horrible will happen if I upgrade to the iPhone 3G.”
+
+Buck up, fellow iPhone hacker. I’ll tell you how to upgrade from your hacked Apple phone and keep all the settings you love from your original iPhone. The good news is that it’s not hard and there’s a set of five steps that will combine the comfort of your old settings with the joy of the new 3G iPhone. I’ll lead you through the steps.
+
+1. Upgrade iTunes and sync your old hacked iPhone
+
+Upgrade to iTunes 7.7 (or whatever the latest version is). Plug your hacked iPhone into your computer and make sure that you sync. When you sync, a backup of your iPhone’s settings data is stored in iTunes. Recharge the power in your old hacked iPhone and turn it off. If you want to be ultra-safe, see my post about how to backup iPhone data.
+
+This step is time-consuming, but not hard. Apple has a page for its stores and after 9 p.m. you can check the Apple iPhone availability to find a store that has the new iPhone 3G. Hint: if there are multiple stores in your area, call each to see which has the shortest wait. When you buy the iPhone 3G, you don’t need to mention to the salespeople that your previous phone was hacked. Just buy the iPhone 3G and let them activate the phone in the store.
+
+3. Restore the backup of your hacked iPhone to your iPhone 3G
+
+(If you decide to “start fresh” with your new iPhone 3G and don’t want to restore contacts, bookmarks, music, etc. from your old phone, skip this step.)
+
+Resist the temptation to start immediately customizing your iPhone 3G. You’re just going to override any changes when you restore your old iPhone’s settings anyway. In particular, make sure you keep the passlock (where you have to type a PIN to unlock your iPhone) off for the time being. Go home and plug your new iPhone 3G into the same computer with iTunes 7.7 where you did a sync on your old iPhone. iTunes will ask if you want to register your iPhone. I registered my iPhone, but I don’t think it was necessary — looking back, I think iTunes asked me to register to get permission to send me email offers. Next, iTunes will ask if you want to try 60 days free of MobileMe. I didn’t want that, so I declined. Only after those two offers did iTunes ask if I wanted to set up the new iPhone 3G as a new phone or restore from a backup. The choice looks like:
+
+Choose to restore from a backup and the last sync of your old hacked iPhone should be offered as a choice. Let iTunes restore the backup data and settings from your hacked iPhone to your new iPhone 3G. Once it’s done, pretty much everything should be like it was on your hacked iPhone. The iPhone 2.0 firmware adds some new options, so make sure you explore the settings menu and set any new options the way that you want. Also, if your iPhone is configured to fetch email, your email passwords on the new iPhone 3G will be empty. You will need to re-enter your email passwords.
+
+Finally, if you want to use the Apple App Store, you may need to add a credit card or authorize your computer to purchase things, even if you only want to download free applications. I have a personal policy not to put my data where I can’t get it back out, so I tend to buy MP3s instead of buying music with proprietary Digital Rights Management (DRM) from the Apple Store. As a result, my computer had never been authorized to buy things from the Apple Store. To authorize your computer, in the iTunes program click Store->Authorize Computer… and enter your Apple ID. Once your computer is authorized, you might need to click Store->Check for Purchases… if you tried to download an application from the App Store before your computer was authorized.
+
+4. Upgrade your old iPhone to firmware version 2.0
+
+The iPhone running software version 2.0 has been hacked, so there’s no need to keep running old firmware on your old hacked iPhone. Plug your old hacked iPhone into the computer running iTunes 7.7 and make sure that iTunes is running. Under the “Devices” entry on the left hand side of iTunes, when you click on the iPhone device, you should see a screen with a “Check for Update” button. Click that button. I was running firmware version 1.1.1 and at first it offered me firmware version 1.1.4. So I exited iTunes, restarted iTunes, and clicked “Check for Update” again. Then it offered me firmware version 2.0. Click to install firmware version 2.0 on the old hacked iPhone.
+
+5. Erase the settings and data on your old iPhone
+
+One nice thing about the iPhone’s firmware version 2.0 is that it adds a “secure wipe” that attempts to erase all data completely from your iPhone. That means you can sell the old iPhone or give it to a friend without worrying about all those crazy pictures you took, the 1-900 numbers in your contacts, the SMS messages that reveal things you want to keep private, etc. Here’s how to erase everything on your old iPhone. Eject the phone in iTunes, disconnect the phone from the computer, then press Settings, then General, then Reset, then Erase All Content and Settings, then Erase iPhone. You may have to confirm a couple times that yes, you really want to wipe your iPhone. The process takes about an hour, so I connected my iPhone to a cable that was plugged into a power outlet to ensure that the iPhone wouldn’t run out of power in the middle of wiping it.
+
+When the iPhone is finished erasing itself, it’s suitable for giving to a family member or selling on eBay or whatever.

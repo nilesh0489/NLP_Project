@@ -1,0 +1,19 @@
+Duke University researchers say they have concocted a design for an "invisibility cloak" that works "flawlessly" to "shuttle light" around a small cylinder, according to BBC News.
+
+Now if Nathan Landy and David Smith can just come up with a resurrection stone and an all-powerful wizard's wand, they'll have the Deathly Hallows trifecta as per Harry Potter.
+
+The two researchers at Duke's Center for Metamaterials and Integrated Plasmonics at the Pratt School of Engineering describe their invisibility cloak design in an article in the current Nature Materials.
+
+As with earlier attempts at rendering an object or person "invisible" via "transformation optics, Landy and Smith capture the scene behind the area they want cloaked and project it to a viewer with the effect that for all intents and purposes, the cloaked object or person can't be seen.
+
+One big problem with this method that has bedeviled scientists since transformation optics kicked off in 2006 is that the edges of a cloaked area tend to reflect indirect light, darkening the patch of "invisibility" noticeably as compared to its surroundings, BBC News noted. Landy and Smith avoid this illusion-killer with a diamond-shaped invisibility field (pictured) that "rework[s] how the edges of a microwave cloak line up, ensuring that the light passes around the cloak completely with no reflections," according to the site.
+
+"This to our knowledge is the first cloak that really addresses getting the transformation exactly right to get you that perfect invisibility," Smith told BBC News, adding that the technique only works in one direction to cloak the cylinder, which is about 3 inches in diameter and less than half an inch tall.
+
+The cloaking effect also only works to render the cylinder invisible to microwaves. So far the researchers say they haven't figured out how to make it work with visible light but Smith said practical applications of the new technique could have an impact in technologies like radar.
+
+"The cloak we demonstrated in 2006 as a kind of microwave device would be very poor, but this one gets us to something that could be potentially useful. I think it's something that a lot of people can build on," Smith told BBC News.
+
+"Everything in this field is going to come down to what you can make, what you can design. And I think this steps up the design," he added.
+
+For more from Damon, follow him on Twitter @dpoeter.

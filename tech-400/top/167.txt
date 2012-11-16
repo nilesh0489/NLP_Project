@@ -1,0 +1,11 @@
+Bandwidth caps have never been particularly popular, but customers will likely detest them even more if they feel they aren’t accurately implemented. And now DSLReports points us to a Slashdot user who says not only is AT&T (T) measuring his monthly DSL data consumption incorrectly, but the company is actually refusing to explain how its data cap measurements work.
+
+UPDATE: AT&T checks in to tell us that it has “a dedicated team of trained and specialized lab engineers that thoroughly review and check the accuracy of our home broadband data measurement system on a regular basis.” The company recommends that consumers use its online Data Calculator to best keep track of their usage. The company also says that its data calculations include “the total bandwidth necessary to transmit the data you send and receive over the network from your place of residence, plus software update requests, email notifications and resend requests.”
+
+“With the help of Tomato on my router, I started measuring my usage, and ended up with numbers substantially below what AT&T was reporting on a day-to-day basis,” wrote the disgruntled AT&T customer. “Typically around 20-30% less.”
+
+At this point the customer decided to give AT&T a ring to see what was going on. Unfortunately, he says he didn’t get the help he was looking for.
+
+“After several calls, they finally told me they consider the methodology by which they calculate bandwidth usage to be proprietary,” he wrote. “Yes, you read that right; it’s a secret. They left me with the option to contact their executive offices via snail mail. Email was not an option.”
+
+As DSLReports notes, this has long been an issue at AT&T, as several of its readers last year reported that AT&T’s bandwidth meter readings were inaccurate. What’s more, AT&T also told DSLReports that it wouldn’t publicly discuss how it measured monthly bandwidth consumption, although it said it was happy with work with customers on a case-by-case basis.

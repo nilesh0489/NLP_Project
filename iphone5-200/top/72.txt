@@ -1,0 +1,33 @@
+The iPhone 4 had Antennagate, the 4S had Siri’s “pro-life” glitch — and now, the iPhone 5 has a scandal all of its own. If hundreds of consumer reports are to be believed, it seems that 30 to 40% of all iPhone 5s are arriving with scuff marks — damage to the sides and back of the case that range from minor abrasions, all the way through to nicks where the coating of the phone has been completely removed, exposing the aluminium chassis beneath.
+
+Scuffgate doesn’t seem to be a localized issue: There have been lots of reports from the west coast of the US, of course, but users in Europe and Hong Kong are also reporting scuffed phones. The damage isn’t being caused by overzealous Apple fans, desperate to get their sterilized tentacles on the new iPhone, either: The scuffed iPhones are seemingly already damaged when they arrive, before anyone has had a chance to finger them aggressively.
+
+What could possibly be causing the damage? Let’s investigate.
+
+Before we start, let’s run through the iPhone 5′s construction, which is quite different from the iPhone 4 and 4S. While its predecessors were made from stainless steel, the iPhone 5 is made from aluminium. Aluminium is lighter than steel (which is one of the reasons that the iPhone 5 is 20 grams lighter than the 4S), but it’s also a very soft metal. To make it a little more rugged, the back and sides of the iPhone 5 are anodized.
+
+In its base state, the surface of a piece of aluminium very rapidly forms aluminium oxide. Aluminium oxide makes the aluminium more resistant to wear and tear, among other additional benefits. The problem is, though, this natural oxide layer is very thin (on the order of a few nanometers). Anodization is a process that creates a much thicker layer of aluminium oxide (a few microns; a few thousand times thicker than normal oxidation). Anodization also tends to create a bumpy texture, which can then be used to apply paints/dyes (which don’t stick to raw aluminium).
+
+If you’d like an explanation of how a product is actually anodized, watch the video below:
+
+Now, anodization definitely makes a piece of aluminium tougher — but it doesn’t make it that tough. You probably won’t rub through an anodized layer with your fingers or nails, but another piece of metal will easily remove anodization. Usually another protective layer of sealant or lacquer is added to make the it more wear-resistant — but sadly it seems like the iPhone 5 lacks that extra protection.
+
+As you can see in the (adorable) video below, a two-year-old has no problem scuffing the iPhone 5.
+
+The question, though, is how are the new iPhones being scuffed beforethey’re unboxed? Without being privy to Apple’s entire supply chain, we can only guess — but really, there are only two options: While being manufactured, and/or during shipping.
+
+It is possible that the anodized coating is so soft that it’s being scuffed by Foxconn’s workers at the iPhone 5 production line in Taiyuan, China. Putting an iPhone together is fiddly business, and there are undoubtedly times when a worker’s tools might accidentally scratch the case. There are also robotic arms and conveyor belts involved in the production process — if either of those are too overzealous, scuffs could occur.
+
+The problem with this answer, though, is that the phones wouldn’t pass quality assurance (QA) — unless QA itself was causing the scuff marks, or if the damage was caused after QA (perhaps as the phones are being boxed).
+
+Once the iPhone 5 is boxed, it’s held firmly in place by plastic and paper — two materials that really shouldn’t scuff the anodized coating, and there isn’t enough room for the phone to rub backwards and forwards anyway. There are plastic protectors on the front and back of the device, too.
+
+It seems most likely that the scuffs are being caused at the production line in China.
+
+In addition to out-of-the-box damage, many users are also reporting that it’s incredibly easy to scuff an iPhone 5 through everyday usage. Over on MacRumors, 36% of 1,300 polled users reported that their phone was scuffed out of the box, and a further 10% had inadvertently damaged it within a few hours. Again, in the iFixit video above, you can see that the anodized coating on the chamfered edge is incredibly easy to rub off.
+
+Really, any way you look at it, your iPhone 5 will probably end up looking like a wreck after a few weeks of use. Unless, of course, you protect it with a case… which is kind of ironic, considering Apple is at pains to impress upon us how many millions of man hours it took to re-engineer the iPhone 5 to make it the thinnest, lightest, and most beautiful smartphone ever to grace this planet.
+
+If you have a damaged iPhone 5, Apple Stores will apparently replace it. If the MacRumors poll really is representative, though — if a full 45% of shipped iPhones are damaged, or easy to damage — then the problem is obviously endemic to the iPhone 5′s design and anodized chassis, and perhaps a full product recall is in order.
+
+Now read: The iOS 6 disaster: Apple bit off way more than it could chew and How hackers will jailbreak the iPhone 5

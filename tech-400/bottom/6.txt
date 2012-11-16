@@ -1,0 +1,35 @@
+Following the Amazon Web Services outage earlier this week, major sites and platforms are experiencing outages today, including at least Dropbox and Google App Engine. At the time of writing it’s unclear how the two downtimes are related, but Tumblr’s performance issues earlier today point to a clue.
+
+The blogging company told us in a statement: “Tumblr is experiencing network problems following an issue with one of our uplink providers. Recovery is moving quickly and we will return to full service shortly.” Internet Traffic Report is reporting major packet loss in North America as well as issues in Asia (the problem is large enough that it’s spilling into the rest of the world):
+
+At the time of writing, Dropbox is giving the following error (although it does seem to go back and forth every once in a while):
+
+Google App Engine is meanwhile timing out, and actually the Google Developers domain as a whole is having trouble loading. This is affecting Google’s own properties, such as Android Developers, as well as many other third-party Web sites that rely on App Engine. They are showing errors like this one (ironically, this is for BreakingNews.com):
+
+Even YouTube is experiencing issues; Downrightnow is calling it a “Likely Service Disruption,” although it’s working fine for us:
+
+We have contacted both Dropbox and Google about these issues. We will update this article when we hear back.
+
+Update at 12:05PM EST: Dropbox appears to be coming back. Google App Engine is still down and out, and the search giant has classified the issue as an “Anomaly” (talk about understatement) over at Google App Engine’s System Status page. “App Engine is currently experiencing serving issues. The team is actively working on restoring the service to full strength.” We are told to keep an eye on this Google Groups thread for more information.
+
+Update at 12:35PM EST: Cedexis has posted Google App Engine traffic details for today, which show things may be starting to return to normal:
+
+Update at 1:15PM EST: Google has posted an explanation.
+
+At approximately 7:30am Pacific time this morning, Google began experiencing slow performance and dropped connections from one of the components of App Engine. The symptoms that service users would experience include slow response and an inability to connect to services. We currently show that a majority of App Engine users and services are affected. Google engineering teams are investigating a number of options for restoring service as quickly as possible, and we will provide another update as information changes, or within 60 minutes.
+
+Update at 1:50PM EST: Google App Engine is starting to come back.
+
+Update at 2:10PM EST: It’s down again. Google has more.
+
+We are continuing work to correct the ongoing issues with App Engine. Operation has been restored for some services, while others continue to see slow response times and elevated error rates. The malfunction appears to be limited to a single component which routes requests from users to the application instance they are using, and does not affect the application instances themselves. We’ll post another status update as more information becomes available, and/or no later than one hour from now.
+
+Update at 3:45PM EST: All systems are go.
+
+At this point, we have stabilized service to App Engine applications. App Engine is now successfully serving at our normal daily traffic level, and we are closely monitoring the situation and working to prevent recurrence of this incident. This morning around 7:30AM US/Pacific time, a large percentage of App Engine’s load balancing infrastructure began failing. As the system recovered, individual jobs became overloaded with backed-up traffic, resulting in cascading failures. Affected applications experienced increased latencies and error rates. Once we confirmed this cycle, we temporarily shut down all traffic and then slowly ramped it back up to avoid overloading the load balancing infrastructure as it recovered. This restored normal serving behavior for all applications. We’ll be posting a more detailed analysis of this incident once we have fully investigated and analyzed the root cause.
+
+Google has sent over an apologetic statement.
+
+Update at 4:15PM EST: Now it’s Facebook’s turn.
+
+Update at 9:00PM EST: Google has more information on the outage today over on its App Engine blog.

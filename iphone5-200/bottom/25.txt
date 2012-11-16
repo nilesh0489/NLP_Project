@@ -1,0 +1,21 @@
+Apple officially unveiled the newest iPhone at an event today in San Francisco. The iPhone 5, which has a taller and narrower screen than previous models, will ship with the latest version of Apple's mobile operating system, iOS 6.
+
+The phone measures 7.6 millimeters thick and weighs 112 grams, which is 18 percent thinner and 20 percent lighter than the iPhone 4S. The iPhone 5 retains the retina display pixel density of the iPhone 4S at 326ppi, but it now has a 4-inch 16:9 display at a 1136x640 resolution, with 44 percent more color saturation than the 4S. Because of the added screen real estate, the phone can now show five rows of icons on its home screen.
+
+Phil Schiller, Apple's senior vice president of marketing, noted that many of Apple's own apps, including iWork, GarageBand, and iMovie have been updated for the new screen. For apps that have not been updated to the new display resolution, Apple says it will either center the apps or "subtly place black borders on each side."
+
+Inside, the iPhone 5 will have a new A6 chip with a CPU and graphics that are twice as fast as the A5 in the iPhone 4S. According to Schiller, the new chip launches webpages 2.1 times faster and can save images from the Photos app 1.7 times faster than the A5.
+
+The new iPhone will be compatible with 4G networks outside the US, with HSPA+, DC-HSDPA, and LTE. Schiller stated the phone uses a single baseband chip for voice and data, and a single radio chip. The iPhone 5 can access 802.11a/b/g/n, and both 2.4GHz and 5GHz bands in 802.11n. Prior to the announcement, the Wall Street Journal speculated that the phone would use a Qualcomm MDM9615 chip, a newer version of the same chip in the latest iPad that allows for LTE/HSPA+/EVDO connectivity.
+
+As for battery life in the iPhone 5, Apple asserts the device will get up to 8 hours of 4G talk time, 8 hours of 3G or 4G LTE Web browsing, 10 hours of video playback, 40 hours of music playback, and 225 hours of standby.
+
+The camera in the iPhone 5 retains its 8-megapixel resolution with backside illumination, hybrid IR filter, f/2.4 aperture, and the ability to capture 1080p video. Schiller said the new iPhone's camera has a "dynamic low-light mode" and can combine pixels to get up to two f-stops greater than the default. The new camera can also take panorama shots, if users hold the phone vertically and sweep it across the desired viewing area. iOS 6 and iCloud will now allow users to create "Shared Photo Streams" with pictures taken on the iPhone 5.
+
+The front-facing camera will be a 720p backside-illuminated lens, and will, at long last, allow users to use the FaceTime video-chatting app over cellular networks.
+
+The new iPhone 5 also brings the death of the 30-pin connector Apple has used since 2003. Continuing with the Thunderbolt naming scheme, the new connector is named "Lightning." It features an 80 percent smaller 8-signal design that can be inserted in either orientation—no more flipping the connector over and over again. Apple has also created a 30-pin-to-Lightning adapter, so that iPhone owners' bounties of 30-pin accessories won't be immediately obsolete.
+
+A new noise-canceling earpiece inside the iPhone 5 cancels sound on both ends. The phone also supports "wideband audio" to improve call quality, which Apple is working with carriers to implement.
+
+AT&T, Verizon, and Sprint will all support the iPhone 5 on 4G LTE, and the available colors at launch will be "black and slate" as well as white with a "bright silver" aluminum finish on the back. Apple retains the usual price structure for the new iPhone: 16GB for $199, 32GB for $299, and $399 for 64GB with a two-year contract. Pre-orders open on September 14, and the phone ships September 21.

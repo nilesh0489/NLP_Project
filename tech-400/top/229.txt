@@ -1,0 +1,35 @@
+The world’s largest legal battle against Facebook began with a class assignment. Student Max Schrems still hasn’t turned in his university paper on the topic, due well over a year ago, but he has already accomplished something bigger: forcing Facebook to alter its approach to user privacy. Now, Schrems wants cash—hundreds of thousands of euros—to launch the next phase of his campaign, a multi-year legal battle that might significantly redefine how Facebook controls the personal data on over one billion people worldwide.
+
+"If we get €300,000 ($384,000), we can shoot from all cannons," the 25-year-old told Ars from his parents’ home in Salzburg, Austria.
+
+What began as an academic assignment in spring 2011 quickly morphed into an advocacy organization called "Europe vs. Facebook." Over the last year, Schrems has encouraged tens of thousands of Facebook users worldwide to request copies of whatever data Facebook holds on each of them, as he has done. Under European Union law, Facebook is required to comply with these requests within 40 days, since its international (e.g., non-American) headquarters are in Ireland (largely for tax reasons). This means that all Facebook users outside the United States and Canada (which have their own, less-stringent privacy rules) are effectively governed by Irish and EU data protection authorities.
+
+As a way to compel Facebook Ireland to comply with existing EU law, Schrems filed 22 formal complaints with the Irish Office of the Data Protection Commissioner (ODPC) on August 18, 2011. Those complaints included charges that Facebook Ireland violated EU law by keeping records of "pokes" even after a user has deleted them, collecting data on non-Facebook users as a way to create "shadow profiles," performing automatic tagging, gathering personal data via "Friend Find," retaining records of deleted posts, retaining copies of deleted chat messages, retaining copies of deleted friends, and many others.
+
+Schrems argues that Irish data protection authorities aren’t properly enforcing the law when it comes to Facebook, and he hopes that a judicial review will vindicate his position. If necessary, he plans to take his case all the way to the European Court of Justice in Luxembourg.
+
+In the meantime, Irish authorities have begun asking for changes, and Facebook has altered some of its policies. Just this month, Ars reported that Facebook changed the way it presents privacy information to new users, largely at the suggestion of the ODPC. Back in September, Facebook said it would disable facial recognition for European users, also under pressure from Irish authorities.
+
+And those authorities say that they are now sticking it to Facebook on questions of privacy. "There have been points where we’ve had serious disagreements," Gary Davis, the ODPC’s deputy data protection commissioner, told Ars. "We’ve threatened serious enforcement action. But my sense is that Facebook is a company that gets it. What they get is that non-compliance with EU law is not good for their business."
+
+"When we’ve come to that point where we’ve leaned across the table and said you need to do this, they’ve gone away and have done it," he added. "I’m certain that we have really turned the screws heavy on them."
+
+As for Facebook, the company says that it takes discussions with critics seriously and that it is in "direct contact" with Schrems and Europe vs. Facebook. "Over the past year we have been working on an ongoing, continuous basis with our regulator in Europe, the Irish ODPC," said Tina Kulow, a Facebook spokesperson, in an e-mail to Ars. "The latest ODPC’s report demonstrates again how Facebook adheres to European data protection principles and is going beyond with commitment for best practices in data protection compliance."
+
+Working separately, an Austrian law student and an under-staffed Irish data protection watchdog have helped bring worldwide improvements to Facebook's privacy policies. Here's how they did it.
+
+This battle began nearly 18 months ago in California. Schrems, a spiky-haired, feisty Austrian from the University of Vienna, was spending the semester as a visiting law student at Santa Clara University (SCU) in the heart of Silicon Valley. As part of a privacy seminar taught by Dorothy Glancy, one of America’s top privacy scholars, Schrems learned that one of the major principles of European privacy law was called the "right of access."
+
+It’s a simple idea: anyone interacting with an EU company or government agency can, for any reason, request all the data that entity has about oneself, and the company or government agency must comply. (American law has no equivalent principle, largely leaving privacy and data protection issues to be sorted out in contract law between individuals and corporations.) The idea is summed up in Section V, Article 12 of the 1995 EU directive "On the protection of individuals with regard to the processing of personal data and on the free movement of such data":
+
+Member States shall guarantee every data subject the right to obtain from the controller: (a) without constraint at reasonable intervals and without excessive delay or expense: - confirmation as to whether or not data relating to him are being processed and information at least as to the purposes of the processing, the categories of data concerned, and the recipients or categories of recipients to whom the data are disclosed, - communication to him in an intelligible form of the data undergoing processing and of any available information as to their source, - knowledge of the logic involved in any automatic processing of data
+
+While in Glancy’s 25-person privacy seminar, Schrems had the opportunity to learn about privacy and data protection while also meeting with experts from various tech companies, including Facebook. When a company official came to speak with the class (neither Glancy nor Schrems will say who it was), it quickly became clear to Schrems that the man didn’t have a full grasp of this basic European privacy principle.
+
+"He said that [Facebook sticks] to EU privacy law," Schrems said. "And I asked him about consent, and he said ‘We interpret consent in a way that as long as they don’t say no [then it’s OK].’ I had the feeling that he had never been to Europe and didn’t understand the cultural difference."
+
+At an interview in San Francisco, Glancy gushed with praise for Schrems. "He is 10 times smarter than anybody that has done these kinds of practical projects," she told Ars. "He’s just very, very smart, in the cunning sense of smart. He also didn’t start asking questions until he knew he was right."
+
+After the Facebook experience, Schrems decided to examine Facebook’s compliance with European Union data protection law as part of an academic paper. "I didn’t turn it in, but don’t tell anybody!" he joked.
+
+As part of his project, Schrems decided not to rely on unsubstantiated rumor or speculation as to precisely what information Facebook holds on individuals. Instead, he would get a copy of all the data that Facebook had on him.

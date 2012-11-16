@@ -1,0 +1,19 @@
+The 32 GB version costs Apple $209 to make, while the 64 GB is estimated to cost $230. With carrier subsidies, the iPhone 5 retails at $199, $299 and $399. While there’s no unlocked version of the iPhone 5 for sale, carriers list the full prices of the device at $649.99, $749.99 and $849.99 without a contract.
+
+The phone’s costliest component, unsurprisingly, is its screen. The screen is almost always the most expensive part of a phone, and the new iPhone has a particularly sophisticated panel that integrates the touch sensor and the display panel. And, of course, the iPhone 5’s display is a half-inch larger than the screen on the iPhone 4S. It costs Apple around $44 per phone.
+
+Another part of the new iPhone that makes it more expensive for Apple to produce is the inclusion of LTE chips, which the firm said added $10 to the cost of the phone’s cellular components.
+
+In his analysis, Ressweiler said that the iPhone 5’s LTE chips are meant to run on as many of the world’s LTE networks as possible. That’s no easy feat, since LTE networks across the globe — even within the United States — run LTE networks at different frequencies. That, for example, is why Apple’s new iPad was flagged by British and Australian consumer protection agencies for advertising “4G” speeds when the device wasn’t capable of running that quickly in those countries.
+
+Apple’s A6 processor also costs a bit more to make than its A5 processor, but the company was able to dramatically decrease the price for NAND flash memory — both because the price of the components are dropping and because the company buys the memory chips at such a scale.
+
+The teardown fun continued at iFixit, a site that performs surgery on devices to try and show people how to fix their gadgets themselves. In a teardown of Apple’s new earbuds, dubbed EarPods, the site found that the new EarPods are quite durable and have a cleaner design — but, in the end, are pretty much like most headphones on the market.
+
+A switch to a paper speaker cone instead of a plastic one, the site said, could be the explanation for the headphones’ advertised improvement in the mid- and lower-ranges. It also highlighted that the remote casing is well-protected from the elements and that the cable is built to stand up to wear and tear.
+
+Still, the site said, users shouldn’t try tearing down their new EarPods at home.
+
+“They will never be the same once taken apart,” the site concluded.
+
+Ideas@Innovations: Apple’s iPhone 5: Why we should heed the critics

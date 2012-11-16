@@ -1,0 +1,21 @@
+Device: Researchers have for the first time harvested the energy of the inner ear to power a small sensing device. The electric potential of the cochlea operates like a biological battery and is critical for transforming sound pressure waves into the electrical signals sent to the brain. Now, scientists have developed a chip that can harness this electrical energy without interfering with normal hearing, according to their report, published today (November 11) in Nature Biotechnology.
+
+The strategy is “original,” said Michael Holzinger, a chemist at Université Joseph Fourier in France, who was not involved in the project. Many other devices designed to extract power from living organisms use enzymes to convert catalytic energy into electrical energy, but the new chip “just steals a little bit of energy the body produces itself.”
+
+What’s New: The spiraling cochlea of the inner ear is where physical pressure is modified into electrochemical signals. There are two fluids inside the inner ear, separated by a series of tight junctions, and each has a different ion concentration—setting up an electric potential of up to 100 mV.
+
+In order to demonstrate the principle that the inner ear’s energy could be tapped without interfering with hearing, Konstantina Stankovic, an otolaryngologist at Harvard and Massachusetts Eye and Ear Infirmary, and MIT’s Anantha Chandrakasan inserted electrodes into the fluid reservoirs in the cochlea an anesthetized guinea pig. These were connected to a small sensor chip about a quarter the size of a penny. They were able to extract about 1 nanowatt from the guinea pigs ear, enough to power the sensor, which monitored the cochlea’s electric potential every minute or so and transmitted the information wirelessly, for 5 hours. For their proof of principle study, the sensor remained outside the guinea pig, but Stankovic noted that the chip is small enough to implant in a human.
+
+Stankovic and Chandrakasan say that the device could conceivably generate enough power to run a tiny sensor in that area, though not enough to power something as energy-hungry as a cochlear implant, a small device used to correct deafness. 
+
+Importance: The strategy could address one of the drawbacks of using biofuel cells—namely that the enzymes used to harvest energy from blood glucose have a limited lifespan, noted Holzinger. Currently, such devices might last a few months, which would mean that such implants would have to be removed and refreshed often. But in the inner ear, the body is itself a fuel cell with unlimited lifespan.
+
+“We decided to tap into [the inner ear electric potential] because it’s stable over the life of an animal,” explained Stankovic. Holzinger agreed: “In principle, you could just connect two electrodes and take the power. It could be a huge advantage.”
+
+Stankovic and Chandrakasan envision using the inner ear electrical energy to learn more about healthy and disease states of the hearing process. “We don’t actually know why most people go deaf,” noted Stankovic. By designing a sensor to monitor changes in neurotransmitters and ion concentrations, investigators could glean new insights into what a normal system looks like—and what happens when deafness sets in.
+
+Needs Improvement: The device’s ability to run for a long time could allow researchers to switch their focus from short-lived disposable systems to long-lasting technologies, said Uwe Schröder, an environmental chemist at Technische Universität Braunschweig in Germany, who was not involved in the research. But these devices would be limited to applications very close to the inner ear power source, Chandrakasan noted, given the small amount of energy available.  And the total power harnessed by the chip is quite small, he added. Even as is, though, the energy of the inner ear could conceivably be enough to power a once-a-day drug delivery system, he noted—something that doesn’t run continuously, but could draw on energy banked over a period of time.
+
+Another future step will be to show that the device can run longer than 5 hours, Schröder added, and that it doesn’t cause any problems when implanted.
+
+P. P. Mercier et al., “Energy extraction for the biologic battery in the inner ear,” Nature Biotechnology, doi: 10.1038/nbt.2934, 2012.

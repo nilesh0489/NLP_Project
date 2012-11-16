@@ -1,0 +1,41 @@
+After months of speculation about the possible removal of Windows Live Messenger, Microsoft has decided to replace its messenger service with Skype in March 2013.
+
+Tony Bates, president of the Skype division in Microsoft, confirmed in his official blog that Windows Live Messenger will be withdrawn in all countries worldwide, except mainland China, in the first quarter of 2013.
+
+The process had already started with the release of the latest Skype 6.0 version for Windows and Mac OS a few weeks back.
+
+It was reported that there are over 100 million active users of the Windows Messenger network. It will be interesting to see how Microsoft persuades such a huge number of users to switch to Skype.   
+
+Once Skype and Windows Messenger accounts are integrated, users can chat or place video calls to their loved ones using a single account.
+
+There are several more reasons for Windows Messenger users to migrate to Skype.
+
+Speculations are rife that X-Box Live will be upgraded to include Skype services like instant messages and video calling.
+
+Users will not have to worry about losing the Windows Messenger contact list because their Skype accounts will automatically sync the old Messenger contact list.
+
+Microsoft's updated Skype 6.0 version has been incorporated with six new languages. Skype will now operate in a total of 38 languages.
+
+Skype UI has a new and simple design. It has also incorporated a new Retina Display support for iMac users.
+
+Many tech analysts had opined that having two separate accounts - one for messaging and the other for voice and video calling - did not make sense because Skype and Windows Messenger were both social networks targeting the same user base.
+
+Microsoft has made the right decision by withdrawing Windows Live Messenger which only served as instant messaging service compared to multi-faceted Skype application where users can video call, directly post comments and video chat on Facebook directly.
+
+Skype simply makes a better business proposition over Windows Messenger as Skype has the potential to earn big revenue for Microsoft, said reports.
+
+Skype's features such as group video calling, landline and mobile phone calling are charged with nominal fees to avail the services through Skype Premium Package.
+
+According to reports, there are 100 million active users in Windows Messenger and 44 million concurrent users in Skype at any given time.
+
+With both the services integrated, Microsoft can earn huge revenue by keeping the Skype service and shift their focus to improve the application with more features to expand their user base.
+
+Windows Live Messenger users can download the latest Skype 6.0 version from the official Skype website.
+
+During the installation of Skype 6.0, the software will prompt users to un-install Windows Live Messenger in order to complete the installation.
+
+Once the installation is complete, users can login into their Skype accounts with their old Messenger account usernames.
+
+Many features such as group calling, calls to landlines and mobile phones are offered with Skype Premium subscription charges. The charges for these services are nominal compared to the carrier networks.
+
+If Windows Messenger users are not yet ready to migrate to Skype, they can continue using their old Messenger account till March, 2013. 

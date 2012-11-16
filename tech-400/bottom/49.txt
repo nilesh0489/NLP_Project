@@ -1,0 +1,21 @@
+Google announced a handful of new Nexus-branded products Monday, including the Nexus 4 smartphone, and the Nexus 7 and Nexus 10 tablets. With its new lineup of Nexus gear, Google is prepared to battle Apple for consumers' holiday dollars over the coming months.
+
+The Nexus 4 is in fact a rebadged version of LG's Optimus G. It's a fine smartphone, and perhaps the best ever made by LG. Its best features are the incredible 1280 x 768 HD, 4.7-inch display; quad-core Snapdragon processor; and killer 8-megapixel camera. It is going to be sold unlocked, without carrier contracts for the extremely low price of $299. It can be purchased directly from Google starting November 13.
+
+The Nexus 7 is a new version of the Asus-made Nexus 7 that's been available since June. Really the only thing that's different is the amount of storage available and the price. Google upped the possible max storage to 32 GB. The 16-GB Wi-Fi version costs $199, the 32-GB Wi-Fi version costs $249 and the 32-GB Wi-Fi and HSPA+ costs $299.
+
+The Nexus 10 is a brand new tablet manufactured from Apple-foe Samsung. There should be no doubt in anyone's mind that Samsung is hoping to appeal to consumers who lust after the Retina Display on Apple's iPad. The iPad 3 and 4 have 9.7-inch displays with 2048 x 1536 pixels and 264 pixels per inch. The Nexus 10 has a 10.05-inch display that has a 2560 x 1600 pixel resolution, making for 300 pixels per inch. Neither Google nor Samsung said what kind of technology is behind the display. Samsung typically favors AMOLEDs, while Apple favors LCDs.
+
+[ Smartphones and tablets are little without apps. Check out the 10 Best Apps For Samsung Galaxy Notes. ]
+
+In addition to the Retina Display-killing screen, the Nexus 10 boasts a dual-core A15 processor, and Mali T604 graphics processor with 2 GB of RAM; 5-megapixel main camera and 1.9-megapixel user-facing camera; 802.11b/g/n Wi-Fi, Bluetooth and NFC; and microUSB and HDMI ports.
+
+The Nexus 10 is priced fairly aggressively. The 16-GB version costs $399 and the 32-GB version costs $499. Neither offers 3G or 4G cellular data, though.
+
+It will be interesting to see how Samsung and Google market the Nexus 10. If there's one feature of the iPad 3 and iPad 4 that Apple likes to brag about, it's the Retina Display. Now that Samsung has a tablet with a higher-resolution display than the iPad, the mudslinging between the two competitors is probably going to get worse.
+
+All of the new Nexus devices run Android 4.2 Jelly Bean. This minor update to Android includes some pretty cool features, such as Photo Sphere. Photo Sphere lets people take 360-degree panoramas to create really wild images. It also adds a Swype-like keyboard and new powers for Google Now.
+
+The Nexus 7 and Nexus 10 can also be ordered directly from Google beginning November 13.
+
+Time to patch your security policy to address people bringing their own mobile devices to work. Also in the new Holes In BYOD issue of Dark Reading: Metasploit creator HD Moore has five practical security tips for business travelers. (Free registration required.)

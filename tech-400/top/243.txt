@@ -1,0 +1,9 @@
+Toshiba just took down one of the most popular sources of repair information for their laptops, Tim Hicks’ laptop repair manual repository at Future Proof. Tim’s site is one of the only places online to get ad- and malware-free, manufacturer-authorized manuals. Check out the full editorial I wrote on the situation for Wired.
+
+We’re not surprised by Toshiba’s actions: we’ve known about manufacturers’ iron grip on repair documentation for a long time. We’ve known about the infuriating and elaborate ways manufacturers will keep users out of their own hardware. We’ve known about the unfortunate extension of copyright law to repair documentation—that’s a big part of why we got started, after all.
+
+But we are upset. Taking repair information away from users means less repair: only the very brave, very experienced, or very stupid will try to service a laptop without a manual. And less repair means more disposable culture, more toxic mining and manufacturing, and fewer jobs in independent repair shops.
+
+Manufacturers always say that providing repair documentation will lead users to hurt themselves, and that’s what Toshiba told Tim. But when people do attempt repair, they are far more likely to damage themselves or their equipment if they don’t have a good manual with appropriate safety warnings.
+
+So, here’s what we’re going to do. We want to write a free and open repair manual to replace the manuals that Toshiba took away. We currently have manuals for just a few Toshiba laptops, but we need more hardware to take apart. You can help:

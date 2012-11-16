@@ -1,0 +1,15 @@
+It's too early to say for sure whether Apple may reconsider the approval of Spotify Mobile and yank the program. But for now, the approval has people wondering if Apple is changing its tune when it comes to its App Store approval process. Spotify Mobile is also available for the Android OS, and is currently only available in Europe and not yet available in the U.S..
+
+Spotify Mobile allows you to stream music wirelessly to your iPhone from a library of music hosted with Spotify. You can also store playlists or specific songs to your iPhone for listening to when you are not connected to the Internet. The service offers a selection of 6 million songs and costs $16 per month. It competes directly with iTunes that allows you to buy and store music to the iPhone directly from the handset.
+
+In the past several applications have been rejected from the Apple App Store because they allegedly duplicate existing functions, so how come Spotify Mobile went through?
+
+Well, Spotify isn't the only app that would benefit the users though somehow duplicating iPhone functionality. Vonage's VoIP iPhone app got the Apple seal of approval as well last week, even though only with WiFi functionality, just like Skype for iPhone (due to AT&T policy). Real Networks is also working on a Rhapsody music service app for the iPhone.
+
+Then, this weekend Apple also approved a Comodore 64 emulator called C64, which MacRumors says Apple rejected initially in June for violations of the SDK agreement (although rights were officially licensed from holders).
+
+So is Apple being more relaxed over which applications get approved in the iPhone App Store? The answer is not likely. Following the high-profile rejection of the official Google Voice app for iPhone, Apple landed in hot water with both user but most important with the FCC, which investigates the issue with Apple, AT&T and Google.
+
+As a reminder, Apple told the FCC it did not reject the Google Voice app, but rather that it is just still reviewing it. When the Google Voice rejection scandal broke, Google said that Apple actually rejected the app, but most of their official statement to the FCC is now censored. Read Apple's, Google's and AT&T's responses to the FCC inquiry here.
+
+So perhaps Apple is trying to avoid further issues with the FCC and is just letting through apps that wouldn't usually get approved. Apps like Spotify Mobile and Vonage for iPhone are already getting Apple some good press and could keep the FCC off their back, until the Google Voice inquiry is closed. But whether this trend will continue after the FCC's look into the Google Voice rejection is over is yet to be seen.

@@ -1,0 +1,3 @@
+Apple's homegrown processors in their iOS devices are pretty awesome, able to outperform—and in some cases, blow away—other mobile chipsets. Jim Keller, one of the men largely responsible for that feat, is leaving. Where is he going? AMD. Ouch.
+
+According to 9to5mac, Keller was an employee at PA Semi when the company was acquired by Apple, and while at Apple, was listed as "A4/A5 Designer & K8 Lead Architect." Of course, what makes this all the more intriguing is that Keller was hired by and will work under Mark Papermaster, a former iPhone employee who was dismissed after the whole Antennagate debacle came to light in 2010. Regardless your feelings about AMD, you can't deny that they now have two very talented employees. [9to5mac]

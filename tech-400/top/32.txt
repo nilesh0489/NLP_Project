@@ -1,0 +1,29 @@
+To reduce online piracy, Google has implemented several changes to its search engine in recent years. Among other things, Google has blacklisted dozens of piracy related terms from appearing in its autocomplete and instant services. Megaupload is one of these search terms, and nine months after the last infringement took place the name of Kim Dotcom’s file-hosting service is still being censored. This begs the question, what other terms are needlessly censored by Google’s blacklist?
+
+Since January 2011, Google has been filtering “piracy-related” terms from its ‘Autocomplete‘ and ‘Instant‘ services.
+
+Google users searching for terms like “torrent”, “BitTorrent” and “Megaupload” will notice that no suggestions and search results appear before they type the full word. While no search results are removed from Google’s index, there is sharp decrease in searches for these terms.
+
+What triggers a keyword to be included in the blacklist is not clear, but a Google spokesperson previously told TorrentFreak that they remove terms that are “closely associated with infringing results.”
+
+“It’s not easy and the list will undoubtedly change over time. When evaluating terms for inclusion, we examine several factors, including correlation between the term and results that have been subject to valid DMCA takedown notices,” Google told us.
+
+Sounds deliberate, and as we’ve documented in the past the list has indeed been changed. Many new terms have been added since the start, most recently to include several of The Pirate Bay’s domain names.
+
+However, these changes appear to go only one way.
+
+Megaupload, for example, is still among the censored terms even though the site has been offline for more than nine months. There are simply no accurate “copyright infringement” grounds to keep it blacklisted, one would think.
+
+Nevertheless, searching for “Megauploa” today still shows no Autocomplete and Instant results at all.
+
+Funnily enough, Google’s search algorithm bypasses the filter to some extent, suggesting “Megauplaupload” when typing “Megaupl” and displaying instant results for a “Megaupload” search because that’s a far more popular search term.
+
+That said, the concern remains that once a term is placed on Google piracy blacklist it’s not so easy to get it taken off.
+
+At this point it’s still unclear what factors dictate a term being placed on Google’s piracy blacklist. It’s also unknown how many piracy related terms are censored as the list is not made public.
+
+To get a better understanding of Megaupload’s continued presence in the blacklist and what the update policy is, TorrentFreak asked Google for a comment, but we have yet to receive a reply.
+
+In the meantime we decided to compile our own list of terms that are currently blocked from Instant and Autocomplete. Most terms are related to torrent sites and cyberlockers. In many cases the full url is not blocked, which then simply takes over as an Autocomplete suggestion.
+
+Readers are welcome to add more censored keywords in the comment so we can add to the list.
