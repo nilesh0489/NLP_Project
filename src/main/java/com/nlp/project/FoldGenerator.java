@@ -4,6 +4,7 @@ import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 
 
 public class FoldGenerator
@@ -20,9 +21,9 @@ public class FoldGenerator
         for(int j = 1; j <= 5; j++)
         {
             FileWriter fop = new FileWriter("train/train-fold-"+ j +".txt");
-            BufferedWriter out = new BufferedWriter(fop);
+            PrintWriter out = new PrintWriter(fop);
             FileWriter fopTest = new FileWriter("test/test-fold-"+ j +".txt");
-            BufferedWriter outTest = new BufferedWriter(fopTest);
+            PrintWriter outTest = new PrintWriter(fopTest);
             
             for(int i = 1; i <= 150; i++)
             {
@@ -45,6 +46,16 @@ public class FoldGenerator
                         else
                             outTest.write(line);
                 }
+              
+                if(i > j*30 || i < (j-1)*30)
+                {
+                    out.println();
+                    out.println("### END ###");
+                }
+                else {
+                    outTest.println();
+                    outTest.println("### END ###");
+                }
                 
                 while((line = brTop.readLine()) != null)
                 {
@@ -54,6 +65,16 @@ public class FoldGenerator
                         }
                         else
                             outTest.write(line);
+                }
+                
+                if(i > j*30 || i < (j-1)*30)
+                {
+                    out.println();
+                    out.println("### END ###");
+                }
+                else {
+                    outTest.println();
+                    outTest.println("### END ###");
                 }
                 
                 br.close();
