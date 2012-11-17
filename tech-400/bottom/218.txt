@@ -1,1 +1,32 @@
+The Radio Hat was a portable radio built into a pith helmet that would bring in stations within a 20 mile (32 km) radius. It was introduced in early 1949 for $7.95 as the "Man-from-Mars Radio Hat."[1] Thanks to a successful publicity campaign, the Radio Hat was sold at stores from coast to coast in the United States.
+The Radio Hat was manufactured by American Merri-Lei Corporation of Brooklyn N.Y. The company was a leading supplier of party hats, noise makers and other novelty items. Its founder, Victor Hoeflich, had invented a machine to make paper Hawaiian leis while still in high-school (1914), and by 1949 the company shipped millions of leis to Hawaii each year. An inventor and gadgeteer,[2][3][4] Hoeflich continued to develop and even sell machinery that manufactured paper novelty items.[5][6]
+Battery-operated portable radios had been available for many years, but Hoeflich hoped a radio with innovative packaging and a publicity campaign could be a runaway success. The transistor had just been invented, but was still an expensive laboratory curiosity; the first pocket transistor radio was still 5 years away. This radio would have to use the existing vacuum tube technology and the tubes would be a prominent design feature. The loop antenna and the tuning knob were also visible. The hat was available in eight colors: Lipstick Red, Tangerine, Flamingo, Canary Yellow, Chartreuse, Blush Pink, Rose Pink and Tan.[7][8]
+Contents  [hide] 
+1 Product introduction
+2 Circuit description
+3 Schematic
+4 References
+5 External links
+[edit]Product introduction
 
+
+
+The Radio Hat interior; the headphone could be on either side.
+In March 1949, Victor Hoeflich held a press conference to introduce the "Man from Mars, Radio Hat". Hoeflich knew a picture would tell the story so he had several teenagers modeling the Radio Hats for the reporters and photographers. Soon pictures and news stories appeared in newspapers coast to coast.[9][10] The articles typically included a photo of a young lady wearing the hat and a six-paragraph story. The Radio Hat also received widespread coverage in magazines. This included do-it-yourself magazines such as Popular Mechanics,[11] Popular Science,[12] Mechanix Illustrated,[13] and Radio-Electronics. There was also coverage in general-audience magazines such as Life, Time,[14] Newsweek, and The New Yorker.[6]
+The Radio Hat was sold in department stores and by mail order.[1] A Van Nuys, California service station chain sold the hats as a promotion item to customers who purchased gasoline.[15] The massive publicity did not lead to lasting sales. Advertisements for the Radio Hat stopped in early 1950. In a 1956 interview, Hoeflich said the company still got orders for the hat even though it was long out of production.[5]
+Hugo Gernsback, the Editor of Radio-Electronics, was impressed with the Radio Hat and the June 1949 issue had a two-page article describing the circuitry and construction of the radio. The cover photograph shows a 15-year-old Hope Lange wearing a Lipstick Red hat.[8] She went on to become an award winning stage, film, and television actress. She was nominated for the 1957 Academy Award for Best Supporting Actress for her role as Selena Cross in the film Peyton Place.[16][17]
+[edit]Circuit description
+
+
+
+The circuit was on a flexible liner that fit inside the hat.
+Radios at this time usually were powered by the AC mains. They used vacuum tubes that had a 6 or 12 volt filament supply that heated the cathode; and a 100 to 300 volt anode (or B+) supply. The technology advances in World War II for mobile radios produced inexpensive low power vacuum tubes. The Radio Hat had an external battery pack that provided 1.5 volts for the filaments and the 22.5 volt B+ supply. These were much safer voltages for use in a hat, especially since the full plate voltage is dropped across the earphone. This technique was commonly used in many simple radios, some having ninety or more volts present across the head or earphones. The battery pack would power the radio for up to 20 hours.
+The radio received the AM broadcast band (540 kHz to 1600 kHz) and was tuned by a knob between the two tubes. (Table top or console radio receivers of the day used 5 or 6 tubes to provide better performance.)
+[edit]Schematic
+
+
+
+The 1S5 vacuum tube converted the radio signal to audio and the 3V4 amplified the audio for the headphone.
+The 1S5 tube functioned as a regenerative detector. Audio detected by the 1S5 was resistance-coupled to the 3V4, where it was amplified and supplied to the earphone.
+The detector was provided with a cathode feedback level well into the oscillation range by the 330 pF capacitor. The received carrier blocked the oscillations, allowing strong local stations to be received clearly. In addition, the loop antenna was part of the resonant tuning circuit, resulting in near-unity coupling between the antenna and the detector, which helped provide a high enough level of carrier for the blocking function. A regenerative detector operated in this mode is sometimes called a superregenerative detector, but it should be noted that in this circuit there was no separate quenching oscillator and the blocking signal was ideally at the same frequency as the oscillation, as opposed to the usually lower frequency employed in a true supperregenerative detector.
+The regenerative detector in the radio hat had adequate sensitivity to receive stations much more distant than the stipulated twenty-mile range, but distant stations would not have had a strong enough carrier to block the oscillations and so would be received with an objectionable heterodyne, audible as an astable squealing noise. Furthermore, the loop antenna was somewhat directional. This was a limitation for a portable radio; the signal level could vary when the listener turned their head. If the target station was accidentally nulled, the carrier signal could fall below blocking level, resulting in an annoying squealing heterodyne similar to that present on stations outside the normal range of the radio.

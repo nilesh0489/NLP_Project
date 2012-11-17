@@ -1,1 +1,26 @@
+Players can buy an "authenticator" from Blizzard which helps to secure accounts on its Battle.net gaming service.
 
+The authenticator is electronically tied to an account and regularly generates random numbers that must be typed in to play.
+
+Forcing players to use Battle.net and the authenticators is "deceptive and unfair", alleges the lawsuit.
+
+Blizzard said it would "vigorously defend" itself against the legal claims.
+
+In 2009, Blizzard revamped Battle.net to make it the over-arching system people must use when playing any of the company's games. It lets players manage payments and subscriptions for games such as Diablo 3, Starcraft 2 and World of Warcraft.
+
+The class action lawsuit filed by Benjamin Bell said it was "unfair" of Blizzard to force people to use Battle.net to play its games. Mr Bell alleges that it has made millions of dollars in profit by selling authenticators to players after they have bought its games. In Europe, the authenticator costs £8.99 (9.99 euros). It also produces a free software app version for smartphones.
+
+'False information'
+Instead of making gamers buy extras to improve security, he said Blizzard should do more to protect accounts itself. The court papers mention several incidents in which the personal details of players were stolen from Battle.net.
+
+
+The authenticator is tied to an account and is used alongside a login name and password
+Blizzard had not taken the "legally required steps" to tell players about these problems, the lawsuit alleges.
+
+Mr Bell seeks damages from Blizzard, an injunction to stop the company charging extra for its security gadgets and wants it to drop the requirement to use Battle.net.
+
+The lawsuit was "without merit and filled with patently false information", Blizzard said in a statement given to game news site IGN.
+
+It denied that it did not do enough to let players know about attacks on Battle.net. It said the allegation that an authenticator was mandatory to use Battle.net was "completely untrue" and stemmed from a misunderstanding about the gadget's purpose.
+
+Blizzard branded the lawsuit's claims "frivolous" and said it would take appropriate legal action to defend itself.

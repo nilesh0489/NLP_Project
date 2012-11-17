@@ -1,1 +1,49 @@
+The advent of big data hasn’t changed the ideas behind most enterprise security practices, but it has made them better. While network security and endpoint security have always relied on the processing of files or traffic against threat databases of to determine whether they’re dangerous, big data lets them gather, store and analyze much more data. The result, in theory, are products that are more intelligent than their predecessors and that make the guys tasked with keeping a company secure that much better at their jobs.
 
+Here are seven big data-inspired approaches to security that have piqued my interest lately. I know I’m leaving out a lot of other approaches and companies, so please fill in the blanks in the comments section.
+
+Prioritizing threats
+
+Software-as-a-Service security startup Risk I/O announced $5.25 million in venture capital funding on Tuesday, based in large part on its ability to simplify security administrators’ lives by telling them which vulnerabilities are best fixed now and which can wait a bit. Co-founder and CEO Ed Bellis first recognized the problem of information overload while serving as CISO at Orbitz, where he told me he was subsumed by the noise of dozens of products spitting out information on untold numbers of vulnerabilities, all in different formats and all without any guidance on what to do next.
+
+And the problem is only getting worse as companies grow and inevitably roll out or acquire new security products along the way. “Nothing ever dies,” Bellis said, “it’s just one more thing you end up having to support.”
+
+Risk IO tackles this complexity by taking in the data from all of a company’s security applications and analyzing the context around the threats they’ve discovered. (And because it’s a SaaS offering, Bellis said Risk IO can easily include crowdsource threat analysis to include intelligence gleaned from its 400-plus enterprise customers.) Once the data is analyzed, Risk I/O tells users which vulnerabilities they need to tackle immediately, basing its recommendations on many criteria, including how exposed a vulnerability is, whether there’s an exploit published somewhere online and how often other companies are getting burned by it.
+
+Really, Bellis said, the goal is to let users sleep relatively easy knowing that of the 10 million vulnerabilities their system might have, perhaps only 50 or 60 are likely to result in a breach. “We’re here to help organizations make much better security decisions,” he said. “… They can’t fix everything and not everything needs to be fixed.”
+
+Letting admins play C.S.I.
+
+Sourcefire’s FireAMP product does detect malware, but it’s real magic comes into play when it’s time to do forensics. A cloud-based backend takes care of all that heavy lifting around processing, while security personnel can work their way through the data to determine everything from how a piece of malware moved through the system to whether the behavior or certain employees or departments is unduly exposing the company to attacks. This type of analysis lets a company identify the causes of attacks rather than just treating the symptoms, Sourcefire’s Zulfikar Ramzan told me in January.
+
+Stopping crime in its tracks
+
+For Silver Tail Systems, a four-year-old company that EMC purchased earlier this month, the focus is on building always-learning behavioral models for web visitors that let customers identify and thwart attacks as they’re happening. When its software spots activity from an untrusted source or that’s deviating too far from the norm for a given IP address, it can flag security personnel who can then respond as they see fit or it can just deny access outright. If there’s a question about a visitor is real or a bot, Silver Tail can deploy a CAPTCHA or other test to try validate its humanity.
+
+Visualizing threats
+
+PacketLoop is a security startup that was clearly born in the age of big data. The company touts its Hadoop- and NoSQL-based platform for its ability to store and process many terabytes of network packet data, and it’s all about presenting the results via visualizations that tell a story. From a functionality perspective, the company claims its big data architecture allows it to analyze every single packet every time its intrusion detection systems are updated, meaning its always on the lookout for nefarious activity, even in historical data.
+
+Keeping BYOD in check
+
+Tenable Network Security performs a lot of network security tasks for its customers, although one capability that recently caught sole investor Accel Partners’ eye — to the tune of $50 million — is its ability to identify in great detail the mobile devices on the corporate network. Tenable’s Nessus software can determine how many mobile devices are on their networks and just about everything about them — serial number, model, OS version, whether it’s jailbroken, when it last connected to the network, you name it.
+
+As Tenable Founder and CEO Ron Gula told me at the time of its funding in September, “People say BYOD, but it’s really connect your own device to the network.” And when they’re doing that from any number of coffee shops and hotels across the country, it’s important to know who’s who and that they’re not bringing any hangers-on with them. A jailbroken phone that hasn’t had a software update in three years? Well, someone might want to address that.
+
+Opening the data — lots of it
+
+CloudFlare is a pretty impressive company, if only because of the sheer amount of data it collects trying to improve performance and security for the more than 500,000 websites that use its service. According to Founder and CEO Matthew Prince, the company handles between 75 billion and 80 billion pageviews a month, and its database now includes about 650 million IP addresses. Cloudflare’s system ingests 20GB of log data per minute, and the company is currently in the process of building a 20-petabyte cluster to store all that data (the fraction it retains) using its custom-built file system.
+
+All that data means CloudFlare’s behavioral models are very good at detecting malware and bot activity, and it will only get better as more data gets added to the system, Prince said. And thanks to the service’s distributed architecture, the company claims it can fend off even large, persistent DDoS attacks without its users feeling a thing. But the company’s biggest contribution to the security space might be yet to come.
+
+Prince said he’s on a mission to open up the company’s stockpiles of data on malicious traffic with the intent of letting even small companies get in on large-scale data sharing like large web companies already do among themselves. The bad guys share data like crazy, he said, and “only through coordinated efforts are the good guys going to be able to win. … Any individual site can only be as secure as the lens through which it sees.” CloudFlare’s data could help many companies open their apertures.
+
+Of course, there are some complicating factors to Prince’s plan, including the possibility that cybercriminals would be able to learn from the data to further their own efforts. Even some of Prince’s colleagues don’t think widely releasing the company’s data is such a good idea without some serious thought into how to do so ethically and securely. So for now he’s going to start small by publishing a blog post identifying the global networks most often involved in DDoS attacks, although, he noted, “I could do down to the machine level.”
+
+Playing petri dish
+
+Although Bromium’s technology isn’t inherently data-centric (it’s more about using a novel approach to virtualization to isolate untrusted processes), the company is starting to let users capture some very interesting data. Similar in theory, if not architecture, to the virtual sandboxes that companies such as Palo Alto Networks employ at the network level, Bromium’s new Live Attack Visualization & Analysis (LAVA) feature lets malware run its course within an insulated micro-VM so security analysts can see how it plays out and what it’s trying to accomplish.
+
+
+
+During a recent call, Bromium’s chief security architect, Rahul Kashyap, said LAVA could helps these analysts hone their definitions of what’s actually malware and what’s not. Whereas many network, web and endpoint security services gather lots of data about suspected malware activity from across their user bases (like, nearly everyone mentioned in this post), the log files and signatures they generally collect might not provide enough evidence to completely eliminate false positives. LAVA, he explained, gives analysts the ability to eliminate the doubt around whether something is malicious — even undocumented zero-day attacks — because they can watch it watch it run its course in the safety of the micro-VM like a biologist watches bacteria in a petri dish.

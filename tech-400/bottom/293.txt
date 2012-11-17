@@ -1,1 +1,6 @@
+We presumably put our phones in vibrate mode to keep them quiet. But a vibrating phone on a table is pretty much the most disruptive sound there is.
+Enter Apple's latest patent, which comes to us via Apple Insider. The company has come up with a system that uses the iPhone's mic and accelerometer to detect when it's vibrating too loudly.
+When it is, the phone simply reduces its vibration. A pretty cool solution since it makes use of hardware the phone already has.
 
+
+Read more: http://www.businessinsider.com/apple-vibration-system-patent-2012-11#ixzz2CV5nWwwl

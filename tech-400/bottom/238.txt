@@ -1,0 +1,16 @@
+Torrent tracker The Pirate Bay has been under a distributed denial of service (DDoS) attack overnight, with the site ceasing to serve requests from users.
+
+The outage was confirmed on Twitter by one of The Pirate Bay's accounts, and is believed to have been orchestrated by a user called Zeiko.
+
+
+Zeiko claimed to have launched two DDoS attacks overnight, and the second one succeeded in knocking The Pirate Bay offline.
+
+The attacker also hit Fenopy, another torrent tracker, and claims to have succeded in taking that site down too.
+
+However, Fenopy remains accessible as of writing and The Pirate Bay has also resumed service.
+
+Speaking to file sharing news site Torrent Freak, The Pirate Bay said it wasn't too concerned about the attack and said it would use the downtime to perform database upgrades.
+
+According to The Pirate Bay, the DDoS was a SYN flood through a small botnet of compromised machines, in which the attacker abuses the TCP three-way handshake to establish multiple empty connections so that a server eventually runs out of resources.
+
+Last month, The Pirate Bay announced that it had switched over to cloud-based hosting with a virtualised architecture, in part to make the site harder for authorities to take down.

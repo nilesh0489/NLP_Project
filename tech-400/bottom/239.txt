@@ -1,1 +1,33 @@
+HTC and Verizon jointly announced the latest entry into the Droid brand, the Droid DNA, at a press event Tuesday in New York. Ars spent some hands-on time with the device, and while it’s not flawless, the pixel-dense display and body design are likely already inspiring some anxiety in HTC’s competitors.
 
+The Droid DNA has a 5-inch Super LCD 3 1920×1080 screen, giving it a pixel density of 440ppi. This dwarfs the retina iPhone 5’s 326ppi. In person, the screen is phenomenally crisp and bright, with good color balance. Cranking the resolution on a 5-inch display to this level isn't going to make a huge amount of overall difference in most use cases, but the UI sure does look sharp on that screen. That said, this is one of the first 1080p smartphones; we wonder how many apps are suited, or will be adjusted to suit, the phone's resolution.
+
+
+The right side of the Droid DNA, with an extremely low-profile and camouflaged volume rocker.
+Casey Johnston
+
+Casey Johnston
+
+The top of the phone, with a red sleep/power button.
+
+Mmmm, the back pics up some delicious fingerprints around the single Beats Audio speaker.
+I will admit that I couldn’t see a difference in crispness between the Droid DNA and an iPhone 4S. However, it looks like the slim and narrow default Android font, Roboto, benefits from the denser display.
+
+Though the phone is edging into the phablet-size territory of the Samsung Galaxy Note and Note II, HTC Design Director Jonah Becker commented emphatically that the Droid DNA is not a phablet. "The Droid DNA is a smartphone," Becker said. While there is still a tiny bit of bezel surrounding the display, the Droid DNA did not feel as ridiculously large as the Note and Note II did when I first held them. It's still big, but even though my hands are not huge, I didn't have to struggle to wrap my fingers around it. Still, when holding the Droid DNA one-handed, my thumb could only reach the lower half of the screen.
+
+
+
+The Droid DNA keeps the three Android soft keys along the bottom of the screen rather than using the onscreen ones found on other stock Jelly Bean devices.
+As is usual in these types of events, a security tether kept me from really getting a feel for how the phone rests in the hand, but the curved silicone back seems comfortable. The phone isn't razor-thin, but it's slim enough; if you're in the market for a 5-inch phone, a little girth in the other dimensions probably won't put you off.
+
+The phone was extremely responsive as I navigated around the OS (the Droid DNA will launch with Android 4.1 Jelly Bean)—there was not an animation stutter to be found. The 1.5GHz quad-core Snapdragon S4 Pro processor and 2GB of RAM likely deserve much of the credit. But we have some reservations about how those specs, along with the display, will weigh on the phone's 2,020 mAh battery.
+
+HTC made special note of the Droid DNA's front camera, an aspect of smartphones and tablets that is almost universally terrible. The Droid DNA uses a 2.1-megapixel model on the front that can shoot 1080p video—still lackluster, but less of a skimp than manufacturers usually force their customers to cope with.
+
+
+The rear camera is 8 megapixels, with an f2.0 lens. I took a couple of test shots in the dimly lit showroom, and I was less than impressed with the quality of the photos. Low light will definitely not be the Droid DNA's strength, placing it behind phones that have decided to make that a selling point like the Nokia Lumia 920, but we'll reserve judgment on the camera until we test it in a wider variety of scenarios.
+
+
+Verizon Wireless Chief Marketing Officer Tami Erwin and HTC President Jason Mackenzie showing off the upcoming Droid DNA.
+Casey Johnston
+The Droid DNA will launch in stores on November 21 for $199 with a two-year contract on Verizon or for $599 contract-free, and we're looking forward to getting a closer look and spending some quality time with that deep display.

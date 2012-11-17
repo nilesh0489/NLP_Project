@@ -1,1 +1,26 @@
+US defence firm Lockheed Martin says it has seen the number and sophistication of international cyber-attacks increase dramatically in recent months.
 
+According to the firm, 20% of threats directed at it are now considered "advanced and persistent".
+
+The news come as US officials step up their warnings about cyber-attacks on US institutions.
+
+Lockheed Martin declined to say where any of the attacks had originated.
+
+China and Iran have been linked to a series of attacks against western targets in recent months.
+
+Speaking about how it is dealing with cyber-attacks, Chandra McMahon, Lockheed's vice-president and chief information security officer, said: "The number of campaigns has increased dramatically over the last several years.
+
+"The pace has picked up."
+
+Tenacious adversary
+One of the biggest issues for the firm is hackers targeting its suppliers, she said.
+
+In May 2011, it emerged that Lockheed Martin had come under significant cyber-attack. It happened, in part, because of an earlier attack on RSA, a security firm that supplied the firm with secure ID tokens.
+
+"The adversary was able to get information from RSA and then they were also able to steal information from another supplier of ours, and they were able to put those two pieces of information together and launch an attack on us," said Ms McMahon.
+
+She said that in this case, the "adversary" had been tracked for years beforehand and the firm had lost no data because its own in-house detection systems flagged up the breach.
+
+She said that one of the lesson learned from the breach was the importance of sharing data with other defence companies and suppliers.
+
+"The adversary has been very significant and tenacious and has really been targeting the defence industrial base," she said.

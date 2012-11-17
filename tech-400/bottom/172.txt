@@ -1,1 +1,13 @@
-
+In the clash of the world's supercomputing titans, a new U.S. supercomputer named "Titan" is king.
+The $100-million Titan seized the No. 1 supercomputer ranking on the Top500 List with a performance record of 17.59 petaflops per second (quadrillions of calculations per second). The supercomputer, a Cray XK7 system based at Tennessee's Oak Ridge National Laboratory, leaped past the former champion, the Sequoia supercomputer at California's Lawrence Livermore National Laboratory.
+The top five supercomputers in the world are:
+Titan Cray XK47 at Oak Ridge National Laboratory (17.59 petaflops/s)
+Sequoia BlueGene/Q at Lawrence Livermore National Laboratory (16.33 petaflops/s)
+Fujitsu's K computer at the RIKEN Advanced Institute for Computational Science in Kobe, Japan (10.51 petaflops/s)
+The Mira BlueGene/Q computer at Argonne National Laboratory in Lemont, Ill. (8.16 petaflops/s)
+The JUQUEEN BlueGene/Q computer at the Forschungszentrum Juelich in Germany. (4.14 petaflops/s)
+U.S. supercomputers had fallen behind China's Tianhe-1A supercomputer and Japan's Fujitsu K Computer starting in 2009, but staged a comeback with Sequoia's rise in 2012.
+Sequoia's 1,572,864 computing cores actually outnumber Titan's 560,640 cores, but not all computing cores are created equal. Titan draws 90 percent of its performance from having 261,632 of NVIDIA's new K20x accelerator cores.
+The NVIDIA accelerator cores use the same graphics processing unit (GPU) technology that drives graphics cards for displaying video games. GPUs run tasks on many different "threads" that may run slower than traditional threads on central processing units (CPUs), but GPUs make up for that by running many more threads simultaneously.
+GPU-driven supercomputers will become even more crucial in building the next generation of "exascale" supercomputers that would work 1,000 times faster than today's supercomputers. That's because GPUs use far less energy than the CPUs that have traditionally driven computing.
+Titan used the new Tesla K20x accelerators to achieve an energy efficiency of 2,142.77 megaflops per watt (million calculations per second per watt), enough to also rank Titan No. 1 on the Green500 list of the world's most energy-efficient supercomputers.
