@@ -1,1 +1,9 @@
+Shortly after the iPhone 5 was released, some users began to complain that a purple flare appeared on pictures taken with the camera whenever it was pointed toward a bright light. Now, Apple is publicly acknowledging the problem with a response posted to its support page online:
 
+Most small cameras, including those in every generation of iPhone, may exhibit some form of flare at the edge of the frame when capturing an image with out-of-scene light sources. This can happen when a light source is positioned at an angle (usually just outside the field of view) so that it causes a reflection off the surfaces inside the camera module and onto the camera sensor. Moving the camera slightly to change the position at which the bright light is entering the lens, or shielding the lens with your hand, should minimize or eliminate the effect.
+
+Apple suggests in the response that flares can pop up on the edge of pictures taken with any iPhone — not just the iPhone 5 — though as you can see in the pictures Mashable took above, it appears that only the iPhone 5 has a purple flare. In any case, the solution Apple offers for any iPhone is simply to minimize the camera’s exposure to the bright light causing the flare.
+
+This is the third big complaint Apple has been forced to address publicly about the iPhone in the past two weeks. First, users complained about the quality of Apple’s maps application for iOS 6, which eventually prompted the company’s CEO Tim Cook to issue an apology. Then, users complained that the new iPhone scuffs easily, which prompted the company’s SVP of marketing Phil Schiller to respond, noting that it’s “normal.”
+
+Are you satisfied with Apple’s response? Let us know in the comments.

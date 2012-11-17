@@ -1,0 +1,25 @@
+The 16 GB iPhone 5 costs Apple slightly more to build than it retails for with a two-year contract, according to a new report from IHS iSuppli.
+
+The market research firm conducted a virtual teardown of the latest iPhone and estimates that the parts used in the 16 GB version cost Apple $199 while the manufacturing cost is another $8, meaning Apple pays about $207 to build the entry-level iPhone 5.
+
+Not only is that more expensive than the phone’s $199 price tag with a two-year contract, it’s also more than the iPhone 4S was estimated to cost Apple to build. A previous report from iSuppli found that the materials used in the 16 GB version of the iPhone 4s cost Apple $188.
+
+The two biggest factors driving up the cost of the latest iPhone are 4G LTE and the new in-cell touchscreen technology that essentially eliminates a layer from the display to make the smartphone that much thinner. The use of 4G LTE is estimated to cost Apple $34 per device, up from $24 per device for the wireless component costs in the iPhone 4s. Likewise, the in-cell technology increased Apple’s display costs to $44 for each iPhone 5 compared to $37 for each iPhone 4s.
+
+Apple was able to offset some of this by bringing the cost of other parts down, including the price of NAND Flash, which is estimated to have been almost halved from the previous year to $10.40.
+
+As iSuppli points out, these estimates only factor in the cost of hardware parts and manufacturing, but omit the cost of research and development, licensing fees and royalties, among others, so the overall price tag for Apple could be higher.
+
+Even if the phone does cost more $207 or more to build, it’s worth noting that the actual starting price of the iPhone 5 is $649 — that cost gets subsidized by the wireless companies with your contract — so Apple still has a huge profit margin here.
+
+Here’s the full breakdown of what it costs to make each version of the iPhone 5 from iSuppli:
+
+I've seen this property in action. That SanDisk Cruzer Titanium flash drive I had would bounce enthusiastically whenever dropped onto a hard surface. A bouncing flash drive is one thing, but a bouncing iPhone is another, and likely to suffer more overall damage than one that just thuds to the ground because each bounce is another chance for gravity to break the screen.
+
+I don't think that it is Liquidmetal's indestructibility that Apple is interested in, because let's face it, Apple doesn't have a track record of building robust devices, but instead the material's high strength-to-weight ratio that interests the Apple engineers.
+
+This property means that you can cast a shell out of Liquidmetal that's much thinner than a shell stamped out of a sheet of metal, as was the case with the early iPhones, or machined out of a block of aluminium, which is how Apple manufactures the shells of devices such as the MacBooks or iPads. A thinner shell means less space taken up per unit volume by the casing, which in turn leaves more space for the important stuff that goes inside the device.
+
+But there's one property of Liquidmetal that no one seems to have considered. How transparent is this material to radio frequencies?
+
+If the material doesn't allow for effective passage of radio frequencies, moving all the iPhone's antennas -- GSM, CDMA, UMTS, GPS, Wi-Fi, and Bluetooth -- inside a Liquidmetal shell doesn't make sense. I've had a look through the tech specs for the material but can't find anything relating to this. I've put a question in to Liquidmetal Technologies about radio frequency transmission, and will update this post if I get an answer.
