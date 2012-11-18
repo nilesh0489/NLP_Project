@@ -1,0 +1,19 @@
+Materials in the low-end model of Apple Inc.'s /quotes/zigman/68270/quotes/nls/aapl AAPL +0.39% new iPhone 5 cost $199, according to a physical teardown by market-research provider IHS Inc. /quotes/zigman/368690/quotes/nls/ihs IHS +2.12% .
+
+Meanwhile, the 16-gigabyte iPhone 5 cost $207 to manufacture, the firm said.
+
+Earlier this month, the firm's virtual teardown estimated the combined cost of the components for the iPhone 5--what is known as a bill of materials--at $197, or only $9 more than for the iPhone 4S.
+
+The iPhone 5 is Apple's first smartphone to work on high-speed fourth-generation cellular networks, using the Long-Term Evolution, or LTE, technological standard. The consumer price of the base model iPhone 5 is the same as for the 4S.
+
+IHS said the bill for parts in the 32-gigabyte version increased to $209.00, pushing the total manufacturing cost to $230.
+
+"The iPhone 5 exhibits a great deal of similarity to the iPhone 4S in terms of component suppliers," said Andrew Rassweiler, senior principal analyst of teardown services for IHS. "But beyond this superficial resemblance, there are some critical changes to product design and parts that enable major upgrades that improve user experience."
+
+These changes include a faster applications processor, larger display and a high-speed 4G LTE air interface, the firm said.
+
+New suppliers for the iPhone 5 include SanDisk Corp. /quotes/zigman/54370/quotes/nls/sndk SNDK +0.46% , which contributed the NAND flash memory. The firm said this is first time that SanDisk NAND has been found in an iPhone examined by IHS. The firm's iPhone 4S teardown showed the NAND supplier was Samsung Electronics Co. (SSNHY, 005930.SE).
+
+However, IHS said Samsung, SK Hynix Inc. (HXSCF, 000660.SE) and Toshiba Corp. (TOSYY, 6502.TO) could also serve as Apple's sources because the NAND component is a commodity part available from multiple suppliers.
+
+Elpida Memory Inc. replaced Samsung as the supplier of the SDRAM in the iPhone 5 analyzed by IHS. But IHS said Samsung and Hynix could also be supplying this widely available memory part.

@@ -1,0 +1,31 @@
+It wouldn’t be another iPhone launch without a surrounding air of controversy. Or two.
+
+Complaints about the new Apple-created Maps in iOS 6 continue to pour in, as users find more things that appear to be a step back from the previous Google Maps-powered application.
+
+But the software issues may only scratch the surface of the company’s launch problems — so to speak.
+
+A number of Apple early adopters claim that the back case of the iPhone 5 is highly susceptible to scratching and more visible signs of wear and tear, according to multiple reports from across the Web.
+
+Perhaps even more serious, numerous accounts state that users are receiving iPhone 5 devices damaged directly out of the packaging, before customers have had chance to actually lay hands the device.
+
+It seems to be an issue with the anodized aluminum surface, and the apparent difficulty that comes with keeping the device from getting nicks and scrapes. It appears that the black version is either more susceptible to damage than its white counterpart, or signs of visible wear are more readily visible due to the higher contrast in colors.
+
+Apple has not yet responded to a request for comment.
+
+A lengthy — 100-plus pages — thread on the topic popped up on the MacRumors Web site since the release of the new iPhone, with users conducting an informal poll of who is seeing damage. Of the more than 1,000 people who have responded thus far, approximately 45 percent of respondents claim some sort of visible scuffing to their black iPhones, with the vast majority of those being damaged directly out of the box.
+
+There are also multiple threads on the issue over on Apple.com’s official customer-support message boards. A number of these customers have either swapped their devices out for new iPhones at their local Apple store, or have spent time on the phone with Apple customer care reps.
+
+One Apple forums user claims that they were told by an Apple customer service representative that this was “a widespread issue.”
+
+As reports flood in from users who claim to have purchased their phones in such disparate areas as Hong Kong, Europe and the U.S., the situation does not appear to be localized in any specific region.
+
+Many users report that the most easily damaged area appears to be on the chamfered edges of the device, wearing away the anodized surface and creating a “shiny” look, as the uncoated metal peeks out from underneath the undamaged surface.
+
+It’s worth noting that while the iPhone 4 and 4S were both made using stainless steel, Apple switched to using aluminium construction for the iPhone 5. The anodization process is what gives both the black and white iPhone 5 devices their color; the same process cannot be applied to stainless steel. Aluminium is not as scratch-resistant as stainless steel.
+
+On a personal note, three members of the AllThingsD staff received iPhones with visible (albeit small) nicks directly out of the package, having had no prior contact with the device.
+
+To be fair, it can often be hard to tell sometimes whether an Apple product indeed has a cosmetic issue, or if it is just the fact that customers scrutinize the products so much, given how highly Apple — and its fans — focus on design. Sometimes, the issue appears to be a little of both, as was the case roughly a decade ago with the “mold lines” (or some would say cracks) found in some of the early PowerMac G4 Cube units, which were caused by a manufacturing error.
+
+We’ll have to wait and see how Apple responds to the issue. In the meantime, teardown Web site iFixit produced an entertaining “rigorous” testing video on how susceptible the back cover is to scratching, putting the device through the ultimate ordeal — at the hands of a two-year-old girl armed with a set of car keys:

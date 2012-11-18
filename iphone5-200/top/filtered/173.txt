@@ -1,0 +1,11 @@
+Once again, digging through Apple's XML files has revealed the url to the iPhone 2.0 Firmware that is presently available on Apple's servers. One of our readers found this new firmware image: 
+
+Link removed at request of Apple 
+
+This build is slightly higher than the one of the latest iPhone Firmware Beta (5A345) which was also spotted on shipping iPhone 3Gs. Despite the filename appearing in the XML file, the actual firmware has not yet been released officially. As well, the firmware carries a "1,2" designation while all previous firmwares, including the beta firmwares carried a "1,1" number. 
+
+Apple has posted an updated guide about firmware upgrades and warns:
+Normally if you choose to update, the iPhone or iPod touch software is updated but your settings and media are not affected. If your device currently has a software version prior to 2.0 (1.x) and you are updating to software version 2.0 or later, all data on your device will be erased in order to perform install the new software. In this case, iTunes will offer to create a one-time media backup of your device depending on what content is on your device and what content is stored in the iTunes Library you are connected to. You should ensure that you have enough free space on your Mac or PC to accommodate a backup that matches the capacity of your iPhone or iPod touch (4 GB, 8 GB, 16 GB, or 32 GB) if you proceed with the this backup.
+Be sure to fully sync prior to proceeding. In order to install this firmware, you will have to do it manually by pressing the Option key (Shift under Windows) when pressing the "Check for Update" button in iTunes version 7.7. Then select the .ipsw file manually. If for some reason your download is a ".zip" file, rename it to ".ipsw" before proceeding. 
+
+We expect the firmware to be officially released shortly and will appear in your iTunes software update. If you don't wish to wait, you can use this method, but should proceed with caution and at your own risk. That being said, there are reports of people having successfully used this firmware on the original iPhone, and are successfully downloading and running App Store apps. 

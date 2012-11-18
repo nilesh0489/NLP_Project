@@ -1,0 +1,25 @@
+INFINITE LOOP / THE APPLE ECOSYSTEM
+iPhone battery life issues may continue to vex users—even post iOS 5.1
+iPhone 4S users still complain that a software fix for battery life problems …
+
+by Chris Foresman - Dec 1 2011, 10:17pm EST
+105
+ 
+Photo illustration by Chris Foresman
+Apple recently acknowledged that some iPhone 4S users aren't getting the battery life they should and released an iOS update intended to fix those problems. However, the effectiveness of the fix appears to vary widely, with some Ars readers reporting improvements while others claim battery life got worse. Apple released the first beta of iOS 5.1 to developers on Monday, which is expected to include additional battery life fixes, but early reports suggest it offers no reprieve from the problem.
+
+We spoke to a couple analysts to try and understand what might be the root cause of the problem, and why Apple has had such a hard time fixing it. It turns out, the answer isn't very simple because smartphones aren't simple devices.
+
+As smartphones take on more and more useful features, how we use than can have a major effect on battery life. "I'm not seeing an issue myself," Gartner analyst Michael Gartenberg told Ars, "except there are more features I use on a regular basis which do affect battery life. As with all devices, what features you use extensively will affect battery life."
+
+ABI Research mobile device expert Michael Morgan agrees with that assessment. "iOS 5 may simply be using more data transmission or running more background processes to support its new features," he told Ars. "There is also some potential impact of iCloud services."
+
+For instance, we have noted slightly decreased battery life on our iPhone 4 since upgrading to iOS 5, as Notification Center has made receiving push notifications from dozens of apps more manageable. However, you can turn off any noncritical notifications to boost battery life a bit. Some users have reported that turning off Siri's "raise to talk" feature, changing how often your device checks for new data, or reducing the number of services that sync data to your device can also positively affect battery life.
+
+But such tweaks can only go so far. "Any undefined glitch is a massive problem to solve for such a complex system," Morgan explained. "iOS 5.0.1 supposedly fixed the problem for some users, but made it worse for others."
+
+That echoes what we have heard from our own readers, who said in an informal poll that battery life stayed the same, got a little better, or improved significantly after the update. A few even suggested that it got worse, though 40 percent said that battery life hasn't been a problem for them at all.
+
+Morgan told Ars that software, and not hardware, is the most likely culprit, and that additional software tweaks may solve the problem for those that still are affected. "We tore down the 4S and tested some of the major components, including the new A5 processor," Morgan said. "Nothing that we tested was significantly different from the iPhone 4, and power draw was right where we expected it to be."
+
+Tweaking iOS 5 and its power management software is the likely fix, but with so many areas of the operating system to examine, it may take Apple more time to iron out the problem that it had originally intended. Perhaps as iOS 5.1 undergoes testing, additional fixes will be added. However, the company did not respond to our questions about its efforts to further address the problem.
