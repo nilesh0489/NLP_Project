@@ -1,0 +1,23 @@
+The Columbus Free Press is reporting that the Ohio Secretary of State Jon Husted allegedly ordered for “experimental software patches” to be installed on vote-counting machines in a number of Ohio counties.
+
+According to the newspaper, voting rights activists are concerned that the software patches, which are usually used to update or change existing software, could potentially affect over 4 million registered voters, including those who live in Columbus and Cleveland.
+
+Ohio law allows for the experimental use of voting equipment as long as it’s restricted to a limited number of precincts, and under the experimental label, equipment can legally be used without certification.
+
+The Free Press revealed the contract between Husted’s office and the contracted vendor Election Systems and Solutions reads that the software has not been and does not need to be reviewed by any testing authority at the state or federal level.
+
+Election Counsel Brandi Laser Seske sent out a memo to Secretary of State personnel yesterday, detailing the software. In the memo, she explains the software did not require review because it is not “involved in the tabulation or casting of ballots … or a modification to a certified system.”
+
+Matt McClellan, a spokesman for the Secretary of State’s office, told theGrio that no patches were installed, describing instead a reporting tool software meant to “assist counties and to help them simplify the process by which they report the results to our system.”
+
+McClellan said the tool serves to cut down on the amount of information precinct workers would have to key in by hand by allowing the results to be output onto a thumbdrive and uploaded at once into the Secretary of State’s system.
+
+“It basically just creates a one-way flow of information — and that is simply from their system, out,” McClellan said. “So at no point in time are we going into their system and messing with anything.”
+
+When asked why the reporting tool was labeled experimental, McClellan responded, “It is a pilot project that we’re doing with about 25 counties or so. So it’s not statewide, but it is a pilot project we’re trying.”
+
+And when asked why a pilot project is being launched so soon before the election, he said, “I’m not sure the exact timeline of that, but I know we’ve been working with the counties for the past couple of months on getting these in place, testing them to make sure they work properly, and working with the vendors as well.”
+
+There are only days left until Election Day and the fear of voter suppression is only increasing. McClellan said there should be no concerns that the new reporting tool will jeopardize the voting results or voter information, but voting rights activists remain far from reassured.
+
+Civil rights organizations like the Advancement Project plan to be on the lookout for any voting rights violations in Columbus and Cincinnati, among other cities in the nation.

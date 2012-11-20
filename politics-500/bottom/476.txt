@@ -1,0 +1,19 @@
+If state polls perform as well as they did in 2004 and 2008, most aggregators should get within +/-15 electoral votes and 48/51 races correct. The question is how to squeeze a bit more out of the data.
+
+The topline listed just below the title of this website is not our prediction, but the automatically-generated snapshot. It will fluctuate as the last few polls trickle in. The last 3 updates are at 8:00am, 10:00am, and noon. Then we freeze it.
+
+ELECTORAL PREDICTION (mode): Barack Obama 332 EV, Mitt Romney 206 EV. The mode is the single most frequent value on the histogram. It corresponds to the map below, and has a chance of being exactly correct.
+
+ELECTORAL PREDICTION (median): Obama 309 EV, Romney 229 EV, Popular Vote Meta-Margin Obama +2.34%. This is  the automatically-generated snapshot for November 5th 8:00pm. This prediction is almost guaranteed to be off, since 309 EV is not a common combination. (Note: I’ll edit this with the last few updates.)
+
+Most outcomes arose clearly from the median of the last week of polling. The exception was Florida, for which I used polls with at least half of their respondents on Nov. 1 or after. This gave a median margin of Obama +0.5 +/- 0.8% (n=10), for a win probability of 72%. I will be unsurprised for it to go the other way (outcome Obama 303 EV, Romney 235 EV). In Florida, a recount is triggered by a margin of 0.5% or less (recount rules, Brennan Center for Justice). There is about a 50-50 chance that we will see that happen.
+
+The next-closest states are Colorado, Virginia, and North Carolina, with margins of less than 2.0%. Excluding these three states and Florida still leaves Obama 281 EV, Romney 191 EV.
+
+In addition to all-or-none outcomes, later today I will provide final polling medians in graphical form in the Geek’s Guide. I hope it will be useful as you follow the returns.
+
+POPULAR VOTE. The average Meta-Margin for the last three days was Obama +2.7%. The median of national polls is Obama +1.0 +/- 0.5% (n=13 polls). The approach I described before for combining these measures gives
+
+Finally, here is a look at the histogram as it stands tonight. The EV histogram has resolved to just a few peaks because so few states are in play – the four states I mentioned before, plus maybe Iowa. I’ll update this with a cleaner version with longer-term-integrated probabilities in the morning.
+
+I should point out that A note: Election Eve prediction is not the most impressive of feats. What we did in August (here, and here) was the interesting part. Those were true predictions, and were centered around Obama 315 EV, Romney 223 EV.
