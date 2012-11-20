@@ -1,0 +1,13 @@
+Bulletproofing for soldiers and law enforcement officers has lightened up considerably in recent years, but it promises to get insanely thin with new nanotechnology coming out of MIT and Rice University.
+
+A team of mechanical engineering and materials scientists from Rice University and MIT created special materials that were able to stop bullets in the lab. The group, which included Rice research scientist Jae-Hwang Lee and School of Engineering dean Ned Thomas, recently published their findings in Nature Communications (abstract).
+
+The type of material, called a structured polymer composite, can actually self-assemble into alternating glassy and rubbery layers. When performing ballistic tests on the material at MIT's Institute for Soldier Nanotechnologies, those 20-nanometer-thick layers were able to stop a 9-millimeter bullet and seal the entryway behind it, according to a Rice University article.
+
+However, one of the challenges to making thinner and lighter protective gear is being able to test new, promising materials effectively in the lab. Researchers need to know precisely why those nanolayers are so good at dissipating energy, but analyzing the polymer can take days.
+
+So the MIT-Rice team also came up with an innovative testing method, where they shot tiny glass beads at the material. Although the beads were only a millionth of a meter in size, they simulated bullet impacts, according to MIT News. Under a scanning electron microscope the material's layers look like corduroy so the projectile impact can be seen clearly.
+
+The nanomaterial, along with improved impact testing, could translate into safety beyond vests. According to the researchers, these advancements could accelerate progress on protective coatings for satellites and even jet engine turbine blades.
+
+Meanwhile the team has a disk of the bullets trapped in the clear material to show any skeptics. Ned Thomas told Rice University, "This would be a great ballistic windshield material."

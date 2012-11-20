@@ -1,0 +1,49 @@
+A vulnerability in US domestic airline boarding pass barcodes could allow travellers to bring unauthorised items on board, says a security expert.
+
+The codes reveal what kind of airport checks a passenger will face and can be read by smartphones, he says.
+
+It could undermine the US's PreCheck system which randomly decides which frequent fliers can skip part of the pre-boarding security process.
+
+The barcodes could allow passengers to work out if they had been picked.
+
+Selected travellers are able to avoid having to remove their shoes, jackets and belts. In addition they are allowed to leave their laptops and toiletries in their bags.
+
+The security information on the barcodes is only meant to be decoded by Transportation Security Administration (TSA) officers, so it was not thought to be a problem that PreCheck selected which users would get a less rigorous safety check in advance.
+
+The fact that passengers can use their handsets to find out if they have been picked poses a problem, says Christopher Soghoian, principal technologist at the American Civil Liberties Union.
+
+"The disclosure of this information means that bad guys are not going to be kept on their toes anymore," he said.
+
+The security issue was publicised by aviation blogger John Butler, but had been discussed in specialist online forums since last summer.
+
+"The problem is, the passenger and flight information encoded in barcode is not encrypted in any way," wrote Mr Butler.
+
+"Using a website I decoded my boarding pass for my upcoming trip.
+
+"It's all there PNR [passenger name record], seat assignment, flight number, name, etc. But what is interesting is the bolded three on the end. This is the TSA PreCheck information. The number means the number of beeps. 1 beep no PreCheck, 3 beeps yes PreCheck."
+
+The US Transportation Security Administration (TSA) did not respond to a BBC request for a statement, but has previously said: "TSA does not comment on specifics of the screening process, which contain measures both seen and unseen. In addition, TSA incorporates random and unpredictable security measures throughout the travelling process."
+
+Mr Soghoian told the BBC that information about how to make sense of the boarding pass codes had been documented in the International Air Transport Association's (IATA) implementation guide.
+
+"Thousands of people have reported being able to get the information using their phones," he added.
+
+There are two ways to become eligible for the PreCheck system.
+
+Passengers can pay $100 (£62) to the US customs agency which then performs a background check. If the passenger is approved it gives him or her the right to use all of the US airlines' PreCheck systems for five years.
+
+Frequent fliers could also be invited by an airline to use the system for free.
+
+"You have to be in the system first before they let you to potentially be eligible to skip the standard line," said Mr Soghoian.
+
+"But if you scan the barcode, you can tell 24 hours before you get to the airport that you are not going to undergo a regular search.
+
+"On some random occasion you'll be sent to the other line anyway - and it was meant to keep terrorists on their toes - but not anymore."
+
+Security firm Sophos said the revelation was "very worrying".
+
+"No one should be able to tell in advance what level of security screening they will be receive before an air flight," said the firm's senior technology consultant Graham Cluley.
+
+"The risk is that potential attackers could determine in advance which of them is going to be given the weakest screening - and get them to attempt to carry unauthorised item onboard.
+
+"Potential attackers should not be given advance warning of the security measures they will be facing."

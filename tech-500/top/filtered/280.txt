@@ -1,0 +1,31 @@
+All unlocked for your overclocking pleasure
+
+AMD has unveiled its latest FX Series processers, aimed squarely at the enthusiasts' market – the hardcore gamers and other speed demons who want the snappiest possible performance but don't want to spend an arm and a leg on their systems.
+
+"We're looking at users who are spending over a hundred dollars on a graphics card," AMD product marketing manager Adam Kozak told reporters during a pre-release briefing. "They have to, because it's a processor," he added, meaning that unlike AMD's line of APUs – accelerated processing units – the FX Series are pure processors, with no integrated graphics on the die.
+
+The high-end part of the FX Series, the FX?8350, clocks in at what Kozak referred to as a "default" clock speed of 4.0GHz. But since all of the FX parts are unlocked, expect enthusiasts to overclock them to speeds even higher than what AMD defines as their "Max Frequency" – in the case of the FX-8350, a zippy-enough-for-most folks 4.2GHz.
+
+AMD, by the way, grabbed the overclocking Guinness World Record in November 2011 by cranking up a pre-release eight-core "Zambezi" FX desktop processor to a ludicrous 8.429GHz, beating the previous record of 8.308GHz.
+
+That insane rate was achieved only briefly, and only with the help of liquid helium and liquid nitrogen, but overclockers should find plenty of headroom in the new FX Series using more-conventional water-cooling strategies. Kozak cited 5GHz as a reasonable – and healthily performance-enhancing – clock speed.
+
+There are four parts in the FX Series: the eight-core 4.2GHz FX?8350 and 4.0GHz FX?8320, six-core 4.1GHz FX?6300, and four-core 4.0GHz FX?4300; all those clock speeds are what AMD defines as their Max Frequency. All four parts are priced below $200, at $195, $169, $132, and $122, respectively.
+
+Each of the parts has an L2 cache of 1MB per core, the top three have an L3 cache of 8MB with the bargain-basement FX?4300's L3 at halving that at 4MB, and each communes with DDR3 memory at 1866MHz.
+
+When Kozak was asked if that memory bandwidth could be pumped up to, say 2133MHz, he said, "To tell you the truth, 1866 is kind of where I think the sweet spot is," adding that "Memory [overclocking] doesn't really do much on these platforms, not like it does on the APUs, so even if you did get [2133MHz] running, I'm not sure if you would see much benefit."
+
+The cores that power the FX Series are AMD's 32nm "Pildriver" cores, which made their debut in the company's A Series "Trinity" APUs released in May. According to Kozak, improvements include upgraded branch prediction, new instructions, improved L1 and L2 cache performance, and more.
+
+"Essentially what this all leads to," he said, "is higher performance than our previous flagship" – meaning the current top-of-the-line FX-8150 that the new FX?8350 supersedes. "We're seeing anywhere from 7 all the way up to 15 per cent [improvement]. Half of that comes from [instructions per cycle] improvements, and the other half or so comes from frequency improvements."
+
+As far as which chipsets the new FX Series line should be paired with, Kozak said, "AMD has taken the position that you need a 9-series chip. I know some of the partners have claimed compatibility on their 8-series – that would really be up to them, to see what they've included and what they haven't, because they've kind of done that on their own."
+
+Kozak said that he hasn't tried the new chips on an 8-series-based motherboard – "I guess I'm fortunate that I get all the latest and greatest here" – but he said that if you really want to run one of the new chips on a motherboard with the 8-series chipset, get in touch with your motherboard manufacturer first, and ask them what they recommend.
+
+During his presentation, Kozak threw up a slide that compared the four new FX Series chips with Intel's 3rd Generation Core i5-3570K and i5-3450, and 2nd Generation i5-2300 and i3-2120 processors. Needless to say, the AMD parts specced-out better than their Chipzillian competitors.
+
+Kozak did not, reasonably enough, compare the top-of-the-line FX?8350 with a high-end Intel top desktop processor such as the 3rd Generation Core i7-3770K. We say "reasonably enough" since that Intel part retails for $342 – about 75 per cent more than AMD's top FX Series chip.
+
+Remember, AMD's new FX Series chips are designed for enthusiasts who don't want to sacrifice the aforementioned arm and leg. ®

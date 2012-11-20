@@ -1,0 +1,11 @@
+One of the incredibly useful ways in which our language heuristics technology can benefit the average web user is in the real time analysis of content. By going beyond simple natural language processing and using heuristics to actually understand copy, we can make instant decisions that benefit the web experience.
+
+For the casual content consumer, something we all do, using that understanding of the content to synopsize long-form material down to eloquently short versions has tremendous advantage.
+
+We’ve all been there before. You find an interesting link only to land on a long page of content that you simply don’t have the time or inclination to read -- or at least you need to know if you should invest the time to read it. Other times you click a link only to realize, halfway through the article, that the headline was misleading, wasting your time. Someone should step in to solve this travesty before anyone gets hurt.
+
+We understand that your time is valuable. Stremor’s TLDR plug-in is the ideal solution for everyone from lazy underachievers to time-starved college professors. Wrapped up in a convenient plug-in for Chrome, Safari, and Firefox, it shortens the text of any Web page viewable in your browser.
+
+But wait there’s more! If you realize the page isn’t exactly what you wanted, use the “Find More Like” feature to find similar documents on the web. Liquid Helium will analyze the document and find you more articles on the subject, offering choices with greater specificity, or on related subjects (or that are just plain better written).
+
+Yes. All science sufficiently advanced is indistinguishable from magic. Stremor uses Liquid Helium, our language heuristics engine, to analyze and understand long-form content, then synopsizes it. Reducing content to a more desirable length of text, along with analyzing language and writing. We use “fluff” detectors that can remove sentences that are extraneously long, wordy, overly detailed, repetitive, redundant, unnecessary (or basically sentences like this one). This leaves you with a concise version of the document that can be easily expanded back if parts or all of an article sparks your interests.

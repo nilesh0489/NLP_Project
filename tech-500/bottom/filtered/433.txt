@@ -1,0 +1,43 @@
+STARTING in February, Jeffrey G. Katz grew increasingly anxious as he watched the steady decline of online traffic to his company’s comparison-shopping Web site, Nextag, from Google’s search engine.
+
+In a geeky fire drill, engineers and outside consultants at Nextag scrambled to see if the problem was its own fault. Maybe some inadvertent change had prompted Google’s algorithm to demote Nextag when a person typed in shopping-related search terms like “kitchen table” or “lawn mower.”
+
+But no, the engineers determined. And traffic from Google’s search engine continued to decline, by half.
+
+Nextag’s response? It doubled its spending on Google paid search advertising in the last five months.
+
+The move was costly but necessary to retain shoppers, Mr. Katz says, because an estimated 60 percent of Nextag’s traffic comes from Google, both from free search and paid search ads, which are ads that are related to search results and appear next to them. “We had to do it,” says Mr. Katz, chief executive of Wize Commerce, owner of Nextag. “We’re living in Google’s world.”
+
+Regulators in the United States and Europe are conducting sweeping inquiries of Google, the dominant Internet search and advertising company. Google rose by technological innovation and business acumen; in the United States, it has 67 percent of the search market and collects 75 percent of search ad dollars. Being big is no crime, but if a powerful company uses market muscle to stifle competition, that is an antitrust violation.
+
+So the government is focusing on life in Google’s world for the sprawling economic ecosystem of Web sites that depend on their ranking in search results. What is it like to live this way, in a giant’s shadow? The experience of its inhabitants is nuanced and complex, a blend of admiration and fear.
+
+The relationship between Google and Web sites, publishers and advertisers often seems lopsided, if not unfair. Yet Google has also provided and nurtured a landscape of opportunity. Its ecosystem generates $80 billion a year in revenue for 1.8 million businesses, Web sites and nonprofit organizations in the United States alone, it estimates.
+
+The government’s scrutiny of Google is the most exhaustive investigation of a major corporation since the pursuit of Microsoft in the late 1990s.
+
+The staff of the Federal Trade Commission has recommended preparing an antitrust suit against Google, according to people briefed on the inquiry, who spoke on the condition they not be identified. But the commissioners must vote to proceed. Even if they do, the government and Google could settle.
+
+Google has drawn the attention of antitrust officials as it has moved aggressively beyond its dominant product — search and search advertising — into fields like online commerce and local reviews. The antitrust issue is whether Google uses its search engine to favor its offerings like Google Shopping and Google Plus Local over rivals.
+
+“What to do with an attractive monopolist, like Google, is a really challenging issue for antitrust,” says Tim Wu, a professor at Columbia Law School and a former senior adviser to the F.T.C. “The goal is to encourage them to stay in power by continuing to innovate instead of excluding competitors.”
+
+SPEAKING at a Google Zeitgeist conference in Arizona last month, Larry Page, the company’s co-founder and chief executive, said he understood the government scrutiny of his company, given Google’s size and reach. “There’s very many decisions we make that really impact a lot of people,” he acknowledged.
+
+The main reason is that Google is continually adjusting its search algorithm — the smart software that determines the relevance, ranking and presentation of search results, typically links to other Web sites.
+
+Google says it makes the changes to improve its service, and has long maintained that its algorithm weeds out low-quality sites and shows the most useful results, whether or not they link to Google products.
+
+“Our first and highest goal has to be to get the user the information they want as quickly and easily as possible,” says Matt Cutts, leader of the Web spam team at Google.
+
+But Google’s algorithm is secret, and changes can leave Web sites scrambling.
+
+Consider Vote-USA.org, a nonprofit group started in 2003. It provides online information for voters to avoid the frustration of arriving at a polling booth and barely recognizing half the names on the ballot. The site posts free sample ballots for federal, state and local elections with candidates’ pictures, biographies and views on issues.
+
+In the 2004 and 2006 elections, users created tens of thousands of sample ballots. By 2008, traffic had fallen sharply, says Ron Kahlow, who runs Vote-USA.org, because “we dropped off the face of the map on Google.”
+
+As founder of a search-engine optimization company and a recipient of grants that Google gives nonprofits to advertise free, Mr. Kahlow knows a thing or two about how to operate in Google’s world. He pored over Google’s guidelines for Web sites, made changes and e-mailed Google. Yet he received no response.
+
+“I lost all donations to support the operation,” he said. “It was very, very painful.”
+
+A breakthrough came through a personal connection. A friend of Mr. Kahlow knew Ed Black, chief executive of the Computer & Communications Industry Association, whose members include Google. Mr. Black made an inquiry on Mr. Kahlow’s behalf, and a Google engineer investigated.

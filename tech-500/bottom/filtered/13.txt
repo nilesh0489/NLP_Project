@@ -1,0 +1,39 @@
+HUNTSVILLE, Ala. — Give a hand to some computer engineering students at The University of Alabama in Huntsville for designing a tool that could revolutionize new ways of using electronic devices with just one hand.
+
+It’s calleda Gauntlet Keyboard, a glove device that functions as a wireless keyboard. Instead of tapping keys on a keyboard, the user simply touches their thumb to points on their fingers assigned a letter or other keyboard function.
+
+The PCB transmits it via Bluetooth,whether it’s acomputer, a mobile phone, music synthesizer, video game or military device. Think of the Gauntlet as a touch screen that works by tapping your fingers to your thumb on a gloved hand.
+
+Four senior engineering students at UAH made the glove their senior design project for a computer engineering class led by Dr. B. Earl Wells.
+
+         The students — Jiake Liu, Stephen Doud, Douglas Kirby and Chris Heath — are now seeking a patent to market the product.The project recently won a $20,000 prize from the Best Buy Innovator Fund among hundreds of entries.
+
+“It’s basically a keyboard on your hand,” explained Liu, the principal innovator and a graduate of Grissom High School. “You, by tapping your thumb on each segment of your fingers, type to the screen basically. And you can do a swiping gesture that would erase it.”
+
+Gauntlet is an acronym for Generally Accessible Universal Nomadic Tactile Low-power Electronic Typist. That’s a lengthy description of what essentially is a glove with a beehive of conductive threads running throughout the fingers and palm.
+
+Liu said the inspiration came from his interest in science fiction movies and experience with touch-screen technologies.
+
+Once he and his project partners came up with the idea, they did some scientific research on the most frequently used characters on a keyboard. Common keystrokes got the easiest finger-thumb alignments like the fingertips. Less common ones required more hand contortions to make the contacts.
+
+“Doug (Kirby) did some research and found the most commonly used letters in the English alphabet,” said Doud. “We all sat around and asked a few people and tried to figure these easiest places to touchyour finger with your thumb and we put the most commonly used letters there. We tried to make it as efficient and easy to use as possible.”
+
+Until users memorize the new“key” positions, the characters are sewn into the finger and palm positions of the glove. Liu said the group has been in contact with a patent lawyer and a specialty glove designer about going commercial with the Gauntlet.
+
+The students were assisted in their initial work by Huntsville electronics firm ADTRAN after entering it inthe company’s senior design showcase.The company assisted largely with the micro soldering of the PCB parts.
+
+The young designers are excited about the possibilities for the Gauntlet.
+
+“There are several applications we can think of right now,” Liu said. “The easy one would be as a keyboard for the consumer market. Also, the medical field for people limited to one hand from a disability. We can also think of military uses, as an entertainment device or used as a musical instrument for digital synthesizing.”
+
+Dr. Emil Jovanov, associate dean for Graduate Education and Research in the UAH College of Engineering, commended the students for their innovation. “It is a perfect example of how you take an original idea, find your niche and complete the whole idea.”
+
+Jovanov said the project would be pitched to the Alabama Launch Pad, a competition to help fund and launch business plans.
+
+The young innovators are well on their way to success with their UAH education.
+
+Liu is co-founder and chief executive officer of Protobit, Inc., who develops a smart phone application that provides users with digital versions of restaurant menus. Heath and Doud landed engineering jobs at Teledyne Brown, while Kirby got hired as a software engineer for Aegis Technologies.
+
+You may also be interested in:
+
+Applying for a degree in Electrical and Computer Engineering

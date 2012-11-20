@@ -1,0 +1,35 @@
+This week uTorrent 3.2.2 was released to the public and one of the release highlights are the new advertisements present in the client. BitTorrent Inc. hopes that these ads will bring in extra revenue so the company can continue to invest in the future of distributed technology. When the advertising initiative was first announced no opt-out was offered, but thanks to user feedback there now is an advanced feature to disable the ads.
+
+When BitTorrent Inc. announced its plan to make uTorrent ad supported there was a small user revolt.
+
+The people complaining were mostly annoyed that there would be no option to disable the ads. Luckily, BitTorrent listened to the feedback and quickly decided that users would indeed get a chance to opt-out.
+
+After BitTorrent Inc. tested the new platform for a while, this week the “offer platform” was officially announced in the release highlights of uTorrent 3.2.2.
+
+As can be seen below, the ads come in the form of sponsored torrents through which advertisers can reach uTorrent’s worldwide active user base of 125 million. The ads are prominently featured in a yellow bar that sits on top of the torrent list.
+
+BitTorrent Inc. tells TorrentFreak that they will continue to closely monitor feedback from the community. Thus far users have been largely accepting of the new ads, they say.
+
+“We’re very mindful of that feedback and of our core values as a company, and as such we’ve been adamant that we maintain the same levels of privacy as always and that we do not interrupt the user experience with our ads,” BitTorrent’s Matt Mason says.
+
+“In online conversations and live walk-throughs, users are largely accepting and in many cases interested in the offers we put forward, which include artist content and our own new technologies, betas and product news.”
+
+A direct outcome of user feedback is the decision to allow uTorrent users to opt-out from the advertisements. Understandably the feature isn’t being promoted widely, but users who go to Options > Preferences > Advanced will see the following entry:
+
+When this value is set to false the yellow advertisement bar will disappear the next time uTorrent is started. The opt-out feature isn’t mentioned in the uTorrent help file yet, but the unofficial and updated version maintained by Rafi lists it (see N for more).
+
+For BitTorrent Inc. the advertisements are part of a series of new test cases designed to bring in additional revenue to support the development and innovation of file-sharing software. However, the company says that it’s not blindly accepting all advertisers.
+
+Since the announcement in August the company has received many inquiries from prospective partners, but the company is very choosy.
+
+“Our approach has been to selectively work with partners who understand that BitTorrent users are among the most sophisticated online, and thus have a high bar when it comes to engaging with advertising,” Mason tells TorrentFreak.
+
+“We believe that delivering a quality advertising experience that resonates with a highly influential, tech-savvy audience requires careful diligence, and have had to turn away some of the demand at this time.”
+
+BitTorrent say that their initial partners are very positive about the new advertisement possibilities, and that many users are clicking on the torrent offers. At the moment BitTorrent is also experimenting with other types of advertising in addition to sponsored downloads.
+
+“In terms of performance, it’s still early in our experimentation, but we’ve seen strong sustained download rates for partner offers. We are also experimenting with taking users to partner websites to see how that experience compares,” Mason says.
+
+It is no surprise that BitTorrent Inc. is looking for alternative means to increase revenue. The company employs around 100 employees and is backed by venture capitalists who eventually want to see a return on their investments.
+
+BitTorrent’s current annual revenue is estimated at somewhere between $15 and $20 million and with the new in-client advertising this can grow further still.

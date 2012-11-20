@@ -1,0 +1,25 @@
+Amazon Web Services has confirmed that its Elastic Block Storage (EBS) service is experiencing degraded service, leading sites across the Internet to experience downtime, including Reddit, Imgur and many others.
+
+Network World -Amazon Web Services has confirmed that its Elastic Block Storage (EBS) service is experiencing degraded service, leading sites across the Internet to experience downtime, including Reddit, Imgur and many others.
+
+ALL THE HYPE: Gartner: Cloud computing's most over-hyped terms 
+
+AWS confirmed on its status page at 2:11 p.m. ET that it is experiencing "degraded performance for a small number of EBS volumes." It says the issue is restricted to a single Availability Zone within the US-East-1 Region, which is in Northern Virginia. It warns that instances using EBS volumes will also experience degraded performance.
+
+As of mid-afternoon, popular social media site Reddit displayed an error message noting it was down. Photo-sharing site Imgur is also being impacted, along with vacation rental service AirBNB, payment service Payvment and others.
+
+EARLIER THIS YEAR: Amazon takes blame for outages, bugs and bottlenecks
+
+AWS EBS is a cloud-based block storage service that allows users to store large amounts of data; it's typically used in conjunction with AWS's Elastic Compute Cloud (EC2) services. AWS breaks each of its data centers up into multiple Availability Zones and recommends that customers run their workloads across multiple zones to prevent downtime.
+
+AWS has periodic performance issues this year, including its last major outage in late June, which it blamed on powerful storms that ripped through the mid-Atlantic region causing power outages. Last year, AWS was down for as many as four days for some customers, including Reddit, Foursquare, Quora and HootSuite.
+
+Update: Shortly after confirming the EBS outages, AWS reported that its Relational Database Service (Amazon RDS), Elastic Beanstalk, which is an application deployment service and ElastiCache were also impacted by the outage. AWS says it is working to repair the downed instances and has already made some progress.
+
+Reports on Twitter indicated that other sites, including Pinterest, GitHub and Gamespot, also experienced service disruptions. Imgur was back online before 3 p.m. ET, though.
+
+AWS's massive computing footprint has been estimated to generate 1% of all Internet traffic, with nearly one-third of Internet users accessing sites that use AWS daily, according to a report from DeepField Networks, which provides cloud mapping capabilities.
+
+Network World staff writer Brandon Butler covers cloud computing and social collaboration. He can be reached at BButler@nww.com and found on Twitter at @BButlerNWW.
+
+Read more about cloud computing in Network World's Cloud Computing section.

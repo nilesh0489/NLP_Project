@@ -1,0 +1,31 @@
+PURDUE (US) — Objects created with 3D printing often fall apart or lose their shape, but new software anticipates weak spots and increases durability.
+
+“I have an entire zoo of broken 3D printed objects in my office,” says Bedrich Benes, an associate professor of computer graphics at Purdue University.
+
+The printed fabrications often fail at points of high stress.
+
+“You can go online, create something using a 3D printer and pay $300, only to find that it isn’t strong enough to survive shipping and arrives in more than one piece,” says Radomir Mech, senior research manager from Adobe’s Advanced Technology Labs.
+
+The 3D printers create shapes layer-by-layer out of various materials, including metals and plastic polymers. Whereas industry has used 3D printing in rapid prototyping for about 15 years, recent innovations have made the technology practical for broader applications, he says.
+
+“Now 3D printing is everywhere,” Benes says. “Imagine you are a hobbyist and you have a vintage train model. Parts are no longer being manufactured, but their specifications can be downloaded from the Internet and you can generate them using a 3D printer.”
+
+The recent rise in 3D printing popularity has been fueled by a boom in computer graphics and a dramatic reduction of the cost of 3D printers, Benes says.
+
+Researchers at Purdue University and Adobe’s Advanced Technology Labs have jointly developed a program that automatically imparts strength to objects before they are printed.
+
+“It runs a structural analysis, finds the problematic part and then automatically picks one of the three possible solutions,” Benes says.
+
+The researchers detailed their findings in a paper presented during the SIGGRAPH 2012 conference in August.
+
+Former Purdue doctoral student Ondrej Stava created the software application, which automatically strengthens objects either by increasing the thickness of key structural elements or by adding struts. The tool also uses a third option, reducing the stress on structural elements by hollowing out overweight elements.
+
+“We not only make the objects structurally better, but we also make them much more inexpensive,” Mech says. “We have demonstrated a weight and cost savings of 80 percent.”
+
+The new tool automatically identifies “grip positions” where a person is likely to grasp the object. A “lightweight structural analysis solver” analyzes the object using a mesh-based simulation. It requires less computing power than traditional finite-element modeling tools, which are used in high-precision work such as designing jet engine turbine blades.
+
+“The 3D printing doesn’t have to be so precise, so we developed our own structural analysis program that doesn’t pay significant attention to really high precision,” Benes says.
+
+The paper was authored by Stava, now a computer scientist at Adobe, doctoral student Juraj Vanek; Benes; Mech; and Nathan Carr, a principal scientist at Adobe’s Advanced Technology Labs.
+
+Future research may focus on better understanding how structural strength is influenced by the layered nature of 3D-printed objects. The researchers may also expand their algorithms to include printed models that have moving parts.

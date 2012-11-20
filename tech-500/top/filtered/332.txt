@@ -1,0 +1,29 @@
+Each week Joshua Fruhlinger contributes This is the Modem World, a column dedicated to exploring the culture of consumer technology.
+
+When I departed for my three-week honeymoon, I informed all my colleagues that I would be off the grid: unavailable, unreachable, without access, etc. In truth, I was in airplane mode scanning for WiFi networks several times a day, checking in on East Coast friends dealing with Hurricane Sandy.
+
+Side note: I was doing so from poolside chairs while the new wife was asleep and not about to be annoyed by my digital addictions, so that made it OK, and stuff.
+
+Hotel WiFi has been around a long, long time. In fact, I reported on the top five hotel chains that served up free WiFi more than eight years ago.
+
+Eight years is a long time. In internet years, it's an eternity. And in those eight years, from what I can tell, hotel WiFi has not improved one bit. Some might even say that as hotels look for new ways to monetize customers, WiFi has not only become more expensive, its performance has also been hijacked by unnecessary security practices.
+
+Let's gain some perspective here to really understand how long ago 2004 was. According to Time, the top websites of that year included Friendster, Yoox and some blog called Engadget. Those of us with smartphones were happy to be downloading at 3G speeds when infrastructure allowed. We didn't dare watch video on our phones let alone even bother replying to emails. That was for the fancy folks with Nokia E60s.
+
+WiFi, at the time, was the stuff of pros. We'd spend hundreds on wireless cards and patiently hunt for open networks just to get online. We envisioned a future when our cable and wireless companies would grant us hotspots virtually everywhere, when WiFi would blanket the planet and talk of wireless radio protocols would be the stuff of history.
+
+And yet here we are, eight years later, and the majority of us are still on 3G while WiFi remains an expensive luxury at the world's top hotels.
+
+The first hotel I stayed at on my trip was a 4.5-star former palace in Seoul, Korea. A fine and modern hotel by any means, it offered slow WiFi for a wallet-compromising $22 per 24 hours. I ponied up -- bit the bullet, as they say -- because I had no choice, and they were betting on that.
+
+Two days later I was in Seminyak, Bali. Outside of the bustling Kuta, Seminyak is a rapidly modernizing beachside town packed with some of the loveliest private villas and restaurants you'll find in the world. They offered free WiFi, but the signal would come and go, and when it came it was a mess of timeouts and DNS errors.
+
+At our next spot on the high-end surfing island of Nusa Lembongan, slow (but free) WiFi was also offered. I'm not one to complain about free things (even though I'm about to), but this network would force me to log in every single time my smartphone went to sleep. To add to the pain, the front desk changed my password every day and asked me to call them to get the new one. Security measures, for sure.
+
+Back in the day, hotel executives argued that WiFi infrastructure was expensive, and the costs had to be passed on to consumers until things evened out. It seems to me that things should have "evened out" by now, no? Haven't we paid for your routers and switches already, Mr. CTO? Other hotels get away with offering WiFi for free just fine, and even use it as a selling point. A $22 fee is, well, it's not cool. Shame on those hotels who still charge for it, I say.
+
+As for security at the resorts that offer it for free in the middle of paradise, is the double-walled password gate really necessary? Are you struggling with bands of wardialing yachters sucking up bandwidth and downloading guest folios?
+
+This was all excusable eight, even four years ago. But it's time hotels hand over the WiFi like they do the shampoo, conditioner and those little cotton swabs.
+
+Joshua Fruhlinger is the former Editorial Director for Engadget and current contributor to both Engadget and the Wall Street Journal. You can find him on Twitter at @fruhlinger.

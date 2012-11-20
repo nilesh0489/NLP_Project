@@ -1,0 +1,13 @@
+Have you ever wondered what the insides of a digital single-lens reflex (DSLR) actually look like? I’m a professional photographer, and yet I have to admit that I’ve never really thought about it. I know there’s a big CMOS sensor on the front, and a powerful chip that can process vast amounts of data very quickly — but beyond that, I figured a DSLR was just a bunch of buttons. In actual fact, it turns out that modern DSLRs are some of the most complex electromechanical devices you’ll ever see — and we have glorious teardown photos to prove it.
+
+The teardown photos, of course, come from the reverse engineering masterminds at iFixit, who are rather famous for their laptop, smartphone, and tablet teardowns — but seemingly they’re also rather nifty when it comes to the new Nikon D600. The Nikon D600, except for the fact that it’s the company’s first “budget” full-frame (FX) DSLR, isn’t particularly exceptional — but still, as you will see in the following photos, it’s really quite amazing just how much the Nikon engineers have crammed into a DSLR shell.
+
+To start with, here’s a photo of the D600 with the outer chassis removed. An impressive feat of cable and ribbon management, I think you’ll agree.
+
+Flipping the camera over, we can see a huge logic board that spans the width of the device. The largest chip in the middle is a Nikon Exspeed 3 image processing engine (comparable to Canon’s Digic), and the two rectangular chips next to it are Samsung RAM (there are two more chips on the reverse side, totaling 1GB of DDR3 SDRAM). The little chip underneath his thumb is an SD card controller — and the other chips are mostly microcontrollers for handling button presses, the LCD screen, and other such tasks.
+
+Hidden beneath the logic board, we find the 24-megapixel full-frame (FX) CMOS sensor. More interesting (at least in my opinion), though, are the filters in front of the sensor (pictured at the top of the story). There are at least three filters/films, including a couple of low-pass filters (to mitigate moire and other unpleasant artifacts), and an infrared filter.
+
+Finally, we also have some scanning electron microscopy of the CMOS sensor, taken by Chipworks. If you’ve ever heard of microlenses (which focus the light on each individual pixel) or the Bayer filter pattern (which allows the sensor to detect RGB), this is what they actually look like.
+
+Suffice it to say, there’s a lot more inside a DSLR than what we’ve shown you here — including the LCD assembly, the flashbulb capacitor, the lens mount, and more. For the full D600 teardown, hit up iFixit.

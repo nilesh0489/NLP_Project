@@ -1,0 +1,37 @@
+I broke my half of our Windows 8 review into two smaller parts when I realized that sheer frustration with the Windows 8 Desktop/Metro integration section was threatening to destroy my positive Desktop perspective. In retrospect, it was a mistake to try to write a story about using both Metro and Desktop in the first place; I naively took Microsoft at its word when the company promised that users would be able to move across the two environments relatively easily.
+
+Below, I lay out some of the reasons why Metro so utterly fails to meet the needs of any desktop user. Rather than step through the situation app by app, we’ll highlight specific apps that demonstrate the problems.
+
+Ever since Microsoft began talking up Metro, professional Windows users have asked questions about how desktop applications and Metro versions of those apps would interact. Short answer: They don’t. But Microsoft, in its infinite wisdom, makes you use the Metro versions by default, anyway.
+
+Consider the Windows 7 Photo Viewer. It allows you to navigate the photos in a directory via the arrow keys, offers built-in rotate and slideshow functions, and can print, burn, or email the photo — all from top-level options. Users can right-click the image and choose “Open With…” to move the image to an advanced editor of their choice. This is particularly useful if you want to use the quick previewer to choose a selection of photos to edit in another program.
+
+If you open an image outside of your Pictures directory, Windows 8 can’t do any of that. There’s no option to shift an image from one program to another, even if you want to use a different Metro application. If you’re in the Pictures folder, you can at least crop the image, move through the folder via arrow keys, and view a slide show. If you’re editing photos outside of that directory, sorry — no dice.
+
+This is a security measure; apps don’t have permission to use outside folders other than those designated, but the app never tells you that. There’s a “Permissions” button, but it contains no useful information on the subject.
+
+The Metro Start screen’s new global search function is blissfully unaware that I have two other hard drives in this system. If I want to search them, I have to use the Desktop. In Windows 7, you could modify the Search Index to cache additional results from other locations.
+
+Metro isn’t just optimized for tablets and small displays, it’s optimized for tablets and small displays even when it makes no sense whatsoever. Here’s a directory of photos (extra large icons) in Explorer):
+
+And the same folder in Metro:
+
+Just for fun, I decided to compare how long it took me to scroll through the two directories. A “scroll” is a full rotation of the scroll wheel and subsequent repositioning of the finger, not a single click.
+
+In Desktop, the solution to this problem is simple: Adjust your mouse sensitivity. But desktop mouse changes don’t apply to Metro and there’s no option to adjust the sensitivity of the scroll function within the app itself.
+
+I don’t want to seem as though I’m picking on Metro Photos; so here’s a screenshot of the Metro Video Player displaying the Season 7 episodes of Buffy the Vampire Slayer.
+
+And again, the same data in Explorer.
+
+Two things to notice here. First, the total lack of file names in Metro. True, they appear on mouse-over, but there’s no way to display them by default. Second, note the order in which the results are ranked. In Explorer, files are grouped left-to-right, top-to-bottom. In Metro, files are top-to-bottom, left-to-right. Why? No idea. Can you change it? No.
+
+Zoom is one of Metro’s all-time favorite activities, even when it isn’t necessary. Here’s a photo I shot while out walking the dog (disclosure: I am a terrible photographer).
+
+And the same file displayed in Metro Photos.
+
+You’ll want to click on the images to see the full effect. What began as an 800px image is now 1600 pixels wide. Why? Don’t know. Can’t turn it off, either.
+
+Finally, and on a different note, there is no “Page 2? in Metro News Land. At Reuters.com or any other news site, you can browse archives to your heart’s content. Not in Metro. You get as much content as Microsoft feels like showing, with nary a “View More” in sight. Typically this means scrolling left and right and looking for a subheading you can click on.
+
+Next page: The astounding arrogance of Microsoft

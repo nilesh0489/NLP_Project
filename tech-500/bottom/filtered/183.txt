@@ -1,0 +1,13 @@
+Many things went wrong with Romney's campaign for president, but one of the biggest was the epic failure of the campaign's big-data app for getting out the vote, called Orca. When the campaign needed it most, Orca was beached.
+
+Politico has an excellent summary of the problems it says that Orca had. Among them were that the Romney campaign kept it secret and didn't beta-test it before it was rolled out on Election Day. That meant that the people who it was designed for -- the thousands of volunteers across the country -- didn't have a chance to learn how to use it before it was launched. And Orca kept crashing throughout the day.
+
+The system was designed to identify likely Romney voters who had not yet voted on Election Day, and then get them to vote. But it continually crashed and people didn't know how to use it. Here's what Politico has to say about the consequences:
+
+There's an even more damning inside account by John Ekdahl at Ace of Spades, who was involved as a volunteer. He says that he had worries about the system from the beginning:
+
+Things went downhill from there, by his account. He said, for example, that people were told that Orca was an "app," and so people tried to find it to download it to their smartphones. In fact, though, it was a website. This caused a great deal of confusion among the people who were going to use it:
+
+His conclusion is an especially bitter one:
+
+No matter your politics -- whether you're a Romey supporter or Obama supporter -- you should read the Ace of Spades account as a cautionary tale about how not to deploy a big-data app in politics or business.

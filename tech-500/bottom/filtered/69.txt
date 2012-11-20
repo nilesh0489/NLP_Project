@@ -1,0 +1,21 @@
+127 of my files in Dropbox are now gone forever, due to a bug where files were "updated" to be 0 bytes, and Dropbox lost its previous copy of the file.
+
+2 other files (precious family photos) were also affected, but it happened recently enough to be recovered manually by Dropbox engineers. 23 other files were also turned to 0 byte dust, but Dropbox kept its version history of these and I could revert them to their original version.
+
+Check whether you've been affected (on Mac or Linux) by running this command in a Terminal, it'll spit out a list of 0-byte files to a text file on your desktop.
+
+Important: Make sure you sanity check the list. Some systems have hidden 0-byte files, such as Macs' "Icon\r", that are expected and normal.
+
+If you find any that look unexpected, let Dropbox know, and reference this blog post to them so they can connect it with the issue I reported.
+
+I've included my correspondence with Dropbox on the issue below. They've been very nice about it, and are looking into it, but this is a very serious bug. Because they don't know what the bug is, potentially anyone could be affected. I'll update this post if they find a fix.
+
+Update: Some folks on Hacker News, and Matt Holden of Dropbox in the comments, have raised the possibility of filesystem corruption, particularly because of a recently reported ext4 bug. I do use ext4, so this can plausibly explain why my files were 0-byte'd in the first place, and why others have reported finding 0-byte'd files.
+
+I also do not use Packrat, a premium Dropbox feature that stores version history for longer than 30 days, so this could plausibly explain why my 127 files that had been 0-byte'd months ago no longer have a version history of before then. I wasn't aware of the 30-day window.
+
+However, these do not plausibly explain why the 2 manually recovered files that had recently been 0-byte'd, well within the 30-day window, showed no pre-0-byte version history, and required the assistance of Dropbox engineers.
+
+It could be that the bug here has nothing to do with their desktop client - it could be a version history bug in the web frontend that affects some recently edited files. If that's the case, then that still needs to be fixed, so that people in my position can recover files their disk corrupted before they pass out of the 30-day window. It's only by finding and fixing that website bug that Dropbox can say with confidence that there's no desktop client bug.
+
+Update 2: A report by someone who is on OS X, uses Packrat, but has lost 70 files they can't recover.

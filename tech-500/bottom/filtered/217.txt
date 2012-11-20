@@ -1,0 +1,29 @@
+It’s getting hard to find the word “data” without “big” slapped in front of it. I’ve written once or twice about big data myself on this very site. But enough is enough.
+
+Not all data is big. There is plenty we can do with small, medium, and even miniscule data (think of an accurate hot stock tip or “whisper number”). Just a few hundred bits.
+
+What makes data qualify as big is that there is more of it than can be handled easily on a standard size PC (or Mac).
+
+As a practical proxy, it’s more or less the size of the data you can stuff into a standard spreadsheet.  This is a moving target, tied to our old pal Gordon Moore’s law.
+
+Viscalc, the “killer app” of the 80s, was the first spreadsheet. It gave millions of business people a reason to buy a PC and was touted as: “Increases your problem solving power – let’s your PC handle very large worksheets (63 columns by 254 rows)”. There are watches that do that now.
+
+Lotus 123 ate Visicalc’s lunch (Schumpeter said “Capitalism is a process of creatively eating someone else’s lunch”, or something like that.)
+
+Early versions of Lotus could handle a whopping 2048 rows by 256 columns. Later models doubled that, and doubled that again.
+
+Excel 2007 can have a maximum of 16,384 columns and 1,048,576 rows.  A real pain to do on your watch.
+
+By 2010, Excel could handle 1,048,576 rows by 16,384 columns. The largest number you could put in a cell was 9.99999999999999E+307, essentially a 1 followed by 308 zeros, or a trillion trillion (25 times) trillion. This was to accommodate for future growth in the various Forbes Richest Lists.
+
+You get the idea – Big Data is a moving target, but increasingly, it’s all you hear about, and in some settings, like Google, the NSA, or click-stream analytics for getting you that ad you really want to see, the data is in fact truly big. Millions of times larger than even current macho spreadsheets can handle, or could be stored on the biggest disk you can jam in your PC (now about 3 Terabytes).
+
+An egregious example of this “no data but big data” trend was seen this week in all the “Political Big Data” headlines about Nate Silver, the founder of the election website 538, which after calling the 2008 and 2012 elections pretty much on the nose for president and all senate races, now wisely absorbed by the New York Times. I’ll fess up to being a huge fan of Silver – over the last few months, I’ve woken up more than once with my iPad on my chest showing the site, which I immediately refreshed to see if Silver had updated anything with new data. It’s like digital crack for more than a few people.
+
+Silver’s secret sauce is sort of the “Moneyball” of politics. He throws in all the reputable polls (determined by their history), plus many of the other non-poll based theories on who wins elections (such as economic and survey data), whips it well to remove bias and various other nasty bits, and figures out a good set of odds for each state. These are then used to run thousands of simulations of the election in each state  (think Fantasy Baseball and you’re not far off).  All the details are in his fine new book “The Signal and the Noise: Why So Many Predictions Fail — but Some Don’t.”
+
+Talking heads of all flavors started slapping the “Big Data” label on Silver and 538. Call me a curmudgeonly old nerd, but all this data is at best headed for “medium” and by modern standards, distinctly “small”. Maybe a new defintition for “big data” would be “it’s electric bill > $1 millon/year”. There are lots of places that qualify. But Silver could be doing it on a desk. 538 set more than few records, again, for being right and being viewed.
+
+Moral: You don’t need a data center the size of Cleveland to do something useful today. Clever can be worth a big mess o’ data.
+
+On-other-hand anti Moral: There are, of course,  uses for real “big data” in politics. One of them – analysis of  click-streams of likely but unregistered Obama voters – may have determined the results. Obama’s Big Data was bigger than Romney’s – a guy who certainly knows his way around a spreadsheet.   More on that in another post.

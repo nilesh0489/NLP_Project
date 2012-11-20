@@ -1,0 +1,27 @@
+Today, the Australian Federal Government has announced that it will no longer pursue the Cleanfeed, a mandatory ISP filtering program riddled with problems and ethical concerns. It has been axed, shafted, given the boot, killed off — pick a phrase, any phrase from the broad range we’ve employed to describe the best course of action for this moronic idea since it appeared five years ago.
+
+The filter’s best friend, Senator Stephen Conroy, issued a statement to this effect today. The Minister for Broadband and Communications often provides us with fodder that would be far more hilarious if he wasn’t the Minister for Broadband and Communications, such as this 2010 gem:
+
+The news that the initiative has been cancelled is just part of the story. There will be some level of filtering required from ISPs.
+
+In this case, ISPs will be required to block child abuse websites that appear on INTERPOL’s block list, an obligation that is apparently required under the Telecommunications Act 1997. This seems to be a reasonable compromise. The list won’t be in the hands of our government with all of its political motivations for abuse, and presumably gets more oversight under INTERPOL. It’s a very specific set of sites, too: child abuse only. The Cleanfeed would’ve blocked anything Refused Classification in Australia. Even with recent improvements, that’s a lot of stuff.
+
+Presuming this is handled responsibly, I can live with the outcome, but as we know there is often pressure to expand such lists once in place.
+
+In 2007, when the Rudd Labor government was elected, a national broadband network that delivered gigabit speeds to the majority of the country was the headlining initiative for the party’s technology policy.
+
+Australia’s best Internet offering is cable, which is fast at either 30Mbps or 100Mbps+, but expensive and available in only the innermost urban areas. ADSL is ubiquitous unless you’re in the country, but in many areas it is in poor shape with badly designed exchanges, a frequent lack of ports for new sign-ups and other issues. Rural types are left out but for overpriced satellite connections not equipped with the speeds to handle today’s content.
+
+So everyone from technologists to kids downloading music from Limewire was excited about the project and it was a great distraction from a much nastier program: a government-controlled, secretly curated Internet blacklist filtering program with no oversight and — based on a leaked copy — a high margin for error, punishing Australian businesses such as dentists and other legitimate websites.
+
+The distraction didn’t last, of course, and among those educated on the issues around Internet filtering, it was not a popular policy.
+
+The filter was never strictly the brainchild of the Labor Party, so we can’t get into partisan filth-flinging over this one. It was announced in the final days of John Howard’s prime ministership jointly with then-opposition leader Kevin Rudd. Naturally, the event was hosted by the Australian Christian Lobby, a lobby group with a range of ridiculous policies that holds far too much power relative to its support among the public.
+
+The filter chugged along on the backs of parents who thought it would protect their children from pedophiles for years, passing a trial and getting the greenlight from the government to go ahead with its push for legislative passage and eventual rollout to the country. It looked like it was going to be a sure thing.
+
+But the pressure continued to mount against the program, with a large number of experts and organizations opposing it and a dwindling number of groups, ignoring overwhelming rationalism, in favor of it. Eventually, the government put its plans on hiatus, claiming that it needed to revisit the issue of Australia’s Refused Classification content parameters before applying it to the Internet.
+
+We got our R18+ games classification and other measures to curtail the amount of inappropriately banned content in the country, but we were all shocked when the filter did not come back with a raging vengeance shortly afterward.
+
+After years of outspoken disapproval for the Internet filter, it is gone — for now — and we can move on, but we can’t rest. There’s still the issue of potentially invasive data retention laws, and we need to squash this too. Ideally, we need to get measures in place to protect ourselves from would-be Orwellian governments and the buffoonish Senators keen to enact them, and make it far harder to even entertain the idea of enacting such measures. Then we can rest.

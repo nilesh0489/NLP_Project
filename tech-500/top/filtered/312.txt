@@ -1,0 +1,17 @@
+Hue is a series of light-emitting-diode bulbs controlled from a handheld Apple device through a household Wi-Fi network. At the Apple end, users can control the lights using a free app on their iPhone, iPod or iPad.
+
+The bulbs offer a variable white light, mimic incandescent lights and will produce more than 16 million colours. While LED lighting has been praised for its extreme power-saving attributes, the harsh whiteness of the light has taken longer for technology to control.
+
+"I was able to change the colours of the light bulbs in different rooms, adjust the brightness level or turn the lights off and on with one touch from my iPad," wrote Mashable reviewer Andrea Smith, who tested the system for several days.
+
+As well, the system can memorize lighting combinations for people to reuse in the future and can operate on a timed on-off basis. Lighting combinations and programs can be shared through social media.
+
+"I pressed a button on the bridge which immediately identifies all three lights," Smith wrote.
+
+"Using the app on my iPad, I was able to rename the lights, calling them living room, family room and office. I had fun sliding the bar from left to right, which changes the intensity of the bulb's colour; it was like having a dimmer switch built into my mobile device."
+
+The system offers flexibility and control that was once limited to lighting systems worth thousands of dollars in commercial applications.
+
+For all that, however, it isn't cheap. The introductory kit — three bulbs and a ZigBee bridge that attaches to a Wi-Fi router — costs $199 in Canada. Additional bulbs cost $59 each. As many as 50 bulbs can be operated on one system.
+
+In terms of power, the bulbs are rated at up to 8.5 watts, and each produces light of 600 lumens — roughly equivalent to a 50-watt incandescent bulb.

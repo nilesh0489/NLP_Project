@@ -1,0 +1,17 @@
+Mahatma Gandhi tells us that "Love is the strongest force the world possesses." Love comes in many forms, and each has different translations. Today, we are introducing three new features to Google Translate that help to distinguish among translations of a word, because no love should ever be lost in translation.
+
+. Our users often tell us that they check our translations by translating them back into their original language. Reverse translations can distinguish translations of different meanings and reveal subtle differences among similar words. Each translation is now annotated with its most frequent reverse translations.
+
+With reverse translations as a guide, you can pick from dozens of languages to tell your love that they are your darling (
+
+) and not just your hobby (
+
+The French novelist Gustave Flaubert was known to spend hours on end in pursuit of
+
+—the perfect word. At Google, we prefer to deliver results in an instant, ranked in order of relevance. Frequency indicators now mark each translation as common, uncommon, or rare, based on the vast number of translations we use to train our system. The rarest translations are hidden by default, but appear easily with a click. Your search for the perfect translation should now be more efficient than ever.  
+
+. Languages often contain different words that share a common meaning. Instead of one long list, our results now group synonymous translations together, so that you can quickly identify clusters of related words.
+
+This feature is currently available only when translating into English, but we intend to support more languages soon.
+
+We hope that these new features will help you explore the grand variety of words in the world's many languages. Consider this new, smarter dictionary for translation as one more way of saying “love” from all of us on the Google Translate team to you.

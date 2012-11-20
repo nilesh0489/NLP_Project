@@ -1,0 +1,21 @@
+iJust want to alert you to opportunities!
+
+Apple has enabled user tracking of its customers once again, with the recently released iOS 6 enabling advertisers to see which apps users have run, and which adverts they've seen – all for the benefit of the users, of course.
+
+The feature wasn't highlighted by Apple at the launch of iOS 6, as Business Insider points out in its detailed rundown, but the new tracking number is important as it enables advertisers to target users, and provides decent enough obfuscation to make switching it off really quite difficult, though those making use of it would question why one would want to turn it off anyway.
+
+The IFA, or Identification For Advertisers, is a random number generated once by the iOS device which is used to uniquely identify that device between applications. The number is available to apps which can send it to their advertising service of choice to pull down new adverts, perhaps based on previous usage of viewing, without sharing the identity of the user or their equipment.
+
+Prior to iOS 5, developers could use the UDID, a unique device identifier which was available to applications. The UDID worked fine, but there was no way to prevent applications reading it and while lots of applications, and advertisers, were benignly making use of the UDID, customers started to get riled about privacy and (after giving developers a decent warning) Apple pulled the plug.
+
+UDIDs weren't just used by advertisers, they also allowed apps to download settings when reinstalled into a device where it had previously been used (assuming the vendor kept records), and enabled analytical software (such as Crashlytics) to identify when different applications are crashing on the same device – pointing to faulty hardware – something impossible with alternative schemes.
+
+Apple's new IFA isn't guaranteed not to change – the device could generate a new random number at any time, but Cupertino isn't saying how often, or if, it will. But that shouldn't matter to advertisers who don't care if it's not perfect. More importantly the IFA can be switched off by users, or (more accurately) one can switch the "opt out" option to "on", assuming one can find it under Settings/General/About/Advertising, not "Privacy" where one might expect to find it – Business Insider has a step-by-step guide with pictures.
+
+While we're on the subject, Bruce Schneier reminds us that last month Apple posted details of how to opt out of its own advertising platform iAd, or the tracking performed by iAd at least, one has to keep watching the ads as long as one wants free stuff.
+
+Which brings us to the question of why one would bother. We're told that tracking is used to present adverts in which we might be interested, and ensure that the same adverts aren't presented repeatedly everywhere we go, but that might not be as true as one would hope if Google is any guide.
+
+Some months ago your correspondent expressed some interest in a Fluke Thermal Imager, from a technical point of view, and since then at least half the websites visited have shown the same advert for Fluke, which eventually phoned to ask if I was going to buy one. I'm not – I have an interest, but no use, for such a thing – but still I'm unable to avoid the adverts everywhere.
+
+If that's the future of tracked adverts then random selection would seem a more desirable option, and if it enhances one's privacy then that's all to the good. ®
