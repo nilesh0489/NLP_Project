@@ -1,0 +1,39 @@
+Envisioning Technology is an award-winning trend forecasting studio that has released a report called Envisioning emerging technology for 2012 and beyond that gives a timeline for technologies in categories such as Artificial Intelligence, internet, interfaces, robotics, biotech, energy, and space.
+
+Their goal is to predict  where technology is heading in the future, and they have developed  visualizations, keynotes and custom reports, like the one here, to display their research.
+
+You can download the PDF or visit their website and view the full list of the many technologies and their detailed definitions.
+
+The necessity for fresh water in the coming century is apparent to most people and yet it is often overlooked as a problem for the future. If we don’t start developing this technology now, it won’t be prepared for when we need it. There are some projects in motion such as the start-up Atlantis Technologies which has created “a low-cost, chemical-free desalination system that can remove salt from oil, gas, mining, and industrial waste water,” according to its website. The company is calling the technology radial deionization, but it is small scale compared to what is necessary to ensure easy access for H2O to the global population.
+
+Now that is just for more developed nations who don’t have to fight for their water. Imagine what kind of positive change this could bring to countries in serious need. I will end this talk of desalination with a quote from Cracked.com: “But even if fresh water is running out, we can take comfort in the fact that, as rational people, we at least won’t be going to war over it all Mad Max-style, right? How about we just leave you with these links about water supply-related conflicts between Pakistan and India, India and China or Israel and the rest of the Middle East, and let you answer that question yourselves. Sleep tight!” Read more: 6 Important Things You Didn’t Know We’re Running Out Of | Cracked.com http://www.cracked.com/article_19048_6-important-things-you-didnt-know-were-running-out-of_p2.html#ixzz2AkDF0JVT
+
+Yes you read correctly. Self-driving car by 2018 is seeming more and more plausible as a reality.
+
+Whereas the first technology is targeted at a severe need and is aimed to eliminate and imminent long-term problem; driverless cars are more about efficiency and convenience.
+
+Don’ get me wrong there’s certainly a safety aspect to it as Google said on its official blog in August, that the autonomous cars have completed over 300,000 miles in a variety of conditions and “there hasn’t been a single accident under computer control.”Source.
+
+No longer will there be those early mornings where you are so tired you nearly rear-end the car in front of you. No more having people shake you awake on long drives. You can actually use this time productively and did you know that North Americans Spend on average 15 Hours a Week in Their Cars. (Maclean’s February 27, 2006)
+
+One landmark study on highway safety, determined that 369 269 Americans were killed between 2001 and 2009 by motor vehicles. More tragic then the number itself was the fact that 93 per cent of those cases were most  likely by caused human error. Regardless of what company releases self-driving cars first, it should make a big decrease in the amount of people injured each year by vehicles. The lives that have already been lost are a tragedy but at least now a potential solution emerges.
+
+The process of waiting for an organ donor is currently pretty morbid because if you receive one, it means someone else has had to give theirs up. Even worse, there may be no available organ to transplant in the limited time and then lives are at stake. Now, with 3D organ printing we may finally be able to match the growing demand for supplementary organs.
+
+Bioprinting, is similar to ink printing on a page. Only it is not on a page but 3D and not with ink but living cells. Alright so it’s a little more complex but you get the picture. Of the technologies on the page, this one has some of the most research already in progress.
+
+Wall Street Journal: “It allows us to print a tissue structure that is a functional, living, human tissue,” says Organovo Chief Executive Keith Murphy.
+
+Organovo doesn’t sell them yet, but keeps the equipment for its own product development projects. It does share them with other researchers through partnerships with Pfizer Inc., United Therapeutics Corp., and Harvard Medical School, among others. Mr. Murphy declined to disclose the details of these arrangements or say what bioprinted cell products were in development.
+
+The programmable printer has laser-guided printing nozzles that can extrude inks composed of different cell mixtures. In each drop of ink is a solution that contains about 10,000 to 30,000 cells. The bio-ink is a mix usually cultured from stem cells taken from a donor’s bone marrow or fat. Those cells can then be grown into the many different cell types necessary for tissues.
+
+“You use building blocks of cells to make a 3-D structure, almost like building something out of Legos,” Mr. Murphy says. “The cells do all the finishing touches themselves.”
+
+The search for a long-term sustainable energy source has been going on forever and now we may have an answer. Although currently unattainable, much research has been done into discovering whether we can harness energy from space via solar collectors and beam it back to earth in the form of microwave rays which satellites will receive and  convert to electric  energy for the grid. Solar power on earth is subject to the constant changing from day to night as well as covering large portions of real estate. From space it would be gathering energy 24/7 and could solve the impeding global energy crisis.
+
+Geek.com: “After conducting a three-year study, the IAA says that the technology exists to make beaming the energy down to collectors on the surface a reality. This model is ideal because space-based satellites won’t have to deal with weather, atmosphere, and other obstacles that hinder the collection of solar energy. It would also cut down on fossil fuel emissions since solar is “clean” energy.”
+
+A vertical farm is usually a converted skyscraper where each floor grows a different crop and all the water and nutrients are recycled to be used again. This concept cuts out the need to transport your agricultural products overlong-distances by providing farms to high-density urban areas. Also in an era where processed food are reigning supreme, it would be good to give local residents easier access to a healthy option when it comes to their daily diet.
+
+Wall Street Journal: “One ambitious project under construction is trying to address all of those challenges at once. At 12 stories, the triangular farm in Linköping, Sweden, will be one of the tallest vertical farms in the world—most max out at several stories—and will use innovative ways to generate revenue. Not only will the company behind the farm, Sweden’s Plantagon, sell its produce at a local farmer’s market, but it also will lease out office space on most floors.”

@@ -1,0 +1,33 @@
+You have a secret that can ruin your life.
+
+It’s not a well-kept secret, either. Just a simple string of characters—maybe six of them if you’re careless, 16 if you’re cautious—that can reveal everything about you.
+
+Your email. Your bank account. Your address and credit card number. Photos of your kids or, worse, of yourself, naked. The precise location where you’re sitting right now as you read these words. Since the dawn of the information age, we’ve bought into the idea that a password, so long as it’s elaborate enough, is an adequate means of protecting all this precious data. But in 2012 that’s a fallacy, a fantasy, an outdated sales pitch. And anyone who still mouths it is a sucker—or someone who takes you for one.
+
+No matter how complex, no matter how unique, your passwords can no longer protect you.
+
+Look around. Leaks and dumps—hackers breaking into computer systems and releasing lists of usernames and passwords on the open web—are now regular occurrences. The way we daisy-chain accounts, with our email address doubling as a universal username, creates a single point of failure that can be exploited with devastating results. Thanks to an explosion of personal information being stored in the cloud, tricking customer service agents into resetting passwords has never been easier. All a hacker has to do is use personal information that’s publicly available on one service to gain entry into another.
+
+This summer, hackers destroyed my entire digital life in the span of an hour. My Apple, Twitter, and Gmail passwords were all robust—seven, 10, and 19 characters, respectively, all alphanumeric, some with symbols thrown in as well—but the three accounts were linked, so once the hackers had conned their way into one, they had them all. They really just wanted my Twitter handle: @mat. As a three-letter username, it’s considered prestigious. And to delay me from getting it back, they used my Apple account to wipe every one of my devices, my iPhone and iPad and MacBook, deleting all my messages and documents and every picture I’d ever taken of my 18-month-old daughter.
+
+Since that awful day, I’ve devoted myself to researching the world of online security. And what I have found is utterly terrifying. Our digital lives are simply too easy to crack. Imagine that I want to get into your email. Let’s say you’re on AOL. All I need to do is go to the website and supply your name plus maybe the city you were born in, info that’s easy to find in the age of Google. With that, AOL gives me a password reset, and I can log in as you.
+
+First thing I do? Search for the word “bank” to figure out where you do your online banking. I go there and click on the Forgot Password? link. I get the password reset and log in to your account, which I control. Now I own your checking account as well as your email.
+
+This summer I learned how to get into, well, everything. With two minutes and $4 to spend at a sketchy foreign website, I could report back with your credit card, phone, and Social Security numbers and your home address. Allow me five minutes more and I could be inside your accounts for, say, Amazon, Best Buy, Hulu, Microsoft, and Netflix. With yet 10 more, I could take over your AT&T, Comcast, and Verizon. Give me 20—total—and I own your PayPal. Some of those security holes are plugged now. But not all, and new ones are discovered every day.
+
+The common weakness in these hacks is the password. It’s an artifact from a time when our computers were not hyper-connected. Today, nothing you do, no precaution you take, no long or random string of characters can stop a truly dedicated and devious individual from cracking your account. The age of the password has come to an end; we just haven’t realized it yet.
+
+Passwords are as old as civilization. And for as long as they’ve existed, people have been breaking them.
+
+In 413 BC, at the height of the Peloponnesian War, the Athenian general Demosthenes landed in Sicily with 5,000 soldiers to assist in the attack on Syracusae. Things were looking good for the Greeks. Syracusae, a key ally of Sparta, seemed sure to fall.
+
+But during a chaotic nighttime battle at Epipole, Demosthenes’ forces were scattered, and while attempting to regroup they began calling out their watchword, a prearranged term that would identify soldiers as friendly. The Syracusans picked up on the code and passed it quietly through their ranks. At times when the Greeks looked too formidable, the watchword allowed their opponents to pose as allies. Employing this ruse, the undermatched Syracusans decimated the invaders, and when the sun rose, their cavalry mopped up the rest. It was a turning point in the war.
+
+The first computers to use passwords were likely those in MIT’s Compatible Time-Sharing System, developed in 1961. To limit the time any one user could spend on the system, CTSS used a login to ration access. It only took until 1962 when a PhD student named Allan Scherr, wanting more than his four-hour allotment, defeated the login with a simple hack: He located the file containing the passwords and printed out all of them. After that, he got as much time as he wanted.
+
+During the formative years of the web, as we all went online, passwords worked pretty well. This was due largely to how little data they actually needed to protect. Our passwords were limited to a handful of applications: an ISP for email and maybe an ecommerce site or two. Because almost no personal information was in the cloud—the cloud was barely a wisp at that point—there was little payoff for breaking into an individual’s accounts; the serious hackers were still going after big corporate systems.
+
+So we were lulled into complacency. Email addresses morphed into a sort of universal login, serving as our username just about everywhere. This practice persisted even as the number of accounts—the number of failure points—grew exponentially. Web-based email was the gateway to a new slate of cloud apps. We began banking in the cloud, tracking our finances in the cloud, and doing our taxes in the cloud. We stashed our photos, our documents, our data in the cloud.
+
+Eventually, as the number of epic hacks increased, we started to lean on a curious psychological crutch: the notion of the “strong” password. It’s the compromise that growing web companies came up with to keep people signing up and entrusting data to their sites. It’s the Band-Aid that’s now being washed away in a river of blood.

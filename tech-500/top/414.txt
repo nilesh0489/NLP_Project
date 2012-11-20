@@ -1,0 +1,67 @@
+Nevermind Apple’s maps misfire, the free, volunteer-made OpenStreetMap may end up reigning supreme anyway, as companies increasingly choose it for map data over Google. But as the project grows, it’s becoming harder and harder for its members to agree on what direction to go in next. Part 2 of a 3-part series. Read part 1 here.
+
+“There is literally not a mapping company in the world that doesn’t use OpenStreetMap in some capacity,” Steve Coast, founder of the free, crowdsourced world map, in his keynote address to some 224 passionate geography junkies at the second annual State of the Map USA conference in Portland, Oregon, on October 13.
+
+Already, in the last year alone, some of the biggest names in the tech sector have switched from Google Maps — which began charging for heavy use of its data in January 2012 — to OpenStreetMap (OSM) to power their map apps or websites.
+
+The growing list of names now includes Foursquare, Wikipedia and Apple (though there’s some debate over just how much OpenStreetMap data Apple uses in its glitchy maps, as it also lists TomTom as a provider). Craigslist also chose to use OSM for its own new built-in maps views, but never used Google to begin with.
+
+During his keynote address at the conference, Coast went on to say that he’s been approached “all the time” by other big tech companies interested in using OpenStreetMap’s trove of data for their own for-profit, proprietary products and services, but that they didn’t want to be publicly outed for fear of bungling the adoption.
+
+And yet, according to Coast, the companies came to him for information on how other firms, potentially competitors, were using OpenStreetMap. Which is why Coast announced that in 2013, he’s organizing a conference strictly for OpenStreetMap’s commercial users.
+
+During his talk, Coast also showed the following rap video that contrasts the theories of celebrated economists Frederick Hayek and John Maynard Keynes in an effort to illustrate the push and pull between “top down” and “bottom up” direction that OSM maintains:
+
+The first “OSM Commercial Users Conference” set to take place in 2013 seeks to get all of those company representatives and executives in one room, “an intimate event” without journalists or any of the other volunteer cartographers who showed up in Portland over the weekend.
+
+It shouldn’t come as a surprise, then that the idea of an exclusive, commercial entity-only conference would rub some of OSM’s unpaid volunteers the wrong way.
+
+“We dislike the spirit of a #commercial only conference,” tweeted OpenStreetMap’s Germany chapter account directly to Steve Coast. “OSM is about #community and not hiding ideas from contributing users.”
+
+Germany, it should be noted, boasts the most active OpenStreetMap community in the world by a long shot, with an average of over 550 active German contributors making edits to the map every week, compared to the over 200 or so active members in France, the second most active country (the U.S. is number 4 with just under 200 active users as of last week at the time of this posting).
+
+Still, it’s clear that companies have been key to some of OpenStreetMap’s success over the years, and especially as of late: The project has seen a huge boost in users directly attributable to social network Foursquare’s adoption of OpenStreetMap for its online mapping data back in February 2012 (Foursquare, like Apple, Wikipedia and numerous other smaller companies after it, openly said it defected to OpenStreetMap from Google Maps due to Google’s decision to begin charging for heavy usage of its map data in January).
+
+“Foursquare users are tech savvy and geo savvy,” said David Blackman, Foursquare’s geo and venue project leader, during his talk at the State of the Map conference. “These are people passionate enough to help us with our data. They’re interested in helping OpenStreetMap. Foursquare takes back some OpenStreetMap feedback from our site.”
+
+“We want to be able to work with commercial entities,” said Richard Fairhurst, an OpenStreetMap Foundation Board member, to TPM at the conference. “It’s just a matter of getting the licensing issues resolved.”
+
+Aside from properly attributing the project’s data whenever it is used (“© OpenStreetMap contributors”), OpenStreetMap’s primary other condition is that users adhere to the Open Database License (ODBL), a standard maintained for other types of databases outside of the map by the separate Open Knowledge Foundation.
+
+For any database, the ODBL states, in essence, that in addition to properly attributing the creators, a user has to agree to make it or any modified versions openly accessible under the same terms as the original database and data contained therein.
+
+Specifically, in the case of OpenStreetMap, this means that commercial entities such as Foursquare and MapBox must agree to make certain products and services they build using OSM data open and free for the public to access — even the code used to build them — which isn’t generally in their business interests, especially with proprietary technology.
+
+“Foursquare is terrified of the OSM license,” Blackman said in his address. “Commercial entities in general are terrified….we want to be more open because we think it’s good but we want it to be less open because we have a business case.”
+
+Blackman also stated, in no uncertain terms, that Foursquare’s specific goal is to “become the POI [point of interest database]” for everyone in the world. That is, the go-to place to look up specific places, whether those be restaurants, museums, concert venues or anything else. The company took a step closer to that goal by changing its homepage into a location search engine.
+
+“You cant keep a commercial POI database private if you use OpenStreetMap codes,” Blackman added.
+
+Other, smaller tech startups looking to make use of OpenStreetMap instead of Google Maps or its paid rivals’ Nokia or TomTom are running into the same trouble with the license as well.
+
+“Having a license like this is a really big problem not just for big companies, but also small startups,” said Marc Regan, co-founder of a yet-to-be launched startup called Mapkin, speaking to TPM at the State of the Map conference. “For potential investors, it casts a cloud over our intellectual property, and that scares them away even if they think our idea is good and they want to work with us.”
+
+Members of the OpenStreetMap Foundation, including Coast and Fairhurst, said they understood and acknowledged the companies’ concerns about the license, but said they needed “specific use cases” of what the companies planned to do with OSM data that they felt they couldn’t due to the license.
+
+More problematically, any change to the OSM licensing terms would require getting the affirmative, expressed compliance of all 800,000 community members via online forms. OSM has done it before, in April 2010, switching over to its current ODBL license from an arguably more permissive Creative Commons by “Share-Alike” 2.0 license.
+
+But that was controversial in its own right and a “huge headache,” according to Fairhurst, as it necessitated the OSM Foundation posting on its blog and contacting each and every “active contributor,” that is, all those who edited the project for any three months in the last year, to get them to accept the licensing terms online as well as the new contributor terms licensing their data out under ODBL or one of several other open database licenses voted on by the Foundation’s membership, while deleting all the map data from those members who didn’t accept it.
+
+So any new changes would be similarly complicated and drawn out, though, as former OSM USA president Richard Welty told TPM in a follow-up email on October 21 that “a license change, if one were to be considered, would be done in a different way next time.”
+
+The OpenStreetMap Foundation and the map companies hope to avert that with a more expedient solution to the murky licensing issue.
+
+In a quick informal meeting held Saturday afternoon in a small conference room off to the side of the main activity at the Oregon Convention Center, OpenStreetMap Foundation members took seats opposite commercial representatives to try and hammer out a deal. Coast attempted to diffuse concerns that the OSM license could be used by contributors, or anyone else for that matter, to sue companies that didn’t open up their OSM-powered products to the public.
+
+“You can write some community norms and write a sentence or two to clear it up,” Coast said. “The business risks are tiny, no one’s going to sue you.”
+
+After about a half hour of discussion, what they ended up with wasn’t a fix for the licensing issue just yet, but rather a clear plan of action for what to do next: Foursquare, Mapkin and MapBox agreed to coordinate amongst one another and come up with a few examples of specific, mutual problems with the license, which they’d send directly to Fairhurst and the OSM Board for consideration. Then the Board would decide how and when to approach the rest of the OSM community — which commonly communicates through an OSM Wiki website and mailing lists — about amending any language in the Wiki to carve out exceptions for specific commercial uses.
+
+But nearly a week later, there’d been little progress made toward that goal.
+
+“I’m tracking down some folks in my extended network who have expertise in software licensing to get a few opinions on the matter before writing anything up,” Regan told TPM via email.
+
+“I wouldn’t imagine there’ll be a submission from them immediately — it’s not the sort of thing that can be dashed off,” Fairhurst wrote to TPM. “In very broad terms, ODbL facilitates collaborating in ways that our old licence never could, so I’m optimistic that we can find a way forward. The two sine qua non’s are the letter of the licence and the consensus of the OSM community.”
+
+Correction: Updated to correct the discussion of the licensing terms in the paragraph beginning “But that was controversial in its own right…,” which originally stated that the OSM Foundation posted about the license on its own blog and encouraged members to contact one another to accept it, when in fact, each member had to be approached individually and accept not only the new ODBL license but new contributor terms as well. Also updated to add additional comment from Welty. We regret any error or miscommunication of the licensing change.

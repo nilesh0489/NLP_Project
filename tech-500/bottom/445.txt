@@ -1,0 +1,19 @@
+The online community site is promoting paid subscriptions as a way to deal with higher traffic and bigger expenses.
+
+Reddit has seen its user population skyrocket, but that growth is forcing it to spend money to keep up with the flow.
+
+The company revealed its latest traffic stats in a blog posted yesterday.
+
+Last month, Reddit recorded more than 3.8 billion page views and more than 46 million unique visitors. Those page views alone are double what the Web site saw a year ago, according to VentureBeat.
+
+The huge increase in traffic means Reddit has had to add more servers and other equipment and bring in more staff to maintain its site. That raises the question of how to pay for all those upgrades and new hires.
+
+Advertising will always take care of some of the bills. But the company is leaning more toward user subscriptions to ease the cost crunch. As such, Reddit is on a new kick to promote and enhance Reddit Gold, a program in which members pay for certain extra benefits.
+
+Reddit Gold costs $3.99 per month or $29.99 for a whole year and offers a variety of benefits. Members can highlight unread comments, view up to 100 subreddits on their front page, join a members-only lounge, and turn off advertisements, just to name a few. And more benefits are on the way.
+
+Members will be able to save and filter comments by subreddit and give gold to other people based on their comments.
+
+Reddit promises upgrades to the members-only lounge. It's also talking to "Reddit-friendly" companies about adding some perks of their own for members.
+
+So, who's going to handle this Reddit Gold push? The company now needs to hire an engineer to work on all the new features.

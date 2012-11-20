@@ -1,0 +1,216 @@
+Cedric Wiggins thought high-speed Internet would have long since arrived in this corner of rural Mississippi.
+
+He figured this based on promises AT&T made publicly to win regulatory approval for its 2006 purchase of his local telephone company, BellSouth.
+The $86 billion deal created a telecommunications colossus with customers in 22 states. Consumer advocates opposed the merger as a threat to competition. But AT&T’s then-chief executive Edward Whitacre assured Congress that allowing his company to expand would help consumers, supplying “greater access and more choices for broadband, no matter where they live or work.”
+
+That promise carried the day. The Federal Communications Commission allowed the two companies to merge on the condition that AT&T offer broadband Internet to every customer in its territory by the end of 2007.
+
+But five years after that deadline, Wiggins, 26, is still waiting. Inside his trailer, his only affordable Internet option is a sluggish dial-up modem that takes five minutes to load the online job listing sites he has visited since being laid-off as a truck driver in May. Every few months, he calls AT&T to ask when he will receive a faster connection. The answer never changes.
+
+“They said they don’t offer it in my area right now,” he said. “There’s nothing I can do.”
+
+All around him are the consequences of this void -- a law enforcement officer whose crime-fighting is stymied by his inability to secure reliable Internet service; an entrepreneur who must drive to a McDonald’s with WiFi to answer customer emails; and Wiggins, who cannot find work in part because he lacks the bandwidth to fill out online job applications.
+
+The disconnect here in rural Mississippi highlights a major shortcoming of American telecommunications policy, consumer advocates say. Time and again, regulators have approved enormous mergers in exchange for promises that companies will extend high-speed Internet to underserved communities. Time and again, companies have pocketed the profits from those deals while regulators have failed to enforce their obligations.
+
+“Companies make all sorts of promises about how the deal is going to be for the public good and often it’s just hot air,” said Benjamin Lennett, a policy director at the New America Foundation. “They’re trying to get their merger approved. No one is going to hold them to account.”
+
+The FCC asserts that companies ignore merger commitments at their peril.
+
+“The Commission has and will continue to take action to enforce these merger commitments, whether through on-going monitoring, in response to complaints, referrals from other agencies, or based on other reporting mechanisms,” said a commission spokesman.
+
+But the FCC relies on companies to report their own merger compliance and does not conduct its own audits to verify companies' claims that they met the conditions.
+
+One former commissioner says this lack of follow-up has enabled companies to skirt their obligations.
+
+“We have a problem at the commission, historically, with following-up on merger conditions,” said Michael Copps, who served on the FCC from 2001 to 2011, and who voted to approve the AT&T-BellSouth merger. “A lot of these conditions that get attached are not that great, and they are not always really enforced.”
+
+To win over regulators, AT&T promised to offer broadband Internet to all residents in its combined territory, with at least 30 percent of wired Internet deployment -- known as DSL -- rolled out to rural or low-income communities. Low-income customers would also receive $10 Internet service.
+
+AT&T said it met those obligations, but the company refused requests from The Huffington Post to prove that claim by demonstrating where it has deployed service. Officials at the FCC, who spoke on condition they not be named, said the commission accepted AT&T’s assurances that it satisfied its obligations based on a letter from the company stating that it had done so.
+
+Kevin Martin, who chaired the commission at the time that it approved AT&T’s purchase of BellSouth, told The Huffington Post that it was “common practice” to rely on companies' reports of their own merger compliance. Martin, now a lobbyist and attorney at the Washington, D.C., law firm Patton Boggs, declined to elaborate. (An FCC spokesman said recent mergers have required more detailed information from companies about compliance.)
+
+The goal of commitment was “to provide at least some basic Internet service to rural areas,” Martin said.
+
+But some former FCC commissioners and industry experts say merger conditions often contain loopholes that by themselves achieve little in expanding access to the Internet in rural areas.
+
+AT&T committed to provide Internet service at minimum speeds that were hardly faster than dial-up, they say, while pledging to deliver “alternative technologies,” including satellite Internet, through as much as 15 percent of its territory. And at the time, satellite Internet was already available through nearly all of BellSouth’s turf, making AT&T’s commitment “utterly meaningless,” said Dave Burstein, editor of the telecom industry publication DSL Prime.
+
+Even some of the FCC commissioners who approved the deal were skeptical that AT&T’s commitment would bring fast, reliable Internet to all of its customers.
+
+AT&T’s promise “relies on a definition of broadband that does not nearly put our country on par with our global competitors,” then-FCC Commissioner Jonathan Adelstein said, adding that the deal "would have been substantially improved by the inclusion of more specific, quantifiable, and enforceable commitments for rural and low-income consumers."
+
+Despite his misgivings, Adelstein approved the merger. Adelstein, who is now president of the PCIA, a trade association representing wireless infrastructure companies, did not respond to requests for comment for this story.
+
+Other mergers also have contained weak promises, consumer advocates say. When CenturyTel, a rural telephone company that served customers in 25 states across the South and Midwest, purchased Embarq, another rural provider, in 2009, the resulting company, CenturyLink, promised to deliver wired Internet access to 90 percent of customers within three years. But both CenturyTel and Embarq already served DSL to 87 percent of customers at the time of the merger, meaning it would be relatively easy to meet the commitment.
+
+About 19 million people lack high-speed Internet access, according to the FCC. Most live in sparsely populated, rural areas that phone or cable companies are unwilling to serve because extending their networks to such communities means laying expensive fiber-optic cables over wide expanses without recovering those costs from a dense customer base.
+
+“We have all been trying to find a broadband solution that was economically viable to get out to rural America,” AT&T’s current chief executive officer, Randall L. Stephenson, said during a January conference call with analysts, according to a transcript. “And we are not finding one, to be quite candid.”
+
+But regulators thought they found a way to alter the equation -- by requiring that companies like AT&T pay the costs of wiring rural areas with the Internet in exchange for their blessing for mergers.
+
+Through the late 1990s and into the following decade, regulators had a steady stream of deals with which to work. The Telecommunications Act of 1996 allowed local telephone monopolies known as the Bells to enter the long-distance market in exchange for opening their local markets to new competitors. It triggered a wave of consolidation that turned seven regional Bell companies into today’s two sprawling providers, AT&T and Verizon.
+
+The FCC has included conditions to expand rural Internet service in at least six mergers in the past six years, including FairPoint Communications’ 2008 takeover of Verizon’s rural lines in New England, Frontier Communications’ 2010 purchase of Verizon’s assets in 14 states, and Comcast’s 2011 merger with NBC Universal.
+
+
+‘THEY DIDN’T FOLLOW THROUGH’
+
+Few mergers were larger than AT&T’s 2006 takeover of BellSouth, the capstone of AT&T’s expansion-through-consolidation strategy.
+
+The previous year, AT&T had merged with SBC Communications, adding more than 50 million customers in 13 states and vaulting past Verizon to become the nation's biggest telecommunications company. By adding BellSouth, AT&T would solidify its dominance.
+
+Consumer groups opposed to the deal, warning that it would usher higher prices along with job cuts while reducing consumer choices.
+
+“The FCC needs to step up and impose meaningful conditions that will salvage what little competition is left,” Gene Kimmelman, then-senior vice president for Consumers Union, said at the time. “The government has been deceived before by false promises that mergers of potential competitors benefit the public.”
+
+The Justice Department, 19 state regulators and three foreign countries approved the merger without conditions. But two FCC commissioners, Copps and Adelstein, refused to sign off unless AT&T made some consumer friendly commitments.
+
+When a Republican commissioner, Robert McDowell, recused himself from voting because he once worked for an AT&T rival, the commission was deadlocked, 2-2.
+
+With the deal stalled, AT&T made several promises to win approval, including a pledge to expand Internet service to everyone in the combined territory. The company mobilized influential supporters, who flooded the FCC with letters pushing for the deal to go through. Many cited AT&T’s commitment to help rural and low-income customers receive fast, affordable Internet service.
+
+One letter signed by 26 members of Congress from across the country, including many from California and Texas, said quick approval of the merger will “significantly enhance our constituents’ access to affordable broadband services, benefiting both their lives and our nation’s prosperity.”
+
+All but two of the lawmakers who signed had received contributions from AT&T and BellSouth political action committees and employees over the previous election cycle, according to a Huffington Post analysis of campaign finance records from the Sunlight Foundation’s website, InfluenceExplorer.com.
+
+More than half received more than $10,000 in contributions from AT&T and BellSouth political action committees and employees over the previous three election cycles, records show.
+
+By the end of 2006, after a seven-month deadlock, Copps and Jonathan Adelstein withdrew their objections, and the FCC approved the deal.
+
+AT&T had made “real, tangible, and important broadband commitments” and there would be “no exceptions for sparsely populated areas,” Copps said at the time.
+
+AT&T’s commitment “will only further encourage the deployment and adoption of broadband networks into yet unserved or underserved areas,” Chairman Kevin J. Martin and Commissioner Deborah Taylor Tate said back then.
+
+The deal was a boon to AT&T executives and shareholders. AT&T’s then chief executive Ed Whitacre was paid $31 million in 2006, nearly double what he made in 2005, according to AT&T's filings with the Securities and Exchange Commission. The company’s stock price rose 46 percent in 2006 and the company paid out more than $5 billion in dividends, according to SEC filings. In 2007, AT&T’s stock price increased another 16 percent, and the company paid more than $8.7 billion in dividends, according to SEC filings.
+
+But today, even some AT&T supporters question whether the company kept its broadband promise.
+
+“It gives me heartburn,” said Tyrone Ellis, who as chairman of Mississippi’s public utilities committee in 2006 wrote to the FCC to urge approval of the deal, citing the promise of rural broadband throughout AT&T’s territory. “They didn’t follow through. But I don’t have the power to force their hand. The FCC does.”
+
+Today, Mississippi ranks 48th nationally in availability of high-speed Internet, according to a recent report by the Center for Social Inclusion, a social justice think tank. The report found that “Mississippi residents as a whole must choose among older, slower and less reliable technologies compared to the rest of the country.”
+
+A DIGITAL DIVIDE
+
+Copiah County, Miss., located about 30 miles south of Jackson, is stuck on the wrong side of that divide. Hazlehurst, the county seat, has a bustling Walmart, fast-food restaurants, a high school, a downtown strip of shops and faded, abandoned storefronts. In rural areas outside of town, one-room trailers and white-steepled churches are nestled among poultry farms and pine trees.
+
+Many residents say they have just two options for Internet service. They can choose between a satellite connection, which they say is more expensive and less reliable than wired Internet. If they can’t afford satellite, they are stuck with dial-up, which most Americans replaced years ago with Internet speeds that are more than 20 times faster.
+
+On a recent afternoon, Billy Saul, 59, drove along tree-lined back roads as a dispatcher’s voice crackled over the radio. Saul is the commander of the Copiah County sheriff’s narcotics unit. The county, he said, is a trafficking route for methamphetamine, cocaine and marijuana from Mexico and Texas to cities like Atlanta and Memphis.
+
+In the back of his black Chevy Tahoe with tinted windows, he keeps a laptop, a printer, a Taser, a .40-caliber pistol, a .12-gauge pump shotgun, SWAT gear, a mask for raiding meth labs, and what he described as “door-kicking boots.”
+
+“I’ve got everything I need,” he said. “Except Internet.”
+
+
+
+"You feel like you have no recourse. You can’t say ‘I’ll take my business to somebody else.’ There is nobody else," says Billy Saul. (Photo: Gerry Smith)
+To stay undercover, Saul works from his home, where his best option for Internet service comes from a satellite dish. When it’s cloudy or rainy, the Internet goes down. This happens once or twice a week, sometimes for more than a day.
+
+It is more than just an inconvenience, he said. It’s also an obstacle for law enforcement.
+
+Two years ago, Saul received a call from a Drug Enforcement Administration agent who needed immediate help identifying a suspected drug trafficker to make an arrest. Saul knew the suspect because he had arrested the woman before. The agent emailed him a photo, but Saul’s Internet was not working, and he couldn’t view the image. By the time his connection was restored, the suspect was gone, he said.
+
+Saul said other cases in the county have been jeopardized by his lack of reliable Internet access.
+
+“It keeps me awake at night,” he said.
+
+To earn money on the side, Saul sells computer software to other police departments so they can better manage their drug cases. Without reliable Web access, though, he can’t help them if they have software problems, he said.
+
+Saul said he has called AT&T repeatedly to ask for faster, more reliable Internet service, but has been told his home is outside its service area.
+
+“You feel helpless,” he said. “You feel frustrated. You feel like you have no recourse. You can’t say ‘I’ll take my business to somebody else.’ There is nobody else.”
+
+A few miles away, Dwayne McLemore, 48, runs a metal fabrication business in a warehouse behind his home, which sits on 350 acres next to a poultry farm. His business, called Steel Outdoors, makes hunting and farming equipment out of steel.
+
+Like Saul, McLemore’s best Internet option comes from satellite dish. To run his business, he relies on customers emailing him large files -- blueprints and photos -- of what they want him to build. But after downloading a few photos, he reaches his data limit and his satellite provider downgrades his Internet speed, preventing him from downloading anymore. Wireless service is also spotty in the area, he said.
+
+So he is often forced to drive 10 miles into town and catch a Wi-Fi signal at McDonald’s to respond to customers’ emails. Many customers, however, expect him to be available at all times.
+
+“We’ve lost customers because they haven’t been able to get in touch with us,” he said.
+
+On a recent morning at his warehouse, country music blared from a radio. His dozen employees were busy driving forklifts, welding steel, and spray-painting deer blinds. McLemore carried beams of steel around the warehouse, then wiped carbon soot off his hands onto his gray T-shirt and blue jeans, staining them black.
+
+
+
+"We’ve lost customers because they haven’t been able to get in touch with us,” Dwayne McLemore said. (Photo: Gerry Smith)
+A self-described “Christian man” with a deep tan and Southern drawl, McLemore doesn’t believe the government should require AT&T to serve rural areas. But he said the company has not kept its word to him.
+
+When Steel Outdoors became more dependent on the Internet, he chose not to relocate his business elsewhere because AT&T told him wired high-speed Internet was on its way, he said.
+
+“They said ‘We’re already running cables down your road, it’ll be available in the next year,’” he said.
+
+That was three years ago. Neighbors down the road received service, he said, but he did not. He said moving his business now would be expensive, especially after he built an addition to the warehouse.
+
+“AT&T is just like most politicians,” he said. “They’ll make lots of promises to get your business or get you to support them, but when it comes down to honoring their word, they just don’t do it.”
+
+While Saul and McLemore complain about their satellite Internet, many low-income residents of Mississippi -- one of the poorest states in the country -- say they can’t afford it, so they rely on dial-up.
+
+On a recent morning, Cedric Wiggins logged onto his dial-up connection and tried to look for a job. He typed in the URL for justtruckingjobs.com, then stared at a blue bar inch across the bottom of the screen. After five minutes, the bar froze, and a message appeared: “Navigation to the webpage was cancelled.”
+
+Wiggins shook his head and sighed.
+
+“Here we go again,” he said.
+
+Quiet, easy-going and built like an NFL lineman, Wiggins wishes he was more computer-savvy. Growing up in a rural community without fast Internet access, he said he never learned online basics.
+
+“I don’t know much about Google or searching what sites I need to go on to find information,” he said. “I’m not used to it.”
+
+But he needs a faster Internet connection to find work.
+
+Every Sunday, he buys the local newspaper, the Jackson Clarion-Ledger, and calls numbers offering positions driving a 16-wheeler -- his profession since he was 19.
+
+Nearly every company tells him to apply online. He explains he only has dial-up and the 20-page application would take him several hours to complete. One company agreed to fax him an application. He picked it up at a neighbor’s house, filled it out, and faxed it back. He never heard anything.
+
+He avoids the local library, he said, because there are long waits for computers and limits on how long he can use them. He tried applying for jobs on his cell phone, but it was hard to navigate on a small screen and he often lost service, erasing his work. Most of the time, he says, it’s easier to simply drive to Jackson -- an 80-mile round trip -- where he can fill out applications using his brother’s high-speed Internet connection.
+
+In the meantime, he has a part-time job hauling logs to cities like Shreveport, La., or Everdale, Texas, making $140 a load. But it’s just a few days a week, and the lack of steady work weighs on him. He supports his fiancee and their 1-year-old son, Cedric Jr., who runs around the trailer in a diaper and white tank top, squealing with laughter.
+
+“Hopefully, by the time he needs the Internet it will be here,” Wiggins said.
+
+‘NOTHING REALLY CHANGED’
+
+When a company fails to abide by merger conditions, federal regulators can revoke a company’s license, split up the merger, extend the length of their promises or issue fines.
+
+In June, acting on a tip from the public, the FCC said Comcast had failed to market a standalone Internet service to its customers, which meant customers had the option of buying Internet without also buying bundled services such as cable television. The condition was a requirement of Comcast’s merger with NBC Universal.
+
+As punishment, the FCC required the cable provider to offer the service a year longer than the original requirement, conduct a major advertising campaign about the service and pay a $800,000 fine.
+
+In 2011, Comcast generated $55.8 billion in revenue.
+
+“That’s nothing more than a mosquito bite,” said Susan Baldwin, an independent telecom policy consultant.
+
+Last spring, AT&T announced it would spend $53 million -- with help from federal subsidies -- to expand high-speed Internet in rural parts of the state. The project will deliver high-speed Internet to 30,000 rural homes that never received wired access after the BellSouth merger, according to AT&T spokesman Michael Balmoris.
+
+More broadly, President Barack Obama included $7.2 billion in his 2009 package of stimulus spending measures to expand Internet access in underserved areas. Last fall, the FCC created the $4.5 billion “Connect America Fund," which provides subsidies to companies that extend Web service to remote communities. The fund is paid for with revenues from a tax on monthly phone bills.
+
+But Wiggins is still waiting for the future to arrive, while worrying about the consequences of living without easy access to an increasingly vital tool for participating in society.
+
+Despite his frustrations, he could never live in the city, he said. He likes being near family. The church he has attended since he was a boy sits across the road from his trailer, along with his family’s, cemetery and his parent’s house. His aunts, uncles and grandparents live within a few miles. He likes fishing for catfish and hunting deer in the fall.
+
+“I like the peace and quiet,” he said.
+
+His mother, Barbara Wiggins, 55, uses dial-up Internet to pay bills. She prefers paying online because companies charge her $20 to pay them over the phone and a recent aneurysm has limited her ability to drive to the post office.
+
+But paying bills online takes all day, she said. In the time it takes to load a web page, she starts her laundry, cooks dinner, and feeds six pet goats that live in a pen behind her house. Her daughter-in-law wants to email photos of her grandchildren, but she tells her not to bother.
+
+“It takes too long for them to open up,” Wiggins said. “I just tell her to wait and we’ll see them Sunday when you come to church.”
+
+With a faster connection, she said she would pay her bills and look up quilting projects online. Her husband, George Wiggins, 59, said he would read the news online. Cedric Wiggins said he could check the next day’s weather -- vital information for a truck driver.
+
+His mother has learned to accept that AT&T doesn’t serve high-speed wired Internet to her home. But what bothers her, Wiggins said, is the company has delivered service to some of her neighbors. One man down the road, who is the police chief of a nearby town, recently received service, she said.
+
+“If they can bring it to his house, why not bring it all the way?” she said. “We’re willing to pay for it. Why not let us have it?”
+
+
+
+George and Barbara Wiggins still use dial-up Internet, though they said one of their neighbors has received high-speed Internet from AT&T. (Photo: Gerry Smith)
+Every so often, the Wiggins family’s hopes are lifted. They see an AT&T commercial offering a bundled package of cable, phone and high-speed Internet, or an AT&T employee working on the phone lines outside.
+
+“We saw them laying cables down once and we just knew we were going to get it,” Barbara Wiggins said.
+
+They call AT&T, but they get the same answer: not yet.
+
+“I believe they may have made that promise to make it sound good, like a politics thing,” Cedric Wiggins said. “They promise you this, promise you that. But once they actually bought [BellSouth], it was no different. Nothing really changed.”

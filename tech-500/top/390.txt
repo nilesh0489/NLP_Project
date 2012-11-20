@@ -1,0 +1,11 @@
+A federal judge in Madison, Wisconsin, on Monday threw out a lawsuit filed by Apple over the patent licensing practices of Google’s Motorola Mobility unit.
+
+Apple filed a suit last year claiming that Google’s licensing fee of 2.25 percent of the price of a device utilizing Motorola’s technology — devices including the iPhone and iPod touch — was too high. Google purchased Motorola Mobility (and its accompanying wide patent portfolio) for $12.5 billion in May.
+
+“We’re pleased that the court has dismissed Apple’s lawsuit with prejudice,” Motorola Mobility said in an e-mailed statement on Monday. “Motorola has long offered licensing to our extensive patent portfolio at a reasonable and non-discriminatory rate in line with industry standards. We remain interested in reaching an agreement with Apple.”
+
+The judge, Barbara Crabb of the Western District of Wisconsin, did not provide a reason for the dismissal.
+
+But this doesn’t put the issue to rest for Google. The FTC last week formally recommended that the federal government pursue an antitrust lawsuit against Motorola Mobility in order to determine if it reasonably offered licensing of its industry-standard technology or wielded them only to block rival hardware from competitors Apple and Microsoft.
+
+Apple and Motorola Mobility are also embroiled in a suit filed in August over infringement of seven of Motorola’s patents, which it says were violated in the production of the iPhone, iPad, and iPod touch.

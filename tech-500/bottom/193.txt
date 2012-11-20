@@ -1,0 +1,27 @@
+Google Maps has officially stepped into what may be its most difficult challenge yet — mapping the alleys, ledges and trails of the world unreachable by Street View’s cars, tricycles and snowmobiles. The effort formally began on foot Monday as Google took three of its Trekker backpacks down into the Grand Canyon for the new gadgetry’s maiden voyage.
+
+“When we were designing Trekker, we really knew we wanted to take it to these rugged, remote locations,” said Ryan Falor, a product manager on Google’s Street View special collections team, at the top of the Grand Canyon’s Bright Angel Trail on Monday. “We worked really hard to make sure it was waterproof and could handle heat and cold and all kinds of abuse on the trail.”
+
+The Trekker — which looks like a Ghostbuster’s Proton Pack with an oversized soccer ball mounted on top and a USB-connected Android smartphone in place of a particle blaster — was first shown off at a Google Maps event back in June. At that point, the device was still a prototype and a bit lighter than its current 40-pound heft. But after about a year and a half of prototypes and improvements, as well as test hikes around the Googleplex headquarters in Mountain View and on weekend trails in the Bay Area, Trekker is finally polished enough to collect 360-degree imagery for use in Google Maps Street View.
+
+“We want to be comprehensive with maps. We want to go everywhere,” said Luc Vincent, the senior engineer who oversaw Trekker’s development. “That’s what we are about. And so we could not possibly be comprehensive without this. It’s our core mission with Street View.”
+
+The Trekker is basically a smaller version of the equipment the Google uses in its Street View cars — a cluster of 15 camera lenses, each respective lens with a resolution of 5 megapixels, shooting a photo every 2.5 seconds. The resulting images come out at a combined resolution of 75 megapixels. Everything is controlled by an HTML5 app running on a USB-attached Android phone called Trekker Interface. The app allows Googlers to not only start up the rig (which takes about 10 minutes in good weather) but also to see the shots they’re getting shortly after photos are snapped, for a bit of quality control. This next step in Street View’s gadgetry will allow the team to go where no Googler has gone before — for work purposes anyway.
+
+“I’ve been waiting for this day for a long time,” said Vincent, speaking before sunrise to a small gathering of reporters on the Grand Canyon’s South Rim, with a Trekker strapped to his back. “I’m thrilled. This is one of the most iconic, amazing trails you can hike.”
+
+As the sun rose, and temperatures hit the mid-50s, Google’s PR handlers pulled the Street View team away from the reporters and urged them into the Canyon. Vincent led as three two-person teams hiked down, with one Trekker to each pair. The teams — made up of Vincent and fellow Street View engineers Matthew Prestopino, Craig Robinson and Jamie Hoffacke — maintained at least 50 meters of distance between them so they wouldn’t show up in each other’s respective photos.
+
+Having multiple teams on the same trail means Google will have extra sets of images to choose from. More importantly, it means there’s backup in case something goes wrong during the first official outing of the Trekker. And in this rugged landscape, it won’t be only the hardware that’s at risk of failure. The third team on this trip, engineers Ben Salvador and Tommy Liu, were supposed to take a their Trekker halfway down into the Bright Angel Trail, but they turned around early, exhausted, and returned drenched in sweat.
+
+The two teams that did go all the way down hiked the Bright Angel Trail and camped at the Canyon’s Phantom Ranch outpost on Monday night. They returned Tuesday morning, with their camping gear and one of the Trekkers strapped to mules for the hike out of the canyon. Vincent insisted on packing his own load, including a Trekker, back out. “I’m a backpacker and I don’t like mules taking my stuff up,” he said. “That’s why I want to take it myself. Also, I feel like, that’s a challenge. So, I’m up for it. But ask me in a couple days whether that worked out or not.”
+
+The Googlers will head back to Mountain View on Wednesday to see how all the shots actually came out. The best imagery will be stitched together to create the seamless Street View images found in Google Maps, but it’ll likely be months before Google is ready to push the hike to the public, Falor said.
+
+Street View operations manager Steve Silveran describes Trekker as the missing piece of Google’s Street View arsenal, with cars capturing streets, trikes and snowmobiles going off-road, trolleys photographing the inside of businesses and art galleries, and even underwater cameras capturing images of Australia’s Great Barrier Reef.
+
+“In general this is about making Street View better, but also about creating these ‘wow’ moments,” Silverman told Wired. “Google is filled with outdoors people. The idea of coming out on the trails was just a logical thing. And again, when you look at Maps — and there is a map of the Grand Canyon — you look at it and say ‘I want to see more.’”
+
+So what’s next for Street View and the Trekker setup?
+
+“The fun thing about being a system engineer and a hardware designer is we always think about what’s next,” Silverman said. “Can we scale this up? How do we improve it? As far as what’s next, there’s a variety of things that are sort of on the drawing board and when they surface, you’ll get to see them.”

@@ -1,0 +1,13 @@
+In its latest speed report, the Chrome team says benchmarks show the popular browser continuing to get faster.
+
+It's not just your imagination -- Chrome really is getting faster.
+
+Google said today that its JavaScript benchmark tool shows Chrome is 26 percent faster than it was last year.
+
+"Stability sometimes takes higher priority, but we're still manic about improving Chrome's speed," Google's Toon Verwaest said in a blog post.
+
+One way Google avoids the bloat that has crippled other browsers over the years -- the company set up automated tests to notify engineers whenever a change in the code makes the browser slower, Verwaest said.
+
+The company's efforts aren't limited to JavaScript improvements -- it also made recent moves to reduce the browser's startup time.
+
+Chrome has slowly but steadily improved its market share since its debut four years ago; its focus on speed is surely a top reason why.

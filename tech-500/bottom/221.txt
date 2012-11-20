@@ -1,0 +1,122 @@
+When Bill Buxton worked at Xerox's Palo Alto Research Center in the early 1990s, he examined the classic children's homemade telephones: two cups connected by a taut string. He wondered why that same concept couldn't improve computer keyboards.
+
+Think about it. The cup is both a microphone and a speaker. It uses the same "hardware" for input and output of sound. Why, Buxton asked, couldn't the same principle apply to text on computers -- using a single device for both input and output of text rather than using input from a keyboard to produce output on a screen?
+
+Buxton wasn't alone in recognizing an eventual fusion of the two. Fast-forward a couple decades -- and add myriad researchers and huge corporate R&D budgets -- and we have touch-screen keyboards on tablets and smartphones. Inputs and outputs share the same surface. The keyboard has fused with the screen, at least for some computing tasks.
+
+But as anyone who's typed on a virtual keyboard -- or yelled at a voice-control app like Siri -- can attest, no current text input holds a candle to a traditional computer keyboard when it comes to comfort, speed and accuracy. Maybe eventually we'll connect computers to our neurons, but in the meantime, the simple yet highly functional electromechanical keyboard will be around -- and keep improving -- for some time.
+
+
+Decades after its introduction in the mid-'80s, IBM's classic Model M remains a favorite for keyboard purists. Credit: BorgHunter.
+Click to view larger image.
+Buxton, now a design guru at Microsoft Research, still closely examines old keyboards for forgotten tricks and technologies that could spawn new ways of thinking about how we enter information into a computer.
+
+"Many of the great discoveries are right under our noses," he says when discussing the future of the keyboard. "A lot of the stuff that's emerging as new is rooted in things that have happened in the past -- and in some cases the really distant past."
+
+Before we look at where computer keyboards might go in the future, then, let's look at where they've been.
+
+Keying up the past
+
+The evolution of the keyboard is not a clean timeline. Contributions to its look, feel and underpinning technologies sometimes draw from preceding models and other times from a far corner of the inventor's universe.
+
+The first devices we'd recognize as related to modern keyboards date from the 19th century. In 1852 John Jones patented a "mechanical typographer," and 15 years later Christopher Sholes received a patent for a "type-writing machine" -- what is usually considered the original typewriter. Some aspects of even these very early keyboards inform a lot about the design today.
+
+"The typewriter [keyboard] had all sorts of functions. The shift key was really big because you needed a big surface area to push down and raise the carriage up," says David Hill, vice president of design and user experience at computer manufacturer Lenovo. "There was a mechanical advantage required."
+
+
+Early computer keyboards mimicked the feel of IBM's classic Selectric typewriter. Credit: Steve Lodefink, CC by 2.0.
+Click to view larger image.
+As far as direct influences on the modern computer keyboard, IBM's Selectric typewriter was one of the biggest. IBM released the first model of its iconic electromechanical typewriter in 1961, a time when being able to type fast and accurately was a highly sought-after skill.
+
+Dag Spicer, senior curator at the Computer History Museum, notes that as the Selectric models rose to prominence, admins grew to love the feel of the keyboard because of IBM's dogged focus on making the ergonomics comfortable. "IBM's probably done more than anyone to find [keyboard] ergonomics that work for everyone," Spicer says. So when the PC hit the scene a decade or two later, the Selectric was largely viewed as the baseline to design keyboards for those newfangled computers you could put in your office or home.
+
+In the late 1970s, companies like Cherry, Key Tronic and the Micro Switch division of Honeywell took off with their own approaches to mimicking the mechanical feel of a typewriter with the circuitry of a computer keyboard. "It was a real big deal back then," says Craig Gates, CEO of KeyTronicEMS, as the company is now called. "How the [keyboard] felt, how reliable it was, what speed could be achieved with a certain design of the switch."
+
+Early switch designs
+
+One of the first computer keyboard designs from the early '70s incorporated reed switches, which work with a magnet and two metal filaments. When the magnetic field gets close enough, it pulls the two filaments together and thus completes a circuit -- or, in the case of a key, a keystroke.
+
+
+This Key Tronic keyboard used reed switches to record keystrokes. Credit: © KeyTronicEMS. Click to view larger image.
+These keyboards housed circuit boards with 100 to 120 reed switches, each covered by a key. Underneath each key top was a tiny magnet. When someone depressed the key, the magnet made the filaments touch, thus generating an electrical signal for the desired character to type.
+
+But filaments are fragile. (If you've dealt with busted holiday lights, you know this.) So these reed switch keyboards weren't reliable, Gates explains. If one broke or got out of alignment, or if dust obstructed the contact points, the key wouldn't work anymore -- and, unlike holiday lights, individual keys weren't easy to replace.
+
+In addition, they were subject to microvibrations that opened and closed the switch a few times in a single keystroke, thus tricking the computer into thinking the letter had been pressed several times successively. (Microvibrations are still an issue in some keyboards, but microprocessors filter them out.)
+
+So in the late '70s, Gates says, reed switches began to give way to keys that relied on a magnetic principle called the Hall Effect. These keyboards, made by Micro Switch and others, didn't use physical contact points to complete a keystroke -- instead they used magnetism, which can be less precise (and thus less liable to error) and doesn't require as many moving parts.
+
+
+KeyTronic shows off the layers of its capacitive keyboards from the late '80s and early '90s. Credit: © KeyTronicEMS.
+Click to view larger image.
+Meanwhile, Key Tronic, keen to get away from reed switches, developed the capacitive switch, which worked by putting a little bit of aluminum under the key top. When the key was depressed, that foil changed the capacitance of the circuit board underneath and a microprocessor registered a keystroke. This idea was soon improved upon with membrane keyboards, which simplified the capacitance mechanisms under the key and brought down production costs.
+
+Trimming hardware, cutting costs
+
+Though the materials sound cheap, keyboards were expensive in the early '80s. The typical keyboards Key Tronic and Micro Switch sold to computer makers ran about $100, as opposed to three or four bucks for the typical OEM keyboard today. To cut costs in a fiercely competitive market, keyboard manufacturers began to look for ways to cut hardware from the key while ensuring that the key tops, key weights, balance, foundation and "distance to travel" -- the space it takes to register a keystroke -- were familiar to users' fingers.
+
+This required evaluating the hardware that makes the key move up and down. The "snap point" is one of the most important concepts that govern a keystroke, according to Aaron Stewart, a Lenovo senior design engineer reportedly nicknamed "Mr. Keyboard." This is the point where the key pops, your brain registers you've typed a letter and you pull back your finger. Think back to the first time you typed on a touch screen -- remember the shock of not having the snap point?
+
+Additionally, keyboard makers have to consider the "break force" of the key, which has to provide enough resistance to allow your fingers to rest on the key top without inadvertently depressing it, but also needs to be weak enough to let you type without feeling like you're punching through a membrane with each keystroke.
+
+ 
+Patented in 1978, the buckling spring key mechanism drove IBM's popular PC keyboards for years. Credit: Amir Yalon, CC by 2.0.
+Click to view larger image.
+In 1978, IBM received a patent for a "buckling spring" key mechanism that mimicked the feel of the old Selectrics. The mechanism worked with a small spring attached to non-parallel surfaces under the keycap.
+
+The spring coiled normally when depressed but "buckled" to the side at the snap point due to the non-parallel surfaces of attachment -- and created the familiar click-clack sound of IBM's popular Model M keyboard and other old keyboards. The buckled portion of the spring activated the circuit, which generated the keystroke.
+
+ 
+In a rubber-dome keyboard (shown upside down), the key caps push down on the domes, which collapse, closing circuits and recording keystrokes, and then snap back. Credit: Aaron Siirila, CC by SA 2.5.
+Click to view larger image.
+But cost cutting gave way to newer ways of suspending the key by IBM and other manufacturers. Rubber domes, which work with the same snapping principle as a toilet plunger, and scissor switches, which also have a rubber dome but use a scissoring mechanism attached to the key top to push down the dome, came to prominence in the late '80s and early '90s.
+
+Part of the goal of the new designs was to reduce the distance of travel. Comfort and speed when typing depend on the distance of travel for the key on each stroke. Shaving off precious fractions of millimeters improved the typing experience for many users.
+
+ 
+The scissoring mechanism used in scissor-switch keyboards shortens the distance a key must travel to record a stroke. 
+Credit: © Greg Raburn. Click to view larger image.
+"Compared to historical examples, today's desktops and notebooks have roughly 40% less [distance to travel]," Lenovo's Hill points out. Typing on rubber-dome and scissor-switch keyboards is usually quieter as well.
+
+These designs were also cheaper to produce, pushing keyboards to commodity status, according to Gates, and these two types of springs still underpin most of the computer keyboards on the market. Today the low-profile scissor-switch keys are typically found in notebooks and thin keyboards, including the chiclet-style keyboards on Apple's laptops. The taller rubber-dome keys are typically found in standard desktop keyboards and use an interlocking "chimney" structure in place of a scissors to stabilize the key travel.
+
+As with any bygone technology, though, there are still enthusiasts who swear by the old IBM buckling springs. Indeed, keyboards with mechanical switches have undergone something of a renaissance in recent years as users pine for their crisp tactile feedback.
+
+Thinner, lighter...one-handed?
+
+Today, making a thin laptop with a great keyboard is no easy task. Designers run through a startling amount of math and habit analysis to arrive at very precise distances and positions between keys, which need to be exactly where our brain expects them or we'll type more slowly and make more errors. Meanwhile, ergonomic factors must be weighed against dimensions, weight and other practical design considerations, explains Lenovo's Stewart.
+
+
+Ultrabooks like the Vizio Thin + Light strive for a top-grade keyboard in an ultraslim profile. Credit: © Vizio. Click to view larger image.
+Dish-shaped key tops guide the finger to the center of the key, but the concave shape makes it trickier to keep a laptop thin. A keyboard requires a solid foundation, but the additional material for a good base can add weight. The other side of the coin is that reducing the amount of materials in the keyboard frees space for microprocessors and a bigger battery. Stewart calls the sum of all of these design factors a moving target.
+
+Manufacturers are constantly trying to cut costs and make the keyboard smaller -- yet people want a consistency from their keyboards. It's the foundation of their interface with the computer. A company can tweak all the mechanisms or circuitry under the keycap, but if it makes for a poor typing experience, people won't buy the product. Keyboard manufacturers have to weigh the value of innovation against the ergonomic impact.
+
+For now, Stewart believes that range of innovation extends only to the space under the keycap. "With the technology we have today, we think there is a finite limit of being able to create [thin, high-quality keyboards]," he says.
+
+ 
+Synaptics says its new ThinTouch key technology will mean stunningly thin keyboards. Credit: © Synaptics.
+Click to view larger image.
+Naturally, a few upstarts are trying to prove Stewart wrong. A company called Pacinian -- bought by touchpad maker Synaptics in June -- wants to replace the scissors and domes with a new type of capacitive sensor. The company hopes to turn its prototypes into a commercial offering by the middle of 2013. Now rebranded as Synaptics' ThinTouch technology, it will have about half the travel of a MacBook Air's keys, according to the company.
+
+For its part, Apple isn't asleep at the wheel; it published a patent for its own super-thin keyboard in February.
+
+Other hardware makers, meanwhile, are working to improve the touch-screen keyboards that Apple itself helped popularize. Touch-typists complain about the lack of physical feedback from onscreen keyboards, so companies such as Immersion are incorporating haptics (targeted vibrations) into displays.
+
+
+Tactus' technology uses microfluidics to provide tactile buttons that rise up from a touch screen's surface. Credit: © Tactus.
+Click to view larger image.
+An outfit called Tactus is taking a different approach with microfluidics "buttons" -- essentially small pouches on the surface of the screen that fill with liquid, appearing only when you need to type. When they're not in use, they deflate, leaving a flat surface. Tactus CEO Craig Ciesla is hopeful that his company, like Synaptics, will have something ready for the market by the middle of next year.
+
+Yet even as it looks toward the future, one of Tactus' core technologies is rooted in the past. Ciesla points out that microfluidics has been around for a couple decades in industries like biotech and computer printers. "We're just redeploying it in a novel and unique way," he notes.
+
+ 
+Will wraparound keyboards like this Twitch concept design provide a comfortable way to type on mobile devices?
+Credit: © Twitch Technologies. Click to view larger image.
+Moving in a whole different direction, a company called Twitch Technologies is developing add-on products such as a pair of one-handed keyboards that wrap around the left and right edges of tablets. Your fingers type on the back of the device and your thumbs on the front, and you use finger combinations to type letters -- for example, depressing your left pinky and right thumb might get you an A -- rather than one key per letter for the QWERTY layout. (Don't hunt for Twitch's keyboards in stores yet; they're still in the concept stage.)
+
+Reinventing the layout of the keyboard is hard for us to imagine, but even one-handed keyboards with no letters on them have roots in the past. When inventor Doug Englebart gave "The Mother of All Demos" -- introducing myriad computing technologies we still use today, like the mouse and videoconferencing -- he demoed a five-finger chorded keyboard that produced letters with different finger combinations. That was in 1968.
+
+The catch, as Microsoft's Buxton points out, is that when you implement a new keyboard, everyone has to learn to type again. But it may just be worth it.
+
+Caleb Garling is a staff writer for the San Francisco Chronicle covering technology and business. He used to be on the staff of Wired, covering enterprise technology and culture. He has caught a trout barehanded only twice in his life.

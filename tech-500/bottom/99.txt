@@ -1,0 +1,3 @@
+Mozilla messed up last week when it released Firefox 16 with what it described as a “serious security flaw.” But quick action on the organization’s part and effective patching have helped Firefox 16 gain rapid adoption among Firefox users, according to new data from Chitika. Overall, Chitika found that “Mozilla caught the issue before a large portion of their users had updated to the new version, limiting the number of individuals who were operating with security vulnerabilities.” As a result, Chitka says that “Firefox 16 is on track to be just as successful as previous versions in terms of adoption rate.”
+
+Get more from BGR.com: Follow us on Twitter, Facebook

@@ -1,0 +1,9 @@
+Dan writes about OS X, iOS, troubleshooting, utilities, and cool apps, and he covers hardware, mobile and AV gear, input devices, and accessories. He's been writing about tech since 1994, and he's also published software, worked in IT, and been a policy analyst. More by Dan Frakes
+
+Budget-accessory vendor Monoprice.com, known for its inexpensive cables and adapters, will be introducing a line of high-end LED displays with screen quality designed to compete with Apple’s $999 Cinema Display, a company representative told Macworld.
+
+The first model will be a 27-inch in-plane-switching (IPS) WQHD display with a 16:9 aspect ratio at 2560 by 1440 pixels. The company says the panel will offer a 1000:1 contrast ratio, maximum brightness of 380cd/m, 6ms response time, 178-degree off-angle viewing (both horizontal and vertical), and a 72-percent color gamut—specifications that compare favorably to Apple’s display.
+
+The dual-link-DVI Monoprice display will ship with a tilt stand and VESA wall-mount capability; it will also include built-in speakers. Unlike Apple’s aluminum offerings, Monoprice’s display will feature a glossy-black-plastic enclosure.
+
+The company has not yet announced final pricing or a specific ship date, but Monoprice says the display will be available sometime later this year and should be priced substantially lower than other similar-quality displays currently on the market.

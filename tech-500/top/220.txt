@@ -1,0 +1,5 @@
+We’ve just been sent a photo of what we’re told are third party non-approved authentication chips for Apple’s (AAPL) Lightning USB cables. This is important because Apple had included an authentication chip to prevent inexpensive and potentially unsafe third-party Lightning accessories from being manufactured, and while news was reported last week the chip was cracked, this photo shows more than one clone of Apple’s original design.
+
+We are told there are now multiple versions of these unofficial Lightning authentication chips and connectors floating around China, and while that may be good news for those looking for lower priced accessories and chargers, it doesn’t look good for Apple’s MFI partners who are licensing the technology and making legitimate accessories.
+
+Thanks to Apple Museum Taiwan and our friend Chronic.

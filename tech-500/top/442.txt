@@ -1,0 +1,11 @@
+A federal judge has partially unsealed the warrant he issued that allowed MegaUpload's domain names to be seized.
+
+The documents had been under seal since January, when the U.S. Attorney for the Eastern District of Virginia charged the company and managers, including founder Kim DotCom, with criminal copyright violations, money laundering, and wire fraud.
+
+The search warrant offers very little new information about what kind of evidence the U.S. government possesses to support its case. But Ira Rothken, the Silicon Valley attorney who oversees MegaUpload's worldwide defense, says the document shows that U.S. officials misled the judge when applying for the warrant.
+
+In asking for the search warrant, prosecutors said in June 2010 they warned MegaUpload via a criminal search warrant that the company's servers housed more than 30 pirated video files and managers had not removed them even as late as November 2011. But Rothken said, the government omitted an important part of the story.
+
+"In our view that's a misleading statement," Rothken said. "MegaUpload was served with a criminal search warrant for alleged third-party user conduct and was advised not to interfere with that criminal investigation or with the files -- as such disclosure, would jeopardize the ongoing investigation. To ask MegaUpload to cooperate and then use that cooperation against them, to us seems to be both unfair and misleading."
+
+U.S. District Judge Liam O'Grady unsealed the documents at the request of Kyle Goodwin, a MegaUpload user who said he wants his personal videotapes of high school football games returned.

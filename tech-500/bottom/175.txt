@@ -1,0 +1,17 @@
+The feature that helps users avoid having to upload every song individually to Google's cloud will be offered free of charge to consumers, first in Europe and then in the U.S.
+
+Google announced plans today to roll out its version of a scan-and-match feature for the company's music service in Europe in two weeks and then in the United States soon after.
+
+The company was to announce the feature today, as well as other updates to Google Play entertainment media during a press event in New York that was supposed to mark the debut of the latest version of its Android operating system, according to multiple music industry sources. The search company cancelled the event due to Hurricane Sandy.
+
+Last month, CNET reported that Google was trying to obtain the licenses it needed to launch the service. Google said in a blog post that it will launch scan-and-match in Europe on November 13 and the United States soon after.
+
+Scan-and-match is the term used to describe a process whereby a user's music can be stored on the computer servers of a host service. The service can then stream songs over the Internet to the user's choice of Web-connected music players. The one deciding benefit of scan-and-match is that it saves the user from the time-consuming process of uploading each individual track to the host's servers.
+
+There's an arms race in online music to offer consumers cheaper music and more conveniences. Scan-and-match was one of the areas where Apple, Amazon, and Google were trying to one-up each other. Google certainly appears to have bested its competition in the area of price. The company said in the announcement that it would offer the scan-and-match feature free of charge to consumers.
+
+Last month, CNET reported that Google planned to offer the feature free. Apple and Amazon require a $25 annual fee for their versions of the feature. In addition to the news about scan-and-match, Google also said it was launching Google Play in Europe, and the company is offering customers the ability to buy movies -- rather than just rent -- in Canada, the U.K., France, Spain and Australia.
+
+In addition, the company has ended a year-long stalemate with Warner Music Group, one of the top three record companies. In October, when Google Music went live, it did so without that label's music.
+
+Updated at 9:30 a.m. PT to include Google's announcement on scan-and-match.

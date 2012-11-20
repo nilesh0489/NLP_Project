@@ -1,0 +1,51 @@
+We want to do more to promote digital rights like privacy through interventions in relevant court cases.
+
+As part of that ambition, we have applied for permission to intervene in the appeal of the Golden Eye International v Telefonica UK decision. And we need your help to take this important case.
+
+Intervening in these sort of cases is expensive. But we also think it's really important that we try to represent the interests of Internet users in these situations. If the decision goes our way, we believe one consequence will be a more robust process for considering the data protection rights of those who pay the bill for an Internet connection.
+
+It would be harder for firms like Golden Eye to represent large numbers of copyright owners. So it would, we believe, be much more difficult for firms to send very high numbers of letters accusing people of copyright infringement and asking for a disproportionate compensation under threat of a court action.
+
+Previous schemes by solicitiors, based on similar revenue sharing arrangements, have been called 'speculative invoicing' campaigns – you may have heard of ACS:Law, for example. We believe this would be a further blow against such schemes.
+
+If we are granted permission to intervene, we will be involved in the hearing in early December. That's why we would like to ask for your donations now to help us to raise the £5000 that will pay for various court fees and the top notch legal team working on our behalf on this case.
+
+Why is this happening?
+
+Here's the background. Last year, Golden Eye requested details relating to 9,142 O2 IP addresses through which copyright infringement is alleged to have occurred. Consumer Focus explain what happened next:
+
+Golden Eye International Ltd and 13 producers of pornographic films sought a “Norwich Pharmacal Order” (NPO) against Telefonica UK, trading as O2...An NPO is a disclosure order which compels an innocent third party (such as an ISP) to provide information identifying an individual in relation to alleged unlawful conduct, so that legal action can be taken against the individual. Golden Eye applied for a NPO against O2 in September 2011. O2 decided to not challenge the application, so the application was referred to the High Court. Consumer Focus intervened in the application on behalf of those consumers whose personal data would be released if the order was granted. Following a hearing, the High Court granted the disclosure order to Golden Eye and Ben Dover Productions, provided that changes were made to the order and the letters.
+
+In March, the High Court granted an order that compelled O2 to provide the personal details (names and postal addresses) relating to 2,845 IP addresses alleged to have been used to infringe copyright by peer-to-peer file-sharing (see our previous write up and the Consumer Focus press release). You can read the judgment online.
+
+What is this appeal about?
+
+However, the High Court refused Golden Eye a Norwich Pharmacal Order in relation 12 of the 13 pornographic film producers. That meant O2 would not be ordered to hand over details relating to about 6000 IP addresses.
+
+The Court considered whether it “is appropriate, when balancing the competing interests, to make an order which endorses an arrangement under which the Other Claimants surrender total control of the litigation to Golden Eye and Golden Eye receives about 75% of the revenues in return.” The Court concluded:
+
+Golden Eye were representing these 12 rights holders on the basis of an 'enforcement only' licence, which means Golden Eye have to pay the 'Licensor' only around 25% of revenue recovered through settlement sums or damages awarded in court.
+
+It is that relationship that the Court was concerned about. Golden Eye is appealing that aspect of the refusal.
+
+Consumer Focus deserve enormous credit for intervening in the High Court on behalf of O2 customers, and ensuring that Golden Eye can not send “pay up or else” letters to the O2 customers whose personal data will be handed over to Golden Eye and Ben Dover. The High Court judgement can be found online. We've written before about why we thought this was important.
+
+But Consumer Focus is now handing over its work on copyright enforcement to us. And so ORG is now applying to intervene on behalf of consumers in the Court of Appeal.
+
+That's why we need your help.
+
+The appeal relates only to the refusal to grant the Norwich Pharmacal Order in relation to the 12 pornographic film producers. We believe the High Court was right in its original decision here.
+
+If we are successful, O2 will not be forced to hand over the personal data it retains relating to just over 6,000 IP addresses. If the Court of Appeal upholds the High Court’s decision to refuse disclosure orders to companies who enter “enforcement only” licences with copyright owners many more Internet users will in the future be protected from copyright enforcement revenue sharing schemes like this.
+
+These revenue sharing agreements were the root of “speculative invoicing” schemes previously run by Davenport Lyons and ACS:Law. But because Golden Eye International is a limited company it is beyond the reach of the Solicitors Regulation Authority (SRA) which has suspended Dave Gore, Brian Miller and Andrew Crossley for sending intimidating letters.
+
+To be clear, copyright holders and their exclusive licensees would still be able to enforce their copyright. This is about limited companies acting on behalf of large numbers of copyright owners on 'enforcement only' arrangements.
+
+Help us promote privacy in the courts!
+
+To make this application, and if granted the intervention, ORG needs £5000 to pay court fees and our crack legal team. We are currently funded by donations from our wonderful supporters, which is boosted by grants from organisations such as Joseph Rowntree Reform Trust, Open Society Foundation and Sigrid Rausing Trust. But this covers our current projects and activity. We don't yet have a pot of cash to run this sort of legal intervention. That's why to make this step, we need to ask for your help.
+
+If we are not granted permission to intervene, we will reimburse those who have donated.
+
+We are also running an ongoing Org Law Fund campaign. We have a target of increasing the number of paying ORG supporters so that we can recruit a full time legal officer. That is a crucial step to helping us take on more cases like this and promote digital rights in the courts. You can learn more here, or head straight over to the join page. 

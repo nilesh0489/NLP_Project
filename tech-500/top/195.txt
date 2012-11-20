@@ -1,0 +1,15 @@
+Microsoft will provide information about the location and quality of free Wi-Fi hotspots in Windows Phone 8 so users can find the best nearby networks. See Windows Phone 8 review.
+
+The information will come from a database of 11 million hotspots worldwide that is created and maintained by Devicescape, a vendor of Wi-Fi software for carriers. Devicescape has licensed the database to Microsoft for inclusion in Windows Phone 8 handsets.
+
+Devicescape finds out about mobile hotspots by learning which hotspots users go onto and what kind of performance they get while using them, said David Nowicki, Devicescape's chief marketing officer. It filters the many hotspots that may be visible in a given area and shows the most popular ones that have been delivering good performance, he said. For the Windows Phone 8 deal, Devicescape will provide data only about networks that are free, though some of them may require users to agree to terms of use.
+
+In the U.S., the hotspot data will only be available on phones from Verizon Wireless, under an exclusive deal between Microsoft and Verizon. Elsewhere in the world it will be built into all Windows Phone 8 handsets regardless of service provider. The feature is coming out on Verizon in the next two weeks and elsewhere by the end of the year, Nowicki said. Availability in the U.S. may extend beyond Verizon in the future, Nowicki said.
+
+If they choose to turn it on, users will be able to access the hotspot information through Microsoft's Data Sense app, announced last week, as well as through the Local Scout feature of Bing Search and the phones' built-in maps. In each case, the hotspots will appear in a map view. Data Sense is a tool designed to help users manage their mobile data use and monthly cellular bill.
+
+Carriers are trying to help their subscribers find and use Wi-Fi hotspots because those networks help both the service provider and the subscriber. While giving users a way to use data without cutting into their monthly allocations, hotspots also shift demand for that data capacity away from the carrier's networks. The deal with Microsoft doesn't include Devicescape software that helps users automatically log on to hotspots, just information about the free hotspots in a given area.
+
+Devicescape does not provide its hotspot data directly through the other major mobile OSes. Individual mobile operators, including five in the U.S., offer Devicescape's own software for Android devices. The company is working on software for Apple iOS, he said. It doesn't offer apps or databases directly to consumers.
+
+Stephen Lawson covers mobile, storage and networking technologies for The IDG News Service. Follow Stephen on Twitter at @sdlawsonmedia. Stephen's e-mail address is stephen_lawson@idg.com

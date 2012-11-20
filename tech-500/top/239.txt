@@ -1,0 +1,21 @@
+Katherine Noyes has been an ardent geek ever since she first conquered Pyramid of Doom on an ancient TRS-80. Today she covers business and tech in all its forms, with an emphasis on Linux and open source software. More by Katherine Noyes
+
+It would be difficult to overstate the popularity of the tiny Raspberry Pi computer that launched earlier this year, but it's just one example of a rapidly growing class of small, inexpensive, Linux-powered devices, as I've already noted on several occasions before.
+
+The Cubieboard and theUG802 are two of the more recent examples to appear, even as the Raspberry Pi itself has been continually improved, but since then another came to light: the A13-OLinuXino.
+
+“A13-OLinuXino is a low-cost single-board Linux computer in a very compact nano-ITX form,” explains Olimex, the product's Bulgarian maker.
+
+Priced at 45 euros, or about $57, the A13-OLinuXino uses a faster processor than the Raspberry Pi does, and it's also completely open, its maker says. You can order it online from the Olimex site.
+
+Included in the A13-OLinuXino is an Allwinner A13 Cortex A8 processor running at 1GHz (the Raspberry Pi runs at 700MHz) along with a 3D Mali400 GPU and 512 MB of RAM.
+
+Four USB hosts are built-in--with one dedicated to WiFi--as is an SD card connector, VGA video output, audio output, five keys for Android navigation, and a UEXT connector for modules such as Zigbee or Bluetooth. Also available is an optional low-cost 7-inch LCD with touchscreen.
+
+Regarding software, Android 4.0 is what comes included on the A13-OLinuXino, but it's also possible to run Debian and other Linux distributions, Olimex says.
+
+Perhaps best of all, both the industrial-grade hardware and the software in the A13-OLinuXino are fully open, Olimex explains.
+
+Why does that matter? Well, not only are open source products fully customizable without constraint by any vendor, but you can even use them as the basis for products of your own to tailor and sell. All source code and CAD files are available for reuse in any personal or commercial project.
+
+The A13-OLinuXino will work in industrial environments between -25C and 85C, Olimex says.

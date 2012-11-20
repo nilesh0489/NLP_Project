@@ -1,0 +1,21 @@
+Intel today announced its third-generation, enterprise-class solid-state drive series (SSD) that adds 15 times the maximum sequential write performance and twice the read performance of its predecessor.
+
+The price for the new Intel Solid-State Drive DC S3700 Series is also a 40% reduction per gigabyte over the previous 710 series SSD.
+
+Like the 710 series, the DC S3700 uses multi-level cell (MLC) NAND flash chips inside a 2.5-in. hard disk drive form factor with a serial ATA (SATA) interface. It is known in the industry as an SSD as opposed to a PCIe flash card. Intel also sells the 910-series flash card, which is higher priced due to its higher performance.
+
+The DC 3700 SSD comes in capacities ranging from 100GB to 800GB.
+
+The new SSD's endurance, or number of writes the drive is capable of receiving over its lifetime, is also double that of its predecessor.
+
+"Fundamentally, this drive has higher performance, more predictable performance, with the highest quality of service and high endurance technology," said Roger Peene, director of data center SSD marketing for Intel. "When we set out to design this drive for the data center, we really focused on getting the best IOPS consistency for superior quality of service."
+
+The new DC S3700 Series SSD (the 'DC' stands for data center and the 'S' for SATA) also adds a 1.8-in. form factor to the 2.5-in. drive Intel had been selling to enterprise shops.
+
+The DC S3700 write endurance is twice that of the SSD 710 series. An 800GB model, for example, can sustain 10 full drive writes per day, or 8TB, every day for five years, according to Peene. While not as applicable a metric, Intel also claims a meantime between failures (MBTF) prediction of 2 million hours.
+
+Along with higher endurance, the SSD includes a new data loss protection feature, which maintains sufficient internal power via internal electrolytic capacitors with self-testing capabilities that can alert a systems administrator to irregularities. If power is lost, the drive automatically redirects writes in progress from the cache directly to the NAND flash, avoiding data loss, Peene said.
+
+Intel also added cyclic redundancy check (CRC) firmware and logical block address validation to the DC S3700. CRC, a cryptographic hash tag, ensures data is valid and uncorrupted from the time it is written to the controller, saved to the NAND flash and read back to a host system.
+
+In 2009, Intel released its first enterprise-class SSD, the X-25E, which used high cost, high performance single-level cell (SLC) NAND flash. The X-25E drive offered sequential read/write speeds of up to 252MBps and 208.8MBps, respectively, and 35,000 IOPS (4KB random read) and 3,300 IOPS (4KB random write). The X-25E had an average 75 microsecond read latency.

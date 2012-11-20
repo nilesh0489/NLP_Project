@@ -1,0 +1,71 @@
+AT&T to Invest $14 Billion to Significantly Expand Wireless and Wireline Broadband Networks, Support Future IP Data Growth and New Services
+
+Improved Capital Structure is Foundation for Investment and Accelerated Growth
+
+-4G LTE network expansion expected to cover 300 million people by year-end 2014 Wired IP broadband network expected to expand to 75 percent of customer locations in
+
+-50 percent of multi-tenant office buildings in AT&T's wireline service area by year-end 2015
+
+-99 percent of customer locations in wireline service area expected to have high-speed IP Internet access via IP wireline and/or 4G LTE
+
+-Investment expected to be approximately $14 billion over three years - $8 billion for wireless initiatives, $6 billion for wireline initiatives; Total capital spending expected to be approximately $22 billion for each of next three years
+
+-Revenue mix following investment period expected to be 90 percent from high-growth areas – wireless, wireline data and managed IT services
+
+-EPS expected to grow mid-single digits next 3 years; opportunity for stronger growth going forward
+
+-AT&T's analyst conference will be webcast live via the Internet at 9 a.m. ET on Wednesday, November 7, 2012, at www.att.com/investor.relations.
+
+AT&T* today announced plans to invest $14 billion over the next three years to significantly expand and enhance its wireless and wireline IP broadband networks to support growing customer demand for high-speed Internet access and new mobile, app and cloud services. The investment plan – Project Velocity IP (VIP) – expands AT&T's high-potential growth platforms, helping drive continued increases in revenues from existing and new products and services, and earnings per share.
+
+"This is a major commitment to invest in 21st Century communications infrastructure for the United States and bring high-speed Internet connectivity - 4G LTE mobile and wireline IP broadband - to millions more Americans," said Randall Stephenson, AT&T chairman and chief executive officer. "We have the opportunity to improve AT&T's revenue growth and cost structure for years to come, and create substantial value for shareowners.
+
+"Revenues in our key growth areas - wireless data, U-verse and strategic business services - are all growing at a strong double-digit rate. Project VIP expands our potential in these key platforms and makes them available to many more customers," Stephenson said. "With our strong balance sheet, these capital investments are manageable. We are very confident in our ability to execute this plan. These are things we've done before – logical extensions of proven technologies and already successful businesses.
+
+"Given our confidence in our industry and in our future, today we increased our quarterly dividend for the 29th straight year. I'm confident we can continue to deliver for our owners as we invest to position AT&T for stronger growth in the years ahead," Stephenson said.
+
+AT&T's Project VIP consists of several individual wireless and wireline initiatives, which are outlined below.
+
+4G LTE Expansion. AT&T plans to expand its 4G LTE network to cover 300 million people in the United States by year-end 2014, up from its current plans to deploy 4G LTE to about 250 million people by year-end 2013. In AT&T's 22-state wireline service area, the company expects its 4G LTE network will cover 99 percent of all customer locations.
+
+Spectrum. AT&T has acquired spectrum through more than 40 spectrum deals this year (some pending regulatory review) and has plans to buy additional wireless spectrum to support its 4G LTE network. Much of the additional spectrum came from an innovative solution in which AT&T gained FCC approval to use WCS spectrum for mobile broadband. Between what the company already owns and transactions pending regulatory approval, AT&T expects to have about 118Mhz of spectrum nationwide. The company will continue to advocate with the FCC for release of additional spectrum for the industry's long-term needs.
+
+Densification & Small Cell Technology. As part of Project VIP, AT&T expects to deploy small cell technology, macro cells and additional distributed antenna systems to increase the density of its wireless network, which is expected to further improve network quality and increase spectrum efficiency.
+
+AT&T plans to expand and enhance its wireline IP network to 57 million customer locations (consumer and small business) or 75 percent of all customer locations in its wireline service area by year-end 2015. This network expansion will consist of:
+
+U-verse. AT&T plans to expand U-verse (TV, Internet, Voice over IP) by more than one-third or about 8.5 million additional customer locations, for a total potential U-verse market of 33 million customer locations¹. The expansion is expected to be essentially complete by year-end 2015.
+
+U-verse IPDSLAM. The company plans to offer U-verse IPDSLAM service (high-speed IP Internet access and VoIP) to 24 million customer locations in its wireline service area by year-end 2013.
+
+Speed Upgrades. The Project VIP plan includes an upgrade for U-verse to speeds of up to 75Mbps and for U-verse IPDSLAM to speeds of up to 45Mbps, with a path to deliver even higher speeds in the future. In the 25 percent of AT&T's wireline customer locations where it's currently not economically feasible to build a competitive IP wireline network, the company said it will utilize its expanding 4G LTE wireless network -- as it becomes available -- to offer voice and high-speed IP Internet services. The company's 4G LTE network will cover 99 percent of all in-region customer locations. AT&T's 4G LTE network offers speeds competitive with, if not higher than, what is available on wired broadband networks today. And in many places, AT&T's 4G LTE service will be the first high speed IP broadband service available to many customers.
+
+Fiber to Multi-Tenant Business Buildings. AT&T plans to proactively expand its fiber network to reach an additional one million business customer locations – 50 percent of the multi-tenant business buildings² in its wireline service area. AT&T expects the proactive fiber deployment to increase business revenue growth, accelerate provisioning and facilitate the installation of distributed antennas systems and small cell technology to help offload wireless network traffic.
+
+Expanding AT&T's 4G LTE network to 300 million people, combined with its leadership in smartphones and data access, provides a large platform for the next wave of growth in mobility, including:
+
+AT&T Digital Life. A nationwide all IP-based home security and automation service set to launch in 2013 that will let consumers manage their home from virtually any device - smartphone, tablet or PC.
+
+Mobile Premise Solutions. This new nationwide service, available today, is an alternative for wireline voice service and in the future will include high-speed IP Internet data services.
+
+Mobile Wallet. AT&T is participating in the ISIS mobile wallet joint venture. Market trials are underway in Austin, Tex. and Salt Lake City today.
+
+Connected Car. More than half of new vehicles are expected to be wirelessly connected by 2016. AT&T is positioned to lead the industry as the company's capabilities expand from vehicle diagnostics and real time traffic updates to consumer-facing applications that tie into retail wireless subscriber data plans. AT&T already has deals with leading manufacturers such as Ford, Nissan and BMW.
+
+With business customers, AT&T expects Project VIP will strengthen its ability to pursue multiple new billion-dollar business opportunities in four key growth areas: strategic network services, cloud, security and mobility solutions.
+
+Driven by Project VIP and assuming a stable economy, AT&T expects that during the investment period:
+
+Earnings per share³ will grow in the mid-single-digit or better range, with an opportunity for stronger growth going forward.
+
+Consolidated revenues will grow to GDP plus 100 basis points. AT&T expects its growth drivers - wireless, wireline data and managed IT services - will comprise 90 percent of total revenues by 2016, up from about 80 percent today.
+
+AT&T has taken significant steps to further improve its capital structure and strengthen its balance sheet, which provides a financial footing to invest for growth. Over the last three years, the company has reduced its debt by approximately $9 billion, has taken advantage of historically low interest rates to refinance $20 billion in debt, and has reduced its cost of debt by 60 basis points. AT&T recently filed a proposal with the U.S. Department of Labor to contribute a preferred equity interest in its wireless business, valued at $9.5 billion, to the company's pension trust, which will substantially improve the funded status of the plan.
+
+AT&T expects to increase its capital intensity to the high end of the mid-teens as a percentage of revenues in the next two years, returning to normal levels in 2015. AT&T expects capital spending to be approximately $22 billion for each of the next three years, then return to pre-Project VIP levels.
+
+AT&T expects to complete in 2012 its December 2010 share repurchase authorization of 300 million shares and to continue to buy back shares as market conditions allow under its July 2012 300 million share repurchase authorization. Through October 19, 2012, AT&T had repurchased 271 million shares.
+
+Over the next two years, AT&T expects its net-debt-to-EBITDA ratio to move from 1.42 at the end of third-quarter 2012, up to the 1.8 range, aligning with lower interest costs and debt capacity. The company expects this ratio to trend back down in 2015. The company anticipates tapping the debt markets to take advantage of historically low interest rates, with a long-term goal of maintaining its credit rating in the "A" range or higher.
+
+And AT&T remains committed to returning value to shareholders. Year to date the company has returned more than $19.6 billion to shareholders through dividends and share repurchases. And today, AT&T announced it will increase its quarterly dividend for the 29th consecutive year. The AT&T board of directors increased the quarterly dividend rate from $0.44 to $0.45 a share on a quarterly basis, which would be an increase from $1.76 to $1.80 a share on an annualized basis. The dividend will be payable on Feb. 1, 2013, to common stockholders of record on Jan. 10, 2013.

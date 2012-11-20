@@ -1,0 +1,1 @@
+Akamai monitors global Internet conditions around the clock. With this real-time data we identify the global regions with the greatest attack traffic, cities with the slowest Web connections (latency), and geographic areas with the most Web traffic (traffic density).

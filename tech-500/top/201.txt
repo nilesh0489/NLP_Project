@@ -1,0 +1,7 @@
+DirectX 11.1 is exclusive to the divisive Windows 8 operating system, Microsoft has confirmed.
+
+Microsoft's Daniel Moth wrote on the Microsoft Answers forum that DirectX 11.1 is part of Windows 8, as DirectX 11 was part of Windows 7 when it launched. But, unlike with DirectX 11, which was retro-fitted to work with Vista, ?there is no plan for DirectX 11.1 to be made available on Windows 7?.
+
+So, what, exactly, does DirectX 11.1 add to the 3D graphics API? There's a list of supported features on Microsoft.com. Most of these will be of little interest to gamers. One, though, will be.
+
+DirectX 11.1 adds native stereoscopic 3D support. As Neowin points out, this means any PC games or applications written with DirectX 11.1 will have support for viewing the content via stereoscopic 3D glasses as default. Previously, games would need to be programmed with a particular graphics card in mind.

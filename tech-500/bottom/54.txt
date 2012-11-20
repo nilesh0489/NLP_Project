@@ -1,0 +1,7 @@
+Just over a year ago Techdirt wrote about Brazil's Marco Civil -- essentially a civil-rights based framework for the Internet. At the time, we dubbed it an "anti-ACTA", since it seemed to protect many of the things that ACTA sought to attack. It all seemed a little too good to be true, and the post concluded by questioning whether it would survive in its present form.
+
+Most of it has, remarkably, but a recent addition to one clause basically guts protection for ISPs and other online intermediaries. The EFF has a good explanation of the situation:
+
+If passed, this exception would inevitably exert a chilling effect on all Internet activity, as Brazilian ISPs and Web sites removed content perceived to be even vaguely risky. It will come as no surprise to discover who is behind the move: It's truly extraordinary how once again the copyright industries seem to think they are uniquely entitled to trample on basic rights. And it's particularly sad to see such a worthwhile effort to frame a basic level of protection for online users not just watered down but actively subverted in this way, precisely when it seemed on the point of coming to fruition.
+
+Follow me @glynmoody on Twitter or identi.ca, and on Google+

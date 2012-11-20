@@ -1,0 +1,5 @@
+Apple was recently ordered by a UK court to publicly display a notice that Samsung did not copy the iPad with their Galaxy tablet to undo the damage they've done by making that accusation. And like a scolded child, they're scuffling their feet and mumbling "sorry" to the ground.
+
+It's no surprise that their apology is at the bottom of the page, or that you need to scroll to see it. What's sneaky about it is that the large image of the iPad on their homepage resizes automatically to force that text to always appear below the fold when you load the page. Apple's webmasters have written in code to figure out how tall your browser window is, then make the site's design just big enough to push the apology out of your view and make you scroll to see it.
+
+apple.co.uk [via Reddit] Thanks, Majd!

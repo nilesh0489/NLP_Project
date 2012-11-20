@@ -1,0 +1,11 @@
+Next time you receive a new card from your bank, don't be surprised if it has a keypad and LCD on it.
+
+It's MasterCard's new "Display Card", which basically combines the usual credit/debit or ATM card with an authentication token. The authentication portion features a touch-sensitive keypad and LCD display--hence the name "Display Card"--for reflecting a one-time password (OTP).
+
+Yet, according to MasterCard, the "Display Card" looks and functions almost exactly like a regular credit, debit or ATM card.
+
+Currently, many banks issue a separate authentication token for online banking services, particularly high-risk transactions, such as payments or transfers above a certain amount, adding payees or changing personal details. The new 2-in-1 cards would hence eliminate the hassle of carrying a separate authentication device--good news for guys who carry their whole lives in their pockets.
+
+Besides generating OTPs, the "Display Card" may be able to show your available credit balance, reward points or even recent transactions in the future.
+
+Along with some European banks, only Standard Chartered has announced the Display Card for some of its customers in Singapore for now.

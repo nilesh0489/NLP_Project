@@ -1,0 +1,111 @@
+Spam. It's the Internet’s most resilient parasite. Millions of messages pollute the Web's pipes every day. Grow a monster penis. Lose 20 pounds. Help out an African prince. You know the drill.
+
+A lot of it is garbled junk, sentences that read like a computer ingested the Oxford English Dictionary and vomited it back out. The results are bizarre and often unintentionally hilarious, a favorite subject of forwarded emails or, in the age of Twitter, cult celebrity. Spam account @horse_ebooks boasts 120,000 followers thanks entirely to the accidental and absurdist poetry of its tweets.
+
+But back in 1996, users of the proto-Web community Usenet got spammed with messages that reached an almost transcendent level of bizarre—a weirdness so precise it implied the influence of a very human intelligence. “Markovian Parallax Denigrate,” read the title of each post, followed by a mountain of seemingly meaningless word spew:
+
+According to later accounts, hundreds of these messages flooded Usenet discussion groups on Aug. 5, 1996, launching the type of intense rigorous inquiries you’d expect from the geeky academics who frequented Usenet back then—none of which turned up any answers. And the event was soon mostly forgotten, washed away in the deluge of information and culture ushered in by the burgeoning popularity of the World Wide Web.
+
+Then, around 2006, the event’s Wikipedia page became a favorite bullet point for any number of “creepy Wikipedia” lists that made their way across blogs and obscure Web forums. Soon bloggers had dug up something even more curious.
+
+At Google’s public Usenet archives, only one message remains with a subject line that reads “Markovian Parallax Denigrate.” And the name on the sender’s email address was curiously familiar to anyone who happened to be a national security wonk: Susan Lindauer, a former journalist who was arrested in 2004 after allegedly serving as an agent of Saddam Hussein’s government. She’s has since become a purveyor of sundry conspiracy theories, from a Lockerbie bombing cover-up to 9/11 trutherism.
+
+Shortly after Lindauer’s connection to all this was dug up, the Wikipedia page disappeared. You needn’t have been a conspiracy nut to connect the dots, to think something fishy was going on.
+
+This is a story of two Susan Lindauers and how they accidentally gave a second life to one of the Internet’s oldest and weirdest mysteries.
+
+Susan Lindauer’s life compares to the American average about as well as the Markovian Parallax Denigrate does to the English language. It is cryptic and convoluted and becomes more so the deeper you look.
+
+It begins in Anchorage, Alaska, where she grew up in a family of newspaper magnates, the only daughter of John Howard Lindauer II, a one-time Republican nominee for governor whose 1998 campaign collapsed dramatically after accusations it had been illegally financed. Her mother was “prone to wearing black capes,” and appeared to the denizens of Anchorage like a jet-setting world traveler, according to a story in the Anchorage Daily News published after Lindauer's arrest.
+
+Classmates at East Anchorage High remembered Lindauer as alternatively “super smart” and a “wild child”—an honor student with a love of plays and drama, someone who chased the spotlight and loved attention. She was a hard worker too, acquiring an educational pedigree to go far: After receiving a bachelor’s degree from Smith College, she moved on to the prestigious London School of Economics, where she graduated with a master’s degree in public policy.
+
+That was followed by brief stints as a reporter for places like the Seattle Post-Intelligencer and US News and World Report. She parlayed her journalism credentials into a full-time career as a political spokesperson. By the time of her arrest in 2004, Lindauer—who counted President George W. Bush’s chief of staff Andrew Carr as a second cousin—had worked her way into Washington circles where national intelligence was a favorite topic and had held a string of positions with important politicians, including Democratic Illinois Senator Carol Moseley Braun.
+
+Yet even as Lindauer was building up an impressive resume and a rolodex of powerful political connections, there was something off about her. Friends and colleagues for years had noted odd personality quirks. Coworkers at the Seattle Post-Intelligencer remembered her for “erratic behavior and mood swings,” pointing out that a local merchant had once “sought an antiharassment order against her because of quirky phone calls Lindauer allegedly made asking the merchant to ‘cast spells’” on another newspaper.
+
+In Washington circles, she’d acquired the nickname “Snowflake.” Why? “She's from Alaska and she's nuts,” her friend Paul Hoven, who claimed to have coined the name, explained to the New York Times Magazine.
+
+Lindauer wore her liberal politics on her sleeve, especially her passionate opposition to sanctions imposed on Middle Eastern nations. She soon began taking trips to New York City, meeting with leaders of Muslim governments including Libya and Iraq and assuming a role of unofficial lobbyist on their behalf. She saw herself as key player in Middle Eastern affairs and believed herself to be a “CIA asset” in charge of back-channel negotiations with the Iraqis. In a 2002 letter to President George Bush, she described herself as an “expert in counterterrorism and peacemaking” who was proud of her “regrettably extraordinary gift for counterterrorism.” The letter continued:
+
+Both Lindauer’s brother and a close friend have said she warned them to avoid New York City before 9/11.
+
+In the mid-’90s, around the time of the Markovian Parallax Denigrate, Lindauer claimed that her “CIA handler,” a businessman named Richard Fruisz, knew the real identity of the culprit in the bombing of Pan Am 103 over Lockerbie, Scotland, in 1988 that killed 270 people. The U.S. government had pinned the act on the Libyan government, though a competing theory at the time claimed it had been orchestrated by a Syrian-based terrorist. (The Libyan government itself admitted responsibility for the act in 2003.)
+
+The FBI arrested Lindauer at her Tacoma Park, Md., home on the morning of March 11, 2004, charging that she had acted as an “unregistered agent of a foreign government." The government cited a 2002 trip that Lindauer took to Baghdad, where she allegedly was given $10,000. Lindauer—who still claimed to be a CIA asset—asserted that her arrest, done under the purview of the newly minted Patriot Act, was intended to silence her from revealing the truth about 9/11. In Lindauer’s narrative, the "airplane hijackings were used as a public cover for a controlled demolition of the Twin Towers and Building 7." She has claimed that 9/11 terrorist Mohammed Atta was in truth a highly trained and tightly controlled CIA asset.
+
+Lindauer was released in 2006 after a federal judge declared her unfit to stand trial, citing findings that she suffered from paranoia and delusions of grandeur. A government psychiatrist said that she “claimed to have special powers and that she had indicated she once met with Osama bin Laden, who disclosed to her the location of a bomb,” according to a report in The New York Times.
+
+When Web users began digging into the Markovian Parallax Denigrate Wikipedia page and saw an explicit connection to Lindauer, it’s no surprise the wheels of conspiracy started turning.
+
+Before there was the Web, there was Usenet. Invented by Duke University graduate students Tom Truscott and Jim Ellis in 1980, Usenet linked computers together over phone lines, allowing users to subscribe to various topics, called newsgroups, where conversations played out in a pretty close equivalent to modern-day email chains. As Usenet grew, newsgroups popped up for just about anything, from atheism to news headlines to sex advice. It was the primordial soup of Internet culture, the place that created everything from the emoticon to the FAQ to spam—both the phenomenon and the term. When Tim Berners Lee wanted to announce the launch of the World Wide Web, he did it on Usenet.
+
+By 1996, if someone wanted to pass a secret message along to an international audience, Usenet was just about the best place to do it. It was the world’s public bulletin board.
+
+Only one message bearing the title Markovian Parallax Denigrate—sent from susan_lindauer@worf.uwsp.edu—remains in Google’s Usenet archive from Aug. 5, 1996. There are however, 52 other messages posted on the exact same day, each of which contains similarly garbled text and each of which includes the words  “Markovian,” “parallax,” and “denigrate” somewhere in their body. And there may have been many more.
+
+Google’s Usenet archive is not perfectly complete, especially in regards to spam. “We have Usenet posts dating back to 1981,” a company representative wrote in an email. “But that does not include every Usenet article from that time period, with reasons ranging from the privacy setting on an article to abuse and spam."
+
+The only person I know who was a true Usenet addict back in the day is my stepfather. At the time, he was working at Cornell University’s supercomputing hub, the Theory Center. He recalled:
+
+The theory that the whole thing was a kind of thought experiment among Usenet brainier-coding types certainly had precedent.
+
+In 1984, Rob Pike and Brad Ellis unleashed a character named Mark V. Shaney onto the unsuspecting Usenet forum “net.singles,” a place for nerdy lonely hearts to find love or at least commiserate in their failed search for love. Mark was named after a Markov Chain, a random mathematical process that provided the coding directives for his preferred form of communication: Regurgitating text into grammatically correct but completely nonsensical approximations of human language.
+
+Or perhaps the brain of a pugnacious literature professor high on mescaline. One post from 1985 read, in part:
+
+While some astute readers of the net.singles boards properly guessed that Mark was a product of a computer, many others believed he was very much a real person, if just a tad eccentric. (Pike told me a story of how, when he and Ellis attended a real-life net.singles meetup, some wondered out loud if “Mark” was going to show up.)
+
+Pike, who now works as a distinguished engineer at Google, told the Daily Dot that he and Ellis had many motivations for creating the bot, but ultimately “it grew out of these complicated sort of post-modernist pranks we were playing on the Internet.” Pike pointed out that, at the time, the works of Jacques Derrida were a trendy topic among certain circles of literary-minded computer nerds. In Derrida’s philosophy of literary criticism, deconstructionism, any given text “has irreconcilably contradictory meanings, rather than being a unified, logical whole.” Mark V. Shaney upended texts and turned the meaning of words on their head by squeezing them into seemingly impossible contexts. Running a post-modernist prank like that on their own would have taken ages. The bot needed 10 minutes a day at most.
+
+Like Mark V. Shaney, the Markovian Parallax Denigrate looks a lot like a bot-created message that used Markov Chains to randomly generate words. (Its name is an obvious hint.) So what was its goal? Was it also a prank?
+
+Not if you're the type to see hidden messages in television static, to imagine grand plots in the mundane.
+
+Some have postulated the Markovian Parallax Denigrate was a code or a cipher or even a Web version of a shortwave radio numbers stations, something CIA agents likely have used to relay messages. Others have suggested Lindauer’s enemies attached her name to the emails, creating a deliberate misinformation campaign to smear her for her attempts to to reveal the real identity of the Lockerbie bomber. The most detailed and widely cited theory, in this regard, was posted by the blog Rigorous Intuitions in 2006.
+
+“The paranoia of the Web”
+
+The fact that such grand theories began popping up isn't a surprise. Usenet and the Internet at large have provided more than just a great platform for high-minded post-modernist pranks. Information was suddenly cheap and free. For the first time in history, people from New Zealand to Tacoma Park, Md., have been able to instantaneously unite over their obsession about anything, from cats and videogames to dark plots to take over the world.
+
+The echo chambers of Internet forums and blogs were fertile ground for conspiracy theories to grow and spread.
+
+“One of the legacies of the Enlightenment is a methodology based on painstaking measurement of the material world,” Damien Thompson wrote in his book Counterknowledge: How We Surrendered to Conspiracy Theories, Quack Medicine, Bogus Science, and Fake History. “That legacy is now threatened. And one of the reasons for this, paradoxically, is that science has given us almost unlimited access to fake information.”
+
+Just consider the theory that has turned Lindauer into a full-blown celebrity among certain members of the paranoid class: 9/11 trutherism proliferated thanks largely to the Web. Loose Change, a 2005 documentary that used dubious evidence to lay out the 9/11 truther case, was shared widely on YouTube and other websites before going on to sell more than 1 million copies on DVD. Vanity Fairproclaimed it may very have been the “first Internet blockbuster.”
+
+Meanwhile, Amazon’s former top nonfiction reviewer, Robert Steele, made a name for himself thanks in part to breathless reviews of 9/11 truther books, including Lindauer’s 2010 volume Extreme Prejudice.“I am not at all sure why [Lindauer] did not get murdered while in prison with an overdose of whatever drug of choice they use these days,” Steele wrote in his five-star review.
+
+The Internet is an amplifier. In the novel Underworld, (penned by Don DeLillo, once named the "chief shaman of the paranoid school of fiction"), the most paranoid character, Sister Edgar, is easily sucked into cyberspace:
+
+She would have sensed others just like her, too.
+
+The conspiracies about Lindauer are awfully compelling. The facts would all fit so neatly together, too—if only Susan Linduaer, the one who was born in Alaska and arrested in 2004, actually sent the Markovian Parallax Denigrate message, or had any connection to it whatsoever.
+
+She didn't. She told me so, via a friendly email on Oct. 10:
+
+And besides, there's another Susan Linduaer out there, someone whose email address was clearly used by whoever created the Markovian Parallax Denigrate spam.
+
+There are so many articles about the Susan Lindauer who was arrested in 2004 that finding this other Susan takes some creative Googling. But it’s not that hard. Just start with that original Markovian Parallax Denigrate email address, susan_lindauer@worf.uwsp.edu.
+
+UWSP stands for the University of Wisconsin at Stevens Point. And it turns out there was actually a Susan Lindauer who attended UWSP as a graduate student in physical education. She graduated in 1994. I called up her former faculty advisor at UWSP, professor Rory Suomi, with whom she published at least two papers bearing titles like “Impact of Arthritis Foundation Aquatic Program Classes on Strength and Range of Motion Measures in Women with Arthritis.”
+
+Though he wasn't helpful in tracking her down, Suomi did confirm that this Lindauer was very much a real person. That means she attended UWSP at around the same time the other Susan Lindauer was living in Washington, D.C. and making trips to the Libyan Mission in New York. 
+
+Ultimately, finding this Susan was as simple as changing her name and searching Facebook. She prefers “Susie” and switched her last name to Mursau after getting married.
+
+Mursau lives in Combined Lakes, Wis., and works in the local school district. According to her Facebook profile, she likes the Green Bay Packers, Chris Farley, and the MTV series The Hills. When I reached her by phone Friday morning and asked if she knew anything about the Markovian Parallax Denigrate email, she told me, "I've never heard of it." And she certainly didn't send it. (Nor had she heard of the other Susan Lindauer: "I've never Googled myself," she said.)
+
+So unless Mursau is purposefully hiding her past as a Usenet spammer (which seems unlikely, to put it mildly), she didn’t send the email that launched one of the weirdest mysteries in Internet history. More likely: Someone scraped her address along with the dozens of other academic emails used in the Markovian Parallax Denigrate messages, then used them to mask the actual address. It’s easy.
+
+Besides, if you're playing the game of conspiracy theory, why not look at the plausible, if not the probable?
+
+Spam events like the Markovian Parallax Denigrate actually did have a very real and very important effect: They made Usenet a quite unpleasant place. They were a harbinger of the vaunted platform’s demise.
+
+The first major spam event on Usenet hit just two years before, in 1994, and soon the phenomenon would so overwhelm the network that it would “pretty much ruin Usenet," according to Brad Templeton, one of the world’s few experts on the history of Usenet spam. He elaborated in an email:
+
+The simplest explanation is usually the most likely. The Markovian Parallax Denigrate was probably a troll or a prankster—someone being obnoxious just for the sake of being obnoxious. Or perhaps it was just a benign programmer’s experiment with a Markov Chain.
+
+Then again, maybe not.
+
+The world is a far more interesting place, after all, when its deepest secrets are hiding in your spam folder.

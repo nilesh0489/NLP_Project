@@ -1,0 +1,5 @@
+In a preliminary ruling, the European Commission has found that Microsoft (MSFT) failed to comply with an order that requires it to offer a choice of web browsers to Windows PC buyers. The software giant previously admitted to a “technical error” in its Windows 7 operating system that prevented a browser choice screen from being displayed. If found guilty, Microsoft could face a fine of up to 10% of its global turnover.
+
+“We take this matter very seriously and moved quickly to address this problem as soon as we became aware of it. Although this was the result of a technical error, we take responsibility for what happened, and we are strengthening our internal procedures to help ensure something like this cannot happen again,” Microsoft said in a statement. “We sincerely apologize for this mistake and will continue to cooperate fully with the Commission.”
+
+EU Competition Commissioner Joaquin Almunia told reporters on Tuesday that there are “no grounds to pursue an investigation” into the browser options in Windows 8 and Windows RT, Reuters reported. The Redmond, Washington-based company has four weeks to respond to the commission’s charges.

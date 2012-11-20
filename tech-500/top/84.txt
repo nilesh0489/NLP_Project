@@ -1,0 +1,5 @@
+The endless battle with adhesive rages on as we heat the backside of the rear case in hopes of loosening the adhesive securing the logic board to the rear case.
+
+Applying heat to an aluminum frame like this makes it too hot to touch—luckily we keep a silicone pot holder on hand just for this sort of thing.
+
+Once the adhesive is loose, we arm ourselves with a spudger to dislodge the logic board from the rear case.

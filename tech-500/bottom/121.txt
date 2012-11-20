@@ -1,0 +1,15 @@
+Criminals have plenty of reasons for wanting to encrypt their e-mail, and services like Hushmail offers such encryption in a strong form; not even the company can view the messages sent through its systems. Under most circumstances.
+
+But there are cases when it can read the messages, and when that happens, those messages can then be subpoenaed by law enforcement. An alleged California supplier of anabolic steroids found that out the hard way earlier this year when Drug Enforcement Agency officers collected his supposedly "secure" e-mail from Hushmail.
+
+The government's criminal complaint against one Tyler Stumbo was filed on September 17 as part of a massive DEA investigation into steroid trafficking. Stumbo, it is claimed, ran a steroid supply business by placing classified ads on bodybuilding web sites and doing business as Osoca Laboratories. The government made a couple of steroid buys, traced the UPS Store box that was used to collect the checks, and found that it belonged to Stumbo.
+
+The government then used a mutual assistance treaty with Canada to file a subpoena there on Hushmail. The company turned over both message and IP address logs for the particular e-mail address used in the classified ads. The government then took eight of these IP addresses to Road Runner (where they originated), and the company indicated that they all resolved back to Tyler Stumbo's account (whose name in the complaint is spelled "Strumbo," "Stumbo," and "Sttumbo." Whoops).
+
+The e-mails, a full 12 CDs worth, showed that Stumbo had made $36,024 between February 14 and May 17, 2007. Clearly, crime does pay; Stumbo netted another $18,977 between May 29 and August 20. This must have been a step up from the Abercrombie & Fitch and Mor Furniture for Less jobs that he had held from 2004-2006, and the government could find no record of employment for Stumbo since.
+
+Now, Stumbo faces federal drug trafficking charges (he has pleaded "not guilty"), but the question still remains as to how the government was able to access his secure e-mail. Wired's Threat Level has an interview up with Hushmail's CEO in which he acknowledges that using the company's less-cumbersome webmail interface means that users have to give their passwords to the company.
+
+The system is easier than the more secure Hushmail option, since it doesn't require the use of a client-side Java applet for encryption, but the setup does mean that the company holds the key to the e-mail. While this still makes the e-mail all but impossible to crack by anyone trying to intercept it, it does mean that the authorities can also get access to it with a subpoena.
+
+Apparently, even criminals prefer not to be hassled by Java applets, and in this case, impatience looks to have been costly.

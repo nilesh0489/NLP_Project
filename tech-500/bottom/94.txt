@@ -1,0 +1,21 @@
+While tremendous advances are being made in smartphone hardware, each new technology is still at the mercy of the phone's battery, a power source that can be maddeningly inefficient.
+
+Batteries aren't going away any time soon, but a team of researchers at Massachusetts-based startup Eta Devices have reportedly found a way to reduce battery consumption by half.
+
+One of the most wasteful power drains on a smartphone battery is the power amplifier, a chip used to convert electricity into radio signals and maintain handsets' connection to a wireless network.
+
+Power amplifiers in smartphones waste approximately 65 percent of handsets' power and are what cause a smartphone to heat up when streaming video or uploading large files.
+
+Eta Devices has redesigned the power amplifier using a technology called asymmetric multilevel outphasing.
+
+The technology intelligently chooses the minimum voltage necessary to maintain a connection, updating as often as 20 million times per second to ensure the highest efficiency.
+
+Eta Devices is currently developing its power amplifier technology for cellular base stations, which suffer similar power inefficiency problems, with the new chips getting put to use starting in 2013.
+
+However, the startup firm has aspirations of creating a single power amplifier chip to revolutionize energy efficiency on smartphones.
+
+With double the efficiency in the new power amplifiers, smartphone batteries would burn out half as fast.
+
+What's more, it would also facilitate advances to make greater strides in CPU and display technology that would be impractical with the energy efficiency level of current devices.
+
+After all, what good is any new hot piece of mobile tech if it needs to be tethered to an outlet after an hour?

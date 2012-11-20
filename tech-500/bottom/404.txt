@@ -1,0 +1,9 @@
+Developers of Mozilla's Firefox browser are experimenting with a new security feature that connects to a specified set of websites only when presented with a cryptographic certificate validating the connection is secure.
+
+A beta version of the open-source browser contains a list of sites known to deploy the HTTP Strict Transport Security mechanism that requires a browser to use the secure sockets layer or transport layer security protocols when communicating. HSTS is designed to provide an additional layer of security by mandating the channel is encrypted and the server has been authenticated using strong cryptography.
+
+But there's a chicken-and-egg problem with HSTS. "Man-in-the-middle" attackers, who are positioned in between a browser and website, have the ability to prevent browsers from receiving the server code that enforces the additional protection. That makes it possible for HSTS to be circumvented by the very types of people the measure is designed to thwart.
+
+That's where the new Firefox feature comes in. It provides a list of sites known to enforce HSTS, and it prevents the browser from connecting unless the specified server presents a valid certificate.
+
+"When a user connects to one of these hosts for the first time, the browser will know that it must use a secure connection," a post published on Thursday to the Mozilla security blog explained. "If a network attacker prevents secure connections to the server, the browser will not attempt to connect over an insecure protocol, thus maintaining the user's security."

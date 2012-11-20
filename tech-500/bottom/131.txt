@@ -1,0 +1,19 @@
+Microsoft is being sued over the most visible new feature of Windows 8 and Windows Phone 8.
+
+A company called SurfCast claims that Microsoft's Live Tiles, which actively update new information on the main screen as it is received, violates a patent it has. 
+
+SurfCast filed the lawsuit with the U.S. District Court in the District of Maine yesterday, October 30, The Next Web reported.
+
+According to its website, SurfCast says it designs operating-system technology and has applied for four more patents.
+
+The company designed a new concept referred to as "Tiles" for which it is suing Microsoft.
+
+SurfCast describes its "Tiles" as "dynamically updating icons," different from standard operating-system icons for files and applications because they are "selectable and live—containing refreshed content that provides a real-time or near-real-time view of the underlying information." That's Patent 6,724,403, granted in 2004: “System and method for simultaneous display of multiple information sources.”
+
+That does sound similar in concept to Microsoft's Live Tiles, which show information from users' email, calendar, and social networks, as well as other software and Web apps.
+
+Here is a photo of Surfcast's patent:
+
+In the lawsuit, SurfCast references Microsoft's own patent, Patent 7,933,632: “Tile space user interface for mobile devices," which the software giant received in 2011.
+
+Don't Miss: Crazy, Beautiful, Strange: Get A Look At The Dizzying Array Of Windows 8 Devices Hitting Shelves Now >

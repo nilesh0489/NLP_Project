@@ -1,0 +1,29 @@
+After months of anticipation, Windows 8 is here. It launches today and goes on sale globally tomorrow. For the last year and a half, we've tracked its progress across three betas and the final release, exploring the ins and outs of Microsoft's most ambitious product launch in two decades.
+
+Over the next few days we'll be publishing a barrage of Windows 8 coverage. Today we'll have the main review, which concentrates on Windows 8's radical new user interface and asks if Microsoft has at last managed to realize its dream of a true tablet PC. We're covering the installation and upgrade experience in a separate feature. On tap is a screenshot tour that shows off Redmond's shiny new look and feel, and we'll also look at benchmarks to make sure the OS still runs as well as it should.
+
+In the coming days, we'll be peeking under the hood in an investigation into the work Microsoft has done to make Windows 8 more secure, more efficient, and more flexible. We'll couple that with an extended look at Storage Spaces, the software giant's solution for managing all your disk space needs. We'll also be looking at the all-new Xbox-branded multimedia experience.
+
+Starting this weekend, we'll have reviews of the bundled Bing applications and Microsoft's range of new games, along with a look at Windows 8's new enterprise-oriented features. We'll finish up with an examination of the platform's core communication and messaging apps early next week.
+
+It has been almost 17 months since we got our first look at Windows 8. Steven Sinofsky, president of Windows and the Windows Live Division, and Julie Larson-Green, vice president of program management for the Windows Experience, demonstrated the new Windows 8 Start screen, codenamed Modern Shell, the first major change to the Windows user interface since Windows 95... 17 years ago.
+
+The change was fostered by the realization that touch computing could be a mainstream phenomenon—would be a mainstream phenomenon—as long as it had a user interface that was comfortable and convenient when controlled by fingertips alone. In the summer of 2009, after Windows 7's development was finalized and before Apple's iPad was announced or released, Microsoft set about creating the user interface that would make Windows a genuinely touchable operating system that would be at home on tablets.
+
+This was not the company's first foray into the world of tablet computing. Redmond's first tentative steps into the tablet space were made back in the 1990s, with the unsuccessful "Windows for Pen Computing." In the 2000s, the company tried again, with Windows XP Tablet PC Edition. Market success again proved evasive.
+
+The fundamental flaw with both of these systems was that Microsoft left the Windows user interface, designed as it is for mouse and keyboard, essentially unaltered, relying on styli to replicate the kind of precise manipulations that mice enabled. The result was awkward and unwieldy.
+
+The iPhone's success demonstrated to the world that touchscreens were in fact viable input devices, but also that direct manipulation with fingers, coupled with larger, redesigned user interfaces, were instrumental in achieving widespread acceptance. Touch interfaces could be natural, intuitive, and popular, as long as they were sympathetic to the limitations of finger input.
+
+For Windows 8's user interface, fingers would come first. But Microsoft has never regarded tablets as a category in their own right; they have always been tablet PCs, with "PC" carrying important implications of its own. PCs are flexible, they're available in all shapes and sizes, from the slimmest ultraportables to full tower, multiprocessor, multimonitor behemoths. Windows 8 could not sacrifice this variety, so although fingers would come first, they would never be the exclusive input method. Windows 8 had to bridge the gap: it had to sport a finger-first user interface that would also work with mice and keyboards.
+
+After that first glimpse of the Start screen, our first real experience with Windows 8's Modern Shell came in September 2011 at a developer conference called BUILD. In sunny Anaheim, California, we got to use the first public beta of Windows 8, the Developer Preview.
+
+By then, the core concepts of the interface were already set in stone. Windows 8 would have two personalities. One personality would be the traditional desktop and taskbar for traditional mouse-and-keyboard applications. The other would be a new interface designed with fingers as first-class citizens, but also supporting mice and keyboards. The aesthetic of the new interface was described as Metro, as it was inspired by the signage used on mass transit systems around the world: bold use of color, a dependence on typography, and clear, stylized iconography.
+
+Applications themselves would similarly be split between the traditional desktop software and the new Metro style apps: touch-first, but mouse and keyboard accessible.
+
+(Microsoft has since backed away from the Metro name, but the company has not offered any superior replacement terminology, so Metro is what I'm sticking with.)
+
+Sinofsky has described this dual interface as a "no compromise" approach, giving users the best of both worlds, "seamless" switching between Metro and the desktop, an "amazing" touch experience, but also an experience that works with mouse and keyboard.

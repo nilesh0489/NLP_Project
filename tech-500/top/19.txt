@@ -1,0 +1,29 @@
+OAKLAND, California—Apple is a litigious company, most famously for its multi-billion dollar patent crusade against Samsung. The Cupertino company has a more quixotic legal battle going on against its competitors, however, that has also become a bit of a war against the English language. Since last year, Apple lawyers have been arguing that "App Store" is a trademarked phrase, and it has the right to stop others from using similar phrases. That includes Amazon, which was sued by Apple in March 2011, shortly after it opened the Amazon Appstore for Android.
+
+Now, some of those issues are finally coming to a head in public. At a hearing today in an Oakland federal court, it became clear that while Apple may have a lot of fury and passion behind this lawsuit, it has run into trouble in the form of a very skeptical judge. US District Judge Phyllis Hamilton showed great doubt that Apple will be able to prove that consumers were confused or deceived by Amazon's use of the word "Appstore." At this point, it's somewhat remarkable that the company hasn't dropped this suit, since Hamilton indicated a year ago that she was unimpressed by Apple's arguments and denied a preliminary injunction.
+
+Still, Apple continues to claim its "App Store" trademark is infringed, and separately that Amazon's promotion of its Appstore amounts to false advertising. Today's hearing was only concerning the false advertising claim, which Amazon wants thrown out without a trial. Amazon also contends the phrase "app store" is generic and can't be trademarked; that issue is currently scheduled to be tried by a jury in fall 2013.
+
+Hamilton repeatedly questioned Apple's lawyer, David Eberhart, about what kind of evidence he had that Amazon had deceived customers with its advertising.
+
+"They [Amazon employees] admit they targeted Apple customers, because Apple set the benchmark for what consumers expected," said Eberhart. "When you combine that with our evidence consumers associate the term 'app store' with Apple," it's enough evidence to warrant a trial.
+
+"Everyone who uses a smartphone knows the difference between the Apple iOS system and the Android system," responded Hamilton. "Where's the confusion? There's some suggestion [by Apple] that if Amazon is using the 'Appstore' term someone might think they have as many apps as Apple does. Well, why? And how, in fact, does that contribute to any deception on the part of Amazon?"
+
+In response, Eberhart showed a page from Amazon's store offering various smartphones. On the Android models, the page noted that software was available through the Amazon Appstore, while it noted that iPhones could get their software at the Apple App Store. "Consumers will see this kind of advertising and import their associations with Apple service. They understand what the App Store by Apple entails—hundreds of thousands of apps, and an ease of service unmatched by any others," said Eberhart. "When a consumer sees something like this they will be deceived into thinking the Amazon store has the same types of qualities."
+
+Hamilton was even less impressed by the sheet of paper. "I don't see it," she said flatly. "I don't look at this and make that determination. I just don't understand the whole idea that people would misunderstand and blend these two different products and services."
+
+This litigation may not have enormous business impact. If anything, Apple's vigorous litigation over "app store" phrase shows how strongly the company's top brass must believe its brand to be anointed, deserving to beat competitors not only in the marketplace but in court as well. The company touted its "revolutionary" products and glowing press reviews to a jury trial 40 miles south of here, and may end up a billion dollars richer for it; in this suit, it's essentially arguing that its App Store was so "pioneering" in 2008 that it needs a chunk of the English language as damages. After App Store, it seems, there's no room in the world for mere "app stores."
+
+"A pioneering brand—the first successful brand in a new market—plays a unique role in educating consumers about the product category as a whole while simultaneously building consumer affiliation between the product and the pioneer," wrote Apple in its brief.
+
+Eberhart echoed that language at the hearing today, saying that Apple was a "pioneering brand" that had "educated" consumers, and then that Amazon was somehow deceiving those consumers. The reasoning seems to go that Apple set consumer expectations so high when it created its App Store in 2008 that it is now uniquely capable of fulfilling those expectations.
+
+Hamilton also seemed skeptical about Apple's trademark surveys even being able to show confusion.  The surveys show that consumers tended to associate the phrase "App Store" with their company, a correlation that Hamilton called out as not being particularly meaningful. "I don't believe any consumers were directly asked whether they were deceived," she noted.
+
+"That is a different survey, and I don't believe one that was required," responded Eberhart.
+
+It's hard to see Apple's false advertising case going anywhere, and its chances of winning a trademark victory don't seem much better—although if it went to a jury, it's impossible to predict. Amazon was represented at the hearing today by Martin Glick, who really didn't have to say much, as Apple seemed quite capable of digging its own hole deeper. He did note that over the many months of litigation Apple hadn't produced much in the way of allegedly false ads.
+
+"No accused ads were put forth," Glick told the judge at one point. "Today, I'm given a piece of paper that's not an ad for any app store. It's an ad for smartphones, and it's not even in the record before Your Honor."

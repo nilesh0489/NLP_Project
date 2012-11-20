@@ -1,0 +1,31 @@
+A company with a few patents but no products to its name—meeting the common definition of a "non-practicing entity" or "patent troll"—has sued Microsoft, claiming to have invented the tile-based interface used in Windows Phone and Windows 8.
+
+Known as SurfCast and based in Portland, Maine, the company's website shows that it has only one thing on its mind—patent litigation. The home page describes its "Operating System technology" without referencing any actual products, while the site's "News" section contains only one item—the lawsuit (PDF) filed yesterday against Microsoft in US District Court in Maine.
+
+"We developed the concept of Tiles in the 1990s, which was ahead of its time. Microsoft’s Live Tiles are the centerpiece of Microsoft’s new Operating Systems and are covered by our patent," SurfCast CEO Ovid Santoro says in a quote posted on the site.
+
+The website has been around since 1999, it seems, but its layout is the same as it was in 2003. All that's changed is how SurfCast describes its technology—the latest versions of its website have been edited to make SurfCast technology sound more like Microsoft's.
+
+SurfCast owns four patents and is suing Microsoft over one of them, #6,724,403 (applied for in 2000 and received in 2004), which covers a "System and method for simultaneous display of multiple information sources."
+
+"In particular, the present invention comprises a graphical user interface which organizes content from a variety of information sources into a grid of tiles, each of which can refresh its content independently of the others," the patent reads.
+
+That does indeed sound similar to Microsoft's tile-based interface used in Windows 8 and Windows Phone, in which so-called "live tiles" represent applications and provide updated information on the home screens of tablets, phones, and PCs. But Microsoft has at least one of its own patents on the technology, applied for in 2006 and granted in 2011, covering a "Tile space user interface for mobile devices."
+
+The Microsoft patent makes references to dozens of previous patents, including the one referenced in SurfCast's lawsuit and two others owned by Santoro. The Microsoft patent was ultimately granted, so the US Patent and Trademark Office felt the invention was unique enough to pass muster during the review process. But SurfCast's lawsuit seizes upon a temporary rejection Microsoft received earlier in the patent review process.
+
+"During prosecution of the application that issued as the ’632 patent, the Patent Examiner cited the ’403 patent as relevant prior art as part of a Non-Final Rejection dated April 21, 2009," SurfCast's lawsuit states. "Accordingly, Microsoft had knowledge of the ’403 patent at least as early as April 21, 2009."
+
+SurfCast accuses Microsoft of infringing the '403 patent in all versions of Windows 8 and Windows RT, Windows Phone 7, and the Microsoft Surface. SurfCast also accuses Microsoft of inducing its customers to infringe the SurfCast patent by using Microsoft products, and of instructing developers to write applications that infringe the patent.
+
+SurfCast says it has suffered "harm and injury" as a result of Microsoft's infringement. But since SurfCast claims to have invented its tile-based technology in the 1990s and doesn't sell any products based upon it, it's hard to see how Microsoft's use of tiles in a brand-new operating system is costing the company any revenue.
+
+A look at the WayBack Machine shows that in 2004 SurfCast was touting its patented technology without even using the word "tile." At the time, SurfCast claimed to be building a new interface "to get the most out of broadband's speed."
+
+"SurfCast's new type of interface is a complete departure from the browser 'page paradigm' and WIMP (Windows, Icons, Menus, Pointers). SurfCast makes concepts like 'browser', 'desktop', 'icon', 'history', and 'bookmark' obsolete," the company said back then.
+
+In 2009, SurfCast described its technology as a "'live application' web-based service." SurfCast started using the word "tiles" to describe its technology sometime in 2011—after Microsoft started the tile-based interface in Windows Phone.
+
+SurfCast's website lists seven founders and directors with experience at IBM, Perot Systems, Cisco, Deutsche Bank Capital, and other organizations. We've contacted SurfCast to ask if it makes or has ever made any products, and have also asked Microsoft for comment on the lawsuit. SurfCast is asking the court for an order declaring that Microsoft directly infringed its patent and induced others to do so. SurfCast did not ask for an injunction preventing the sale of any Microsoft products. Instead, it wants "Microsoft to account for and pay to SurfCast all damages caused to SurfCast by reason of Microsoft’s patent infringement."
+
+UPDATE: Microsoft responded to us with a short statement reading “We are confident we will prove to the court that these claims are without merit and that Microsoft has created a unique user experience.”

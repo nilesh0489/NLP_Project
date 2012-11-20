@@ -1,0 +1,19 @@
+If you want to know just how broken the patent system is, just look at patent D670,713, filed by Apple and approved this week by the United States Patent Office.
+
+This design patent, titled, “Display screen or portion thereof with animated graphical user interface,” gives Apple the exclusive rights to the page turn in an e-reader application.
+
+Yes, that’s right. Apple now owns the page turn. You know, as when you turn a page with your hand. An “interface” that has been around for hundreds of years in physical form. I swear I’ve seen similar animation in Disney or Warner Brothers cartoons.
+
+(This is where readers are probably checking the URL of this article to make sure it’s The New York Times and not The Onion.)
+
+Apple argued that its patented page turn was unique in that it had a special type of animation other page-turn applications had been unable to create.
+
+The patent comes with three illustrations to explain how the page-turn algorithm works. In Figure 1, the corner of a page can be seen folding over. In Figure 2, the page is turned a little more. I’ll let you guess what Figure 3 shows.
+
+Of course this isn’t the most seemingly obvious patent Apple has been awarded in recent years. The company has also been granted patents for an icon for music (which is a just a musical note), the glass staircase used in the company’s stores – yes, stairs, that people walk up — and for the packaging of its iPhone.
+
+The patent to own the page turn was just one of 38 patents granted to Apple this week. Among the others there was a “Skin tone aware color boost for cameras,” “Location-based categorical information services” and a “Consistent backup of electronic information.”
+
+The page-turn patent was filed in December 2011, but was approved this week. It claims three inventors: Elizabeth Caroline Cranfill, Stephen Lemay and Mikio Inose.
+
+Apple in the past has filed multiple suits against smartphone makers in the United States for infringement of other Apple patents.

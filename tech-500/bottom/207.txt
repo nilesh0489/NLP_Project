@@ -1,0 +1,13 @@
+BitTorrent has just released the latest build of its lightweight client, uTorrent 3.2.2. At the time of writing, using the client’s built-in check-for-updates feature still displays “There is no new version available at this time.” but you can get the new version (build 28500) directly from uTorrent.com.
+
+The first biggest change is that this is the first stable build of uTorrent that officially supports Windows 8, which was released exactly two weeks ago. The latest version of course still supports Windows XP, Windows Vista, and Windows 7.
+
+Secondly, and rather more annoyingly, this new version has featured torrents (read: ads) from BitTorrent and its partners. Here’s what it looks like:
+
+Yeah, it’s pretty blatant, and takes up quite a bit of vertical space. As you can see, there’s no ‘x’ button to close the ad. If you want, however, you can disable all the ads (Options => Preferences => Advanced => search for “offers” and set everything to false).
+
+By the way, I took care while going through the installer to uncheck all the options I didn’t want, but it still managed to install toolbars in Chrome and IE9. Thankfully they were easy enough to remove, though it was still quite annoying to discover.
+
+The latest build also adds Facebook and Twitter icons (they take you to the corresponding social networking page when clicked, and then disappear), a tweaked Add Torrent dialog (the OK and Cancel buttons have been moved to the bottom-right hand corner), and the usual slew of bug fixes. Here are the official release highlights:
+
+You can check out the full changelog is available on the uTorrent forums.

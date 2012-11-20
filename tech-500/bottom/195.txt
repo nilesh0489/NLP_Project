@@ -1,0 +1,17 @@
+Senior government sources have told The Sunday Telegraph that the two technology giants have expressed "extreme interest" in unused sections of airwaves known as white spaces.
+
+These spaces are effectively gaps between those airwaves used for television, radio and mobile services, and are used as buffers to prevent the broadcasting and mobile signals from interfering with each other. In the past, white spaces have been put to little or no use, but telecoms regulator Ofcom wants to develop them for broadband services. "Recycling airwaves – or 'spectrum' – in this way is a highly efficient use of what is a very limited resource," the watchdog said.
+
+Ofcom has already put plans in place to allow the roll-out of white space technology by next year, and is lobbying government to give it the power to decide which companies are allowed to use it.
+
+The white spaces would be particularly useful for rural broadband, because it would allow people to access wi-fi from up to twice the distance of ordinary wi-fi services.
+
+However, Google and Microsoft are expected to launch a major charm offensive to win control of the valuable airwaves. They could also use the white spaces to provide widespread broadband access, potentially giving them an important calling card with which to win over customers.
+
+One government source said: "They clearly see it as very, very important. They have shown extreme interest in this as a way of getting closer to customers and offering something different to Apple."
+
+The details of Google and Microsoft's plans are not known, but telecoms analysts said the latter could be eyeing the white spaces as a way of building free, automatic wi-fi access into Nokia's new generation of Windows smartphones.
+
+Meanwhile Google could use the white spaces as a way of offering free wi-fi services to customers with phones powered by its Android operating system, as well as to other members of the public.
+
+Shaun Collins, an analyst at CCS Insight, said: "There'll be some trade-off, for example giving them all your details, but people have been expecting a move like this from Google for some time."

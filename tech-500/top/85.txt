@@ -1,0 +1,9 @@
+The fruity firm was on the hook for as much as $900m, but a jury awarded a lower payout during a Texas court hearing yesterday evening, according to VirnetX's lawyers McKool Smith.
+
+The jury, which had sat through the five-day trial, decided Apple infringed two patents: one for a method of creating a virtual private network (VPN) between computers, and another for solving DNS security issues. The focus of the trial was on FaceTime, which lets users of Mac computers, iPhones, iPods and iPads chat to each other in video calls.
+
+It's not the first time VirnetX has won a payout from a major tech firm: the company bagged $105.7m from Microsoft two years ago, and it may not be the last either. VirnetX has a separate case against Apple pending with the International Trade Commission and it has court cases against Cisco, Avaya and Siemens scheduled for trial next year.
+
+“For years Apple refused to pay fair value for the VirnetX patents,” Doug Cawley, a lawyer at McKool Smith, said in closing arguments, according to Bloomberg. “Apple says they don’t infringe. But Apple developers testified that they didn’t pay any attention to anyone’s patents when developing their system.”
+
+The case got so much attention that the judge had to order the two companies to stop their investors from calling the court, saying his office was getting at least ten calls a day. ®

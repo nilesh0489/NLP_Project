@@ -1,0 +1,61 @@
+The main way for people to begin downloading content from BitTorrent is to visit one of the Internet’s many hundreds of torrent sites. There they can download either .torrent files or, in the case of The Pirate Bay, magnet links. This week it became possible to go on a YouTube-like “related video” journey through BitTorrent’s Distributed Hash Table to find similar content to that being already downloaded, all without visiting a torrent site.
+
+Visiting a torrent site to access content is a fairly simple affair. Select the URL, go to the site and type whatever you’re looking for into the search box.
+
+However, if a BitTorrent user doesn’t really know what he or she is looking for and needs some ideas, a torrent site’s category view comes in useful to allow browsing of specific content such as videos, music or games.
+
+But what if there was another mechanism through which to find new content, one that doesn’t involve visiting a torrent site? One that would find content to download based on the activities of other BitTorrent users that have downloaded, to some extent, the same or similar content as you?
+
+Now all of that is possible with “Swarm Discoveries”, a new and intriguing feature added to the open source Vuze client this week. The feature uses the Vuze Distributed Hash Table (DHT) to anonymously relate one piece of downloaded content with another.
+
+“For a long time users have been asking for a means to find more content that they might like, stuff similar to the kind of things they already download,” Paul Gardner from Vuze tells TorrentFreak.
+
+“Existing sites tend not to offer anything beyond simple categorization (e.g. by format or genre), and only cover their own domain of content – users are looking for something that works ‘horizontally’, across sites, while at the same time zooming in on things that may be of interest.”
+
+Striving towards solving this problem the Vuze team came up with Swarm Discoveries, a behavior-based torrent content discovery system. So what makes it tick?
+
+“Given the lack of any standardized metadata for torrents, and the huge diversity of naming conventions, languages etc., any approach based on matching between static torrent data is difficult. So what we decided to concentrate on was the behavioral aspects of torrent selection,” Gardner reveals.
+
+“Users are already way smarter than us at finding content they like, so why not use their expertise to raise everybody’s game?”
+
+And this is where it gets both slightly more complex and much more interesting.
+
+“Swarm Discoveries is based on the fact that if Alice downloads torrents A, B and C then, in some (unspecified) way there is a link between A, B and C. At the most abstract the link is that Alice likes A, B and C,” Gardner explains.
+
+“Now if Bob downloads B, C and D this re-enforces the fact that B and C are somehow related, but between them we know nothing regarding A and D.”
+
+Of course, when looking at the habits of just Alice and Bob the dataset is very small. However, millions of people are using the Distributed Hash Table which results in a much larger sample and the creation of ever more interesting links between content.
+
+As a side note, Vuze (or Azureus as it was then) debuted the first ever BitTorrent DHT.
+
+TorrentFreak gave the feature a test drive, and this is what happened when we tested it on a Fuduntu Linux distro we planned to test in a VirtualBox virtual machine.
+
+1. First we loaded up the Fuduntu torrent using Vuze’s inbuilt torrent search feature. Once underway a right-click revealed the Swarm Discovery option.
+
+2. Once selected this short list of related content appeared.
+
+Item 1 is for a Knoppix torrent. Knoppix is another Linux distro so the connection to our Fuduntu download is obvious.
+
+Item 2 turns out to be Hiren’s Boot CD, a collection of fairly geeky system management tools which is (coincidentally or not) based on Knoppix.
+
+3. At this point the discovery can continue simply by right clicking on any result and selecting “Discover Related”. If you want to do some research on the torrents already found, the same menu gives access to some research tools.
+
+4. Digging down another level produced further related results.
+
+Of course, the system doesn’t work only for Linux distros. In our tests popular video and music content hashes produced the richest and most complex results.
+
+I don’t want to do anything, just make it work!
+
+For those of you too busy (or lazy) to right-click on downloads to find explicit results you can sit back and let Vuze do the work for you. Over time Vuze builds up results in the main Swarm Discoveries tab (you’ll find it under ‘Plugins & Extras’) and ranks them – the more ways a torrent is related to your downloads the higher the rank it will be assigned (up to a max of 100).
+
+If you’re bored with the current results then right-click on sidebar entry and select ‘delete all results’, Vuze will start generating a new set to inspire you.
+
+Although the Swarm Discoveries system might at first appear to be a privacy nightmare, concerned users can rest easy. There are no external databases and relationship data is anonymous. (Not to be confused with anonymous downloads of course, that would require a VPN or similar)
+
+“Swarm Discoveries is entirely implemented using the Distributed Hash Table (DHT) and results are automatically generated by Vuze clients – there are no centralized components,” Gardner explains.
+
+“In the same way that the DHT is used to relate content to peers during decentralized tracking it is also used to related one piece of content to another – this relationship is stored anonymously, so when a Vuze client reads a relationship the originator of the relationship is unknown.”
+
+While Swarm Discoveries often produced fairly predictable results, such as supplying torrents to similar genres of music and movies, it also throws in the occasional curve ball – perfect for those who browse YouTube for pop videos and end up two hours later viewing the mating rituals of a rare breed of mountain goat.
+
+Download the latest version of Vuze with Swarm Discoveries here.

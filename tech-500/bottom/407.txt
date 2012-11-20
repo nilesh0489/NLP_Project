@@ -1,0 +1,5 @@
+Not Debian/Ubuntu or Fedora/openSUSE? There may be a community-supported version for your distribution here.
+
+Note: Installing Google Chrome will add the Google repository so your system will automatically keep Google Chrome up to date. If you don’t want Google's repository, do “sudo touch /etc/default/google-chrome” before installing the package.
+
+Help make Google Chrome better by automatically sending usage statistics and crash reports to Google. Learn more

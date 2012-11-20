@@ -1,0 +1,17 @@
+IDG News Service - Intel hopes to deliver performance and power-efficiency breakthroughs to servers with the new Xeon Phi family of processors, the first model of which is now shipping to customers, the company said on Monday.
+
+Chips in the Xeon Phi range, also called "Knights Corner," work with server CPUs to speed up scientific, math and graphics tasks. Targeted at servers and supercomputers, the first Phi chips have 60 or more cores, with the fastest chips delivering more than a teraflop of performance per second.
+
+The Phi chips are the stepping stones toward Intel's goal of reaching an exaflop (about 1,000 petaflops) supercomputer by 2018. The first Xeon Phi chips will be used alongside Intel's Xeon E5 server CPUs in a 10-petaflop supercomputer called Stampede that could be active at Texas Advanced Computing Center (TACC) at the University of Texas by early next year.
+
+Boosting computing power is necessary to solve complex scientific and national security issues, said Joe Curley, marketing director of Intel's Technical Computing Group. Applications can be broken down and executed simultaneously over multicore Phi chips within defined power limits, Curley said.
+
+The Phi chips mix x86-compatible general-purpose and vector processors, and are a response to high-end graphics processors such as Tesla from Nvidia. Some of the world's fastest supercomputers today, including the U.S. Department of Energy's Titan supercomputer and the Tianhe-1A system at the National Supercomputer Center in Tianjin, China, combine Nvidia GPUs with x86 CPUs.
+
+The first Knights Corner chip to ship is the Xeon Phi 5110P, which has 60 cores and a clock speed of 1.05GHz. It offers 1,011 gigaflops of peak double-precision performance, 30MB of cache and memory capacity of 8GB. Much like a graphics card, the chip can be plugged into a PCI-Express 2.0 slot, and is cooled by a system fan. Curley said the product is priced competitively with Nvidia's Tesla or AMD's FireStream GPUs, which are used in supercomputers.
+
+Intel will also ship two Phi 3100 series chips in the first half of next year. The chips will offer peak double-precision performance of 1 teraflop per second, and include 28.5MB of cache and memory capacity up to 6GB. The Phi 3100A will come with its own fan, while the 3100T uses the system's fan. Intel did not provide specific pricing or a shipping date for the chips.
+
+Intel also announced the Phi SE10X and SE10P processors with 61 cores and 1,073 gigaflops of computing power. The parts were specifically built for TACC's Stampede supercomputer and will not be released commercially, Curley said.
+
+In addition to TACC, some leading companies and institutions will support Phi chips in servers and supercomputers, Curley said. IBM, Hewlett-Packard, Dell, Asus and Acer are expected to offer Phi chips in products.

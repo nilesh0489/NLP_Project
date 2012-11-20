@@ -1,0 +1,83 @@
+Do not buy a Microsoft Surface RT yet.
+
+I’m typing this with gritted teeth.  My 24 hours with the half-baked Surface have been a frustrating challenge, a mix of love and hate.  I want want want this to work, but one problem after another have led me to come to the conclusion – a temporary one at least – that this thing just isn’t ready to ship.
+
+Every time Apple unveils a new gadget or laptop, my jaw drops and I wonder how they pulled off executing their industrial designs.  Their v1 designs look so beautifully put together, not a mishmash of plastic parts and lids like the PC counterparts.  Every now and then, a PC maker will bring out something similar, but it’s the very rare exception rather than the rule.
+
+The Surface RT is Microsoft shoving their hardware partners aside and saying, “Lemme show you how this should be done. Pay attention, kids.”
+
+This tablet hardware doesn’t just compete with the iPad – it bypasses the iPad in many ways that are significant and valuable for me.
+
+I plugged in my USB presentation remote and it just worked.
+
+I plugged in a 64GB micro SD card with all my presentations and files and it just worked.
+
+I popped out the kickstand and started typing and it just worked.  Well, almost – if there’s one significant compromise in the Surface RT, it’s the kickstand.  You get two and only two positions for the kickstand: open and closed.  There’s no adjustments.  I think the kickstand angle was designed for airplane use by short people, because the screen hardly goes back at all.  It’s probably perfect for Danny DeVito when he puts it on the seat back tray in coach class, but for me on a desk, it’s too steep.
+
+The built-in front-facing camera for Skype is angled so that it’ll work great when the kickstand is open, but again, only for Danny DeVito, or maybe for people who want to show off their chests in Skype.
+
+There are other hardware compromises, but they’re pretty small.  The speakers are laughably quiet; I fired up one of my favorite movies, Once Upon a Time in Mexico, and I couldn’t even hear the actors’ dialog in the opening scenes.  Not couldn’t understand – couldn’t even hear it.  The magnetic power cord doesn’t snap in with authority, but rather requires careful positioning.  The volume up/down buttons are exactly opposite the USB port, so when I plug in USB devices I often push the volume up/down by accident.
+
+But who cares? I HAVE A USB PORT! Oh, Steve Jobs, I understand that you were a design deity, but I really needed that USB port, and I didn’t want a stupid dongle to get it.  The iPad has a USB dongle available, but it was useless to me because I needed it for my presentation clicker at the same time I also needed video out, but I couldn’t use both simultaneously.
+
+The Type Cover (the one with real keys) just works.  I’ve got big hands that often struggle on undersized keyboards, but I can type very quickly on the Type Cover.  So quickly, in fact, that I can outrun Microsoft Word on the Surface.  I get the feeling that the Surface RT’s CPU or Word code just can’t keep up with my typing.  Here’s an example video:
+
+But that’s not a hardware problem – and it’s time for us to talk about the ugly problem with the Surface RT.
+
+The hardware makes promises that the software can’t deliver – and the ability to type faster than Word can digest is a great example of that.  Sure, I understand that the shipped version is “Microsoft Word Preview,” but you can’t deliver software like this.  It’s a recipe for returned products – and frankly, that’s exactly what I’m going to do with the Surface RT, return it.
+
+Word’s problems aren’t limited to slow typing.  Once you’ve banged out a document, saving your work is another adventure:
+
+I can understand problems with Word because it’s a new piece of software that Microsoft has never released bef – wait, hold on. I’m being told by my staff that Word is not a new program, and has been out since the 1980s.  If I want to see a v1 program, they’re telling me to look at the Mail app.  Alright, let’s give that a shot:
+
+After waiting over a minute for the machine to boot and launch the mail app, I got a blank gradient screen. User interface 101: if the app needs to be set up on the first launch, offer to do that, please.  Folks from Twitter suggested that I swipe out from the right side and click Accounts, Add, and I did, but the Surface just sat there as shown in the video.  Eventually, after setting the unit aside and going on with my day, I noticed several minutes later that it popped up and said it couldn’t detect the email servers for brento@brentozar.com.  User interface 102: when you’re doing something, say something.
+
+The Surface Pro comes out in a few months.  The hardware design is very similar, but heavier, thicker, and with a “real” processor that requires a fan.  Yes, those are drawbacks, but they come with a very, very powerful advantage: the Surface Pro will run real Windows 8.  This means (hopefully) none of the buggy Windows RT problems, and perhaps more importantly, a full stable of applications.
+
+See, the Surface RT only runs Metro (whatever) apps, of which there are woefully few.  I didn’t even get to the point of testing the very few that I found – forget it, because the built-in stuff is so incredibly bad.  The lack of apps wasn’t a problem for me – I explained why I preordered a Surface RT – but the quality of the built-in apps was.
+
+The whole point of the Surface RT was supposed to be a tablet that’s ready for work.  It’s not.  Don’t touch it.
+
+After getting linked from HN and Reddit, I’ve gotten a bazillion comments that boil down to “You should have updated Office.”  Yes, if only I could have figured out how.  Since this post went live, Microsoft has explained how to get it:
+
+For Windows RT Surface users, the update can be had by:
+
+Emphasis mine.  I had no idea that there were multiple places for Windows Update on the same tablet.  One tablet, but multiple places to get Microsoft updates?  And we’re not even counting the Windows Store here.  This just isn’t realistic to expect end users to find this buried treasure.
+
+Other commenters have suggested that the Office updates apply automatically overnight – they do not.  I’d left my Surface RT plugged in overnight, but even so, that only lets automatic updates apply, not optional ones like this Office update.
+
+And of course, keep in mind that I still don’t know if these updates fix the problem – they certainly don’t fix the camera or mail problems, both of which were already updated through Windows Update.
+
+Yesterday this got posted to a bunch of news sites. I was out shopping with Erika when I got a tweet saying I’d hit the front page of HackerNews, LoopInsight, and Reddit, plus getting linked to from comments at CNet and Techmeme.
+
+Here’s what that looks like in Google Analytics:
+
+Yesterday was supposed to be a fun shopping day, just Erika and I out looking at furniture and clothes before my trip out to DevConnections and the PASS Summit. Increasingly, though, I kept turning to my phone and typing frantically, trying to explain things to commenters. My stress level went through the roof, and eventually I realized that being out and about was probably the best thing that could happen. I stopped trying to keep up, and just went back to my life – taking Ernie for a long walk, going out for dinner, reading the paper.
+
+Yesterday was frustrating as all hell.
+
+I’m a geek. I’ve been using computers since my first Commodore 64, then writing code in Topspeed Clarion, VBscript, Java, and .NET before switching over to Microsoft SQL Server database administration. I know bugs. I’ve coded bugs. (That’s probably all I’ve ever coded, come to think of it.) I’m used to poking around to discover workarounds to get things to work. I’m very used to doing updates to devices before I start working with ‘em, and I repeatedly did updates on the Surface RT trying to get it to work.
+
+I’m not a zealot. I use both Microsoft and Apple gear, and while a lot of my SQL Server friends rant against cloud-based and NoSQL databases, I like those too. I’m all about using whatever works best – or to be more specific, whatever sucks the least. No software or hardware is perfect, although I’ll be the first to tell you that the Surface RT’s hardware comes pretty darned close to being perfect for 2012 tablets. The iPad isn’t. I hate that Apple continues to burden their products with wacko connectors, and now they’re even changing the connectors. Give me a freakin’ USB port, memory card port, and video out port, and let’s call it a day.
+
+I really, really wanted the Surface RT to work. I need a lightweight backup PowerPoint device when I’m on the road presenting at conferences. That device needs to show PowerPoint presenter view while driving an external projector, while being plugged in for electricity (some of my sessions are 8-9 hours long), and take a presentation clicker. Keynote Remote doesn’t cut it because it loses reception in noisy radio areas like big conference rooms. The iPad only has one miserable dock connector or Lightning port, so it can either drive video OR be plugged in, but not both. The Surface RT looked like a great answer to this problem.
+
+I’m fair. If I’m going to complain about something, I want to have proof. I can’t just say, “Surface RT suxxorz” if I get frustrated. Rather than just return it and call it a day, I restored the device from scratch and tried the setup experience again. (Remember, I’m a former developer, so I’m used to trying to reproduce bugs.) I recorded videos of it in action to prove what was going on.
+
+But none of these mattered yesterday. Even with the restores, even with recording video of the problems, I got hammered. Hundreds of commenters on all kinds of sites said it was my fault.
+
+Last night, I went to bed with a plan. I’d drive down to the Microsoft store, buy another Surface RT, film the unboxing process, show how hard it is to find the behind-the-scenes desktop update panel on your own, and find out if it fixes the Skydrive and keyboard problems. (I already know the Mail updates don’t fix the login/freeze problem, because I’d done those before filming the videos.)
+
+This morning, I woke up with a better plan. I’m moving on. I don’t think there’s anything I could do to convince the hard-core fanboys out there that the Surface RT has problems – because I realized that most of the commenters don’t even own Surfaces. So many of the comments were flat out wrong, like saying there’s only one place for Surface updates and that Windows RT doesn’t have a desktop mode. I think I’ve done a fair job of documenting the problems I ran into, and I’ve burned enough of my weekend time on it.
+
+And no, I’m not heading down to the Apple store to buy a new iPad, either. I’m still using a first-generation iPad 1, and believe me, it’s just as flaky as the Surface RT is. There’s no good presentation solution, the keyboards pale in comparison to the Surface’s, and many apps are crashtastic.
+
+I don’t have a single right answer for my gadget needs yet, but the fun part about being a geek in 2012 is that the options are nearly endless. The journey of finding the right gadget is just as much fun as the destination, and I’m looking forward to giving the next gadget a shot.
+
+Got a solution that’s available to buy today? Tell me in the comments.
+
+It’s not completely official yet, but it appears that Steven Sinofsky, Microsoft’s President of Windows Division, agrees that the Word typing problem is a known issue and another update is forthcoming.
+
+Everybody who called me incompetent, please take your time in apologizing. I’m sure my blog would fall over immediately if all of you apologized at once.
+
+The real-world reviews are coming in, and they’re not good.  Here’s a very long and detailed review from Chris Pirillo:

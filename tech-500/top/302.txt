@@ -1,0 +1,63 @@
+Whether you are looking to switch careers and become a full-time programmer, want to try to build a website or app on the side, or are just looking to round out your skill set, learning to code has certainly been something a lot of people have started to do lately. And while being a programmer might not be for everyone, there is a lot to be said about gaining a better, more educated view of how all those pixels get moved around all those screens.
+
+Before we delve into our list of learning resources sites, we wanted to share some advice from Marissa Louie, a self-taught product designer for Ness Computing. A former startup founder, Louie told TNW that the hardest part of being self-taught – whether it’s design, programming, or any other discipline is, “gathering the courage. The most important barrier is just to overcome your fears” (she also said having the ability to follow instructions helps as well).
+
+Louie said that once you attain the basic skills, the best thing to do is just jump in and try to give yourself custom tasks, and build experience on your own through lots of trial and error.
+
+So with that sound advice in mind, let’s move to our in-no-particular-order list of learning resources (if you have more suggestions, PLEASE list them in the comments!).
+
+MIT’s Open Courseware offers 2100 courses in a variety of topics, including Electrical Engineering and Computer Science. The free resources include online textbooks, exams, multimedia content, assignments and projects and examples – all from actual MIT courses from the last decade or so.
+
+Coursera launched in April and already has hit the 1 million student mark, and has expanded to include 0ver 200 courses from 33 universities. If you haven’t heard of Coursera, it is the Stanford-learning-idea-turned-mega-startup that basically lets you take a full university course online taught by a real professor at one of the world’s best schools – for free
+
+Udacity is a free service currently with 14 classes where, “You learn by solving challenging problems… with world-renowned university instructors.” The classes cover topics that seemed geared to not only teaching you to code, but also giving you a solid grounding in math, physics and even, “How to Build a Startup”.
+
+It’s Google and it’s code, so yeah, it’s a pretty solid free resource, and obviously a good one if you are interested in Android development. Has some more advanced topics as well including distributed systems and web security.
+
+Mozilla knows a thing or two about what makes a good website run, and it’s put together a free learning center that includes work written by the the network and also by other sites, like…
+
+Just in case you were wondering, it kind of does. The site has a lot of free info on HTML5, including blog posts, and tutorials.
+
+The Code Player is a great way to get a real sense of the ebbs and flows of coding (while learning stuff too). It’s kind of like being able to look over the shoulder of a programmer while she works.
+
+Codecademy was made extra famous at the beginning of this year when NYC Mayor Michael Bloomberg tweeted out that he was going to use the site to learn to code in 2012 (wonder how he’s doing?). Regardless, Codecademy is a popular and free site that adds gamification to the learning process if you want to learn with friends. Codecademy also runs CodeYear.
+
+Another “academy”, Khan Academy offers lots of courses beyond programming if you are looking to be a Renaissance man/woman – but if you’re just looking to code, it has that too.
+
+General Assembly takes a different approach by offering livestream (paid) sessions on topics like “Rapid Prototyping: From Wireframes to HMTL” – you buy an e-ticket on Eventbrite, get a password, and tune into the livestream when it happens.
+
+Eloquent JavaScript is actually a book that is completely online for free (or you can buy the ebook on Amazon). From the author’s intro: “JavaScript is the language that is, at the moment, mostly being used to do all kinds of clever and horrible things with pages on the World Wide Web.”
+
+If learning Ruby (and this is Ruby, not Ruby-on-Rails) is what you’re looking for, Ruby Koans has a free tutorial, promising to “walk you along the path to enlightenment in order to learn Ruby.”
+
+Learn Code The Hard Way started with the book (free online) Learn Python The Hard Way and has branched to add other languages including Ruby and C.
+
+While it technically doesn’t have “tutorials” there is a ton of (easily searchable) info on Stack Overflow that can be of great help once you get going. Also, if you ever get stuck on something (and the answer isn’t already there) the community is very good at answering questions.
+
+Coder Dojos are places were young people can get together to learn to code, so if you’re a parent that’s thinking of setting your kid on the Path to Instagramum, you might want to see if there is one in your area. The site also has a knowledge base put together by  its instructors/volunteers, but it is relatively limited.
+
+Beyond the many many books that O’Reilly publishes, the company also offers (paid) online courses on many different programming languages.
+
+Again, if you are a parent, Scratch is a free downloadable program developed by the MIT Media Lab that helps young kids build interactive stories.
+
+If you’re interested in developing for Apple products, it’s a great idea to head over to to Apple’s developer site to see what all the fuss is about and learn from the resources Apple has made available online.
+
+Google’s Android developer site continues to improve, and includes videos from Google i/o as well as section that goes over best practices for designing apps.
+
+Mobiletuts+ has free tutorials/blog posts on Android and iOS as well as other mobile-centric needs such as design and also has a premium (paid) service as well.
+
+Udemy offers courses (some free, some paid) on a wide range of subjects, and boasts instructors including Mark Zuckerberg and Marissa Mayer.
+
+Code School offers courses and screencasts for a monthly no-contract subscription, and also has a few free courses as well.
+
+Bloc promises to teach you to “become a web developer in 12 weeks.” For a hefty fee, Bloc will team you with a programmer mentor that acts like a personal fitness trainer throughout your learning. For the price tag, it probably makes sense to make this your full-time job for three months if you go this route.
+
+Treehouse has over 600 videos that you can watch for a monthly fee, as well as a premium subscription that offers more features.
+
+Programr takes a different line to learning code: you build stuff until it works. Check out our in-depth interview with Programr creator Rajesh Moorjani.
+
+While it has taken on an open source life of its own for visuals, Processing started out as a way for people to learn programming (in fact, Programr above has integrated it as well).
+
+Well, hopefully this list will get you started in the right direction towards achieving your coding goals, but we’ll leave you with one more word of advice from Marissa Louie to give you a kickstart: “Don’t settle for anything less than exceptional.”
+
+Note: This post was updated to include MIT OCW, Coursera and Udacity – if you have others you think should make the list, please let us know in the comments!

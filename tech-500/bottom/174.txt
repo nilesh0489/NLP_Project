@@ -1,0 +1,31 @@
+Mobile devices and applications are no longer an accessory – they’re central to our daily lives. Gartner predicts the number of mobile apps downloaded will double to 45 billion this year – and they’re only getting smarter. Today’s apps are increasingly essential to accessing critical business applications, connecting with friends on the go and even adopting digital wallets.  
+
+While these apps make our lives easier, they also give a wider group of application developers and advertising networks the ability to collect information about our activities and leverage the functionality of our devices. At the same time, the companies, consumers and government employees who install these apps often do not understand with who and how they are sharing personal information. Even though a list of permissions is presented when installing an app, most people don’t understand what they are agreeing to or have the proper information needed to make educated decisions about which apps to trust. 
+
+More concerning is that many apps collect information or require permissions unnecessary for the described functionality of the apps. This is not the first time this issue has surfaced – reports of popular apps collecting irrelevant information or transmitting data when devices are turned off has led to significant backlash. However, less is known about the state of privacy across the entire application ecosystem. 
+
+To get a sense of the state of application privacy today, Juniper Networks’ Mobile Threat Center (MTC) analyzed over 1.7 million apps on the Google Play market from March 2011 to September 2012.
+
+We found a significant number of applications contain permissions and capabilities that could expose sensitive data or access device functionality that they might not need. We also determined these apps had permission to access the Internet, which could provide a means for exposed data to be transmitted from the device. Of particular interest, free applications were much more likely to access personal information than paid applications. Specifically, free apps are 401 percent more likely to track location and 314 percent more likely to access user address books than their paid counterparts.
+
+When looking at the disparity between free versus paid apps, there is a common industry assumption that free apps collect information in order to serve ads from third-party ad networks. While this is true in some cases, Juniper examined 683,238 application manifests and found the percentage of apps with the top five ad networks is much less than the total number tracking location (24.14 percent).
+
+This leads us to believe there are several apps collecting information for reasons less apparent than advertising.
+
+Possibly more concerning are the other permissions being requested from applications like the ability to clandestinely initiate outgoing calls, send SMS messages and use a device camera. An application that can clandestinely initiate a phone call could be used to silently listen to ambient conversations within hearing distance of a mobile device. Similarly, access to the device camera could enable a third party to obtain video and pictures of the area where the device is present, as was recently presented with the proof-of-concept Spyware PlaceRaider.
+
+Silently sending SMS messages can also be a means to create a covert channel for siphoning sensitive information from a device. Further, the potential for stealth SMS messages or calls can have monetary repercussions by communicating with services that will subsequently charge a fee, such as calling a 1-900 in the U.S. or sending premium SMS messages.  
+
+The Juniper MTC also looked at different categories of applications and found some that seemed to be comparatively overstepping the needs of the applications when accessing certain permissions. For these apps, we cross-referenced the permissions requested with the functionality in the description of the apps. Our analysis noted apps that had the ability to do well more than a user could know and collect information not documented as necessary for the app to perform its intended use.
+
+Cards and Casino games include applications focused on imitating popular casino games for fun. In this category:
+
+Racing Games are by far the most concerning category with an abnormally high number of apps removed from the marketplace over the time period of our analysis. Applications can be removed for a variety of reasons, including Google doing so for concerns over malware, questionable developers temporarily placing apps to phish for data, or for legitimate reasons, whereby an application is simply no longer being offered by a developer. During the manual portion of the research, this category contained the highest number of applications that the MTC would consider to be newly discovered malware.
+
+Our research also led to some unexpected insights as to the legitimate use of permissions. We examined cases where permissions or data collection was justified even though the reasons were not immediately   obvious. We did this by installing apps to fully understand their functionality, as well as contacting several developers.
+
+The MTC’s analysis of the Google Play market shows the pervasiveness of mobile tracking and where apps could do a better job of disclosing why they need information up front and highlight functionality as a genuine user benefit. Our hope is that this research can give a better understanding of the current state of application privacy and provide insight to ensure the best actionable information is available to understand the effects on user privacy and the protection of enterprise data. We have several suggestions that the industry should consider:
+
+The research contained in this report was conducted on the Google Play market. Apple does not disclose related information about its apps, and questions regarding the Apple App Store and related privacy statistics should be directed towards Apple.
+
+This research was conducted via four primary means:

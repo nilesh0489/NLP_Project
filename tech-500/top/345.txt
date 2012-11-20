@@ -1,0 +1,7 @@
+Humans build autonomous robots all the time, but they tend to be made of metal, plastic and need batteries. Now a team at the University of Illinois has built an antonomous robot made from plastic and living cells. Such a device could be used to detect chemicals in water, climb walls or react to certain elements in the water like a sensor.
+
+Engineering professor Rashid Bashir led a group of scientists that put a layer of heart cells from a rat on one side of a layer of hydrogel. The heart cells, being muscle cells, contract, and bend the whole thing. When they relax, it straightens out. The rhythmic expansion and contractraction allows the so-called bio bot to pull itself along.
+
+Because the bio-bot is made of soft plastic and cells, it can be manipulated into shapes that aren't possible with metal. For example, Bashir's group made the polymer into a shape with two appendages -- one shaped like a wide square and for support and another shaped into a thin, flat shape that bends. When it "walks" it looks more like a swimming motion.
+
+Another feature is the way it's made: the hydrogel part was made in a 3D printer. By printing robot "parts" this way, it's possible to get a greater variety of shapes. It also means that designing new ones is a much quicker process, since the shaping is done on design software and the materials are simple to work with. The research was published in the journal Scientific Reports.
