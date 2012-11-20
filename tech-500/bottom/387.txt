@@ -1,0 +1,35 @@
+Software and internet patents with extremely broad claims seem to be everywhere these days. The result’s been a raft of lawsuits against companies making any products in this space.
+
+While patent law aims to promote innovation by giving inventors the exclusive right to their inventions, modern patent law pays far less attention to what the patentee actually invented than to what the patent claims. Such “claims” are the legal definition of the patent’s scope, and the lawyers drafting them have a natural tendency to broaden claims as much as possible to secure the strongest possible rights for clients.
+
+Software and internet patents have seen more than their share of such overclaiming.
+
+But this isn’t a new problem presented by new technology: Seventy-five years ago, patent lawyers were increasingly writing patent claims in broad functional terms, too. These patentees were claiming to own not a particular machine – or even a particular series of steps for achieving a particular goal – but the goal itself. The Supreme Court ultimately rejected such broad “functional claiming” as inconsistent with the purposes of the patent statute, and when Congress rewrote the Patent Act in 1952, it adopted a compromise position: Patentees could write claim language in functional terms but when they did so the patent would notcover the goal itself; only the particular means of implementing the goal described by the patentee (and equivalents thereof).
+
+These “means-plus-function” claims permitted the patentee to use functional language to describe an element of their invention. But they did not permit the patentee to own the function itself … however implemented.
+
+Now, broad functional claiming is back. This is partly because of the way the means-plus-function claim rules have been interpreted by the Federal Circuit. Patentees have been able to write broad functional claims without being subject to the limitations of section 112(f).
+
+But it’s also because of the nature of computer programming.
+
+Functional claiming of software inventions is arguably responsible for most of the well-recognized problems with software patents today. Software patentees have increasingly been claiming to own the function of their program itself – not merely the particular way they achieved that goal.
+
+Since patentees have regained the ability toclaim ownership not of what they built, but of what it does, they have brought suits purporting to own everything from international electronic commerce to video-on-demand to voice over the Internet to emoticons to means of hedging commodity risk. Mind you, the claims aren’t that defendants used their method of implementing electronic commerce or video on demand: the argument is that defendants used the idea itself.
+
+Such suits over claims purporting to cover any possible way of achieving a goal naturally lead to patent thickets. Ten different people might come up with ways of communicating voice over the Internet, but if each can claim to own the concept itself, there will be lots of overlapping patents with broad claims. While the breadth of those claims should (and does) make them easier to invalidate, the legal deck is stacked against companies who seek to invalidate overbroad patent claims.
+
+In any other area of technology, we wouldn’t permit the sorts of ludicrous claims that appear in thousands of software patents. Pharmaceutical inventors don’t claim “an arrangement of atoms that cures cancer,” asserting their patent against any chemical in any form that achieves that purpose. Pharmaceutical patent owners invent a drug, and that drug is what they’re entitled to patent. But in software, broad claims of the “curing cancer” form are everywhere; they just use “a computer programmed to achieve result x” in place of “an arrangement of atoms.”
+
+There are some arguments in favor of broad functional claims in software, though. Advocates point out that software is supposed to function, and that different functions that achieve the same goal are substitutes. But these arguments are insufficient to justify the costs they impose on the system … and on us. Sure, software functions, but so do jackhammers. We don’t let the inventor of a jackhammer claim every mechanism for breaking rocks. Would such a broad patent more effectively prevent competition by others? Yes. But patent law isn’t supposed to guarantee insulation from competition; it just prevents others from imitating what patentees actually did.
+
+Simply by applying the rules of means-plus-function claims to software, we could begin to get a handle on the software patent issue. Indeed, ending functional claiming may be the only way out of the software patent morass. As long as patentees can claim to own the problem itself – not just the solution – defining better boundaries and invalidating obvious patents won’t do much to make the patent mess go away.
+
+Congress doesn’t need to enact new laws; it just needs to interpret the existing statute given the realities of software and modern patent practice. As it did seventy-five years ago, the law should rein in efforts to claim owning a goal itself rather than a particular means of achieving that goal. If an inventor claims to own any means of using a computer to solve a problem, we should read that claim as being limited to the particular algorithm s/he wrote to solve the problem and ones like it.
+
+Didn’t write an algorithm (or code)? Then it’s an invalid patent.
+
+All we need to do is recognize that the “structure” of a modern software program is not “a computer” – the hardware on which it runs – but the actual design of the program itself. If someone invents a program, s/he can own that program and ones like it, but not every program that might achieve the same end.  While doing so would narrow the scope of software patents (unfairly in a few cases), the social benefits would outweigh those concerns.
+
+And so, with one fell swoop – without changing the patent statute and without invalidating existing patents – we may be able to solve most of the software patent problem.
+
+Given the enormous influence of patents on technology and business – and the complexity of the issues involved – Wired is running a special series of expert opinions representing perspectives from academia to corporations to other organizations. To help move reform efforts forward, some of these opinions propose specific Solutions to the Software Patent Problem (presented at a conference hosted by the High Tech Law Institute at Santa Clara University). Together, these proposals will help advocates and policy makers decide what to do about software patents.

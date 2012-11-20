@@ -1,0 +1,35 @@
+Scientists have succeeded in "cloaking" an object perfectly for the first time, rendering a centimetre-scale cylinder invisible to microwaves.
+
+Many "invisibility cloak" efforts have been demonstrated, but all have reflected some of the incident light, making the illusion incomplete.
+
+A Nature Materials study has now shown how to pull off the trick flawlessly.
+
+However, the illusion only works from one direction and would be difficult to achieve with visible light.
+
+The idea of invisibility cloaking got its start in 2006 when John Pendry of Imperial College London and David Schurig and David Smith of Duke University laid out the theory of "transformation optics" in a paper in Science, demonstrating it for the first time using microwaves (much longer wavelengths than we can see) in another Science paper later that year.
+
+The papers sparked a flurry of activity to move the work on to different wavelengths - namely those in which we see.
+
+As the "Where's my cloak of invisibility?" article points out, the field has moved on considerably since then.
+
+But no effort to date has been able to achieve the "perfect" cloaking that the theory originally described.
+
+The structures that can pull off this extraordinary trick of the light are difficult to manufacture, and each attempt has made an approximation to the theoretical idea that results in reflections.
+
+So someone would not see a cloaked object but rather the scene behind it - however, the reflections from the cloak would make that scene appear somewhat darkened.
+
+Now, Prof Smith and his Duke colleague Nathan Landy have taken another tack, reworking how the edges of a microwave cloak line up, ensuring that the light passes around the cloak completely with no reflections.
+
+The trick was to use a diamond-shaped cloak, with properties carefully matched at the diamond's corners, to shuttle light perfectly around a cylinder 7.5cm in diameter and 1cm tall.
+
+"This to our knowledge is the first cloak that really addresses getting the transformation exactly right to get you that perfect invisibility," Prof Smith told BBC News.
+
+However, the cloaking game is always one of trade-offs; though the illusion is perfect, it only works in one direction.
+
+"It's like the card people in Alice in Wonderland," Prof Smith explained. "If they turn on their sides you can't see them but they're obviously visible if you look from the other direction."
+
+The design principles that make the cloak work in microwaves would be difficult to implement at optical wavelengths. But microwaves are important in many applications, principally telecommunications and radar, and improved versions of cloaking could vastly improve microwave performance.
+
+"The cloak we demonstrated in 2006 as a kind of microwave device would be very poor, but this one gets us to something that could be potentially useful," Prof Smith said.
+
+"I think it's something that a lot of people can build on. Everything in this field is going to come down to what you can make, what you can design. And I think this steps up the design."

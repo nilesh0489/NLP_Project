@@ -1,0 +1,29 @@
+NEW YORK (CNNMoney) -- It's gadget season, and Google wants in on all the fun that Microsoft and Apple have been having.
+
+Google (GOOG, Fortune 500) unveiled a new "Nexus" phone, tablet and Android operating system on Monday. Its goal is wrest back some of the attention that Windows 8, Surface, the iPad, iPad miniand iPhone 5 have gotten over the past several weeks.
+
+The Nexus 4 is the fourth annual "Google phone," designed by the search giant and manufactured by one of its Android partners -- this time, LG. Google didn't say much about the device, other than that it has the latest quad-core mobile processor (that's fast), and a 4.7-inch screen (really big).
+
+Google's Nexus phones have never sold particularly well, but this time around Google is trying something bold. For $299, customers can buy a Nexus 4 without a two-year contract. That's quite cheap for an "unlocked" high-end smartphone. An unlocked iPhone 5, by comparison, costs $650.
+
+The base model Nexus 4 comes with 8 gigabytes of storage, half the typical amount for a smartphone. A 16 GB phone is available for $349. Both will go on sale on Nov. 13 online at the Google Play store. T-Mobile customers can also get a 16 GB version with a two-year contract for $199.
+
+The Nexus also works on AT&T (T, Fortune 500), which uses a similar network technology, but it isn't compatible with Verizon's network or Sprint's, according to a Google spokesman.
+
+The search leader also announced a new 10-inch tablet, dubbed the Nexus 10. With 300 pixels per inch, the Samsung device has the highest-resolution screen for any tablet, Google claims, including the iPad with Apple's Retina display. Apple (AAPL, Fortune 500) says the iPad sports a 264-pixels-per-inch screen.
+
+The Nexus 10 allows for multiple user accounts, so that a family can share the device and keep separate apps and settings for each user. It also has stereo speakers and a standard tablet battery that lasts for nine hours.
+
+The price tag is competitive: The 16 GB version will go on sale on the Google Play store Nov. 13 for $399, and a 32 GB version will be available for $499. Comparable iPads are each $100 more expensive.
+
+Google also unveiled an update to its Nexus 7 tablet, which the company unveiled in June. A new 32 GB version of the seven-inch Asus device is now available with AT&T's 3G-HSPA+ service -- which AT&T brands as "4G" -- for $299.
+
+"We think today's devices offer the very best that money can buy," Android chief Andy Rubin said in a blog post.
+
+The Android software that runs Google's devices also got a minor update on Monday. New features include Photo Sphere, a 360-degree photo-taking app and wireless streaming support for Qualcomm's (QCOM, Fortune 500) Miracast wireless displays. It also offers a keyboard that doesn't require typing: "Gesture Typing" lets users glide their fingers over the letters they want to type.
+
+Google Now, an app that surfaces important information from e-mail, calendars and social networks, added support for flight information notifications, restaurant reservations, hotel confirmations and shipping details, in addition to nearby attractions like movies times at local theaters.
+
+A launch event had been planned in New York, but it was canceled due to Hurricane Sandy. Google announced the devices in a blog post instead.
+
+Microsoft (MSFT, Fortune 500) will be holding a Windows Phone 8 launch event in San Francisco on Monday.

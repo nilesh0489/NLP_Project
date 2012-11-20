@@ -1,0 +1,59 @@
+Back in 2009, Finland announced what might be the world’s most ambitious national broadband plan: a guaranteed minimum service level of 1Mbps for all homes and companies by 2010. That goal is then planned to be kicked up to 100Mbps, served via a fixed connection or wireless, by 2015 (Google Translate).
+
+Three years into the program, Finnish government officials say they are well on the road to meeting that goal by providing subsidies mainly to local cooperatives that have sprung up to serve rural communities. To date, 86 percent of the 5.35 million Finnish population lives within two kilometers of a 100Mbps connection, and the expectation is that this will grow to 95 percent by 2015. By that definition, it looks like Finland will come very close to meeting its goal. (Finnish households are expected to pay for that final connection to the home, should they want the full 100Mbps fiber service.)
+
+“I am confident. There is no reason why we [can’t meet this goal],” Juha Parantainen, the Vice Chair of the National Broadband Advisory Committee, told Ars. The Finnish government is expected to release a second interim evaluation in 2013.
+
+As we reported earlier this year, the Finnish plan is part of the European Union’s Digital Agenda for Europe. Among other things, that plan requires member states to publish national broadband plans by the end of the year to bring a minimum level of 30Mbps service to all citizens by 2020. It also requires countries to bring speeds of 100Mbps to half of the EU’s households by 2020. (As one commenter pointed out, most of Denmark already has 32Mbps wireless coverage.) In other words, Finland is far surpassing what Brussels has mandated.
+
+To be clear, the plan does not mean the Finnish government will pay for everyone’s Internet access. Rather, the government just wants to guarantee a minimum level of service and ensure that 100Mbps access is within two kilometers of all Finns no matter where they live. In Finland’s sparsely populated rural north and west, this is a particular challenge—not to mention that the ground is frozen solid for many months of the year in the remotest regions, meaning it's difficult to lay new cable.
+
+A closer look at what that actually means reveals that some of this service is actually via a mobile broadband service, which is generally slower and not always as reliable as a wired connection. Curiously, Parantainen also provided government figures showing half of all Finns currently have a 100Mbps connection available to their door. Of those 50 percent of the entire country, 40 percent are via served via cable modem and the remaining 10 percent over fiber. These figures show that only a small percent of Finns actually throw down for a 100Mbps fiber-to-the-home (FTTH) service.
+
+The Finnish government said it would kick in €66 million ($85 million), while €25 million ($32 million) would come from the European Union, and €40 million ($52 million) from individual municipalities and towns. However, to the government’s surprise, major Finnish telecom operators can’t be drawn in even with a 67 percent government subsidy. Instead, most of the subsidies have been claimed by newly formed local cooperatives and smaller companies. But in the country’s most remote areas, operators are opting for wireless service rather than laying fiber-optics.
+
+“The big picture is that nationwide operators are not interested in this project,” Parantainen added. “They have other things to do, like mobile broadband, and maybe they get more profit from this.
+
+However, independent researchers think the government’s service claim (that half the country already has 100Mbps access) is dubious—and that calls the entire current state of Finland’s broadband upgrade into question.
+
+“My gut feeling is that this is not the case: only some parts of the biggest cities have been actively marketed with 100Mbps connections by the operators,” Hannu Nieminen, a professor of communication policy at the University of Helsinki, told Ars.
+
+Further, he argues, reaching the very last mile—for example, in the far northern region of Lapland—will be very difficult. And because the government lacks real regulatory or enforcement authority to make this happen, Nieminen says the policy doesn’t go far enough in terms of bringing real, significantly higher-speed service to the entire territory.
+
+“Without new measures and targeting of the problems in the implementation process, the original goal will be difficult or even impossible to reach,” Nieminen wrote in a forthcoming academic paper, European broadband regulation: the "Broadband for all 2015" strategy in Finland.
+
+“To keep the target intact, even stronger direct state intervention will become necessary.”
+
+One of the first towns to take advantage of this government subsidy was a small town in Western Finland: Karvia, with a population of about 2,500 people. For two years, the town had 100Mbps service provided by a newly founded local company (partly owned by the town): Suupohjan Seutuverkko Oy.
+
+“Our enterprises have been very pleased that we [use the new] network,” Tarja Hosiasluoma, the town’s municipal manager told Ars.
+
+Karvia, she explained, has historically been a largely farming and small industrial community. Before getting the new 100Mbps fiber optic connection, she said, the town only had a weak DSL service of about 0.5Mbps.
+
+“Sometimes when you’re paying some bills on your Internet bank, it would just stop,” she added.
+
+Today, she pays €40 ($52) for a 20Mbps connection that includes TV over IP. For €10 ($13) more, she said, she could have the full 100Mbps, but she doesn’t feel that’s necessary.
+
+Hosiasluoma said that Karvia—like many small towns around the world—faces a challenge of keeping its younger population local. With more reliable Internet, it lets more creative and freelance workers stay in town.
+
+“They can do remote work at home and so they have moved back to Karvia,” she said. “People like artists and people who are designing buildings can work at home and I think that this was very important for us to do. Also, they can study at home because the network has made a possibility to study.”
+
+But the town official admitted there may be a downside to better access, at least demographically speaking.
+
+“In the first year we had nine children born. Normally we have 20 children [per year]—maybe [couples] are watching TV too much,” she said with a laugh.
+
+In the forthcoming paper evaluating the efficacy of Finland’s broadband strategy (mentioned above), Hannu Nieminen, the Finnish professor, lamented the project has been “slow to gain ground.”
+
+“Although charged with creating demand for the broadband connection, the campaign organization could not ‘sell’ or provide the actual connection—it could only encourage and advise potential users how to act to realize the local network,” he wrote.
+
+Nieminen added that ultimately the larger telecom firms, like TeliaSonera, are the ones who decide whether to provide service. But worse still, he wrote, the application of the Finnish public subsidies is “extremely complicated.”
+
+“The private investor (telecom operator, local cooperative, municipal company) has to pay the whole investment in total at the start, which can be recouped from state aid (one-third of the costs) only after the work has been completed,” he added.
+
+Even worse, he argues that actually bringing 100Mbps of service to within two kilometers of all of Finland is going to be difficult financially. It can cost up to €53,000 ($68,000) per household in the most rural and remote regions.
+
+“Regional authorities are struggling with excessive bureaucracy and also with the realization that the state aid, €66 million [$85 million] reserved for 2009-2015, will not be enough to fund all the planned local projects,” Nieminen concluded. “Nevertheless, in many regions good results have been achieved in expanding the broadband network, but it is difficult to say if they have succeeded because of the strategy or despite it.”
+
+Nieminen said that today, fiber optic broadband is at the level of a basic public service (like electricity, water, or roads). However, he argues, the policy designed to spur higher availability and greater usage of 100Mbps service isn’t really achieving its goal.
+
+“The Finnish strategy as it is does not seem to provide this but leaves it to market forces on one hand and to regional and local authorities on the other,” he told Ars. “The first actors have no obligation to fulfill their part, and the second actors are lacking realistic financial and political means.”

@@ -1,0 +1,5 @@
+Red dust swirls from the surface, blue sea salt is tossed within cyclones, green smoke rises from fires, and white sulphate particles stream from volcanoes and fossil fuel emissions. It's just another day in the life of our planet, as pictured by NASA's Discover supercomputer.
+
+This simulation shows the various types of aerosols - particles and liquid droplets - suspended in the Earth's atmosphere. It was created using the Goddard Earth Observing System Model, a global atmospheric simulation designed at the Goddard Space Flight Center in Greenbelt, Maryland. The model aims to study the climate system.
+
+The Discover computer built this stunning high-res image at a 10-kilometre resolution, but it's capable of even more detail - as fine as 3.5-kilometre resolution, the highest available for a global climate model.

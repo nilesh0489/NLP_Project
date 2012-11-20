@@ -1,0 +1,23 @@
+Now that Windows 8 is on sale and has already been purchased by millions, expect very close scrutiny of Microsoft’s latest and greatest security features. 0-day vulnerabilities are already being claimed, but what about the malware that’s already out there? Windows 8 certainly isn’t perfect, but it’s definitely come a long way.
+
+Security firm BitDefender ran a very interesting test recently: the company took 385 of the most popular malware samples it found in the past six months and threw them at Windows 8 to see how it fares in its default state (with Windows Defender enabled).
+
+Only 61 malware threats managed to infect Windows 7's successor, or about 15.84 percent. BitDefender rounded this down and declared that the “Newly launched Window 8 is prone to infection by some 15 per cent of the 100 malware families most used by cyber criminals this year.” I prefer the reverse number, as you can see in the headline above.
+
+Some of those numbers might sound scary, and that’s exactly how the company is spinning this story. Bitdefender Chief Security Strategist Catalin Cosoi:
+
+As a means of protecting a computer from viruses, data theft and other type of malware, Windows Defender is better than nothing. But it’s not a whole lot better. Most of the popular antivirus can do better. The conclusion is clear: Using your PC without a security solution is extremely risky.
+
+This isn’t surprising, given that BitDefender launched its 2013 line of security products, certified for Windows 8, earlier this week. So, is the company skewing the results?
+
+It’s hard to say. Why pick the number 385? Did the top 100 threats or the top 500 threats result in a lower percentage for Windows 8? How many of those threats worked on Windows 7? How many on Vista or XP? How many of these malware samples require direct user interaction?
+
+While we do know BitDefender is in the business of selling security software, it’s difficult to say more on the results without more data. Either way, 15 percent is an impressive achievement. Microsoft will surely continue updating its definitions, and this number will only drop further.
+
+Although it’s difficult to put BitDefender’s numbers in perspective, the company did offer some more figures. Out of the 385 total, two more malware samples got by Windows Defender: the first crashed on execution and the second ran but was blocked by User Account Control (UAC), so no payload was delivered. Neither of these count as an infection, but even if we were to count them, that’s still only 16.36 percent getting past Windows Defender.
+
+With Windows Defender disabled, 234 of the samples ran successfully (60.78 percent), 138 samples could not be started on the machine for various reasons (35.84 percent), six threats executed but then crashed (1.56 percent), and seven others launched but had their payload blocked by UAC (1.82 percent).
+
+What can we conclude here? If you’re using Windows and want to stay secure, get Windows 8. If you’re not going to a third-party antimalware program on Windows 8, don’t disable Windows Defender. Remember: no platform is 100 percent secure.
+
+See also – Security firm VUPEN claims to have hacked Windows 8 and IE10 and Microsoft’s security team is killing it: Not one product on Kaspersky’s top 10 vulnerabilities list

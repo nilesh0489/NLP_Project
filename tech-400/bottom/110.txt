@@ -1,0 +1,39 @@
+In Windows 8 and Windows RT, Microsoft is aiming for a pleasant out-of-the-box experience. There's an app store for filling in gaps and adding functionality that isn't provided up front, but the core apps to power your communications with friends and colleagues come bundled with the operating system. There is Mail, Messaging, Calendar, and an innovative “People” app that brings all your contacts from various sources together into one central, interactive hub.
+
+All four core apps have promise in one way or another, especially the People app, which integrates with social media sites to provide more than the basic functionality you’d expect from a contacts application.
+
+Microsoft isn't trying to create a replacement for Outlook here—after all, they don't want to give users any reasons not to buy Office. In general, the apps have just enough functionality to get by. They’re passable for casual tablet usage, but Windows 8 is for both tablets and PCs—and these applications will be lackluster if you try to use them to power your whole work day. There’s also a chance you’ll run into some bugs that make life a bit more frustrating than it was in Windows 7 or on competing tablet interfaces.
+
+In this article we will look at the four core communication apps. In addition, there is now Skype, which was released a couple of days before Windows 8 as a downloadable program from the Windows Store. The presence of Skype makes the Messaging application’s limited functionality more tolerable, and Skype’s integration into People helps turn a Windows 8 tablet into something very much like a phone. As such, we’ll look at how Skype provides some crucial functionality beyond what’s strictly out-of-the-box.
+
+I’ve been using the core apps for the past few weeks, on both a tablet (the version of the Samsung Series 7 11.6” Slate given to Windows developers for Windows 8 testing purposes) and in a virtual machine with a traditional mouse-and-keyboard setup. I’ve been keeping the OS and applications updated to make sure I'm not missing out on any new bits of functionality or bug fixes.
+
+As mentioned, there are bugs. I won’t claim these bugs will affect everyone, or even the majority, as I’ve heard from others that they’re running the apps without incident. However, searching Microsoft’s support forum will show various problems with the apps, and I suffered through several of them. In particular, I had trouble starting conversations with certain contacts in the instant messaging app, and problems getting the Mail/Calendar integration to work (e.g. accepting invitations from Mail).
+
+These applications are updated through the Windows Store, which provides a simpler update method than the traditional Windows Update. We've seen the apps updated a few times in the past few weeks, adding functionality such as conversation view in e-mail. There's nothing stopping Microsoft from continuing to improve them: hopefully, future updates will fix any remaining bugs and perhaps even add some new features.
+
+We’ll start with the highlight. The People app (which originated in Windows Phone) brings together contacts from Facebook, Twitter, LinkedIn, and your e-mail accounts, including Hotmail, Exchange, and Gmail. Oddly, Yahoo Mail contacts cannot be added to People, even though Yahoo Mail can be used in the Windows 8 Mail application.
+
+Once you’ve linked all those accounts to People, you’ll have a sprawling mass of contacts that’s not easy to get a handle on. Luckily, there’s an option to show contacts only from certain accounts, limiting the list to, say, just e-mail contacts rather than ones from social networks. Even if you do this, it's still useful to keep the social integration intact because the app will combine your Facebook and Twitter notifications into one giant feed.
+
+Inside the application, you can see recent activity from Twitter and Facebook:
+
+There's also a notification stream that shows the last week's worth of Twitter mentions and Facebook notifications you’ve received. Clicking on any one of them opens a new screen in which you can post a reply to Facebook or Twitter without having to leave the People application:
+
+On the Windows 8 Start screen, the People live tile will scroll through your most recent social notifications. This is handy, because as of yet the Windows Store has no official Facebook or Twitter application to provide those updates in the live tile format. There's one annoying side effect to this, related to the fact that clicking a live tile doesn't necessarily take you directly to the content being shown that moment by the live tile. For example, you might see a Facebook notification on the live tile, but clicking it will bring you to whichever part of the People app you've accessed most recently.
+
+Thus, I would often click the tile expecting to see my latest Facebook and Twitter updates, and find that I'd have to perform a few touch gestures to get into the notifications page I was looking for. If you go into notifications from another part of the app, it will refresh them with the latest tweets and Facebook posts. But in cases when the notifications screen was the last one you accessed, and it thus appears immediately upon opening the app, you'll have to manually refresh the page to see the latest content. This requires swiping up from the bottom or down from the top to reveal the "app bar," which includes the refresh icon.
+
+Once you've got a fully updated notifications screen, it's not exactly perfect. For one thing, the updates are truncated to less than 140 characters, so you can't see a whole tweet unless you click on it.
+
+Back to the app's main screen, you'll see your contacts:
+
+Drilling down into a single contact shows you the person's latest social updates, new photos, and the like. The app bar includes options for saving them as a favorite or pinning them to the Start screen, while swiping in from the right to bring up the charm bar lets you share the contact via e-mail. The individual contact pages, of course, also let you contact the person via e-mail or IM, or call them via Skype.
+
+Throughout most of Windows 8's availability in its RTM phase, the call button wouldn't work because Skype for Windows 8 didn't exist yet. That was rectified several days ago when Skype appeared in the Windows Store. Assuming you have it installed, clicking "call" in someone's contact page now takes you to Skype and lets you call their landline or cell phone, if you've got money in your account:
+
+If the person is a Skype contact of yours, you can call them for free, of course. In that case, you'll see the option to start a voice or video call within their People page:
+
+Click call, and you've got some free video call action going:
+
+Between the integration with Skype, and blurring the lines between a traditional contacts list and social networks, Microsoft's People app is a smart take on how to provide a central hub for keeping in touch with friends and colleagues on mobile devices and PCs. While not perfect, it goes beyond what’s offered out-of-the-box in rivals iOS and Android. Unfortunately, the rest of the core communication apps in Windows 8 aren't nearly as interesting, and rarely go past the most basic features you'd expect in typical mail, messaging, and calendar applications.

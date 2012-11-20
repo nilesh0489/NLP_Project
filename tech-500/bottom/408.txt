@@ -1,0 +1,67 @@
+On Thursday in New York, Microsoft will unveil a dramatic overhaul of its ubiquitous Windows operating system. If it flops, the failure will reinforce perceptions that Microsoft is falling behind competitors such as Apple, Google and Amazon as its stranglehold on personal computers becomes less relevant in an era of smartphones, tablets and other mobile devices.
+
+If Ballmer is right, Windows 8 will prove that the world's largest software maker still has the technological chops and marketing muscle to shape the future of computing.
+
+"This is going to be his defining moment," said technology industry analyst Patrick Moorhead of Moor Insights & Strategy. Ballmer's "legacy will be looked at as what he did or didn't do with Windows 8. If Windows 8 is not a success, a lot of people will be looking for Microsoft to make a change at the CEO level."
+
+Windows 8 is designed to run on PCs and tablet computers, heralding the biggest change to the industry's dominant operating system in at least 17 years. It also marks the first time that Microsoft has made touch-screen control the top priority, though the system can still be switched into the familiar desktop mode that allows for control by keyboard and mouse.
+
+Ballmer sees Windows 8 as the catalyst for a new era at Microsoft. He wants the operating system to ensure the company plays an integral role on all the important screens in people's lives - PCs, smartphones, tablets and televisions.
+
+"We are trying to re-imagine the world from the ground up with Windows 8," Ballmer told The Seattle Times. He declined to be interviewed for this story.
+
+Early reaction has been mixed. Some reviewers like the way the system greets users with a mosaic of tiles displaying applications instead of relying on the desktop icons that served as the welcome mat for years. Critics say it's a confusing jumble that will frustrate users accustomed to the older versions, particularly when they switch to desktop mode and don't see the familiar "start" button and menu.
+
+Windows 8 will hit the market backed by an estimated $1 billion marketing campaign. The advertising frenzy is just one measure of how important Windows 8 is to Microsoft's future.
+
+Ballmer's margin for error is slim after being consistently outpaced by Apple and Google in his nearly 13 years as CEO. During his tenure, Microsoft's stock has lost nearly half its value, wiping out more than $200 billion in shareholder wealth.
+
+But the company's board hasn't expressed any public dissatisfaction with Ballmer, who is Microsoft's second-largest shareholder with a 4 percent stake worth $9 billion. Only his good friend and predecessor, Microsoft founder Bill Gates, owns more of the company's stock. Gates has a 5.5 percent stake.
+
+Since Ballmer succeeded Gates as CEO in January 2000, Microsoft's annual revenue has nearly quadrupled to $74 billion and expanded into lucrative new territory with its popular Xbox 360 video game console, which has given the company a platform for delivering services to television sets. But Microsoft has been slow to respond to technology shifts and has made some costly missteps trying to catch up.
+
+Some of the best-known blunders include the company's iPod clone, the Zune, and its $6.3 billion acquisition of Internet ad service aQuantive.
+
+Ballmer, 56, has spent most of his life at Microsoft. He was attending Stanford University's graduate school of business in 1980 when Gates, a former classmate at Harvard University, persuaded him to drop out and become one of the startup's first 30 employees. He brought more business savvy to the operation just as the company began providing an operating system for IBM Corp.'s first personal computer.
+
+Just two weeks before Ballmer took over, Microsoft's stock reached its peak price. The dot-com bust quickly deflated that market value, and the company became locked in antitrust battles in the U.S. and Europe that distracted management for years.
+
+The biggest question hovering over Windows 8: Is it innovative and elegant enough to lure consumers who are increasingly fond of smartphones, tablets and other sleek gadgets? Those mobile devices have been setting industry standards while Microsoft engineers have spent two years designing a new operating system.
+
+And Windows 8 must address not only the upheaval in the computing market since Windows 7 came out in 2009, but also have the flexibility to adjust to future shifts in technology before Microsoft releases another version in two or three years.
+
+"It doesn't seem like Microsoft is really pushing consumers into the future with Windows 8," said Forrester Research analyst Sarah Rotman Epps. "What Microsoft has done is like buying a pair of shoes for a kid. The shoes may fit exactly right today, but those shoes probably won't fit six months from now."
+
+Previous versions of Windows and other Microsoft products such as Office are so deeply embedded in companies and government agencies that Microsoft is still assured a steady stream of revenue from that segment of the market. That loyal base of customers is one of the reasons that Microsoft is expected to earn $25 billion on revenue of $80 billion in its current fiscal year ending next June.
+
+"This isn't a company that is on the edge of extinction, like some people would have you think," said BGC Financial analyst Colin Gillis. "What we are seeing with Windows 8 is classic Microsoft. They let the (technology) market lead and then they follow."
+
+But investors want to see Microsoft do something more. The nagging fear on Wall Street is that the PC industry is past its prime and heading into a gradual decline that will pull down Microsoft, too.
+
+The signs of decay have been proliferating since Apple released the iPad in 2010, hatching a tablet computer market that has combined with an already vibrant smartphone market to siphon away technology spending that used to go toward the latest PCs.
+
+Worldwide PC sales year are expected to decline this year for the first time since 2001, according to the research firm IHS iSuppli. It's a drop of just 1 percent, but it underscores a troubling trend that has been hurting Microsoft.
+
+The shift to mobile devices has whittled Microsoft's worldwide share of the computing device market from 67 percent in 2008 to about 30 percent today, estimates Forrester Research analyst Frank Gillett. Thanks to its Android software for phones and tablets, Google is now the leader with a 40 percent share of the computing device market. Apple stands at 20 percent.
+
+Analysts don't expect Microsoft's corporate and government customers to immediately embrace the new system, no matter how much it's hyped. About half of this traditionally cautious group of customers still haven't upgraded to Windows 7. Most analysts expect companies and government to hold off on switching to Windows 8 for at least another year.
+
+Ballmer hopes to accelerate the changeover by making Microsoft's Office software suite more compelling, with the help of two major acquisitions.
+
+Microsoft bought the video chat service Skype for $8.5 billion last year and in June agreed to pay $1.2 billion for Yammer, a service the builds social networking services within companies. Both are expected to become key features within Office to make it easier for workers to connect and collaborate with their peers and customers.
+
+Ballmer also has won praise from analysts for striking potentially fruitful partnerships with Yahoo Inc. and Nokia. Microsoft now provides Yahoo with much of the same technology that runs its Bing search engine. The Yahoo deal provides Microsoft with 12 percent of the revenue from the ads shown alongside search results on Yahoo's website.
+
+The Nokia alliance ensured Windows 8 would be the operating system on that company's latest line of smartphones, a potentially valuable platform if Nokia is able to regain some of the market share it has lost in mobile phones during the past five years.
+
+But none of that has yet restored the luster Microsoft had on Wall Street when Gates was in charge.
+
+Ballmer's initially dismissed emerging threats from Google and Apple. He consistently pooh-poohed Google as a one-trick company during its early years and in 2007 declared: "No chance that the iPhone is going to get any significant market share."
+
+Those were some of his biggest mistakes, detractors say. Google quickly made important inroads in Internet video, online maps, email and mobile computing and contributed to the damage that the iPhone and iPad have done to Microsoft and its partners in the PC market.
+
+Apple's meteoric rise has been especially painful for Microsoft. When Steve Jobs returned to run Apple in 1997, the company was so bad off that it needed a $150 million infusion from Microsoft to stay afloat. Now Apple has a market value of $570 billion - more than double Microsoft's $250 billion.
+
+On Tuesday, Apple got a chance to upstage Microsoft when CEO Tim Cook showed off the iPad Mini, a smaller and less expensive version of its top-selling tablet.
+
+On Thursday in New York, Ballmer will herald the arrival of the most important product of his reign. The market's response to Windows 8 may determine whether it turns out to be the opening act in his vindication or one of his final moments in the spotlight.

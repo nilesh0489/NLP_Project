@@ -1,0 +1,31 @@
+Hollywood studios argue that any process that allows MegaUpload users to access files they stored should not "compound" the "massive" copyright infringement they say has already occurred.
+
+The Motion Picture Association of America told a federal judge in Virginia today that any decision to allow users of the embattled file locker to access their own files risks "compound[ing] the massive infringing conduct already at issue in this criminal litigation" unless proper safeguards are taken to prevent the further dissemination of illegally copied material. (See the MPAA's brief embedded below.)
+
+MegaUpload's servers with approximately 25 petabytes of data are currently unplugged, offline, and in storage at Dulles, Va.-based Carpathia Hosting.
+
+When an FBI raid took down MegaUpload's U.S.-based servers early this year, federal agents also seized electronic property belonging to Americans who used the file locker to store perfectly legal backups of their own data. One user, Kyle Goodwin, an Ohio-based sports videographer, has been trying since May to get his copyrighted video files back, and to allow other users in the same predicament to do the same.
+
+U.S. District Judge Liam O'Grady said earlier this month that he'll hold a hearing to determine what procedures should be followed in deciding how to respond to Goodwin's request.
+
+The MPAA said today that while it takes no position on Goodwin's request to have his own copyrighted videos returned, it wants to participate in the hearing to describe "the overwhelming amount of infringement of the MPAA members' copyrighted work on MegaUpload." (The MPAA's six members are Paramount Pictures Corporation, Walt Disney Studios Motion Pictures, Twentieth Century Fox Film Corporation, Universal City Studios LLC, Sony Pictures Entertainment Inc., and Warner Bros. Entertainment.)
+
+To those Hollywood studios, MegaUpload and its flamboyant founder Kim Dotcom represent the darkest elements of Internet file-sharing. MPAA chairman Chris Dodd has dubbed it "the largest and most active criminally operated website" in the world, and MPAA vice president Michael P. O'Leary claims it's one of the most popular Internet sites "for streaming and downloading illicit copies."
+
+"It makes little sense for the MPAA, or MegaUpload, or Carpathia, or even the government -- despite its actions otherwise -- to prevent third parties access to their legal property," Julie Samuels, staff attorney at the Electronic Frontier Foundation, told CNET this afternoon. "Not only does it harm those individual third parties, but it negatively impacts all cloud storage providers and customers, who, in order for the technology to work, need to be able to rely on access."
+
+EFF is representing Goodwin before Judge O'Grady, along with the Williams Mullen law firm of Richmond, Va., and the Hoover Institution, a conservative think tank at Stanford University.
+
+CNET previously reported that the U.S. Department of Justice is opposing Goodwin's request to access his own files, saying it would mean "releasing assets of the defendants which are subject to mandatory forfeiture."
+
+In June, Ira Rothken, the attorney leading MegaUpload's worldwide defense, suggested that the MPAA was "posturing" over the return of user data. MPAA spokesman Howard Gantman said at the time that "we are willing to work with the court and the interested parties to help craft a process that would enable innocent users to retrieve their content while ensuring that users who used MegaUpload to store and distribute stolen content can't get that stolen material back."
+
+In their own brief (PDF) filed today, Rothken and MegaUpload's other U.S. attorneys say the company can help users access their files -- if it's permitted to do so.
+
+"MegaUpload is best positioned --- with respect to its technology, knowledge-base and otherwise -- to locate, access, and retrieve that data in an expeditious, cost efficient manner," they said in a brief. MegaUpload, they said, would be "indispensable" to any recovery effort.
+
+For his part, Goodwin told the court today that, because of a hard drive crash, he has no remaining copies of his video files, and that the FBI has warned Carpathia that the hosting company could be in legal trouble if it releases files to MegaUpload customers. Goodwin's brief adds:
+
+Last month, New Zealand Prime Minister John Key formally apologized to Kim Dotcom for the legally-dubious surveillance that police conducted against him. Since then, Dotcom has announced a new file-sharing site called Mega. If extradited to the United States, Dotcom faces criminal copyright infringement, wire fraud, money laundering, and racketeering charges.
+
+Corrected at 3:45 p.m. on October 31 with new headline, summary and top of story to more accurately characterize the MPAA brief.

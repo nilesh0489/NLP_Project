@@ -1,0 +1,61 @@
+A hacker with a laptop watches a crowd of people from a distance, presses a button and 10 people grip their chests and drop dead. The hacker then walks away, leaving no evidence of the mass murder he has just committed.
+
+It sounds like a scene from a James Bond movie, but it's entirely possible.
+
+Security flaws in pacemakers and defibrillators implanted in those with heart problems and designed to save lives could actually be putting users at risk, say IT security experts and a recent US government report.
+
+The experts say it is because many devices are not properly secured and are therefore susceptible to being hacked by someone with malicious intent.
+
+Barnaby Jack, famous for “jackpotting” an ATM (making money fly out of it) on stage at the Las Vegas DefCon security conference in 2010, is one of the few security researchers raising the alarm about the security of implanted medical devices.
+
+At the Breakpoint security conference in Melbourne last month, Mr Jack demonstrated how he was able to deliver a deadly 830-volt jolt to a pacemaker by logging into it remotely after hacking it, but did not reveal which models were vulnerable, a standard practice for ethical hackers, known as "white hats".
+
+He was able to deliver the jolt remotely because many implanted medical devices use wireless technology and authentication that requires only a user name and password – usually its serial and model number - that can be remotely extracted from it.
+
+Mr Jack said medical devices were designed to be easy to crack by a doctor needing to gain quick control during an emergency.
+
+In his research, he found the secret command doctors use to send a "raw packet" of data over the airwaves to find any cardioverter-defibrillator or pacemaker in range and have it respond with its model number and serial number. This information allows them to authenticate a medical device to receive telemetry data and perform commands or software updates.
+
+The command to jolt the heart – or any other command – can be delivered, in some cases, up to 12 metres away, meaning someone with malicious intent does not need to be very close to victims to zap them.
+
+Mr Jack said at the Melbourne security conference and in a podcast on the Australian security website risky.biz that it would be possible to write a worm for one particular brand of pacemaker and defibrillator, then have it spread to other devices within range, from person to person.
+
+“People with these devices should be very concerned,” said Patrick Gray, a specialist security journalist who produces podcasts and writes for risky.biz.
+
+"I can't think of a good reason why an implantable medical device needs to be wirelessly readable at 10 metres, but hey, maybe that's just me."
+
+The only thing preventing these sorts of attacks was the fact that people were not motivated to perpetrate them, Mr Gray said.
+
+Ty Miller, the chief technology officer at Australian security firm Pure Hacking, said: “The potential impact of this security threat is devastating and the attack execution could be quite stealthy.
+
+"This means that the attacker has a high return on investment and a relatively small chance of being caught."
+
+Mr Jack and other security experts are not the only ones raising the alarm.
+
+A recent US Government Accountability Office (GAO) report, which referred to Mr Jack's research, highlighted issues with the security of medical devices and called upon the US Food and Drug Administration (FDA), which is responsible for ensuring the safety and effectiveness of medical devices in the US, to do more to make sure they are secure from malicious acts.
+
+The report, which was released in August, said the FDA had not considered risks from intentional security threats "as a realistic possibility until recently" and had been focusing only on unintentional threats to medical devices (i.e. welding irons and metal detectors).
+
+“In commenting on a draft of this report, [the] FDA said it intends to reassess its approach for evaluating software used in medical devices, including an assessment of information security risks," the GAO report said.
+
+The Therapeutic Goods Administration (TGA), the Australian equivalent of the FDA, said it was aware of the potential for implanted medical devices to be affected by a breach of software security.
+
+In issuing certification of active implantable medical devices in Australia, the TGA said "the essential principles require that a medical device is fit for purpose".
+
+The agency did not respond to questions asking whether "fit for purpose" meant asking medical device manufacturers to test their devices' security against malicious attacks.
+
+The chairman of the Cardiac Society of Australia and New Zealand, Andrew McGavigan, said his organisation had no specific concerns about the security of medical devices.
+
+While Associate Professor McGavigan supported anything that may lead to an improvement in medical device security, he said people must remember that "millions of patients have benefited from implantable cardiac devices over the last few decades".
+
+There had never been a reported case of a person being harmed by someone maliciously altering their implantable medical device, he said.
+
+Mr Miller said that despite this, Australian agencies such as the TGA needed to ensure security threats and cyber attacks were incorporated into the risk assessments of products before they are sold.
+
+"These threat and risk assessments should be performed by IT security specialists who stay up to date with the latest attack techniques," he said.
+
+"This will ensure that all realistic risks associated with the products are surfaced, allowing the risks to be mitigated prior to being sold to consumers."
+
+"If the devices are designed and manufactured in Australia, I would think there should be some sort of regulation that says these devices must be security tested," he said. "Not tested by government, but by someone reputable.
+
+"There's no simple solution here, but until these companies accept that there's a legitimate problem here, then zero progress will be made."

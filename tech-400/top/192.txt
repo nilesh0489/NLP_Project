@@ -1,0 +1,17 @@
+Android has established a clear monopoly in China after achieving more than 90 percent market share there, up from 58.2 percent a year ago, according to a new report from Analysys International (via Tech in Asia). The data combines estimates from both devices sales and ownership.
+
+Google’s mobile OS soared to 83 percent last quarter, and it has continued its run, capturing an estimated 90.1 percent of the market. It’s possible Android’s overall share is even higher than estimated, as the firm doesn’t count knock-off phones, many of which are powered by the platform.
+
+iOS also dropped from 6 percent to 4.2 percent. However, it may be underrepresented, as Analysys notes that it doesn’t include grey market imports. Since the iPhone 5 is not yet officially available in China, many sellers have resorted to having the device smuggled in from Hong Kong.
+
+Nokia’s Symbian continued its tragic decline, dropping from 6 percent in the second quarter to 2.4 percent in the third. Just a few years ago, Nokia had the dominant position in the Chinese mobile market. With Nokia’s transition to Windows Phone, Symbian is on its way out, but sales of its Lumia devices are still getting off the ground.
+
+Smartphones based on the Windows Mobile, BlackBerry and Linux operating systems took up a negligible share of the market.
+
+Budget smartphones continued to gain momentum, as the average price for Android devices fell yet again, this time to ($223) RMB 1,393 down from $251(RMB 1,560). The average price for a Symbian smartphone came in at $179 (RMB 1,114) and iOS dropped slightly to $726 (RMB 4,523).
+
+With Android taking over almost the whole market in China, at least according to Analysys’ estimates, the country is becoming a stronghold for the platform. Google. however, is unable to properly capitalize on its growing user base there, as many of its services are blocked or constricted.
+
+Local Internet companies have moved in to take advantage of the opportunity. Baidu, for instance, has built its own software that works on top of Android, while Alibaba is pursuing its own mobile operating system that may or may not be based on Android, depending on who you talk to. Chinese smartphone maker Xiaomi has also thrown its lot in with Android for its MIUI ROM and Mi-One and Mi-Two smartphones.
+
+Estimates from Analysys are worth noting because of their consistency, its interpretation of the Chinese smartphone market is just one of many. Recent third-quarter data from app analytics firm Umeng put Apple’s smartphone distribution on its platform at 33 percent.

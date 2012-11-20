@@ -1,0 +1,35 @@
+Cisco vice president of services Mike Quinn, a former CIA operations officer, believes that whoever recently leaked an internal company memo to a blogger committed corporate treason and violated a "family" trust. In an email sent to Cisco employees, Quinn invites the anonymous leaker to voluntarily step forward, concedes that such a confession is unlikely, and adds, "so I will now make (finding) you my hobby."
+
+And to emphasize the point: "Ask around (and) you will find out that I like to work on my hobbies."
+
+Did I mention that Quinn is a former CIA operations officer?
+
+Not surprisingly, Quinn's email was also leaked to and published by blogger Brad Reese, who received and posted the original leaked memo. That memo outlined Cisco's internal response -- meant for salespeople who might need to address customer questions -- about a series of stories by my Network World colleague Jim Duffy examining a host of bidding and contract questions dogging the California higher education system ... and Cisco's role in same.
+
+Quinn has not responded to my request for comment.
+
+Reese says the source of the leaks, whose identity he does not know, is concerned not only that he is the subject of an in-house manhunt, but also about the identity of the lead tracker. "(The leaker) said he wouldn't be as worried if the email had come from John Chambers," says Reese, who is a former Network Worldblogger.
+
+Here is Quinn's email as it was posted by Reese:
+
+This is an open response to the person(s) that sent our internal confidential memo regarding the RFP response noted in the Subject line. I want to advise you that no matter the color of your badge (blue or red), the years of service and or your CPC rating you have decided to violate the Code of Business Conduct. The company in response to a number of requests to share internally what our RFP contained once again is insulted by the lack of respect for the business and "family" internal to Cisco. The person or persons whom felt it was cool or correct to share this internal memo should now have the intestinal fortitude to stand up and admit that they did this, then resign. I want you to remember that Cisco puts the groceries on your table every two weeks, not Brad Reese or other Slander Sheet Journalists. That you disrespected everyone else at Cisco. Now I know you do not have it in you to stand up and admit what you did, so I will now make you my "hobby." Ask around you will find out that I like to work on my hobbies.
+
+Comments on the blog post describe Quinn's email as "unprofessional," "threatening," "laughable," "hilarious" and even a possible violation of whistleblower protection law.
+
+Quinn has worked at Cisco for the past 20 years, according to his LinkedIn page. I'm assuming that his CIA background is largely if not entirely incidental to this tale, but it's an interesting tidbit nonetheless. I also had no idea what an "operations officer" does at the CIA; couldn't have told you if the title means desk jockey, or even something IT-related.
+
+So here's a description from the CIA website:
+
+Operations Officers (OO) are certified Core Collectors who collect human intelligence of concern to the U.S. President, policymakers, and military by recruiting and handling clandestine human sources in a secure manner. OOs clandestinely spot, assess, develop, recruit and handle human sources with access to vital intelligence. This human intelligence plays a critical role in developing and implementing U.S. foreign and national security policy and in protecting western interests. OOs have sound judgment, integrity, strong interpersonal skills and assessment abilities to acquire high-value intelligence from human sources. OOs deal with fast-moving, ambiguous, and unstructured situations by combining their "people and street smarts" with subject matter expertise and knowledge of foreign languages, world travel, and cultures. OOs serve the bulk of their careers overseas.
+
+The tone of Quinn's email doesn't seem to fit that bill.
+
+Angry interoffice email is almost always a bad idea fraught with risk, but that inherent risk fairly screams - "Don't hit send!" - when the purpose of your rant is to scold an unknown employee who leaked a memo to a blogger. I mean this unknown employee, who has already demonstrated a willingness to air company laundry, is certain to receive your rant; that's the point. And he's almostcertain to pass it along.
+
+So you might as well post the angry email on your own Facebook page and cut out the middleman.
+
+Unless, of course, passing it along is exactly what a former CIA operations officer would want his target to do.
+
+(Update, Nov. 9: Wired got a comment out of Cisco: “Reached Friday, Cisco confirmed that the leaks were legit. ‘We take the confidentiality of our internal communications seriously,’ a Cisco spokesman said via email. ‘Mike Quinn’s statement reflected his passion, not an official corporate communication. Nonetheless, his comments reflect a legitimate concern about those who work at Cisco yet seek to damage the company. There are many appropriate channels to report concerns internally and externally if there are issues. Sending confidential communications to a blog site isn’t one of them.’ ”)
+
+Welcome regulars and passersby. Here are a few more recent buzzblog items. And, if you’d like to receive Buzzblog via e-mail newsletter, here’s where to sign up. You can follow me on Twitter here and on Google+ here.

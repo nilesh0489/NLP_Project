@@ -1,0 +1,21 @@
+We crown the iPhone 5 speed king after pitting it against every other iPhone we've tested, along with today's top Android phones.
+
+The iPhone 5 looks to be the fastest smartphone we've ever tested at PCMag.com.
+
+With its mysterious, Apple-designed A6 processor, the iPhone 5 is unique in the world of smartphones. Most high-end phones nowadays run on one of two architectures: ARM's Cortex-A9, which is used by Nvidia, Texas Instruments and others, and Qualcomm's Krait. But the A6, as AnandTech discovered, is something completely different—an ARM-compatible system-on-a-chip designed, top to bottom, by Apple.
+
+We'll focus on five tests here. First the browser benchmarks: Sunspider, Browsermark, and Guimark 3 Bitmap all test Web browser performance. Sunspider is about JavaScript, Guimark is about interactive HTML5, and Browsermark is an overall browser benchmark. Different browsers will score differently on the same phone. We test with the default browser, because that's what most people use.
+
+(Since you're wondering about Chrome, which is an optional download on Android phones, it gives similar Browsermark results to the default browser on the Samsung Galaxy S III.)
+
+The iPhone 4S running the Safari browser in iOS 6.0 on a dual-core 800MHz A5 processor is about on par with leading Android 4.0 phones like the Samsung Galaxy S III and the Motorola Droid RAZR M, both of which are using 1.5GHz Qualcomm Snapdragon S4 processors. Obviously, the difference is that Safari is a faster browser than the Android browser.
+
+The iPhone 5 takes things to the next level with a processor that can compete with the S4 along with the fast browser. Its Browsermark score is 80 percent higher, and it shows much quicker Sunspider times. GUIMark, like most mobile on-screen graphics tests, maxes out at 60 frames per second because that's as fast as your screen updates.
+
+Geekbench is a processor benchmark, which tests the basic components of a phone's system. Here you see less of a difference, but it's still there. Look at the subscores. The A6 and the other processors do math about as fast as each other, but the "memory" and "stream" scores, both of which test loading data in and out of RAM, come out much better on the Apple device.
+
+Mix together the two sets and you see how much of a difference the Safari browser makes, but also that the iPhone 5 still wins with the browser taken out of the picture.
+
+GLBenchmark 2.5 is a graphics benchmark, creating and walking through simulated game scenes. Performance in the "onscreen" tests is dependent on a phone's graphics power but also on screen resolution (you can do more frames per second if you're pushing fewer pixels.) The "offscreen" tests are purely graphics-crunching power. The Galaxy S III has 26 percent more pixels than the iPhone 5 (921,600 to the iPhone's 727,400) but as you can see, in the "offscreen" measure of raw graphics performance, the iPhone 5 doubles the Galaxy S III's result. It's simply a more powerful phone.
+
+A phone's hardware performance can't be taken in isolation, but it's definitely a piece of the puzzle. Based on these benchmarks, the iPhone 5 lives up to the promise of being twice as fast as the iPhone 4S. It's also, for now, the fastest handheld computer sold in the US.

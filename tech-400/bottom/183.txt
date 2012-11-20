@@ -1,0 +1,9 @@
+Automatically map an object with a projector. Keep the mapping working as the object moves. And, oh yeah, look damned fine while doing it.
+
+That’s the neat trick Poland-based White Kanga have pulled off, powered by TouchDesigner. We’ve been following their work before:
+
+Projection Mapping, with Robotics, Goes Further to Augmenting Reality: MPS Demo [TouchDesigner]
+
+Here, we get to really see it in action. It doesn’t hurt that you get cool graphics visualizing the calibration. It’s an internal tool, but it demonstrates a lot of what’s possible.
+
+I was in Poland for their national day yesterday, but watching this video makes me want to start waving around the white and red flag and cheering on this crew. (Or, if they like, whatever flag/mascot they choose.) Brilliant work.

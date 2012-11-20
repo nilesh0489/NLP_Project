@@ -1,0 +1,57 @@
+As you would be no doubt already aware, I run a section of my blog here devoted to the free sharing of laptop service manuals. This is a side project I have run for the last three years, gathering as many repair manuals as I could find on the internet and rehosting them on my website for anybody to download and use.
+
+I have unhappy news for you all. Since I was first contacted by Toshiba Australia’s legal department, I have been attempting to discuss with them the potential for me to continue to share their laptop service manuals on my site. Their flat and final response was “You do not have permission [to disseminate Toshiba copyright material] nor will it be granted to you in the foreseeable future.” As a result, all Toshiba material that was on my website is now gone, permanently.
+
+The primary reasons they have given me for this are:
+
+1. “We are concerned that by providing the manuals to unqualified person [sic] you may be endangering their well-being”.
+
+My place of employment puts a massive emphasis on health and safety in the workplace, a policy I am 100% in support of. Safety is an incredibly important issue, and I applaud Toshiba for taking it into consideration, but I think they are a little misguided. I have personally never been injured or visibly endangered by working on any kind of computer system, much less a consumer notebook computer. I have also never heard of anybody else being injured by working on one. While I do understand the drive behind any concern for safety, the reality is that there appears to be no risk to the well-being of myself or any of my readers by providing repair manuals free to download, and so I do not understand Toshiba’s cause for concern here.
+
+It is worth noting that Dell, HP and Lenovo provide service manuals for all of their laptop computers for download, free of charge or registration or membership of any kind, on their various support websites, which would indicate that none of these companies share Toshiba’s concern in this regard. I would not seriously take this to mean that Toshiba laptops are inherently more dangerous to service than laptops of other brands, thus causing them to discourage unqualified persons from doing so, but drawing on my own knowledge and experience I cannot see what risk they are attempting to mitigate here.
+
+2. Their repair manuals contain “proprietary information” and they will jealously protect it at all costs. (These costs would, of course, be to me, as part of their demands included the threat of taking action to recover their costs of taking legal action against me.)
+
+As a factual statement, I can’t really argue with this. Again though, Dell, HP and Lenovo apparently do not find this a concern. Having looked at service manuals from each company, I personally cannot see what Toshiba manuals contain that the others do not that might be something a company would reasonably wish to withhold from its customers. It is clear that this is a decision Toshiba have made in the opposite direction to these other companies, and it is not a direction that is in the best interest of its customers.
+
+3. “The manuals are only available to Toshiba authorised service providers under strict confidentiality agreements.” … “It is not our company policy to grant authorisation for the use or reproduction of Toshiba manuals to anyone who is not an authorised Toshiba service provider.”
+
+The clear message here is that unless you are an authorised Toshiba repairer, they do not want you anywhere near the information that would allow you to more easily service and repair your Toshiba products yourself.
+
+This is the big one. As the original author of their laptop repair manuals, Toshiba owns the copyright on them and has the legal right to control their dissemination. They have not followed in the footsteps of other companies and made the decision to disseminate them to the public for open use. They are, in fact, tightly limiting access to their manuals only to their authorised repairers, and as such locking its customers out from information they could use to service or repair their laptops on their own.
+
+Copyright law does give other parties some rights to copyright material in certain circumstances under fair dealing exceptions (fair use in the United States). These exceptions are along the lines of granting access to educational institutions, or making personal copies of copyright material for the purpose of creating backups. There currently appears to be no such exception, however, to either Australian or US copyright law that would apply to repair manuals for computers. As a result, we have no specific rights to any official documentation Toshiba have created that might allow us to more easily and economically repair or upgrade laptop computers.
+
+I have investigated the possibility of pursuing action through legal channels. The long and short of it is that I cannot afford the legal representation necessary to even question Toshiba in a court of law. I cannot personally risk taking this route myself, and so as a private citizen I am left with no alternatives.
+
+Dell, HP and Lenovo are three companies that have made the decision to allow us the privilege of accessing their repair manuals anyway – a decision that is 100% in the interests of their customers, and in their own, as people are more likely to buy a product they know they can easily fix if it goes awry. Because of this decision, when someone asks me to recommend a laptop, I will generally go to one of these brands for a suggestion.
+
+Toshiba notebooks are known for their reliability, and I have generally found them to be high quality products. In light of this, it is with a certain sadness that I can say I no longer recommend Toshiba products to anybody, for the simple reason that they are not open with their repair information. It utterly pains me to say that I cannot help those of you who have asked me to help in finding a Toshiba repair manual. Due to the obvious legal reasons, I have not shared copyright Toshiba material since I was first contacted on July 31st, and unfortunately this is how it must be.
+
+Many of you service laptops for a living. Many of you repair and refurbish second-hand laptops for charity and for the less fortunate. I’d like to thank each and every one of you for doing what you do. If you have been affected by Toshiba’s decision in refusing to allow me to share their repair manuals with you, I urge you to contact your local Toshiba representatives and let them know what impact this has had on you, your business or your livelihood. Let them know that you will avoid Toshiba products in the future, and will not recommend them to others, until they are as open with their information as are other competing companies. Perhaps in the future, with public opinion stacked in favour of open repair policies, they will change their mind.
+
+In the meantime, the following websites have some user-created information on repairing some Toshiba models:
+
+It’s been brought to my attention that Lenovo now offer hardware maintenance manuals for what appears to be all of its IdeaPad range as well as for ThinkPads (some links here). I’m not sure when this change was put in place, but it’s a welcome one and I’ll update my site to reflect that change. Thanks, Lenovo!
+
+The wonderful people over at iFixit are accepting donations of hardware so that they can strip them down and turn them into new homemade repair manuals. If you’ve got a faulty or disused laptop, phone or tablet from the last few years kicking around, please consider sending it in – in return they will send you a $5 coupon for their online parts and tools shop, or $20 if it’s on their most-wanted list!
+
+I’ve seen a few posts on the Facebook pages of Toshiba US and Toshiba Australia with some great comments. It’s interesting that of all of these, the only one anybody at Toshiba actually replied to included a link to irisvista.com – it’s clear to even their customer service people that Toshiba could be doing more for its customers.
+
+This has become unexpectedly popular, starting with the link I posted and discussion on Reddit: http://www.reddit.com/r/technology/comments/12ydou/for_three_years_i_have_run_tims_laptop_manuals/
+
+This has also been posted to Hacker News on ycombinator: http://news.ycombinator.com/item?id=4766177
+
+I’ve also just been alerted to the fact it’s on Slashdot as well: http://slashdot.org/story/12/11/10/1334221/toshiba-pursues-copyright-claim-against-laptop-manual-site
+
+12/11/2012: I’ve been featured on The Register: http://www.theregister.co.uk/2012/11/12/toshiba_orders_blogger_to_remove_manuals/
+
+13/11/2012: A fair few people have emailed me about this one: http://tweakers.net/nieuws/85477/toshiba-laat-servicehandleidingen-offline-halen.html (English translation)
+
+I love this one, on Techdirt: http://www.techdirt.com/articles/20121110/22403121007/toshiba-you-cant-have-repair-manuals-because-theyre-copyrighted-youre-too-dumb-to-fix-computer.shtml
+
+I’m also on the front page of Wired.com: http://www.wired.com/opinion/2012/11/cease-and-desist-manuals-planned-obsolescence/
+
+Has this been featured on other sites as well? Email me and let me know!
+
+This entry was posted on Saturday, November 10th, 2012 at 16:37 and is filed under blog, techsup. You can follow any responses to this entry through the RSS 2.0 feed. You can skip to the end and leave a response. Pinging is currently not allowed.

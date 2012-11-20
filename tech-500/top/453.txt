@@ -1,0 +1,9 @@
+AMD Changes Compute Landscape: First to Deliver both x86 and ARM Processors for the Data Center
+
+On October 29, 2012, AMD announced it will design 64-bit ARM® technology-based processors in addition to its x86 processors for multiple markets, starting with cloud and data center servers.
+
+Just as AMD introduced the industry’s first mainstream 64-bit x86 server solution with the AMD Opteron™ processor in 2003, AMD will be the only processor provider bridging the x86 and 64-bit ARM ecosystems to enable new levels of flexibility and drive optimal performance and power efficiency.
+
+AMD is uniquely positioned to offer the most flexible and complete processing solutions for the modern data center based on the company’s deep 64-bit processor knowledge, years of server development experience, and industry-leading AMD SeaMicro Freedom™ supercompute fabric.
+
+AMD’s first ARM-based server CPU is targeted for production in 2014.

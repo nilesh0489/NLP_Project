@@ -1,0 +1,31 @@
+Microsoft has announced it intends to "retire" its instant message chat tool and replace it with Skype's messaging tool.
+
+The news comes 18 months after the software giant announced it was paying $8.5bn (£5.3bn) for the communications software developer.
+
+Microsoft said Windows Live Messenger (WLM) would be turned off by March 2013 worldwide, with the exception of China.
+
+It reflects the firm's determination to focus its efforts on Skype.
+
+WLM launched in 1999 when it was known as MSN Messenger. Over time, photo delivery, video calls and games were added to the package's text-based messages.
+
+In 2009, the firm said it had 330 million active users.
+
+According to internet analysis firm Comscore, WLM still had more than double the number of Skype's instant messenger facility at the start of this year in the US, and was second only in popularity to Yahoo Messenger.
+
+But the report suggested WLM's US audience had fallen to 8.3 million unique users, representing a 48% drop year-on-year. By contrast, the number of people using Skype to instant message each other grew over the period.
+
+Microsoft highlighted the fact that WLM was still more popular than Yahoo's product in most other territories, but nevertheless decided to call time on the service.
+
+"When a company has competing products that can result in cannibalisation it's often better to focus on a single one," said Brian Blau from the consultancy Gartner.
+
+"Skype's top-up services offer the chance to monetise its users and Microsoft is also looking towards opportunities in the living room.
+
+"Messenger doesn't seem like an appropriate communications platform for TVs or the firm's Xbox console - but Skype does."
+
+He also noted that the firm had opted to integrate Skype into its new Windows Phone 8 smartphone software, eclipsing the effort to integrate WLM into the message threads of the operating system' previous version.
+
+To ease the changeover, Microsoft is offering a tool to migrate WLM messenger contacts over.
+
+The risk is that the move encourages users to switch instead to rival platforms such as WhatsApp Messenger, AIM or Google Talk.
+
+But Microsoft is at least partially protected by its tie-up with Facebook last year. Skype video calls are now offered as an extra to the social network's own instant messaging tool.

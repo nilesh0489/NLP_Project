@@ -1,0 +1,11 @@
+Kim Dotcom last night announced the domain for his new file sharing service—Me.ga—and details of his plan to evade shutdown attempts from law enforcement. Me.ga is reportedly scheduled to launch on January 20, 2013, the one-year anniversary of Dotcom's arrest on copyright infringement charges and the shutdown of Megaupload.
+
+We've already reported Dotcom's plan to launch a new, encrypted cyberlocker service. What's new is the Me.ga domain name, which today is redirecting to a site describing how the new service will work. Here's what Dotcom is promising:
+
+Dotcom's new site is still looking for hosting services, which must be outside the US because of the Digital Millennium Copyright Act. Dotcom wants Linux-based servers with "At least 20TB of disk space, quality RAID controller, at least 4GB of RAM, at least 1Gbps uplink (2Gbps preferred)." On Twitter, Dotcom said he wants 60 "state-of-the-art portal servers" for launch.
+
+Mega is promising an API in the hopes of building a "thriving ecosystem" of third-party applications that can work on the service. And while Mega says it has "sufficient funds" to launch, it is looking for investors so it can "provide Mega free of charge for as long as possible."
+
+The site was overloaded quickly when it went live last night, Dotcom wrote on Twitter. "Millions of users hitting at once," Dotcom wrote. "I'm delighted by the interest. But servers can't handle it. The new Mega will. WOW!!!"
+
+Dotcom, who is also planning a "Megabox" cloud music service, is awaiting a ruling on whether he will be extraditedfrom New Zealand to the US.

@@ -1,0 +1,37 @@
+So Microsoft has gone and done it.
+
+The company has sold operating systems for other companies' computers for more than 30 years. Sticking to the software and letting other people deal with the hardware side is what made Microsoft the multinational behemoth that dominated the computing landscape through the 1990s and much of the 2000s. MS-DOS; 16-bit Windows 1, 2, and 3; the hybrid Windows 95 family; and the 32-bit (and, later, 64-bit) Windows NT family that is still with us to this day: all were sold primarily to computer OEMs for preinstallation on new machines.
+
+With Surface, Microsoft is diving headlong into a new business model. Let's be blunt here: Redmond is going the Cupertino route. Microsoft is not merely writing the software. It's designing hardware to go with that software, and contracting manufacturers in East Asia to turn its designs into millions of units of real, shipping hardware, that Microsoft will be selling directly to customers.
+
+Why the change of heart? The president of Windows and Windows Live Division, Steven Sinofsky, says that Microsoft has its own point of view when it comes to tablets. He pointed at Google, Amazon, and Apple, saying that each of them have their own tablet take. Google's world is centered on search and collecting data; Amazon's tablets are intended to drive purchases from Amazon's store; Apple's is designed to capitalize on the iPhone's familiarity.
+
+Microsoft's take is the same as it has always been: the tablet is a sort of PC, with all the flexibility, extensibility, and variety that that entails. This mindset is fundamental to understanding why Windows 8 is the way it is. It's also why Microsoft continues to sell its operating system to OEMs; it knows that there's too much variety in the market for one company to meet every need.
+
+But Microsoft has a competing pressure. It wants to show off its software in the best light possible, and controlling the whole experience—software, hardware, and even retail—is how it plans to achieve that.
+
+Quite how Microsoft will sit in the broader tablet market isn't yet entirely clear. The company is keeping very quiet about production volumes and expected sales figures. There are a few predictions and rumors floating around, putting expectations in the region of low millions. That's a smaller scale than, for example, Amazon's Kindle Fire or Google's Nexus 7, but still substantial for a first product.
+
+If nothing else, the limited distribution—Surface will initially be available in just eight markets—will serve to limit Surface's ability to disrupt the OEMs, making the computer more of a Nexus-like benchmark than a complete transformation of Microsoft's business model. But we can expect that to change with time. Studio B, the building in Redmond that houses the Surface team, is taking hardware seriously, and Microsoft wants to create a sustainable, profitable hardware business to position itself as a "devices-and-services" company.
+
+Surface is the first product to reflect this devices-and-services ambition and I've been test driving one for about a week. Does Microsoft have what it takes to be a player in the hardware market? Can it take on not just the OEMs, but the Apple juggernaut?
+
+With the way Sinofsky emphasized Microsoft's desire to put its own stamp on the tablet market and ensure that its hardware experience was the best possible, one might have expected something a little more exotic than a black widescreen slab. A black widescreen slab is what we have.
+
+I think it's a good looking slab. The shape is squarer and more angular than many competing products, which I enjoy. It's slim, at 0.37 inches (9.4mm), and light, at 1.5lb (681g). Its front face is dominated by the 10.6-inch, 16:9, 1366×768, Gorilla Glass 2-covered IPS screen. Above the screen are a 720p camera and a little light that illuminates to show that the camera is in use. Below that sits a Windows logo that serves as a Start button.
+
+All hardware designed for Windows 8 will sport a Start button positioned centrally below the long edge of the screen (except for hybrid laptops, which are given more leeway in their positioning) and it is an irritating design flaw that Microsoft has mandated. Sinofsky has said that one of Surface's immutable design constraints was that it was intended for two-handed operation, held in landscape mode. Windows 8 and RT similarly are built for this mode with their convenient thumb keyboard. Problem is, when held this way the Start button is unreachable.
+
+The front of the machine is covered edge-to-edge in Gorilla Glass. All other sides are metal.
+
+Surface is made from injection molded magnesium alloy, the same technique used for building the internal structures of SLR cameras. The results are stiff and robust (and enjoyably flammable) but also lightweight. How stiff? Well, Microsoft has turned one Surface tablet into possibly the world's nerdiest skateboard by attaching four wheels.
+
+The black (or "Dark Titanium," as Microsoft calls it) finish is a result of Microsoft's VaporMg (pronounced "Vapor Mag") vapor deposition technique. The result is hard to scratch, easy to grip, and comfortable to hold. It's also a veritable fingerprint magnet. Keeping your Surface looking smart will require kid gloves.
+
+The edges of the machine all have a 22° angle, which has the effect of making the rest of the machine "disappear" when you're looking at the front. It also feels good in the hand. The Surface is comfortable to hold, feeling well-balanced.
+
+Around the edges of the machine are various buttons and connectors. From top to bottom on the right, we have a speaker, mini-HDMI, full-size USB 2.0, and the magnetic power connector. I've taken an instant dislike to the power connector. The magnets are so strong that the Surface aggressively grabs the connector, snatching it away from my grasp. It doesn't, however, seat the connector properly within its receptacle, so the system can't actually charge. I have to jiggle the thing and reseat it every time.
+
+At the other end of the power lead is a 24W wall wart. There's no option here for USB charging. Sinofsky described this as one of the many trade-offs that have to be made when designing hardware. USB charging is useful, because it means that you can carry around fewer chargers. However, it's also power constrained; although the USB working group is producing a high power (100W) standard, current USB 2.0 is limited to 2.5W and USB 3.0 to 9.0W. With Surface's 31.5Wh battery, that would produce a best-case charging time of 3.5 hours over USB 3.0 (assuming the machine has its screen off and is idle, so all the energy slurped in over the port can be stored in the battery), and more than 12 hours over USB 2.0. With the 24W charger, a full charge can be had in around 80 minutes.
+
+The positioning of the power connector is also aggravating. If you're holding the Surface in the two-hand landscape style—the style that was a design constraint—your right hand goes where the power connector attaches. The connector gets in the way. It's not as bad as on some other machines I've used, however. Samsung's Series 7 Slate puts its power connector in the same place, but unlike the flat connector of Surface, it's a conventional circular jack that juts out perpendicular to the side of the machine, rather than lying alongside it. Nonetheless, the Surface's placement seems to be at odds with the intended design and usage of the machine.

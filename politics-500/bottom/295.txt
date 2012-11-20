@@ -1,0 +1,31 @@
+Tweet Paul Krugman is calling out National Review Online for their attempted takedown of Nate Silver for biased methods and somehow cooking the books. Krugman writes:
+
+Now more commentators on the right, including Jay Cost (The Weekly Standard) and Jennifer Rubin (Washington Post), are getting in on the act. Wow, dogpile on the rabbit!
+
+A popular approach to undermining technical knowledge is to throw mud, assert expertise, make picky points, and sow doubts among the less savvy. In this case, what’s the argument? The NRO writer, Josh Jordan, makes this core criticism:
+
+Jordan sounds like many partisan polling enthusiasts – on both sides. However, his style of poll-dissection can very easily lead a person astray. The human mind has a large capacity for finding reasons to reject a piece of disagreeable evidence. I’ve written about this in the context of how people form false beliefs in politics (“Your Brain Lies To You,” NYT, June 27, 2008). Polling internals lend themselves very well to such “motivated reasoning.” It is always possible to find something not to like in a poll. This is why I discourage all of you from chewing over single polls.
+
+Silver’s evaluations of pollster reliability are quantitative parameters. However, there isn’t full transparency about how he arrives at them and what he does with them. This leaves him open to attack.
+
+Partly because of this risk, I have stayed with simpler rules such as
+
+Combined with a probabilistic calculation, these rules guided our Meta-Analysis to the exact EV outcome in 2004. It missed by only 1 EV in 2008. Such simple methods are easy to make transparent. You (or Jay Cost, I guess) could download my code in an instant.
+
+I have my own technical beefs with FiveThirtyEight (for example, see here, here, and here). I believe Silver doesn’t extract all the information and tends to add unnecessary factors, which leads to blurry probabilities and poor time resolution. However, his intuitions about the data are excellent and he is very concerned with getting things right. For purposes of popular consumption, he is a fine and honest nerd.
+
+Jordan’s capacity for wishful thinking is apparent when he writes:
+
+I sympathize with this, since I thought the same in 2004, and added a “turnout/undecideds” parameter. For this I received a well-deserved drubbing afterward. In fact, undecideds split about equally, as amply documented by Charles Franklin. I don’t add such parameters any more.
+
+(However, if Jordan wants to implement his idea, he can do so easily by clicking the “With +2% for Romney” link, over in the right sidebar.)
+
+Finally, I will state something obvious. None of this storm of criticism would be happening if “Ro-mentum” (Oct. 23) were real. In fact, Mitt Romney’s fortunes peaked around October 4-9. Since then, the race has moved back toward Obama by about 2.5 points. National polls* give the graph at left. (See update, below.)
+
+And the Popular Vote Meta-Margin, which describes how much state polls would have to swing to generate a tie in Electoral College mechanisms, looks like this:
+
+The Meta-Margin may still be catching up with national polls. If so, it has a few tenths of a point to go before it stabilizes. Alternately, something different is happening in swing states. In either case, the overall picture is the same: a narrow Obama lead that is static – or perhaps widening. There is no evidence for Ro-mentum.
+
+*Analyzed as previously described. To generate the graph above, Gallup/Rasmussen were excluded. I am not at all averse to using them, but they have large house effects and so would need to be analyzed using median-based statistics, which I did not apply above. Anyway, adding them back gives the same relative picture of rapid decline and bounceback, with the same shape, except that the entire graph is slid upward toward Romney by 1.0%.
+
+Update: OK, here is the poll-median graph, including Gallup/Rasmussen, day by day. It is not a weighted median, but it’s close enough (adverse blogging conditions). Note that the drop on October 3rd is due to a Rasmussen poll, which demonstrates their house effect, about two points relative to other pollsters. The conclusion from this plot, as well as the plot above, is that the race has been at a standstill for the last two weeks.

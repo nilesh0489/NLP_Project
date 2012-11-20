@@ -1,0 +1,31 @@
+If you’re like me then you’ve probably been bothered before by the fact that the contents of Hulu and Netflix (and others) cannot be accessed outside of the United States. So far the only solution was to pay for a VPN service that pretends you’re sitting in North America, but these services are often costly and require running third-party software in the background.
+
+Admittedly, I was more than just a bit skeptical when I stumbled over mediahint, a new browser extension for Chrome and Firefox that promises to circumvent the geo-blockades and let anyone in the world enjoy these services for free.
+
+So I decided to give it a try and installed the extension (no sign up required). After a few seconds I was browsing Hulu and clicked on a TV series, only to expect the “not available in your country” message, but against all expectations it worked and the stream started playing.
+
+Next up I tested Netflix. The site also loaded without problems. Instead of the “only for US” I was seeing the sign up page for new accounts.
+
+How about Pandora? Tested it: works! I am listening to it while writing this blog post.
+
+How does it work?
+
+Apparently “the extensions routes your traffic–just the traffic for the streaming service–through U.S.-based proxies so you can enjoy content unavailable in your home country.”
+
+The service is advertised as a result of garage48, a startup incubator that has won various awards in the past, which lends the whole project a certain credibility.
+
+Is it safe to use?
+
+This almost sounds too good to be true. Are they tracking their users? According to their Privacy Policy:
+
+We DO NOT monitor, collect or store any information about the websites you visit or information you provide in any of these websites while using Our Services. [...] We collect data only about your behaviour on Our Site and information you submit to us yourself.
+
+That doesn’t seem terribly bad, does it?
+
+This is what many people are wondering right now. Proxy traffic is usually expensive, so it doesn’t seem to make much sense that mediahint is giving something away for free that other companies charge for. The consensus at the moment is that it’s probably just a matter of time until this service is blocked or stops working, so enjoy it while it lasts! On the other hand, maybe this the first sign for a change in policy, or at least easier circumvention regarding draconian geo-fencing practices.
+
+In any case, if this service should become dependable, I’d be more than happy to pay for a monthly Netflix/Hulu subscription, especially the Criterion Collection looks very juicy. Did you hear that, policy makers? I want to pay. Just allow me!
+
+UPDATE: According to Reddit user viciouslove and others there might be some privacy issues with this extension. While the code isn’t necessarily malicious it routes all your traffic through its proxy, not just the traffic of Hulu, Netflix, etc.
+
+More secure free alternatives were suggested in the same thread: tunlr.net (tested it, works with Hulu & Pandora, not Netflix) and spotflux (very slow, but circumvention generally works).

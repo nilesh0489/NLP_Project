@@ -1,0 +1,20 @@
+The World Conference on International Telecommunications will convene this December to revise the International Telecommunication Regulations (ITRs). Certain proposals to revise the ITRs would adversely impact the open Internet.  PK and many others believe that any revision of the ITRs should not stray from their basic purpose – to facilitate international telephone calls.
+
+Many countries proposals to revise ITRs to cover the Internet are a result of the fact that these countries believe that there is a need for public policy setting at the international level to deal with various issues impacted by the Internet. While the need for such international dialogue may be necessary, the ITU would not be the forum to deal with many of these issues. Thus, any conversation about the ITRs and ITU happens within the larger context of issues called Internet governance issues.
+
+Every year these issues are discussed at a convening called the Internet Governance Forum (IGF). This year’s IGF is taking place in Baku, Azerbaijan. I was there for part of the IGF and also for a civil society convening called Best Bits that happened just before the IGF. Here are my impressions:
+
+WCIT and beyond
+
+Much of the discussion I was part of focused on the upcoming World Conference on International Telecommunications (WCIT). The predominant message from these discussions was clear: The WCIT is the springboard for a larger conversation that would address issues beyond the scope of the WCIT. These issues include increasing broadband access, high roaming rates, and cybercrime. These issues are of particular interest to countries in the global south where resource constraints and inequities or inadequacies in current systems have resulted in lack of broadband access to too many of their citizens, high roaming rates, and inadequate responses to various issues such as cybercrime.
+
+These inequities need to be addressed in other forums – both national and global. The discussions and solutions need to involve every stakeholder – governments, civil society, and business. Of these stakeholders, civil society is particularly vulnerable to being treated as less than equal. Effective participation of civil society must involve not merely representation, but also the ability to influence decision-making processes.
+
+Civil society expectations
+
+While civil society is not a homogenous group with no differences of opinion, there is broad agreement on many aspects of Internet governance. The differences in perspectives among civil society organizations from the global south and global north stem from the greater digital divide in the global south and the resulting differences in advocacy of southern civil society. Other differences also stem from the greater power and influence of northern governments and institutions on Internet governance. However, these differences in perspectives are less in magnitude than the issues that civil society stands together on.
+
+Civil society organizations universally demand the right to participate in policy-making processes that affect the Internet. This ability to participate should include the ability to influence the outcome. This sentiment was reflected in the joint statement drafted by civil society at Best Bits and submitted to the ITU.
+Civil society universally desires the protection and promotion of citizens' free expression rights and opposes content controls that jeopardize these rights.
+Civil society broadly agrees on the importance of promoting net neutrality and is opposed to proposals that would impose costs on those sending content over the Internet or would privilege certain communications over others.
+The gatherings in Baku, Azerbaijan set the stage for continuing this debate and carrying it forward beyond the World Conference on International Telecommunications. 

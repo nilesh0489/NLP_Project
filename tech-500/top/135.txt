@@ -1,0 +1,1 @@
+An anonymous reader writes with word that NetFlix recently opened its streaming service in Finland and was promptly caught stealing movie subtitles from a local DivX community site. How were they caught? NetFlix failed to remove references to the pirate site in the subtitles.

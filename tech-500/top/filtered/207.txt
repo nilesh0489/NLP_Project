@@ -1,0 +1,27 @@
+Federal judge tells FBI to do more to comply with open government laws when disclosing what backdoors it wants Internet companies to create for government surveillance.
+
+A federal judge has rejected the FBI's attempts to withhold information about its efforts to require Internet companies to build in backdoors for government surveillance.
+
+CNET has learned that U.S. District Judge Richard Seeborg ruled on Tuesday that the government did not adequately respond to a Freedom of Information Act request from the Electronic Frontier Foundation.
+
+Seeborg, in San Francisco, ordered (PDF) a "further review of the materials previously withheld" in the lawsuit, which seeks details about what the FBI has dubbed "Going Dark" -- the bureau's ongoing effort to force companies including Apple, Microsoft, Facebook, Yahoo, and Google to alter their code to ensure their products are wiretap-friendly.
+
+"We must ensure that our ability to obtain communications pursuant to court order is not eroded," FBI Director Robert Mueller told a U.S. Senate committee in September. Currently, Mueller said, many companies "are not required to build or maintain intercept capabilities."
+
+The FBI says lawful investigations are thwarted because Internet companies aren't required to build in back doors in advance, or because technology doesn't permit it. In May, CNET reported that the bureau has quietly asked Web companies not to oppose a law that would levy new wiretap requirements on social-networking Web sites and providers of VoIP, instant messaging, and Web e-mail. During an appearance two weeks later at a Senate hearing, Mueller confirmed that the bureau is pushing for "some form of legislation."
+
+Judge Seeborg's ruling this week also ordered the FBI to make it more obvious which Going Dark-related documents were being withheld from public view, something the EFF said has been unreasonable and confusing. He gave both sides 15 days to "meet and confer to negotiate a timetable for the FBI to complete" its revisions.
+
+Seeborg did not, however, make a final ruling about what must be turned over. The Justice Department says it has identified 2,662 pages that might be relevant and has turned over 707 pages. For its part, the EFF argues that they've been heavily redacted -- or had pages completely removed -- in violation of open-government laws.
+
+David Hardy, section chief for the FBI's record management division, had told the court that internal documents about a congressional briefing should not be released in full because:
+
+An FBI representative declined to comment to CNET, citing the ongoing litigation. Jennifer Lynch, an EFF staff attorney, said: "It's nice to have a court say the government can't do that." Lynch said the ruling shows that the government has "to make an effort" to comply with the entirety of FOIA.
+
+The EFF in 2009 requested "all records" about Going Dark. Its second FOIA request, in 2010, asked for examples of surveillance being thwarted on social networks and Skype, as well as documents relating to congressional briefings and meetings with industry representatives.
+
+The FBI's proposal would amend a 1994 law, called the Communications Assistance for Law Enforcement Act, or CALEA, that currently applies only to telecommunications providers, not Web companies. From the FBI's perspective, expanding CALEA to cover VoIP, Web e-mail, and social networks isn't expanding wiretapping law: If a court order is required today, one will be required tomorrow as well. But privacy groups and civil libertarians -- and Internet companies -- are hardly likely to embrace the idea.
+
+Representatives of the FBI's Electronic Surveillance Technology Section in Chantilly, Va., began quietly lobbying the FCC nearly a decade ago to force broadband providers to provide more-efficient, standardized surveillance facilities, which CNET was the first to disclose. The FCC approved that requirement a year later, sweeping in Internet phone companies that tie into the existing telecommunications system. It was upheld in 2006 by a federal appeals court.
+
+But the FCC never granted the FBI's request to rewrite CALEA to cover instant messaging and VoIP programs that are not "managed" -- meaning peer-to-peer programs like Apple's FaceTime, iChat/AIM, Gmail's video chat, and Xbox Live's in-game chat that use the Internet, not the public telephone network.

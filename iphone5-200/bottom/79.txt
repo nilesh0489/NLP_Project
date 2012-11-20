@@ -1,0 +1,21 @@
+Apple and Samsung have many beefs with each other. But for now, it appears, Samsung is still manufacturing the A6 processor inside Apple’s flagship iPhone 5.
+
+That’s the conclusion reached by UBM TechInsights, whose engineers have been carefully disassembling the iPhone 5 since it launched Friday. Unlike other teardown teams, TechInsight’s engineers don’t stop when they expose the circuit boards and chip packages inside the phone. These guys pried the A6 chip out, stripped off its cover, and have been carefully shaving it down, layer by layer, and examining it with electron microscopes.
+
+“All signs point to Samsung doing the manufacturing,” TechInsights technical research manager Allan Yogasingam said in an email to VentureBeat. “Manufacturing semiconductors is like a fingerprint, as each process is unique to the fabrication facility, in this case Samsung’s 32nm process technology.”
+
+Yogasingam also provided the images below, from his team’s research into the A6 chip. Among other revelations, the A6 has a triple-core GPU (the graphics engine of the chip).
+
+The “32nm process” in Yogasingam’s comment refers to the average size of the components, such as transistors, in the chip. One of the ways semiconductor makers increase the speed and power of chips is by developing equipment that can make smaller and smaller components, enabling them to keep pace with Moore’s Law — the market imperative to double chip performance without increasing price every 18 months.
+
+Our initial SEM cross-sections of the A6 processor show metal and dielectric layering that is almost identical to that used in the previous A5 processor found in the Apple TV, which was, as well, likely manufactured by Samsung. The process node appears to be held constant at 32nm. Examination of the gate stack shows a Gate First-High K metal gate structure. The PMOS devices incorporate a Silicon Germanium layer in the active channel. More detailed analysis will confirm these results but that will take some more time.
+
+Neither Apple nor Samsung have disclosed the manufacturing relationship for the A6. Since Samsung manufactured previous versions of the Apple-designed CPU, it makes sense for the company to continue doing so. However, manufacturers are often replaceable, and the two companies have had a nasty public feud in multiple countries’ courts over the past year. Most significantly, Apple accused Samsung of ripping off its patented designs for the iPhone and iPad — and recently won a resounding court victory in the U.S. For its part, Samsung has accused Apple of violating communications patents it holds. In light of the disputes between the two companies, Apple recently replaced Samsung as the maker of its iPhone displays, preferring to use the services of Sharp instead.
+
+But such switches aren’t so easy to do with semiconductor technology, which depends on extremely advanced fabrication techniques and multimillion-dollar equipment. It’s likely that there are no manufacturers outside of Samsung capable of making A6 chips at this point.
+
+So, for now, the relationship continues — in this domain, at least.
+
+Meanwhile, Apple has asked a Korean court to forbid Samsung from selling its iPhone-infringing devices in the U.S., and is asking the Korean company to cough up another billion dollars.
+
+Read more about what’s new with Apple’s A6 chip.

@@ -1,0 +1,163 @@
+When a man tells you about the time he planned to put a vegetable garden on Mars, you worry about his mental state. But if that same man has since launched multiple rockets that are actually capable of reaching Mars—sending them into orbit, Bond-style, from a tiny island in the Pacific—you need to find another diagnosis. That’s the thing about extreme entrepreneurialism: There’s a fine line between madness and genius, and you need a little bit of both to really change the world.
+
+All entrepreneurs have an aptitude for risk, but more important than that is their capacity for self-delusion. Indeed, psychological investigations have found that entrepreneurs aren’t more risk-tolerant than non-entrepreneurs. They just have an extraordinary ability to believe in their own visions, so much so that they think what they’re embarking on isn’t really that risky. They’re wrong, of course, but without the ability to be so wrong—to willfully ignore all those naysayers and all that evidence to the contrary—no one would possess the necessary audacity to start something radically new.
+
+I have never met an entrepreneur who fits this model more than Elon Musk. All of the entrepreneurs I admire most—Musk, Jeff Bezos, Reed Hastings, Jack Dorsey, Sergey Brin and Larry Page, Bill Gates, Steve Jobs, and a few others—have sought not just to build great companies but to take on problems that really matter. Yet even in this class of universe-denters, Musk stands out. After cofounding a series of Internet companies, including PayPal, the South African transplant could simply have retired to enjoy his riches. Instead he decided to disrupt the most difficult-to-master industries in the world. At 41 he is reinventing the car with Tesla, which is building all-electric vehicles in a Detroit-scale factory. (Wired profiled this venture in issue 18.10.) He is transforming energy with SolarCity, a startup that leases solar-power systems to homeowners.
+
+And he is leading the private space race with SpaceX, which is poised to replace the space shuttle and usher us into an interplanetary age. Since Musk founded the company in 2002, it has developed a series of next-generation rockets that can deliver payloads to space for a fraction of the price of legacy rockets. In 2010 SpaceX became the first private company to launch a spacecraft into orbit and bring it back; in 2012 it sent a craft to berth successfully with the International Space Station.
+
+It’s no wonder the character of Tony Stark in Iron Man, played by Robert Downey Jr., was modeled on Musk: This is superhero-grade stuff. I sat down with him at Tesla’s Fremont, California, factory to discuss how cheaper and (eventually) reusable rockets might someday put humans on Mars.
+
+Chris Anderson: You’re not a rocket scientist by training. You’re not a space engineer.
+
+Elon Musk: That’s true. My background educationally is physics and economics, and I grew up in sort of an engineering environment—my father is an electromechanical engineer. And so there were lots of engineery things around me. When I asked for an explanation, I got the true explanation of how things work. I also did things like make model rockets, and in South Africa there were no premade rockets: I had to go to the chemist and get the ingredients for rocket fuel, mix it, put it in a pipe.
+
+Anderson: But then you became an Internet entrepreneur.
+
+Musk: I never had a job where I made anything physical. I cofounded two Internet software companies, Zip2 and PayPal. So it took me a few years to kind of learn rocket science, if you will.
+
+Anderson: How were you drawn to space as your next venture?
+
+Musk: In 2002, once it became clear that PayPal was going to get sold, I was having a conversation with a friend of mine, the entrepreneur Adeo Ressi, who was actually my college housemate. I’d been staying at his home for the weekend, and we were coming back on a rainy day, stuck in traffic on the Long Island Expressway. He was asking me what I would do after PayPal. And I said, well, I’d always been really interested in space, but I didn’t think there was anything I could do as an individual. But, I went on, it seemed clear that we would send people to Mars. Suddenly I began to wonder why it hadn’t happened already. Later I went to the NASA website so I could see the schedule of when we’re supposed to go. [Laughs.]
+
+Anderson: And of course there was nothing.
+
+Musk: At first I thought, jeez, maybe I’m just looking in the wrong place! Why was there no plan, no schedule? There was nothing. It seemed crazy.
+
+Anderson: NASA doesn’t have the budget for that anymore.
+
+Musk: Since 1989, when a study estimated that a manned mission would cost $500 billion, the subject has been toxic. Politicians didn’t want a high-priced federal program like that to be used as a political weapon against them.
+
+Anderson: Their opponents would call it a boondoggle.
+
+Musk: But the United States is a nation of explorers. America is the spirit of human exploration distilled.
+
+Anderson: We all leaped into the unknown to get here.
+
+Musk: So I started with a crazy idea to spur the national will. I called it the Mars Oasis missions. The idea was to send a small greenhouse to the surface of Mars, packed with dehydrated nutrient gel that could be hydrated on landing. You’d wind up with this great photograph of green plants and red background—the first life on Mars, as far as we know, and the farthest that life’s ever traveled. It would be a great money shot, plus you’d get a lot of engineering data about what it takes to maintain a little greenhouse and keep plants alive on Mars. If I could afford it, I figured it would be a worthy expenditure of money, with no expectation of financial return.
+
+Anderson: You were going to buy a ride to Mars, in a sense.
+
+Musk: Right. So I started to price it out. The spacecraft, the communications, the greenhouse experiment: I figured out how to do all that for relatively little. But then came the rocket—the actual propulsion from Earth to Mars. The cheapest US rocket that could do it would have cost $65 million, and I figured I would need at least two.
+
+Musk: Yeah, plus the cost of everything else, which would have meant I’d spend everything I made from PayPal—and if there were any cost growth I wouldn’t be able to cover it. So next I went to Russia three times, in late 2001 and 2002, to see if I could negotiate the purchase of two ICBMs. Without the nukes, obviously.
+
+Musk: They would have cost me $15 million to $20 million each. That was certainly a big improvement. But as I thought about it, I realized that the only reason the ICBMs were that cheap was because they’d already been made. They were just sitting around unused. You couldn’t make new ones for sale at that price. I suddenly understood that my whole premise behind the Mars Oasis idea was flawed. The real reason we weren’t going to Mars wasn’t a lack of national will; it was that we didn’t have cheap enough rocket technology to get there on a reasonable budget. It was the perception among the American people—correct, given current technology—that it didn’t make financial sense to go.
+
+Anderson: Instead of buying rockets for a philanthropic mission, you realized that you needed to start a business to make them more efficiently.
+
+Musk: We needed to set rocket technology on a path of rapid improvement. In the course of trying to put together Mars Oasis, I had talked to a number of people in the space industry and got a sense of who was technically astute and who wasn’t. So I put together a team, and over a series of Saturdays I had them do a feasibility study about building rockets more efficiently. It became clear that there wasn’t anything to prevent us from doing it. Rocket technology had not materially improved since the ’60s—arguably it had gone backward! We decided to reverse that trend.
+
+Anderson: And you have reversed it.
+
+Musk: Six years after we started the company, we launched our first rocket, Falcon 1, into orbit in 2008. And the price—not the cost, mind you, but the total price to customers per launch—was roughly $7 million.
+
+Anderson: How did you get the price so low?
+
+Musk: I tend to approach things from a physics framework. And physics teaches you to reason from first principles rather than by analogy. So I said, OK, let’s look at the first principles. What is a rocket made of? Aerospace-grade aluminum alloys, plus some titanium, copper, and carbon fiber. And then I asked, what is the value of those materials on the commodity market? It turned out that the materials cost of a rocket was around 2 percent of the typical price—which is a crazy ratio for a large mechanical product.
+
+Anderson: How does that compare to, say, cars?
+
+Musk: It depends on the car. For Tesla it’s probably 20 to 25 percent.
+
+Musk: Right. So, I thought, we should be able to make a much cheaper rocket given those materials costs. There must be some pretty silly things going on in the market. And there are!
+
+Musk: One is the incredible aversion to risk within big aerospace firms. Even if better technology is available, they’re still using legacy components, often ones that were developed in the 1960s.
+
+Anderson: I’ve heard that the attitude is essentially that you can’t fly a component that hasn’t already flown.
+
+Musk: Right, which is obviously a catch-22, right? There should be a Groucho Marx joke about that. So, yeah, there’s a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering.
+
+Musk: The results are pretty crazy. One of our competitors, Orbital Sciences, has a contract to resupply the International Space Station, and their rocket honestly sounds like the punch line to a joke. It uses Russian rocket engines that were made in the ’60s. I don’t mean their design is from the ’60s—I mean they start with engines that were literally made in the ’60s and, like, packed away in Siberia somewhere.
+
+Anderson: Where else are there inefficiencies?
+
+Musk: Second, there’s this tendency of big aerospace companies to outsource everything. That’s been trendy in lots of industries, but aerospace has done it to a ridiculous degree. They outsource to subcontractors, and then the subcontractors outsource to sub-subcontractors, and so on. You have to go four or five layers down to find somebody actually doing something useful—actually cutting metal, shaping atoms. Every level above that tacks on profit—it’s overhead to the fifth power.
+
+Anderson: Is that just a function of bureaucracy?
+
+Musk: In many cases the biggest customer has been the government, and the government contracts have been what they call cost-plus: The company gets a built-in profit level no matter how wasteful its execution. There’s actually an incentive for it to make everything as expensive as it can possibly justify.
+
+Anderson: That sort of bureaucracy must also play into the bidding process.
+
+Musk: It’s infuriating. The Pentagon’s preferred approach is to do long-term, “sole-source” contracts—which means to lock up the entire business for one company! We’ve been trying to bid on the primary Air Force launch contract, but it’s nearly impossible, because United Launch Alliance, co-owned by Boeing and Lockheed Martin, currently has an exclusive contract with the Air Force for satellite launch. It’s totally inappropriate.
+
+Musk: Even though we would save the taxpayers at least a billion dollars a year—and that’s a conservative estimate.
+
+Anderson: It sounds like your value proposition is not to outperform your competition—instead, you compete on price.
+
+Musk: Look, speed for a rocket is always going to be roughly the same. The convenience and comfort is going to be about the same. Reliability has to be at least as good as what’s been done before—otherwise people won’t use your rockets to launch multihundred-million-dollar satellites—but there’s not going to be much improvement there. So you’re really left with one key parameter against which technology improvements must be judged, and that’s cost.
+
+Anderson: So—how do you do it? What’s your process?
+
+Musk: Now I have to tell you something, and I mean this in the best and most inoffensive way possible: I don’t believe in process. In fact, when I interview a potential employee and he or she says that “it’s all about the process,” I see that as a bad sign.
+
+Musk: The problem is that at a lot of big companies, process becomes a substitute for thinking. You’re encouraged to behave like a little gear in a complex machine. Frankly, it allows you to keep people who aren’t that smart, who aren’t that creative.
+
+Anderson: So what have all your creative people come up with, then? What’s different in your basic technology versus 50 years ago?
+
+Musk: I can’t tell you much. We have essentially no patents in SpaceX. Our primary long-term competition is in China—if we published patents, it would be farcical, because the Chinese would just use them as a recipe book. But I can give you one example.
+
+Anderson: What is it?
+
+Musk: It involves the design of the airframe. If you think about it, a rocket is really just a container for the liquid oxygen and fuel—it’s a combination propellant tank and primary airframe. Traditionally, a rocket airframe is made by taking an aluminum plate perhaps a couple of inches thick and machining deep pockets into it. Then you’ll roll or form what’s left into the shape you want—usually sections of a cylinder, since rockets tend to be primarily cylindrical in shape. That’s how Boeing and Lockheed’s rockets are made, and most other rockets too. But it’s a pretty expensive way to do it, because you’re left with a tiny fraction of the plate’s original mass. You’re starting with a huge slab of material and then milling off what isn’t needed, so you get a huge loss of material. Plus, machining away all that metal takes a lot of time, and it’s very expensive.
+
+Musk: It’s similar to the way that most airplanes are made: The stiffness is provided by ribs and hoops that are added on.
+
+Anderson: It’s basically aluminum origami—you’re cutting very precise grooves into it so it folds together into a stiff shape.
+
+Musk: But there’s a catch, because you can’t rivet a rocket like you can an airplane. The pressure differential of an airplane—the difference between the internal and external pressure during flight—is perhaps 7 to 10 psi. But in the case of a rocket, it’s likely to be 80 psi. It’s a lot harder for rivets to withstand that pressure with no leaks.
+
+Musk: So the approach used for aircraft is not exactly feasible for rockets. But there’s another way to do it, which is to use an advanced welding technology called stir welding. Instead of riveting the ribs and hoops, you use a special machine that softens the metal on both sides of the joint without penetrating it or melting it. Unlike traditional welding, which melts and potentially compromises some metals, this process works well with high-strength aluminum alloys. You wind up with a stiffer, lighter structure than was possible before. And your material loss is maybe 10 percent, just for trimming the edges. Instead of a ratio of purchased to flown material—what they call the “buy to fly” ratio—of maybe 10 to 20, you have a ratio of 1.1, 1.2 tops.
+
+Anderson: Wow. Why can you tell us about that?
+
+Musk: The reason I can talk about it is that nobody else knows how to build a rocket this way. [Laughs.]
+
+Anderson: Let’s talk about where all this is headed. You’ve brought the cost of rocket launches down by a factor of 10. Suppose you can bring it down even more. How does that change the game? It seems like when you radically reduce the price, you can discover a whole new market. It’s a form of exploration in itself.
+
+Anderson: What glimpses of that new market have you seen?
+
+Musk: A huge one is satellites. There are a lot of applications for satellites that suddenly begin to make sense if the transportation costs are low: more telecommunications, more broadcast, better weather mapping, more science experiments.
+
+Anderson: So traditional satellite markets—but more of them, and cheaper.
+
+Musk: There’s also likely to be a lot more private spaceflight.
+
+Anderson: By that you mean tourism.
+
+Musk: Yeah, but I think tourism is too pejorative a word. You could argue that much of our government spaceflight has been tourism. But the main thing—the goal I still believe in for the long term—is to make life multi-planetary.
+
+Anderson: And Dragon, the spacecraft you berthed with the ISS in May, has features that might eventually prepare it for a manned Mars mission.
+
+Musk: Eventually, yes. The thrusters on Dragon are sized so they’ll be able to do launch escape—which means being able to move away from the rocket at a force of approximately 6 g’s. That same thrust level happens to be kind of a good number for supersonic retro-propulsion for landing on Mars.
+
+Anderson: Could you have sent Dragon to Mars instead of the ISS?
+
+Musk: Well, it would have gone very slowly—and when it arrived, it couldn’t have landed. It would have made a crater.
+
+Anderson: The issue is stopping once you get there.
+
+Musk: Version two of , which should be ready in three years, should be able to do it. But really, if humanity is to become multi-planetary, the fundamental breakthrough that needs to occur in rocketry is a rapidly and completely reusable rocket. In the absence of that, space transportation will remain two orders of magnitude more expensive than it should be.
+
+Musk: Imagine if you had to have a new plane for every flight. Very few people would fly.
+
+Anderson: Isn’t the fuel a huge portion of the expense?
+
+Musk: The cost of the propellant on Falcon 9 is only about 0.3 percent of the total price. So if the vehicle costs $60 million, the propellant is maybe a couple hundred thousand dollars. That’s with rocket propellant-grade jet fuel, which is three times the cost of normal jet fuel. That’s using helium as a pressurant, which is a very expensive pressurant. A next-generation rocket could use cheaper fuel and also be fully reusable.
+
+Anderson: Are you making an announcement right now?
+
+Musk: I hope we might unveil an architecture for that next year. I’d like to emphasize this is an aspiration for SpaceX—I’m not saying that we will do it. But I believe it can be done. And I believe that achieving it would be on a par with what the Wright brothers did. It’s the fundamental thing that’s necessary for humanity to become a space-faring civilization. America would never have been colonized if ships weren’t reusable.
+
+Musk: A lot of people think it was reusable—but the main tank was thrown away every time. Even the parts that did come back were so difficult to refurbish that the shuttle cost four times more than an expendable rocket of equivalent payload capability.
+
+Anderson: It’s like sending Columbus’ ships out and bringing the lifeboat back.
+
+Musk: We’ve begun testing reusability with something called the Grasshopper Project, which is a first stage with landing gear that can take off and land vertically.
+
+Musk: Yeah, holy shit. The stages go to orbit, then the first stage turns around, restarts the engines, boosts back to the launch site, reorients, deploys landing gear, and lands vertically.
+
+Anderson: It’s like something out of a movie or my old Tintin books. It’s the way space was supposed to be.
+
+Chris Anderson (@chr1sa) is editor in chief of Wired and the author of Makers: The New Industrial Revolution. He wrote about 3-D printing in issue 20.10.

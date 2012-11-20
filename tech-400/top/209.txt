@@ -1,0 +1,7 @@
+Zoom in to a city to explore places there.
+
+We don't show places here. Please try another city.
+
+You're zoomed out too far. Please zoom in to see places here.
+
+We're always adding more Places to Maps, but we don't cover this area yet.

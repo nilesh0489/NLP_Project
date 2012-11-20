@@ -1,0 +1,35 @@
+When a man tells you about the time he planned to put a vegetable garden on Mars, you worry about his mental state. But if that same man has since launched multiple rockets that are actually capable of reaching Mars—sending them into orbit, Bond-style, from a tiny island in the Pacific—you need to find another diagnosis. That’s the thing about extreme entrepreneurialism: There’s a fine line between madness and genius, and you need a little bit of both to really change the world.
+
+All entrepreneurs have an aptitude for risk, but more important than that is their capacity for self-delusion. Indeed, psychological investigations have found that entrepreneurs aren’t more risk-tolerant than non-entrepreneurs. They just have an extraordinary ability to believe in their own visions, so much so that they think what they’re embarking on isn’t really that risky. They’re wrong, of course, but without the ability to be so wrong—to willfully ignore all those naysayers and all that evidence to the contrary—no one would possess the necessary audacity to start something radically new.
+
+I have never met an entrepreneur who fits this model more than Elon Musk. All of the entrepreneurs I admire most—Musk, Jeff Bezos, Reed Hastings, Jack Dorsey, Sergey Brin and Larry Page, Bill Gates, Steve Jobs, and a few others—have sought not just to build great companies but to take on problems that really matter. Yet even in this class of universe-denters, Musk stands out. After cofounding a series of Internet companies, including PayPal, the South African transplant could simply have retired to enjoy his riches. Instead he decided to disrupt the most difficult-to-master industries in the world. At 41 he is reinventing the car with Tesla, which is building all-electric vehicles in a Detroit-scale factory. (Wired profiled this venture in issue 18.10.) He is transforming energy with SolarCity, a startup that leases solar-power systems to homeowners.
+
+And he is leading the private space race with SpaceX, which is poised to replace the space shuttle and usher us into an interplanetary age. Since Musk founded the company in 2002, it has developed a series of next-generation rockets that can deliver payloads to space for a fraction of the price of legacy rockets. In 2010 SpaceX became the first private company to launch a spacecraft into orbit and bring it back; in 2012 it sent a craft to berth successfully with the International Space Station.
+
+It’s no wonder the character of Tony Stark in Iron Man, played by Robert Downey Jr., was modeled on Musk: This is superhero-grade stuff. I sat down with him at Tesla’s Fremont, California, factory to discuss how cheaper and (eventually) reusable rockets might someday put humans on Mars.
+
+Chris Anderson: You’re not a rocket scientist by training. You’re not a space engineer.
+
+Elon Musk: That’s true. My background educationally is physics and economics, and I grew up in sort of an engineering environment—my father is an electromechanical engineer. And so there were lots of engineery things around me. When I asked for an explanation, I got the true explanation of how things work. I also did things like make model rockets, and in South Africa there were no premade rockets: I had to go to the chemist and get the ingredients for rocket fuel, mix it, put it in a pipe.
+
+Anderson: But then you became an Internet entrepreneur.
+
+Musk: I never had a job where I made anything physical. I cofounded two Internet software companies, Zip2 and PayPal. So it took me a few years to kind of learn rocket science, if you will.
+
+Anderson: How were you drawn to space as your next venture?
+
+Musk: In 2002, once it became clear that PayPal was going to get sold, I was having a conversation with a friend of mine, the entrepreneur Adeo Ressi, who was actually my college housemate. I’d been staying at his home for the weekend, and we were coming back on a rainy day, stuck in traffic on the Long Island Expressway. He was asking me what I would do after PayPal. And I said, well, I’d always been really interested in space, but I didn’t think there was anything I could do as an individual. But, I went on, it seemed clear that we would send people to Mars. Suddenly I began to wonder why it hadn’t happened already. Later I went to the NASA website so I could see the schedule of when we’re supposed to go. [Laughs.]
+
+Anderson: And of course there was nothing.
+
+Musk: At first I thought, jeez, maybe I’m just looking in the wrong place! Why was there no plan, no schedule? There was nothing. It seemed crazy.
+
+Anderson: NASA doesn’t have the budget for that anymore.
+
+Musk: Since 1989, when a study estimated that a manned mission would cost $500 billion, the subject has been toxic. Politicians didn’t want a high-priced federal program like that to be used as a political weapon against them.
+
+Anderson: Their opponents would call it a boondoggle.
+
+Musk: But the United States is a nation of explorers. America is the spirit of human exploration distilled.
+
+Anderson: We all leaped into the unknown to get here.

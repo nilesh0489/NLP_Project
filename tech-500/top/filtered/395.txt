@@ -1,0 +1,25 @@
+Around a 100 million first-grade-aged children lack access to schools. A foundation is testing whether poor children who are given computers and learning software can teach themselves.
+
+With 100 million first-grade-aged children worldwide having no access to schooling, the One Laptop Per Child organization is trying something new in two remote Ethiopian villages—simply dropping off tablet computers with preloaded programs and seeing what happens.
+
+ The goal: to see if illiterate kids with no previous exposure to written words can learn how to read all by themselves, by experimenting with the tablet and its preloaded alphabet-training games, e-books, movies, cartoons, paintings, and other programs.
+
+Early observations are encouraging, said Nicholas Negroponte, OLPC’s founder, at MIT Technology Review’s EmTech conference last week.
+
+The devices involved are Motorola Xoom tablets—used together with a solar charging system, which Ethiopian technicians had taught adults in the village to use.  Once a week, a technician visits the villages and swaps out memory cards so that researchers can study how the machines were actually used. 
+
+After several months, the kids in both villages were still heavily engaged in using and recharging the machines, and had been observed reciting the “alphabet song,” and even spelling words. One boy, exposed to literacy games with animal pictures, opened up a paint program and wrote the word “Lion.”
+
+The experiment is being done in two isolated rural villages with about 20 first-grade-aged children each, about 50 miles from Addis Ababa. One village is called Wonchi, on the rim of a volcanic crater at 11,000 feet; the other is called Wolonchete, in the Great Rift Valley. Children there had never previously seen printed materials, road signs, or even packaging that had words on them, Negroponte said.
+
+Earlier this year, OLPC workers dropped off closed boxes containing the tablets, taped shut, with no instruction. “I thought the kids would play with the boxes. Within four minutes, one kid not only opened the box, found the on-off switch … powered it up. Within five days, they were using 47 apps per child, per day. Within two weeks, they were singing ABC songs in the village, and within five months, they had hacked Android,” Negroponte said. “Some idiot in our organization or in the Media Lab had disabled the camera, and they figured out the camera, and had hacked Android.”
+
+Elaborating later on Negroponte’s hacking comment, Ed McNierney, OLPC’s chief technology officer, said that the kids had gotten around OLPC’s effort to freeze desktop settings. “The kids had completely customized the desktop—so every kids’ tablet looked different.  We had installed software to prevent them from doing that,” McNierney said. “And the fact they worked around it was clearly the kind of creativity, the kind of inquiry, the kind of discovery that we think is essential to learning.”
+
+“If they can learn to read, then they can read to learn,” Negroponte said (see “Emtech Preview: Another Way to Think About Learning”).
+
+In an interview after his talk, Negroponte said that while the early results are promising, reaching conclusions about whether children could learn to read this way would require more time. “If it gets funded, it would need to continue for another a year and a half to two years to come to a conclusion that the scientific community would accept,” Negroponte said. “We’d have to start with a new village and make a clean start.”
+
+The idea of dropping off tablets outside of the context of schools is a new paradigm for OLPC. Through the late 2000s, the company was focused on delivering a custom miniaturized and ruggedized laptop, the XO, of which about 3 million have been distributed to kids in 40 countries. Deployments went to schools including ones in Peru (see “Una Laptop por Nino”).
+
+Giving computers directly to poor kids without any instruction is even more ambitious than OLPC’s earlier pushes. “What can we do for these 100 million kids around the world who don’t go to school?” McNierney said. “Can we give them tool to read and learn—without having to provide schools and teachers and textbooks and all that?”

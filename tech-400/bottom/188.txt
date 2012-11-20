@@ -1,0 +1,17 @@
+Google's online services were inaccessible in China on Friday, according to Google's Transparency Report and various media reports. News reports said Goolge services were restored to China over the weekend.
+
+In contrast to its more confrontational past, when the company said it had been victimized by cyber attacks from China and implied government involvement, Google was not immediately able to offer an explanation. "We've checked and there's nothing wrong on our end," a company spokeswoman said in an emailed statement.
+
+Internet service outages in China are common during times deemed to be sensitive by the ruling Communist Party. The Chinese Community Party is presently in the midst of a leadership transition in which President Hu Jintao is expected to step down in favor of Vice President Xi Jinping.
+
+The transition has been rockier than Chinese authorities would like, occurring amid the aftermath of the downfall of Chongqing party chief Bo Xilai and his wife, Gu Kailai, who was recently found guilty of murdering a British businessman.
+
+Corruption among party officials continues to stir popular resentment in the country so authorities are quick to censor information they believe highlights the problem. Two week ago, the Chinese government blocked access to the New York Times website after the newspaper ran a story about the wealth accumulated by relatives of prime minister Wen Jiabao. When Bloomberg published a similar article about the holdings of Xi Jinping's family in June, its website in China was also blocked.
+
+Chinese authorities have also been vexed by Tibetans, more than 60 of whom have burned themselves alive this year to protest Chinese rule.
+
+According to GreatFire.org, a website that tracks censorship in China, 35 Google services were blocked, including Gmail, Google Search, Google Docs, Picasa, and Google Plus, to name a few.
+
+GreatFire.org claims that various Google domains were rerouted via DNS poisoning.
+
+Attackers are increasingly using a simple method for finding flaws in websites and applications: They Google them. Using Google code search, hackers can identify crucial vulnerabilities in application code strings, providing the entry point they need to break through application security. In our report, Using Google To Find Vulnerabilities In Your IT Environment, we outline methods for using search engines such as Google and Bing to identify vulnerabilities in your applications, systems and services--and to fix them before they can be exploited. (Free registration required.)

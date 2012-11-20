@@ -1,0 +1,7 @@
+It’s no secret that Google has been scanning hundreds of thousands of books in the hope of recreating the Library of Alexandria. Publishers and authors really didn’t like that idea, so the Google books team is doing the next best thing: they’re releasing the plans for a very clever book scanner in the hope others will pick up the torch of creating a digital library of every book ever written.
+
+Unlike some other book scanners we’ve seen that rely on an operator manually flipping pages, this linear book scanner turns the pages automatically with the help of a vacuum cleaner and a cleverly designed sheet metal structure after passing them over two image sensors taken from a desktop scanner.
+
+The bill of materials comes in at around $1500, but according to the official design documents this includes a very expensive scanner, something that could be replaced in true hacker style with a few salvaged flatbed scanners.
+
+After the break you can check out a Google Tech Talk presented by [Dany Qumsiyeh] going over the design and function of his DIY book scanner. There’s also a relatively thorough design document over on a Google code page.

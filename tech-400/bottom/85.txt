@@ -1,0 +1,23 @@
+Microsoft needs apps. The success of the new, touch-centric Start Screen of Windows 8 and Windows RT depends on building a thriving app ecosystem to compare with the iOS App Store or Google Play. But if one developer's experience is any indication, actually getting an app into the Windows Store is a lot harder than you might expect.
+
+Longtime Windows developer Jeffrey Harmon says he first submitted an app to the Windows Store on August 29 – but it wasn't until this week that it was approved and made available to the public.
+
+Harmon doesn't fault the Windows 8 SDK. "For the most part, I think they have done a great job, as the tools, documentation and examples are excellent," he writes. "Where they really fall down though is in the last mile: app submission."
+
+Harmon says he first began developing his app, Memorylage, in December. He started work using the Windows 8 Developer Preview, then later updated his code for the Consumer Preview and the Release Preview.
+
+In the process, he attended both a Microsoft App Excellence workshop and a Hackathon event, winning Microsoft's "App X" contest both times. At the App Excellence event, Harmon and a Microsoft Field Engineer went over a 60-point checklist to ensure that his app met Redmond's design guidelines and was ready for submission to the Windows Store. All seemed well.
+
+No such luck, though. When Harmon finally submitted his app in August, he received a rejection notice a day later. Memorylage crashed, he was told, though the notice didn't specify when or how. He was told it had performance problems, but not what kind. He was told it failed a Direct 3D test, which seemed strange since it wasn't a 3D app and it only used standard controls. Furthermore, the notice said, his website wasn't finished.
+
+Needless to say, without more information, fixing all of the problems with Harmon's app proved difficult – particularly since Memorylage passed all of the Windows App Certification Kit tests on his own computer.
+
+As he worked to narrow down the issues, Harmon engaged at least six different Microsoft employees, both online and over the phone, eventually including no less than Microsoft's Windows group president, Steven Sinofsky. In all, he exchanged 131 emails with Microsoft staffers, he says, but to no avail.
+
+"I have given my app, and even my source code, to multiple people within Microsoft. To date, not a single one of them has been able to cause it to crash, or fail a single test," Harmon wrote earlier this week. "Every issue that I have figured out, I found on my own, but the store still fails it. How do you debug that?"
+
+When El Reg reached out to Microsoft for comment, a spokesperson pointed out that Harmon's app is in fact now available in the Windows Store, adding, "We are committed to delivering a great experience for our developers."
+
+But although Memorylage was eventually accepted, its journey from submission to approval took nearly two months. Harmon says the delay has cost him plenty, including marketing opportunities and first-mover advantage, to say nothing of time he could have spent improving his app instead of struggling to get it into the Store.
+
+"I still think that Windows 8 is a great opportunity for developers, but as it stands, they are in for a world of hurt in trying to get through that last hurdle," Harmon writes. "As a long-time Windows developer, I really hope that changes soon." ®

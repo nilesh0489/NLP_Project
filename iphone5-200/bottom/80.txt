@@ -1,0 +1,33 @@
+Many users of jailbroken Apple devices who begrudgingly accepted October's iOS 5 update in the name of new features like iMessage, iCloud and Notifications Center have been eagerly awaiting a way to re-jailbreak their iPhones ever since. Now, with the recent release of the first iOS 5-compatible fully untethered jailbreak, the wait is finally over.
+
+The jailbreak -- which allows users of most Apple mobile devices to install applications from an underground, alternative app store called Cydia -- was based on research by iPhone hacker @pod2g.
+
+A self-described "iOS security researcher," @pod2g worked with the well-known iPhone Dev-Team to release the hack on their blog on Dec. 27. Instructions on how to download and use the jailbreak software known as "redsn0w" are included in the blog post.
+
+Unfortunately, the jailbreak only works on devices using the older A4 processor, meaning users of the iPhone 4S and iPad 2, both of which use a newer A5 chip, are out of luck for the moment.
+
+But the Dev-Team notes the omission on their blog and reassures readers that an A5 jailbreak is already in the works:
+
+For the uninitiated, an "untethered" jailbreak means iDevice users aren't required to plug in to their computer and use third-party software every time they need to restart their device. Typically, the more cumbersome "tethered" jailbreaks are released ahead of the more appealing untethered option while iOS hackers work out the kinks in each new version.
+
+For various reasons, Apple is less than supportive of efforts to free their devices from the bonds of the iTunes App Store. Each time the company updates their mobile device software -- such as with the recent iOS 5 release -- past jailbreaks are wiped from the updated devices along with any modifications made using jailbreak-only software. That leaves "security researchers" like @pod2g scrambling to find new weaknesses in the operating system which they can exploit in the name of a new jailbreak.
+
+Though Apple prefers users not jailbreak their devices, the practice is not, in fact, illegal.
+
+In 2010, federal regulators ruled that jailbreaking is not a violation of the Digital Millennium Copyright Act, as Apple had argued. Instead, the U.S. Copyright Office said that Apple was asking the wrong people for protection of their business model.
+
+Wired magazine, writing just after the announcement, quoted the Copyright Office:
+
+Nevertheless, Apple maintains that jailbreaking leads to security issues for devices and networks as a whole, and says that doing so will void users' warranties.
+
+So, Why Jailbreak An iPhone?
+
+With the risk of a voided warranty, many are left to wonder why anyone would jailbreak their iPhone in the first place. But there are plenty of good reasons, from access to apps not available through Apple, to tweaking and customizing your phone or even using your iPhone on a different mobile network.
+
+PCWorld magazine reported on the benefits (and drawbacks) of jailbreaking in a 2010 post appropriately titled "5 Reasons to Jailbreak Your iPhone - and 5 Reasons Not."
+
+Tops on the list are a few great jailbreak-only apps that can turn your phone into a mobile WiFi hotspot or let WiFi-only apps like Facetime work -- albeit, somewhat terribly -- over a 3G connection. The post also lists the fact that jailbreaking is completely reversible among its top reasons to give it a try.
+
+One app PCWorld doesn't mention is the recently released voice-recognition app Siri, which Apple currently confines to its iPhone 4S. Just last month, iOS hackers successfully installed Siri on an iPad, iPhone 4, iPod touch and iPhone 3GS after jailbreaking and installing a piece of software called Spire, according to Engadget.
+
+Their list of reasons not to jailbreak -- voided warranty, data sucking, bugs, etc. -- is certainly worth reading, though considerably less sexy than the list of reasons to take the plunge. Nevertheless, there are some risks involved, and first-time jailbreakers should take note of warnings on the Dev-Team blog, or consult the nearest Apple geek.

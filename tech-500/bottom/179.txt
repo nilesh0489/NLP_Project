@@ -1,0 +1,11 @@
+Plenty of people have complained about Windows 8's interface, which is targeted more at tablets than traditional PCs. And now well-known interface guru Jakob Nielsen has charged that users of traditional PCs are "essentially being thrown under the bus" by Microsoft with the new design.
+
+As the Windows 8 launch approaches, plenty of people have complained about the Windows 8 tablet-centric interface and the death of the Start button. I've pointed it out frequently in my reviews, including about the final RTM version. In one of the most infamous Windows 8 videos, Chris Pirillo tapes his father's struggles trying to learn the new interface, and coming away baffled.
+
+The AP weighed in with a piece that concludes:
+
+There have been plenty of other similar articles. And then came the coup de grace, a New York Times article published this morning that interviewed users and experts about the new interface, most of whom didn't like it. Keith McCarthy, a copywriter in New York City said, for example, that using it "made me feel like the biggest amateur computer user ever."
+
+Although some people praised it, most people savaged it. Most disturbing to Microsoft should be the reaction of Jakob Nielsen, a user interface expert at the Nielsen Norman Group. Nielsen has been testing interfaces for years with users, so what he has to say carries a lot of weight. In his tests of people using Windows 8, he found that people had "a lot of struggles," especially when trying to switch between the traditional desktop and the new Windows 8 start screen. He said Windows 8 was fine for tablets, but not traditional PCs. He concluded:
+
+I think he's right. Windows 8 is an extremely good tablet operating system, but poorly designed for traditional PCs. In trying to jump-start its mobile business, Microsoft may well be hurting it traditional PC base.

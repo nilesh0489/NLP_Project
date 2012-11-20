@@ -1,0 +1,17 @@
+Apple’s latest addition to the iPad family of tablets, the iPad mini, hit store shelves yesterday. Among the many standing in lines around the world to buy the devices were people who took them home to drop them and dunk them in water. Or to make TV comedy routines out of them. And then there was the handful of analysts with the research firm IHS, who just couldn’t wait to start taking the cute little thing apart.
+
+Previously known as iSuppli, and widely known for its so-called “teardown” analysis reports, IHS has just completed its teardown report on the Apple’s newest iteration of the tablet. The verdict: The base model, a Wi-Fi-only 16 gigabyte iPad mini, which sells for a starting retail price of $329, costs about $188 to build. Adding additional memory — the options are 32GB and 64GB — adds only incremental cost but a fair amount of profit, amounting to an additional $90 for the 32GB version and $162 per unit on the 64GB model. (I revised this paragraph. See my note below.)
+
+Aside from the cost of materials — known in industry lingo as a Bill of Materials (BOM) — the teardown also revealed the identities of several key suppliers on the latest device. The most visible component is the 7.9-inch touch-sensitive display.
+
+LG Display and AU Optronics were found to have supplied the display components. Parts related to the display cost about $80, or about 43 percent of the total BOM. The screen uses a new technology known as GF2 that allows the overall display to be thinner than on previous generations. Andrew Rassweiler, an IHS analyst and head of the company’s teardown team, says that the new technology is proving somewhat problematic to manufacture, which is, for the moment, driving costs on the display up. But as kinks in the manufacturing process are worked out, those costs will come down.
+
+Samsung continued its role as the manufacturer of Apple’s A5 processor, maintaining a longstanding relationship that dates back several years and predates the bitter, multi-jurisdictional series of patent lawsuits between them.
+
+However, wherever Apple has a choice to buy components from other suppliers not named Samsung, it appears to be doing just that. Memory chips and displays, a portion of which have, in previous generations of iOS devices, been purchased from Samsung, appear to be coming from other players. This also appeared to be true of the iPhone 5, released earlier this year.
+
+The sample iPad mini examined by IHS contained flash memory chips from Hynix Semiconductor, another South Korean chipmaker, and Japan’s Elpida supplied the system memory. Memory chips amounted to $15.50 of the materials cost of the iPad mini, IHS says.
+
+Other components have been seen before, Rassweiler says. Cirrus Logic supplied an audio chip, STMicroelectronics supplied the accelerometer that detects when the iPad is moving and thus tells the display to reoriented, whatever it is showing. As usual, the identity of the camera suppliers are all but impossible to determine. Broadcom supplied some wireless chips that were assembled into a combined wireless module by Murata.
+
+Update: I revised a paragraph up there where I misread something in the notes from IHS: If 16GB of memory goes for $15.50, then it follows that 32GB adds only $31 in additional cost, and $62 for 64GB. The figures I used referred to direct profit. Sorry about that.

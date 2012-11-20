@@ -1,0 +1,3 @@
+I'm all for putting an end to Flash's ubiquity and replacing it with HTML5, but we're not there yet. If it's really about Flash being unreliable and unstable, Apple should work with Adobe to deliver a better Flash experience, in both the mobile and desktop spaces. Or hell, even rewrite the plugin side or contribute to GNASH. Don't just ignore it though and pretend that you don't need Flash, because for the time being you definitely do.
+
+In the meantime stop being a bunch of babies, Adobe. Either fix Flash and get it so that Apple has no excuse to not put it on the iPhone, or see how Apple really feels about a Flash free (and CS3 free, etc) Mac world.

@@ -1,0 +1,23 @@
+Shumway is an experimental web-native runtime implementation of the SWF file format. It is developed as a free and open source project sponsored by Mozilla Research. The project has two main goals:
+
+1. Advance the open web platform to securely process rich media formats that were previously only available in closed and proprietary implementations.
+2. Offer a runtime processor for SWF and other rich media formats on platforms for which runtime implementations are not available.
+
+You can view live demo examples using Shumway. More adventurous users can download a Firefox beta build and install the test extension to preview SWF content on the web using Shumway. Please be aware that Shumway is very experimental, is missing features, contains many defects, and is evolving rapidly.
+
+Mozilla’s mission is to advance the Open Web. We believe that we can offer a positive experience if we provide support for the SWF format that is still used on many web sites, especially on mobile devices where the Adobe Flash Player is not available.
+
+The Open Web can be further advanced by making rich media capabilities, previously only available in Flash, also available in the native web browser stack. Shumway is an exciting opportunity to do that for SWF, and we welcome support from external contributors as we advance the technology. We are reaching out to technical users who are interested in contributing to the Shumway implementation in these five areas:
+
+1. Core. This module includes the main file format parser, the rasterizer, and event system.
+2. AVM1. JavaScript interpreter for ActionScript version 1 and version 2 bytecode.
+3. AVM2.  JavaScript interpreter and JIT compiler for ActionScript version 3 bytecode.
+4. Browser Integration handles the glue between the web browser and the Shumway runtime.
+5. Testing/Demos. Add good demo and test files/links to Shumway.
+
+More information can be found on the github links:
+* https://github.com/mozilla/shumway/wiki
+* https://github.com/mozilla/shumway/wiki/Running-the-Examples
+* https://github.com/mozilla/shumway/wiki/Building-Firefox-Extension
+
+The Shumway team is active on the #shumway IRC channel for real-time discussion. A technical mailing list is available here. The source code is available on github.

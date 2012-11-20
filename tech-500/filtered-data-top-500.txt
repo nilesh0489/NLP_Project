@@ -1,0 +1,3915 @@
+domain: "tim.id.au"
+title: "For three years I have run Tim's Laptop Manuals, where laptop repair manuals are free for all to download and use. Toshiba have now used copyright to force me to take down all Toshiba service manuals."
+score: 4332
+permalink: "/r/technology/comments/12ydou/for_three_years_i_have_run_tims_laptop_manuals/"
+created: 11/10/2012 09:45:17
+created_utc: 11/10/2012 01:45:17
+
+
+domain: "eff.org"
+title: "EFF wins renewal of exemptions to the DMCA for smartphone jailbreaking rights plus new legal protections for video remixing; \"If you bought your gadget, you own it, and you should be able to install whatever software you please without facing potential legal threats\""
+score: 4140
+permalink: "/r/technology/comments/127slj/eff_wins_renewal_of_exemptions_to_the_dmca_for/"
+created: 10/28/2012 16:11:29
+created_utc: 10/28/2012 08:11:29
+
+
+domain: "protectinternetfreedom.net"
+title: "On December 3, world governments will meet to update a key treaty of a UN agency, the International Telecommunication Union. Some gov\u2019ts are proposing to extend ITU authority to Internet governance that may threaten Internet openness and erode human rights online. Let\u2019s have a discussion."
+score: 3722
+permalink: "/r/technology/comments/1308t6/on_december_3_world_governments_will_meet_to/"
+created: 11/11/2012 14:42:56
+created_utc: 11/11/2012 06:42:56
+
+
+domain: "plus.google.com"
+title: "Linus Torvalds: Make 2560x1600 the new standard laptop resolution (plus.google.com)"
+score: 3696
+permalink: "/r/technology/comments/12e4x2/linus_torvalds_make_2560x1600_the_new_standard/"
+created: 10/31/2012 14:34:00
+created_utc: 10/31/2012 06:34:00
+
+
+domain: "techcrunch.com"
+title: "Zynga just Laid Off 100+ Employees during Apple event to keep it quiet"
+score: 3632
+permalink: "/r/technology/comments/11yhri/zynga_just_laid_off_100_employees_during_apple/"
+created: 10/23/2012 15:09:15
+created_utc: 10/23/2012 14:09:15
+
+
+domain: "businessinsider.com"
+title: "\"We have essentially no patents in SpaceX. Our primary long-term competition is in China. If we published patents, it would be farcical, because the Chinese would just use them as a recipe book.\""
+score: 3536
+permalink: "/r/technology/comments/12z42i/we_have_essentially_no_patents_in_spacex_our/"
+created: 11/10/2012 22:32:03
+created_utc: 11/10/2012 14:32:03
+
+
+domain: "eff.org"
+title: "Your Right to Own, Under Threat: The Supreme Court will hear arguments today in a case, Kirtsaeng v. Wiley, that could help shape the future of \"first sale,\" a legal doctrine that underpins the right to sell, lend, or give away the things you buy, even if those things contain copyrighted elements"
+score: 3531
+permalink: "/r/technology/comments/129ngw/your_right_to_own_under_threat_the_supreme_court/"
+created: 10/29/2012 13:31:58
+created_utc: 10/29/2012 05:31:58
+
+
+domain: "talkweb.eu"
+title: "I just bought more than 1 million \u2026Facebook data entries for 5$. Oh, this is not the end of the story. I ve\u2019got a phone call from Facebook \u201cPolicy department. "
+score: 3294
+permalink: "/r/technology/comments/1226or/i_just_bought_more_than_1_million_facebook_data/"
+created: 10/25/2012 15:18:01
+created_utc: 10/25/2012 07:18:01
+
+
+domain: "techdirt.com"
+title: "When a mouse requires an internet connection, you're doing the \"cloud\" wrong"
+score: 3296
+permalink: "/r/technology/comments/12sq9l/when_a_mouse_requires_an_internet_connection/"
+created: 11/07/2012 17:33:05
+created_utc: 11/07/2012 09:33:05
+
+
+domain: "thenextweb.com"
+title: "Australia's Mandatory Internet Filter Has Finally Been Killed"
+score: 3270
+permalink: "/r/technology/comments/12wfk8/australias_mandatory_internet_filter_has_finally/"
+created: 11/09/2012 08:33:04
+created_utc: 11/09/2012 00:33:04
+
+
+domain: "mashable.com"
+title: "OLPC workers dropped off closed boxes containing tablets, taped shut, with no instruction: \"Within four minutes, one kid not only opened the box, found the on-off switch \u2026 powered it up. Within five days, they were using 47 apps per child, per day. ... Within five months, they had hacked Android.\""
+score: 3215
+permalink: "/r/technology/comments/12ccgd/olpc_workers_dropped_off_closed_boxes_containing/"
+created: 10/30/2012 19:58:42
+created_utc: 10/30/2012 11:58:42
+
+
+domain: "bekkelund.net"
+title: "Amazon closes woman's account and wipes her \nKindle, refuses to say why"
+score: 3119
+permalink: "/r/technology/comments/11vz4g/amazon_closes_womans_account_and_wipes_her_kindle/"
+created: 10/22/2012 12:47:33
+created_utc: 10/22/2012 04:47:33
+
+
+domain: "bgr.com"
+title: "Google wants to be a wireless carrier"
+score: 3091
+permalink: "/r/technology/comments/139s2m/google_wants_to_be_a_wireless_carrier/"
+created: 11/15/2012 20:47:14
+created_utc: 11/15/2012 19:47:14
+
+
+domain: "slate.com"
+title: "Skype ratted out a WikiLeaks supporter to a private intelligence firm without a warrant"
+score: 3059
+permalink: "/r/technology/comments/12yqis/skype_ratted_out_a_wikileaks_supporter_to_a/"
+created: 11/10/2012 18:10:38
+created_utc: 11/10/2012 10:10:38
+
+
+domain: "techdirt.com"
+title: "Draconian Downloading Law In Japan Goes Into Effect... Music Sales Drop"
+score: 3056
+permalink: "/r/technology/comments/132gcg/draconian_downloading_law_in_japan_goes_into/"
+created: 11/12/2012 19:28:04
+created_utc: 11/12/2012 11:28:04
+
+
+domain: "blog.cloudflare.com"
+title: "Why Google Went Offline Today and a Bit about How the Internet Works"
+score: 2975
+permalink: "/r/technology/comments/12q5ay/why_google_went_offline_today_and_a_bit_about_how/"
+created: 11/06/2012 08:41:33
+created_utc: 11/06/2012 07:41:33
+
+
+domain: "guardian.co.uk"
+title: "UK court judges Apple's apology to Samsung as non-complaint, orders new version within 48 hours"
+score: 2974
+permalink: "/r/technology/comments/12gdor/uk_court_judges_apples_apology_to_samsung_as/"
+created: 11/01/2012 16:45:26
+created_utc: 11/01/2012 08:45:26
+
+
+
+
+domain: "fbi.gov"
+title: "Did you buy a computer notebook, computer monitor, or big-screen TV anytime from late 2001 to 2006? If you did, odds are that you paid too much for it because of an international criminal conspiracy to fix the prices of the LCD panels"
+score: 2966
+permalink: "/r/technology/comments/13aseg/did_you_buy_a_computer_notebook_computer_monitor/"
+created: 11/16/2012 10:35:57
+created_utc: 11/16/2012 09:35:57
+
+
+domain: "arstechnica.com"
+title: "Apple suing Amazon over term \"Appstore\" claiming \"app store\" is an Apple trademark and Amazon's use of it infringes on it. Judge disagrees "
+score: 2852
+permalink: "/r/technology/comments/12qgwb/apple_suing_amazon_over_term_appstore_claiming/"
+created: 11/06/2012 12:21:53
+created_utc: 11/06/2012 11:21:53
+
+
+domain: "motherboard.vice.com"
+title: "India is Building a Thorium-Fueled Nuclear Plant"
+score: 2848
+permalink: "/r/technology/comments/120irn/india_is_building_a_thoriumfueled_nuclear_plant/"
+created: 10/24/2012 21:01:07
+created_utc: 10/24/2012 13:01:07
+
+
+domain: "limpet.net"
+title: "Microsoft ships IE10, Mozilla congratulates with a cake"
+score: 2795
+permalink: "/r/technology/comments/1265pp/microsoft_ships_ie10_mozilla_congratulates_with_a/"
+created: 10/27/2012 16:40:35
+created_utc: 10/27/2012 08:40:35
+
+
+domain: "networkworld.com"
+title: "\nAmazon EBS failure brings down Reddit, Imgur, others\nCloud outage in US East zone impacts sites across the Internet"
+score: 2749
+permalink: "/r/technology/comments/11wnnl/amazon_ebs_failure_brings_down_reddit_imgur/"
+created: 10/23/2012 02:52:58
+created_utc: 10/22/2012 18:52:58
+
+
+domain: "guardian.co.uk"
+title: "Kim Dotcom looking to pay for free internet for all of New Zealand by suing Hollywood and the US Government for destroying his business (Megaupload)"
+score: 2744
+permalink: "/r/technology/comments/12mpah/kim_dotcom_looking_to_pay_for_free_internet_for/"
+created: 11/05/2012 00:30:15
+created_utc: 11/04/2012 16:30:15
+
+
+domain: "phonearena.com"
+title: "Apple sues iFone in Mexico, and loses. Lawsuits can be a double edged sword. "
+score: 2735
+permalink: "/r/technology/comments/12i4rz/apple_sues_ifone_in_mexico_and_loses_lawsuits_can/"
+created: 11/02/2012 10:19:07
+created_utc: 11/02/2012 02:19:07
+
+
+domain: "boingboing.net"
+title: "Six strikes copyright disconnection event in NYC, Nov 28.This is the only opportunity for Internet users to speak up. If you are in NYC show up and let your voice be heard!"
+score: 2737
+permalink: "/r/technology/comments/12x4dd/six_strikes_copyright_disconnection_event_in_nyc/"
+created: 11/09/2012 12:51:12
+created_utc: 11/09/2012 11:51:12
+
+
+domain: "cyanogenmod.org"
+title: "Cyanogenmod.com domain \"stolen\""
+score: 2704
+permalink: "/r/technology/comments/1378y0/cyanogenmodcom_domain_stolen/"
+created: 11/14/2012 17:08:25
+created_utc: 11/14/2012 16:08:25
+
+
+domain: "news.cnet.com"
+title: "Apple iOS software chief Scott Forstall was forced out after he refused to sign a letter apologizing for problems with Apple Maps"
+score: 2700
+permalink: "/r/technology/comments/12bvb4/apple_ios_software_chief_scott_forstall_was/"
+created: 10/30/2012 12:24:59
+created_utc: 10/30/2012 04:24:59
+
+
+domain: "money.cnn.com"
+title: "The $300 prosthetic arm\n"
+score: 2668
+permalink: "/r/technology/comments/12ii2a/the_300_prosthetic_arm/"
+created: 11/02/2012 10:55:46
+created_utc: 11/02/2012 09:55:46
+title: "The $300 prosthetic arm"
+
+
+domain: "torrentfreak.com"
+title: "RIAA: Pirates Are Bigger Music Fans Than Average Consumers"
+score: 2664
+permalink: "/r/technology/comments/136bl5/riaa_pirates_are_bigger_music_fans_than_average/"
+created: 11/14/2012 13:10:15
+created_utc: 11/14/2012 05:10:15
+
+
+domain: "googlefiberblog.blogspot.com"
+title: "Google Fiber starts rolling out in Kansas"
+score: 2661
+permalink: "/r/technology/comments/134vf0/google_fiber_starts_rolling_out_in_kansas/"
+created: 11/13/2012 21:53:16
+created_utc: 11/13/2012 13:53:16
+
+
+domain: "nzherald.co.nz"
+title: "Kim Dotcom plans to build a $400m (NZD) fibre cable and provide free broadband to all New Zealanders"
+score: 2563
+permalink: "/r/technology/comments/12ktv6/kim_dotcom_plans_to_build_a_400m_nzd_fibre_cable/"
+created: 11/04/2012 00:13:43
+created_utc: 11/03/2012 16:13:43
+
+
+domain: "cnn.com"
+title: "Internet providers to begin warning customers who pirate content: If you use AT&amp;T, Cablevision, Comcast, Time Warner, or Verizon as your Internet service provider, you could receive the first of one of these notes starting in the next two months"
+score: 2538
+permalink: "/r/technology/comments/11ublb/internet_providers_to_begin_warning_customers_who/"
+created: 10/21/2012 09:56:00
+created_utc: 10/21/2012 08:56:00
+
+
+domain: "theregister.co.uk"
+title: "Verizon staff arrested for stealing customer's nude pics "
+score: 2538
+permalink: "/r/technology/comments/12kcqy/verizon_staff_arrested_for_stealing_customers/"
+created: 11/03/2012 18:44:48
+created_utc: 11/03/2012 10:44:48
+
+
+domain: "thenextweb.com"
+title: "Google\u2019s Nexus 4 smartphone sells out in the US in 50 minutes"
+score: 2491
+permalink: "/r/technology/comments/134r5x/googles_nexus_4_smartphone_sells_out_in_the_us_in/"
+created: 11/13/2012 20:51:59
+created_utc: 11/13/2012 12:51:59
+
+
+domain: "en.wikipedia.org"
+title: "As of August 2012, Google's driverless cars have driven for over 300k miles. Only two accidents were reported during that time, and they both were at the fault of the human driver that hit them."
+score: 2652
+permalink: "/r/technology/comments/13ezmn/as_of_august_2012_googles_driverless_cars_have/"
+created: 11/19/2012 00:54:10
+created_utc: 11/18/2012 16:54:10
+
+
+domain: "thenextweb.com"
+title: "Anonymous takes down over 550 Israeli sites, wipes databases"
+score: 2432
+permalink: "/r/technology/comments/13bw03/anonymous_takes_down_over_550_israeli_sites_wipes/"
+created: 11/17/2012 04:11:54
+created_utc: 11/16/2012 20:11:54
+
+
+domain: "reuters.com"
+title: "Dutch court says Samsung does not infringe Apple patent"
+score: 2423
+permalink: "/r/technology/comments/11zzb7/dutch_court_says_samsung_does_not_infringe_apple/"
+created: 10/24/2012 14:12:16
+created_utc: 10/24/2012 06:12:16
+
+
+domain: "theatlantic.com"
+title: "\"... One fascinating outcome of the AMA is that 30,000 Redditors registered to vote after President dropped in a link to the Obama voter registration page.\""
+score: 2429
+permalink: "/r/technology/comments/13e94n/one_fascinating_outcome_of_the_ama_is_that_30000/"
+created: 11/18/2012 14:46:29
+created_utc: 11/18/2012 06:46:29
+
+
+domain: "microsoft.com"
+title: "Only 16 GB free on 32 GB Surface"
+score: 2365
+permalink: "/r/technology/comments/12obvr/only_16_gb_free_on_32_gb_surface/"
+created: 11/05/2012 20:20:42
+created_utc: 11/05/2012 12:20:42
+
+
+domain: "torrentfreak.com"
+title: "Demonoid Is Back, BitTorrent Tracker is Now Online "
+score: 2371
+permalink: "/r/technology/comments/1323ql/demonoid_is_back_bittorrent_tracker_is_now_online/"
+created: 11/12/2012 13:54:16
+created_utc: 11/12/2012 05:54:16
+
+
+domain: "news.cnet.com"
+title: "Google: Chrome has gotten 26 percent faster this year"
+score: 2289
+permalink: "/r/technology/comments/12vbnm/google_chrome_has_gotten_26_percent_faster_this/"
+created: 11/08/2012 21:56:15
+created_utc: 11/08/2012 13:56:15
+
+
+domain: "american.com"
+title: "The Deadly Crusade Against E-cigarettes"
+score: 2267
+permalink: "/r/technology/comments/13cnjq/the_deadly_crusade_against_ecigarettes/"
+created: 11/17/2012 17:08:42
+created_utc: 11/17/2012 09:08:42
+
+
+domain: "eff.org"
+title: "Join EFF\u2019s Efforts to Keep 3D Printing Open"
+score: 2251
+permalink: "/r/technology/comments/124rjw/join_effs_efforts_to_keep_3d_printing_open/"
+created: 10/26/2012 21:09:22
+created_utc: 10/26/2012 13:09:22
+
+
+domain: "techdirt.com"
+title: "EU Finally Realizes The Public Is Watching CETA: Softens Criminal Provisions For Copyright Infringement"
+score: 2249
+permalink: "/r/technology/comments/12sdsl/eu_finally_realizes_the_public_is_watching_ceta/"
+created: 11/07/2012 11:22:51
+created_utc: 11/07/2012 03:22:51
+
+
+domain: "thenextweb.com"
+title: "Not One Microsoft Product on Kaspersky's Top 10 Vulnerabilities List"
+score: 2222
+permalink: "/r/technology/comments/12jekx/not_one_microsoft_product_on_kasperskys_top_10/"
+created: 11/02/2012 19:56:36
+created_utc: 11/02/2012 18:56:36
+
+
+domain: "arstechnica.com"
+title: "DRM be damned: how to protect your Amazon e-books from being deleted"
+score: 2180
+permalink: "/r/technology/comments/123iy8/drm_be_damned_how_to_protect_your_amazon_ebooks/"
+created: 10/26/2012 04:33:02
+created_utc: 10/25/2012 20:33:02
+
+
+domain: "bbc.co.uk"
+title: "Things Australian's have invented"
+score: 2152
+permalink: "/r/technology/comments/12ungi/things_australians_have_invented/"
+created: 11/08/2012 06:17:03
+created_utc: 11/08/2012 05:17:03
+
+
+domain: "techdirt.com"
+title: "That Was Fast: Hollywood Already Browbeat The Republicans Into Retracting Report On Copyright Reform"
+score: 2145
+permalink: "/r/technology/comments/13dn6a/that_was_fast_hollywood_already_browbeat_the/"
+created: 11/18/2012 04:40:23
+created_utc: 11/17/2012 20:40:23
+
+
+domain: "youtu.be"
+title: "For all Skittles fans with OCD =&gt; Skittles Sorting Machine"
+score: 2100
+permalink: "/r/technology/comments/12lv8f/for_all_skittles_fans_with_ocd_skittles_sorting/"
+created: 11/04/2012 13:06:04
+created_utc: 11/04/2012 05:06:04
+title: "Skittles Sorting Machine 2"
+
+
+
+
+domain: "guardian.co.uk"
+title: "FBI's abuse of the surveillance state is the real scandal needing investigation"
+score: 2092
+permalink: "/r/technology/comments/134y3x/fbis_abuse_of_the_surveillance_state_is_the_real/"
+created: 11/13/2012 22:31:26
+created_utc: 11/13/2012 14:31:26
+
+
+domain: "news.cnet.com"
+title: "Sales of the galaxy SIII actually rose after the iphone 5 was revealed"
+score: 2040
+permalink: "/r/technology/comments/1272qu/sales_of_the_galaxy_siii_actually_rose_after_the/"
+created: 10/28/2012 04:05:04
+created_utc: 10/27/2012 20:05:04
+
+
+domain: "latimes.com"
+title: "Android now accounts for 72% of worldwide smartphone market "
+score: 1977
+permalink: "/r/technology/comments/138hvd/android_now_accounts_for_72_of_worldwide/"
+created: 11/15/2012 14:51:29
+created_utc: 11/15/2012 06:51:29
+
+
+domain: "theverge.com"
+title: "Windows 8 review | The Verge"
+score: 1968
+permalink: "/r/technology/comments/11y2zs/windows_8_review_the_verge/"
+created: 10/23/2012 18:14:03
+created_utc: 10/23/2012 10:14:03
+
+
+domain: "engadget.com"
+title: "Microsoft 'retiring' Facebook and Twitter Xbox 360 Dashboard apps "
+score: 1895
+permalink: "/r/technology/comments/11stvp/microsoft_retiring_facebook_and_twitter_xbox_360/"
+created: 10/20/2012 19:42:23
+created_utc: 10/20/2012 11:42:23
+
+
+domain: "bgr.com"
+title: "New Chrome Extension replaces your friends' political rants on Facebook with pictures of cute kittens"
+score: 1843
+permalink: "/r/technology/comments/124bvm/new_chrome_extension_replaces_your_friends/"
+created: 10/26/2012 16:19:21
+created_utc: 10/26/2012 08:19:21
+
+
+domain: "arstechnica.com"
+title: "Voters boot three SOPA-sponsoring Hollywood allies from Congress"
+score: 1787
+permalink: "/r/technology/comments/12tgpm/voters_boot_three_sopasponsoring_hollywood_allies/"
+created: 11/08/2012 00:08:05
+created_utc: 11/07/2012 16:08:05
+
+
+domain: "techdirt.com"
+title: "UN: The Problem With The Internet Today Is It's Just Too Open &amp; Terrorists Might Use It"
+score: 1772
+permalink: "/r/technology/comments/120hcw/un_the_problem_with_the_internet_today_is_its/"
+created: 10/24/2012 20:40:31
+created_utc: 10/24/2012 12:40:31
+
+
+domain: "googleblog.blogspot.com"
+title: "\nNexus: The best of Google, now in three sizes"
+score: 1752
+permalink: "/r/technology/comments/12a4qh/nexus_the_best_of_google_now_in_three_sizes/"
+created: 10/29/2012 20:19:02
+created_utc: 10/29/2012 12:19:02
+
+
+domain: "geek.com"
+title: "Sony announces 20-inch, 11-pound tablet"
+score: 1671
+permalink: "/r/technology/comments/11smk6/sony_announces_20inch_11pound_tablet/"
+created: 10/20/2012 09:09:09
+created_utc: 10/20/2012 08:09:09
+
+
+domain: "thenextweb.com"
+title: "US Gov't Rules Jailbreaking Phones Legal, Illegal For Tablets"
+score: 1615
+permalink: "/r/technology/comments/123z43/us_govt_rules_jailbreaking_phones_legal_illegal/"
+created: 10/26/2012 09:11:30
+created_utc: 10/26/2012 01:11:30
+
+
+domain: "eff.org"
+title: "US Gov't - you don't own your cloud data, and we can access it. Megaupload and the Government's Attack on Cloud Computing | Electronic Frontier Foundation"
+score: 1603
+permalink: "/r/technology/comments/12h5pf/us_govt_you_dont_own_your_cloud_data_and_we_can/"
+created: 11/02/2012 00:33:06
+created_utc: 11/01/2012 16:33:06
+
+
+domain: "urthecast.com"
+title: "TIL there is a company that will be publishing a live HD feed of Earth from space"
+score: 1544
+permalink: "/r/technology/comments/12uzq0/til_there_is_a_company_that_will_be_publishing_a/"
+created: 11/08/2012 18:51:06
+created_utc: 11/08/2012 10:51:06
+
+
+domain: "bbc.co.uk"
+title: "Apple paid only 2% corporation tax outside US"
+score: 1512
+permalink: "/r/technology/comments/12m47g/apple_paid_only_2_corporation_tax_outside_us/"
+created: 11/04/2012 18:29:58
+created_utc: 11/04/2012 10:29:58
+
+
+domain: "rt.com"
+title: "Judge orders the FBI to explain their Internet spy plans"
+score: 1507
+permalink: "/r/technology/comments/12jadb/judge_orders_the_fbi_to_explain_their_internet/"
+created: 11/03/2012 01:45:08
+created_utc: 11/02/2012 17:45:08
+
+
+domain: "bgr.com"
+title: " A student from the U.K. has created a 'virtual' keyboard for the iPhone by using its built-in accelerometer. Here's a video of how it works."
+score: 1507
+permalink: "/r/technology/comments/131m65/a_student_from_the_uk_has_created_a_virtual/"
+created: 11/11/2012 23:37:30
+created_utc: 11/11/2012 22:37:30
+
+
+
+
+domain: "wired.com"
+title: "In Billions of Years, Aliens Will Find These Photos in a \nDead Satellite"
+score: 1471
+permalink: "/r/technology/comments/12c9uy/in_billions_of_years_aliens_will_find_these/"
+created: 10/30/2012 19:15:37
+created_utc: 10/30/2012 11:15:37
+
+
+domain: "arstechnica.com"
+title: "Judge puts an end to Apple's patent license lawsuit against Motorola"
+score: 1424
+permalink: "/r/technology/comments/12pzl6/judge_puts_an_end_to_apples_patent_license/"
+created: 11/06/2012 12:10:30
+created_utc: 11/06/2012 04:10:30
+
+
+domain: "extremetech.com"
+title: "Engineers have discovered a way of boosting the throughput of busy WiFi networks by up to 700%. The breakthrough is purely software-based, meaning it could be rolled out to existing WiFi networks relatively easily \u2014 instantly improving the throughput and latency of the network."
+score: 1421
+permalink: "/r/technology/comments/1375c3/engineers_have_discovered_a_way_of_boosting_the/"
+created: 11/14/2012 23:15:09
+created_utc: 11/14/2012 15:15:09
+
+
+
+
+domain: "slate.com"
+title: "Skype violated its own privacy policy by handing over data on a teen WikiLeaks supporter to a private intelligence company"
+score: 1321
+permalink: "/r/technology/comments/12zrd2/skype_violated_its_own_privacy_policy_by_handing/"
+created: 11/11/2012 05:57:38
+created_utc: 11/10/2012 21:57:38
+
+
+domain: "news.hitb.org"
+title: "Kim Dotcom's New Domain Me.ga Seized before its launch | HITBSecNews"
+score: 1317
+permalink: "/r/technology/comments/12vp39/kim_dotcoms_new_domain_mega_seized_before_its/"
+created: 11/09/2012 01:14:55
+created_utc: 11/08/2012 17:14:55
+
+
+domain: "engadget.com"
+title: "MIT researchers use algebraic equation that improves WiFi and LTE data streams by boosting speed and reducing network congestion."
+score: 1312
+permalink: "/r/technology/comments/120198/mit_researchers_use_algebraic_equation_that/"
+created: 10/24/2012 15:30:38
+created_utc: 10/24/2012 07:30:38
+
+
+domain: "thenextweb.com"
+title: "After backlash on Reddit and Hacker News, Apple stops hiding Samsung apology on its UK site"
+score: 1302
+permalink: "/r/technology/comments/12v7hi/after_backlash_on_reddit_and_hacker_news_apple/"
+created: 11/08/2012 20:54:37
+created_utc: 11/08/2012 12:54:37
+
+
+domain: "businessinsider.com"
+title: "DEAR APPLE: I'm Leaving You - Business Insider"
+score: 1275
+permalink: "/r/technology/comments/12q33v/dear_apple_im_leaving_you_business_insider/"
+created: 11/06/2012 14:28:58
+created_utc: 11/06/2012 06:28:58
+
+
+domain: "ssl.apple.com"
+title: "Apple's new clarification on Samsung copyright case always requires scrolling down to be seen due to a Javascript that resizes iPad banner"
+score: 1261
+permalink: "/r/technology/comments/12kcpo/apples_new_clarification_on_samsung_copyright/"
+created: 11/03/2012 18:43:59
+created_utc: 11/03/2012 10:43:59
+
+
+domain: "washingtonpost.com"
+title: "How not to regulate driverless cars - DC law would put a separate tax on them, require they be hybrids, require that someone be in driver's seat"
+score: 1243
+permalink: "/r/technology/comments/12og4i/how_not_to_regulate_driverless_cars_dc_law_would/"
+created: 11/05/2012 14:22:18
+created_utc: 11/05/2012 13:22:18
+
+
+domain: "makerfaireafrica.com"
+title: "Four African teenagers invent a urine-powered generator"
+score: 1210
+permalink: "/r/technology/comments/12qseo/four_african_teenagers_invent_a_urinepowered/"
+created: 11/06/2012 22:03:51
+created_utc: 11/06/2012 14:03:51
+
+
+domain: "arstechnica.com"
+title: "Google Fiber is live in Kansas City, real-world speeds at 700 Mbps"
+score: 1202
+permalink: "/r/technology/comments/135rt1/google_fiber_is_live_in_kansas_city_realworld/"
+created: 11/14/2012 05:47:31
+created_utc: 11/13/2012 21:47:31
+
+
+domain: "extremetech.com"
+title: "Android now powers 75% of all smartphones sold. Are we heading towards a Google monopoly?"
+score: 1202
+permalink: "/r/technology/comments/12j0jq/android_now_powers_75_of_all_smartphones_sold_are/"
+created: 11/02/2012 16:07:55
+created_utc: 11/02/2012 15:07:55
+
+
+domain: "defectivebydesign.org"
+title: "Tell Amazon: Books and Libraries Shouldn't Have a Kill Switch"
+score: 1175
+permalink: "/r/technology/comments/12wsw6/tell_amazon_books_and_libraries_shouldnt_have_a/"
+created: 11/09/2012 15:57:53
+created_utc: 11/09/2012 07:57:53
+
+
+domain: "theregister.co.uk"
+title: "A lesser-known new feature in iOS 6: It's tracking \nyou everywhere"
+score: 1132
+permalink: "/r/technology/comments/11u6hj/a_lesserknown_new_feature_in_ios_6_its_tracking/"
+created: 10/21/2012 13:00:17
+created_utc: 10/21/2012 05:00:17
+
+
+domain: "adblockplus.org"
+title: "Adblock Plus updates to allow \"acceptable ads\" by default; Full Disable still an option"
+score: 1101
+permalink: "/r/technology/comments/1257yl/adblock_plus_updates_to_allow_acceptable_ads_by/"
+created: 10/27/2012 01:25:49
+created_utc: 10/26/2012 17:25:49
+
+
+domain: "wired.com"
+title: "Most U.S. Drones Openly Broadcast Secret Video Feeds - Four years after discovering that militants were tapping into drone video feeds, the U.S. military still hasn't secured the transmissions of more than half of its fleet of Predator and Reaper drones"
+score: 1086
+permalink: "/r/technology/comments/129m3t/most_us_drones_openly_broadcast_secret_video/"
+created: 10/29/2012 12:37:33
+created_utc: 10/29/2012 04:37:33
+
+
+domain: "ifixit.com"
+title: "iPad mini gets a repairability score of 2/10 by iFixit"
+score: 1074
+permalink: "/r/technology/comments/12ix04/ipad_mini_gets_a_repairability_score_of_210_by/"
+created: 11/02/2012 22:10:45
+created_utc: 11/02/2012 14:10:45
+
+
+domain: "theregister.co.uk"
+title: "Apple engineers 'pay no attention to anyone's patents', court told"
+score: 1004
+permalink: "/r/technology/comments/12spuo/apple_engineers_pay_no_attention_to_anyones/"
+created: 11/07/2012 17:25:06
+created_utc: 11/07/2012 09:25:06
+
+
+domain: "projects.propublica.org"
+title: "Don't forget who supported SOPA"
+score: 995
+permalink: "/r/technology/comments/12goly/dont_forget_who_supported_sopa/"
+created: 11/01/2012 13:13:17
+created_utc: 11/01/2012 12:13:17
+
+
+domain: "theaustralian.com.au"
+title: "Apple pays Swiss Rail $21m after having copied its clock design without permission"
+score: 980
+permalink: "/r/technology/comments/132m7b/apple_pays_swiss_rail_21m_after_having_copied_its/"
+created: 11/12/2012 14:00:07
+created_utc: 11/12/2012 13:00:07
+
+
+domain: "allthingsd.com"
+title: "Windows head Steven Sinofsky leaving Microsoft"
+score: 954
+permalink: "/r/technology/comments/133j7a/windows_head_steven_sinofsky_leaving_microsoft/"
+created: 11/13/2012 04:49:16
+created_utc: 11/12/2012 20:49:16
+
+
+domain: "masspirates.org"
+title: "House GOP yanks copyright reform proposal, we put it up | Massachusetts Pirate Party"
+score: 1034
+permalink: "/r/technology/comments/13eh55/house_gop_yanks_copyright_reform_proposal_we_put/"
+created: 11/18/2012 19:14:48
+created_utc: 11/18/2012 11:14:48
+
+
+domain: "shop.nationalgeographic.com"
+title: "The National Geographic magazine on a 160GB hard drive - every single issue since 1888. "
+score: 879
+permalink: "/r/technology/comments/12hp6b/the_national_geographic_magazine_on_a_160gb_hard/"
+created: 11/02/2012 05:30:43
+created_utc: 11/01/2012 21:30:43
+
+
+domain: "technologyreview.com"
+title: "The Most Important Education Technology in 200 Years: Students anywhere are being offered free instruction online. What will that do to the trillion-dollar education business? "
+score: 865
+permalink: "/r/technology/comments/12kbyb/the_most_important_education_technology_in_200/"
+created: 11/03/2012 18:24:58
+created_utc: 11/03/2012 10:24:58
+
+
+domain: "blog.archive.org"
+title: "10 Petabytes (10,000,000,000,000,000 bytes) of cultural material saved by Internet Archive"
+score: 860
+permalink: "/r/technology/comments/125ay9/10_petabytes_10000000000000000_bytes_of_cultural/"
+created: 10/27/2012 02:18:19
+created_utc: 10/26/2012 18:18:19
+
+
+domain: "arstechnica.com"
+title: "Police allowed to install cameras on private property without a warrant. Court says the following: \"Fourth Amendment allows 24/7 camera surveillance of 'open fields.'\""
+score: 853
+permalink: "/r/technology/comments/12e21g/police_allowed_to_install_cameras_on_private/"
+created: 10/31/2012 12:32:58
+created_utc: 10/31/2012 04:32:58
+
+
+domain: "bgr.com"
+title: "Zynga's latest round of job cuts have apparently pissed off Anonymous. The hacking group has allegedly obtained confidential documents that suggest Zynga is moving these jobs to other countries, and unless Zynga abandons these plans, they will release all their games for free."
+score: 820
+permalink: "/r/technology/comments/12ettw/zyngas_latest_round_of_job_cuts_have_apparently/"
+created: 10/31/2012 22:34:13
+created_utc: 10/31/2012 14:34:13
+
+
+domain: "mega.co.nz"
+title: "Kim Dotcom\u2019s Mega goes online at Mega.co.nz"
+score: 798
+permalink: "/r/technology/comments/132431/kim_dotcoms_mega_goes_online_at_megaconz/"
+created: 11/12/2012 07:07:55
+created_utc: 11/12/2012 06:07:55
+
+
+domain: "computerworld.com"
+title: "Intel releases third-gen data center SSD, slashes price by 40%"
+score: 791
+permalink: "/r/technology/comments/12q6yu/intel_releases_thirdgen_data_center_ssd_slashes/"
+created: 11/06/2012 16:26:17
+created_utc: 11/06/2012 08:26:17
+
+
+domain: "theverge.com"
+title: "Google set to unveil a 10\" Nexus tablet with Key Lime Pie this month. "
+score: 760
+permalink: "/r/technology/comments/11uge5/google_set_to_unveil_a_10_nexus_tablet_with_key/"
+created: 10/21/2012 12:15:35
+created_utc: 10/21/2012 11:15:35
+
+
+domain: "wired.co.uk"
+title: "Netherlands highways will glow in the dark from mid-2013."
+score: 760
+permalink: "/r/technology/comments/12caz7/netherlands_highways_will_glow_in_the_dark_from/"
+created: 10/30/2012 19:33:47
+created_utc: 10/30/2012 11:33:47
+
+
+domain: "wired.com"
+title: "How a Google Headhunter\u2019s E-Mail Unraveled a Massive Net Security Hole"
+score: 751
+permalink: "/r/technology/comments/1206im/how_a_google_headhunters_email_unraveled_a/"
+created: 10/24/2012 10:43:39
+created_utc: 10/24/2012 09:43:39
+
+
+domain: "theverge.com"
+title: "Apple complies with UK judgment, acknowledges that Samsung didn't copy iPad design"
+score: 745
+permalink: "/r/technology/comments/1247cx/apple_complies_with_uk_judgment_acknowledges_that/"
+created: 10/26/2012 13:35:50
+created_utc: 10/26/2012 05:35:50
+
+
+domain: "ifixit.com"
+title: "Nexus 4 teardown reveals... LTE chip?"
+score: 719
+permalink: "/r/technology/comments/13cods/nexus_4_teardown_reveals_lte_chip/"
+created: 11/17/2012 17:33:10
+created_utc: 11/17/2012 09:33:10
+
+
+domain: "arstechnica.com"
+title: "Facebook now gives all new users a privacy tutorial, thanks to Irish authorities"
+score: 713
+permalink: "/r/technology/comments/12k937/facebook_now_gives_all_new_users_a_privacy/"
+created: 11/03/2012 16:54:25
+created_utc: 11/03/2012 08:54:25
+
+
+domain: "bgr.com"
+title: "AT&amp;T refuses to tell customers how it measures capped bandwidth usage\n\n"
+score: 687
+permalink: "/r/technology/comments/138rh2/att_refuses_to_tell_customers_how_it_measures/"
+created: 11/15/2012 18:44:14
+created_utc: 11/15/2012 10:44:14
+
+
+domain: "arstechnica.com"
+title: "FCC orders AT&amp;T to refund overcharged \u201cgrandfathered\u201d data users | Ars Technica"
+score: 689
+permalink: "/r/technology/comments/12suaq/fcc_orders_att_to_refund_overcharged/"
+created: 11/07/2012 18:44:28
+created_utc: 11/07/2012 10:44:28
+
+
+domain: "reason.com"
+title: "President Obama Unilaterally Gives Cybersecurity Powers to the Military-With the stroke of a pen, we now have two problems: Potentially bad policy inflicted on the nation through an abuse of executive power."
+score: 880
+permalink: "/r/technology/comments/13em3i/president_obama_unilaterally_gives_cybersecurity/"
+created: 11/18/2012 21:02:13
+created_utc: 11/18/2012 13:02:13
+
+
+domain: "news.cnet.com"
+title: "Android now has as many apps as Apple"
+score: 672
+permalink: "/r/technology/comments/12ci5d/android_now_has_as_many_apps_as_apple/"
+created: 10/30/2012 21:25:16
+created_utc: 10/30/2012 13:25:16
+
+
+domain: "guardian.co.uk"
+title: "Everyone wants a slice of Raspberry Pi"
+score: 664
+permalink: "/r/technology/comments/12lwv5/everyone_wants_a_slice_of_raspberry_pi/"
+created: 11/04/2012 14:25:57
+created_utc: 11/04/2012 06:25:57
+
+
+domain: "techdirt.com"
+title: "House Republicans: Copyright Law Destroys Markets; It's Time For Real Reform"
+score: 664
+permalink: "/r/technology/comments/13c5af/house_republicans_copyright_law_destroys_markets/"
+created: 11/17/2012 07:07:13
+created_utc: 11/16/2012 23:07:13
+
+
+domain: "nvidianews.nvidia.com"
+title: "NVIDIA Delivers Massive Performance Boost to Linux Gaming"
+score: 657
+permalink: "/r/technology/comments/12qnvv/nvidia_delivers_massive_performance_boost_to/"
+created: 11/06/2012 21:00:56
+created_utc: 11/06/2012 13:00:56
+
+
+domain: "thehackernews.com"
+title: "Anonymous going to lauch wikileaks like project called TYLER"
+score: 646
+permalink: "/r/technology/comments/1201w1/anonymous_going_to_lauch_wikileaks_like_project/"
+created: 10/24/2012 08:52:45
+created_utc: 10/24/2012 07:52:45
+
+
+domain: "networkworld.com"
+title: "Cisco VP (and former CIA operations officer) tells anonymous memo leaker: Finding you is now \"my hobby.\""
+score: 642
+permalink: "/r/technology/comments/12vc3v/cisco_vp_and_former_cia_operations_officer_tells/"
+created: 11/08/2012 22:02:45
+created_utc: 11/08/2012 14:02:45
+
+
+domain: "theverge.com"
+title: "The Nexus 4: Google's flagship phone lands November 13th for $299"
+score: 615
+permalink: "/r/technology/comments/12a52c/the_nexus_4_googles_flagship_phone_lands_november/"
+created: 10/29/2012 20:23:53
+created_utc: 10/29/2012 12:23:53
+
+
+domain: "whitehouse.gov"
+title: "TIL Air Force One is shielded against EMPs"
+score: 583
+permalink: "/r/technology/comments/135q5o/til_air_force_one_is_shielded_against_emps/"
+created: 11/14/2012 05:24:13
+created_utc: 11/13/2012 21:24:13
+
+
+domain: "dendory.net"
+title: "This man speaks sense: \"The amount of crap computer users have to put up with is incredible\""
+score: 566
+permalink: "/r/technology/comments/12zkwg/this_man_speaks_sense_the_amount_of_crap_computer/"
+created: 11/11/2012 03:49:24
+created_utc: 11/10/2012 19:49:24
+
+
+domain: "mashable.com"
+title: "Samsung: We Have No Intention of Settling With Apple Like HTC"
+score: 543
+permalink: "/r/technology/comments/136o3v/samsung_we_have_no_intention_of_settling_with/"
+created: 11/14/2012 18:54:16
+created_utc: 11/14/2012 10:54:16
+
+
+domain: "torrentfreak.com"
+title: "10,000 Artists Sign Up for Pirate Bay Promotion"
+score: 528
+permalink: "/r/technology/comments/12ov3s/10000_artists_sign_up_for_pirate_bay_promotion/"
+created: 11/06/2012 00:52:48
+created_utc: 11/05/2012 16:52:48
+
+
+domain: "thenextweb.com"
+title: "The Chinese government has blocked access to Google.com, Gmail, Google Maps, Google Docs, Google Analytics, Google Drive, and many other Google services."
+score: 519
+permalink: "/r/technology/comments/12xffu/the_chinese_government_has_blocked_access_to/"
+created: 11/09/2012 22:45:01
+created_utc: 11/09/2012 14:45:01
+
+
+domain: "kim.com"
+title: "Kim Dotcom's New Project: An encrypted, global, \"cloud\" filesystem, in the browser"
+score: 527
+permalink: "/r/technology/comments/12fmgp/kim_dotcoms_new_project_an_encrypted_global_cloud/"
+created: 11/01/2012 05:23:23
+created_utc: 10/31/2012 21:23:23
+
+
+domain: "onforb.es"
+title: "One Man, One Computer, 10 Million Students: How Khan Academy Is Reinventing Education - Forbes"
+score: 521
+permalink: "/r/technology/comments/12iv80/one_man_one_computer_10_million_students_how_khan/"
+created: 11/02/2012 21:43:29
+created_utc: 11/02/2012 13:43:29
+
+
+domain: "extremetech.com"
+title: "Increasing wireless network speed by 1000%, by replacing packets with algebra. "
+score: 517
+permalink: "/r/technology/comments/11y5ga/increasing_wireless_network_speed_by_1000_by/"
+created: 10/23/2012 11:57:03
+created_utc: 10/23/2012 10:57:03
+
+
+domain: "bgr.com"
+title: "For the first time since its release in 2007, iPhone user loyalty drops in both the United States and  Europe \n"
+score: 511
+permalink: "/r/technology/comments/12clos/for_the_first_time_since_its_release_in_2007/"
+created: 10/30/2012 22:17:55
+created_utc: 10/30/2012 14:17:55
+
+
+domain: "zdnet.com"
+title: "Yes, the FBI and CIA can read your email (even if you're outside the United States). Here's how they do it."
+score: 507
+permalink: "/r/technology/comments/135b5z/yes_the_fbi_and_cia_can_read_your_email_even_if/"
+created: 11/14/2012 01:34:42
+created_utc: 11/13/2012 17:34:42
+
+
+domain: "theverge.com"
+title: "Microsoft is working towards retiring its Windows Live Messenger client in favor of Skype. The Verge has learned through several sources that Microsoft's Windows Live Messenger service will be retired in the coming months and integrated into Skype"
+score: 500
+permalink: "/r/technology/comments/12o2ko/microsoft_is_working_towards_retiring_its_windows/"
+created: 11/05/2012 17:48:15
+created_utc: 11/05/2012 09:48:15
+
+
+domain: "intel.com"
+title: "USB 3.0 has been found to cause interference that may hinder performance of nearby wireless devices in the 2.4GHz band, including Wi-Fi and Bluetooth."
+score: 505
+permalink: "/r/technology/comments/136g7y/usb_30_has_been_found_to_cause_interference_that/"
+created: 11/14/2012 16:00:08
+created_utc: 11/14/2012 08:00:08
+
+
+domain: "thenextweb.com"
+title: "Security hole allows anyone to hijack your Skype account using only your email address"
+score: 495
+permalink: "/r/technology/comments/1368yk/security_hole_allows_anyone_to_hijack_your_skype/"
+created: 11/14/2012 11:29:26
+created_utc: 11/14/2012 03:29:26
+
+
+domain: "torrentfreak.com"
+title: "Six-Strikes \u201cIndependent Expert\u201d Is RIAA\u2019s Former Lobbying Firm"
+score: 493
+permalink: "/r/technology/comments/11w3c8/sixstrikes_independent_expert_is_riaas_former/"
+created: 10/22/2012 15:38:45
+created_utc: 10/22/2012 07:38:45
+
+
+domain: "engadget.com"
+title: "Tesla Model S electrifies Motor Trend judges, unanimously voted 2013 Car of the Year -- Engadget"
+score: 488
+permalink: "/r/technology/comments/134yrp/tesla_model_s_electrifies_motor_trend_judges/"
+created: 11/13/2012 22:40:03
+created_utc: 11/13/2012 14:40:03
+
+
+domain: "fastcompany.com"
+title: "Sandy Prompts Louder Calls For Free Wi-Fi"
+score: 492
+permalink: "/r/technology/comments/12m7d8/sandy_prompts_louder_calls_for_free_wifi/"
+created: 11/04/2012 19:35:07
+created_utc: 11/04/2012 11:35:07
+
+
+domain: "news.cnet.com"
+title: "Obama, Congress get poor grades for Internet openness. Both Obama administration and House Republicans \"have a long way to go\" when it comes to allowing programmers and the public access to key government data, forthcoming report says."
+score: 486
+permalink: "/r/technology/comments/12iitl/obama_congress_get_poor_grades_for_internet/"
+created: 11/02/2012 18:11:28
+created_utc: 11/02/2012 10:11:28
+
+
+domain: "news.cnet.com"
+title: "Time is money: Apple pays $21M for clock design"
+score: 482
+permalink: "/r/technology/comments/1308c9/time_is_money_apple_pays_21m_for_clock_design/"
+created: 11/11/2012 14:20:09
+created_utc: 11/11/2012 06:20:09
+
+
+domain: "extremetech.com"
+title: "Curiosity\u2019s latest discovery probably rules out life on Mars"
+score: 478
+permalink: "/r/technology/comments/13223j/curiositys_latest_discovery_probably_rules_out/"
+created: 11/12/2012 12:46:21
+created_utc: 11/12/2012 04:46:21
+
+
+domain: "torrentfreak.com"
+title: "Pirate Bay Founder Held In Solitary Confinement \u2013 Write Him a Letter Today"
+score: 470
+permalink: "/r/technology/comments/11uy5c/pirate_bay_founder_held_in_solitary_confinement/"
+created: 10/21/2012 17:35:49
+created_utc: 10/21/2012 16:35:49
+
+
+domain: "torrentfreak.com"
+title: "Me.ga Hackers: We\u2019re Real Pirates &amp; We\u2019ll Sell Dotcom\u2019s Domain To Universal"
+score: 474
+permalink: "/r/technology/comments/12se6k/mega_hackers_were_real_pirates_well_sell_dotcoms/"
+created: 11/07/2012 11:33:20
+created_utc: 11/07/2012 03:33:20
+
+
+domain: "techdirt.com"
+title: "$6.6 Million Ruling Against Lyrics Site, Once Again, Shows How Short Sighted Music Industry Is"
+score: 469
+permalink: "/r/technology/comments/12z7ci/66_million_ruling_against_lyrics_site_once_again/"
+created: 11/10/2012 23:32:19
+created_utc: 11/10/2012 15:32:19
+
+
+domain: "yro.slashdot.org"
+title: "NetFlix Caught Stealing DivX Subtitles From Finnish Pirates - Slashdot"
+score: 462
+permalink: "/r/technology/comments/11utt6/netflix_caught_stealing_divx_subtitles_from/"
+created: 10/21/2012 16:21:52
+created_utc: 10/21/2012 15:21:52
+
+
+domain: "bits.blogs.nytimes.com"
+title: "Apple Now Owns the Page Turn"
+score: 449
+permalink: "/r/technology/comments/13bb9c/apple_now_owns_the_page_turn/"
+created: 11/16/2012 22:40:21
+created_utc: 11/16/2012 14:40:21
+
+
+domain: "washingtonpost.com"
+title: "The online search engine DuckDuckGo does not track users. It doesn\u2019t generate search results based on a user\u2019s previous interests. It is not cluttered with ads. And its use is soaring."
+score: 440
+permalink: "/r/technology/comments/12ytrg/the_online_search_engine_duckduckgo_does_not/"
+created: 11/10/2012 19:24:25
+created_utc: 11/10/2012 11:24:25
+
+
+domain: "engadget.com"
+title: "Apple publishes 'Samsung did not copy' statement through gritted teeth"
+score: 443
+permalink: "/r/technology/comments/124ua8/apple_publishes_samsung_did_not_copy_statement/"
+created: 10/26/2012 14:51:46
+created_utc: 10/26/2012 13:51:46
+
+
+domain: "engadget.com"
+title: "Samsung's new 10nm-process 64GB mobile flash memory chips are smaller, faster, better"
+score: 436
+permalink: "/r/technology/comments/13cmsn/samsungs_new_10nmprocess_64gb_mobile_flash_memory/"
+created: 11/17/2012 16:44:03
+created_utc: 11/17/2012 08:44:03
+
+
+domain: "techdirt.com"
+title: "RIAA apparently forgot to tell \"six strikes\" coordinators that the 'independent' firm it hired used to lobby for the RIAA"
+score: 423
+permalink: "/r/technology/comments/1294lu/riaa_apparently_forgot_to_tell_six_strikes/"
+created: 10/29/2012 06:28:41
+created_utc: 10/28/2012 22:28:41
+
+
+domain: "economist.com"
+title: "Nitrogen cycle - difference engine: end of the electric car?"
+score: 414
+permalink: "/r/technology/comments/11ua2q/nitrogen_cycle_difference_engine_end_of_the/"
+created: 10/21/2012 15:54:31
+created_utc: 10/21/2012 07:54:31
+
+
+domain: "eff.org"
+title: "Fact Checking Obama's Misleading Answer About Warrantless Wiretapping on The Daily Show | Electronic Frontier Foundation"
+score: 409
+permalink: "/r/technology/comments/120ip2/fact_checking_obamas_misleading_answer_about/"
+created: 10/24/2012 21:00:03
+created_utc: 10/24/2012 13:00:03
+
+
+domain: "torrentfreak.com"
+title: "Parents Not Responsible For Their Teenager\u2019s Music Piracy"
+score: 405
+permalink: "/r/technology/comments/13aqy3/parents_not_responsible_for_their_teenagers_music/"
+created: 11/16/2012 17:03:09
+created_utc: 11/16/2012 09:03:09
+
+
+domain: "thehackernews.com"
+title: "Anonymous leaks VMware ESX Server Kernel's Source Code"
+score: 401
+permalink: "/r/technology/comments/12lx0x/anonymous_leaks_vmware_esx_server_kernels_source/"
+created: 11/04/2012 14:34:16
+created_utc: 11/04/2012 06:34:16
+
+
+domain: "arstechnica.com"
+title: "Taliban fails to BCC an e-mail, reveals its entire PR mailing list"
+score: 391
+permalink: "/r/technology/comments/13b4db/taliban_fails_to_bcc_an_email_reveals_its_entire/"
+created: 11/16/2012 20:57:51
+created_utc: 11/16/2012 12:57:51
+
+
+domain: "nakedsecurity.sophos.com"
+title: "Yahoo! rejects privacy arguments, ignores do not track from IE 10 users"
+score: 389
+permalink: "/r/technology/comments/12c6tn/yahoo_rejects_privacy_arguments_ignores_do_not/"
+created: 10/30/2012 18:20:10
+created_utc: 10/30/2012 10:20:10
+
+
+domain: "translate.google.com"
+title: "Amazon turns: Reopened Linn's account. Without explaining why.."
+score: 383
+permalink: "/r/technology/comments/11xpxt/amazon_turns_reopened_linns_account_without/"
+created: 10/23/2012 11:57:08
+created_utc: 10/23/2012 03:57:08
+
+
+domain: "linux.com"
+title: "94 Percent of the World's Top 500 Supercomputers Run Linux"
+score: 383
+permalink: "/r/technology/comments/1370c8/94_percent_of_the_worlds_top_500_supercomputers/"
+created: 11/14/2012 22:00:35
+created_utc: 11/14/2012 14:00:35
+
+
+domain: "dslreports.com"
+title: "AT&amp;T Admits There's No Spectrum Crisis - At Least Until The Next Time They Need Politicians to Do Something"
+score: 374
+permalink: "/r/technology/comments/132ecp/att_admits_theres_no_spectrum_crisis_at_least/"
+created: 11/12/2012 11:52:51
+created_utc: 11/12/2012 10:52:51
+
+
+domain: "flowingdata.com"
+title: "Mapping racist tweets"
+score: 374
+permalink: "/r/technology/comments/12wsys/mapping_racist_tweets/"
+created: 11/09/2012 15:59:32
+created_utc: 11/09/2012 07:59:32
+
+
+domain: "engadget.com"
+title: "Apple told to rewrite 'Samsung did not copy' statement, post it on front page until Dec 14th"
+score: 380
+permalink: "/r/technology/comments/12gdyw/apple_told_to_rewrite_samsung_did_not_copy/"
+created: 11/01/2012 16:52:08
+created_utc: 11/01/2012 08:52:08
+
+
+domain: "slate.com"
+title: "U.S. police and public officials trying to censor content critical of them by demanding Google removes it. Also U.S. leading world Google surveillance requests."
+score: 371
+permalink: "/r/technology/comments/136vcn/us_police_and_public_officials_trying_to_censor/"
+created: 11/14/2012 20:44:50
+created_utc: 11/14/2012 12:44:50
+
+
+domain: "learnoutlive.com"
+title: "Finally a free proxy for watching Netflix/Hulu outside of US"
+score: 371
+permalink: "/r/technology/comments/1324tj/finally_a_free_proxy_for_watching_netflixhulu/"
+created: 11/12/2012 14:40:06
+created_utc: 11/12/2012 06:40:06
+
+
+domain: "guardian.co.uk"
+title: "ACLU fights to stop government surveillance of our citizens: Fisa Amendments \"gave the NSA unprecedented power to monitor the international communications of people living in the United States \u2014 to listen to their phone calls, and to read their emails.\""
+score: 372
+permalink: "/r/technology/comments/11spfe/aclu_fights_to_stop_government_surveillance_of/"
+created: 10/20/2012 17:51:25
+created_utc: 10/20/2012 09:51:25
+
+
+domain: "wired.com"
+title: "Feds Reject Legalizing DVD Cracking, Game Console Modding"
+score: 366
+permalink: "/r/technology/comments/123a4a/feds_reject_legalizing_dvd_cracking_game_console/"
+created: 10/26/2012 02:16:35
+created_utc: 10/25/2012 18:16:35
+
+
+domain: "en.blog.wordpress.com"
+title: "WordPress.com accepts Bitcoins "
+score: 362
+permalink: "/r/technology/comments/139kj1/wordpresscom_accepts_bitcoins/"
+created: 11/16/2012 01:52:01
+created_utc: 11/15/2012 17:52:01
+
+
+domain: "feed.torrentfreak.com"
+title: "BitTorrent Pirate Ordered to Pay $1.5 Million Damages For Sharing 10 Movies"
+score: 357
+permalink: "/r/technology/comments/12ibk5/bittorrent_pirate_ordered_to_pay_15_million/"
+created: 11/02/2012 14:48:01
+created_utc: 11/02/2012 06:48:01
+
+
+domain: "news.cnet.com"
+title: "MPAA: Don't let MegaUpload users access their data. Hollywood studios say allowing MegaUpload users to access the files they stored on the service could lead to even more \"massive infringing\" of copyrights than has already occurred."
+score: 356
+permalink: "/r/technology/comments/12dz94/mpaa_dont_let_megaupload_users_access_their_data/"
+created: 10/31/2012 10:57:59
+created_utc: 10/31/2012 02:57:59
+
+
+domain: "teleread.com"
+title: "It is Now Illegal to Break DRM on E-Books in Canada"
+score: 358
+permalink: "/r/technology/comments/132212/it_is_now_illegal_to_break_drm_on_ebooks_in_canada/"
+created: 11/12/2012 12:43:59
+created_utc: 11/12/2012 04:43:59
+
+
+domain: "news.cnet.com"
+title: "CNET: \"Apple accused of hiding U.K. 'apology' with code.\" Reddit featured."
+score: 353
+permalink: "/r/technology/comments/12l6wi/cnet_apple_accused_of_hiding_uk_apology_with_code/"
+created: 11/04/2012 02:57:41
+created_utc: 11/03/2012 19:57:41
+
+
+domain: "theverge.com"
+title: "UK court orders Apple to pay Samsung's legal fees in full after 'false and misleading' notice"
+score: 349
+permalink: "/r/technology/comments/12z2mi/uk_court_orders_apple_to_pay_samsungs_legal_fees/"
+created: 11/10/2012 22:05:27
+created_utc: 11/10/2012 14:05:27
+
+
+domain: "guardian.co.uk"
+title: "Apple accused of dragging feet over Samsung court order. Judges furious over 'lackadaisical' compliance with order to publicise acknowledgements that South Korean firm did not infringe designs"
+score: 350
+permalink: "/r/technology/comments/12wy2n/apple_accused_of_dragging_feet_over_samsung_court/"
+created: 11/09/2012 18:02:40
+created_utc: 11/09/2012 10:02:40
+
+
+domain: "en.wikipedia.org"
+title: "The USS Enterprise, the world's first nuclear powered aircraft carrier and the oldest active-duty vessel in the United States Navy, will be deactivated on 1 December 2012, two weeks from today. She will have served continually for over 51 years."
+score: 338
+permalink: "/r/technology/comments/13ad7t/the_uss_enterprise_the_worlds_first_nuclear/"
+created: 11/16/2012 02:32:44
+created_utc: 11/16/2012 01:32:44
+
+
+domain: "bgr.com"
+title: "Since Apple\u2019s stock hit a record high when the iPhone 5 launched,it has lost more than $130 billion in market value \u2014 closing on Wednesday down nearly 21%. Why is Apple\u2019s stock tanking as the company continues to break record after record? Wall Street."
+score: 331
+permalink: "/r/technology/comments/12uxd9/since_apples_stock_hit_a_record_high_when_the/"
+created: 11/08/2012 18:08:46
+created_utc: 11/08/2012 10:08:46
+
+
+domain: "gigaom.com"
+title: "A healthy reminder from Amazon: You don\u2019t buy ebooks, you rent them"
+score: 324
+permalink: "/r/technology/comments/11wulb/a_healthy_reminder_from_amazon_you_dont_buy/"
+created: 10/23/2012 03:58:46
+created_utc: 10/22/2012 19:58:46
+
+
+domain: "qsview.com"
+title: "Instant Google Street View? Yes please."
+score: 321
+permalink: "/r/technology/comments/13aq7h/instant_google_street_view_yes_please/"
+created: 11/16/2012 16:45:53
+created_utc: 11/16/2012 08:45:53
+
+
+domain: "newscientist.com"
+title: "Near-real-time speech conversion from one language to another has just become a reality, and the machine speaks the translation in your voice"
+score: 311
+permalink: "/r/technology/comments/130dwk/nearrealtime_speech_conversion_from_one_language/"
+created: 11/11/2012 17:46:30
+created_utc: 11/11/2012 09:46:30
+
+
+domain: "money.cnn.com"
+title: "Google announces new Nexus devices - new Nexus phone is $299 without contract! "
+score: 308
+permalink: "/r/technology/comments/12ab3l/google_announces_new_nexus_devices_new_nexus/"
+created: 10/29/2012 21:49:05
+created_utc: 10/29/2012 13:49:05
+
+
+domain: "google.com"
+title: "Google's new service, the cultural institute"
+score: 293
+permalink: "/r/technology/comments/12vuke/googles_new_service_the_cultural_institute/"
+created: 11/09/2012 02:39:14
+created_utc: 11/08/2012 18:39:14
+
+
+domain: "techcrunch.com"
+title: "Samsung To Cut The Cord, End LCD Panel Supply Relationship With Apple"
+score: 287
+permalink: "/r/technology/comments/11w8yo/samsung_to_cut_the_cord_end_lcd_panel_supply/"
+created: 10/22/2012 18:06:27
+created_utc: 10/22/2012 10:06:27
+
+
+domain: "nytimes.com"
+title: "Killing the Computer to Save It.  Computer Scientist Peter G. Neumann is leading an effort to redesign computers from a \u201cclean slate\u201d to make them more secure."
+score: 280
+permalink: "/r/technology/comments/12bsj3/killing_the_computer_to_save_it_computer/"
+created: 10/30/2012 10:43:11
+created_utc: 10/30/2012 02:43:11
+
+
+domain: "torrentfreak.com"
+title: "uTorrent Listens To Reddit After Backlash Over Toolbar Installer"
+score: 278
+permalink: "/r/technology/comments/12cn91/utorrent_listens_to_reddit_after_backlash_over/"
+created: 10/30/2012 22:40:40
+created_utc: 10/30/2012 14:40:40
+
+
+domain: "bgr.com"
+title: "Apple's iPad mini deemed 'pixel-poor'"
+score: 279
+permalink: "/r/technology/comments/122gcl/apples_ipad_mini_deemed_pixelpoor/"
+created: 10/25/2012 11:56:20
+created_utc: 10/25/2012 10:56:20
+
+
+domain: "news.cnet.com"
+title: "Steve Wozniak Worries Microsoft Is Now More Innovative Than Apple"
+score: 278
+permalink: "/r/technology/comments/13ajfy/steve_wozniak_worries_microsoft_is_now_more/"
+created: 11/16/2012 12:56:02
+created_utc: 11/16/2012 04:56:02
+
+
+domain: "boingboing.net"
+title: "Cowardice: Gutless House Republicans retract copyright paper in less than 24 hours"
+score: 295
+permalink: "/r/technology/comments/13ecbt/cowardice_gutless_house_republicans_retract/"
+created: 11/18/2012 17:01:40
+created_utc: 11/18/2012 09:01:40
+
+
+domain: "pocketables.com"
+title: "Dictionary app auto-posts piracy accusations on users\u2019 Twitter accounts"
+score: 268
+permalink: "/r/technology/comments/134d16/dictionary_app_autoposts_piracy_accusations_on/"
+created: 11/13/2012 16:51:03
+created_utc: 11/13/2012 08:51:03
+
+
+domain: "thenextweb.com"
+title: "Amazing: Microsoft turns spoken English into spoken Mandarin \u2013 in the same voice"
+score: 267
+permalink: "/r/technology/comments/12whm3/amazing_microsoft_turns_spoken_english_into/"
+created: 11/09/2012 09:20:33
+created_utc: 11/09/2012 01:20:33
+
+
+domain: "bgr.com"
+title: "Kim Dotcom Megupload relaunch announced for January 20th | BGR"
+score: 267
+permalink: "/r/technology/comments/129l8y/kim_dotcom_megupload_relaunch_announced_for/"
+created: 10/29/2012 12:02:56
+created_utc: 10/29/2012 04:02:56
+
+
+domain: "wired.com"
+title: "Why Things Fail: From Tires to Helicopter Blades, Everything Breaks Eventually"
+score: 257
+permalink: "/r/technology/comments/11tcfo/why_things_fail_from_tires_to_helicopter_blades/"
+created: 10/21/2012 01:30:24
+created_utc: 10/20/2012 17:30:24
+
+
+domain: "technologyreview.com"
+title: "Fabrication Trick Offers Fivefold Leap in Hard-Disk Capacity: New manufacturing technique could allow drive capacities to keep expanding"
+score: 256
+permalink: "/r/technology/comments/13ck9j/fabrication_trick_offers_fivefold_leap_in/"
+created: 11/17/2012 15:03:06
+created_utc: 11/17/2012 07:03:06
+
+
+domain: "webcache.googleusercontent.com"
+title: "This memo from Nathan Myhrvold at Microsoft in 1993 has got to be one of the most insightful visions of the world to come that I have ever come across. "
+score: 251
+permalink: "/r/technology/comments/12lnh8/this_memo_from_nathan_myhrvold_at_microsoft_in/"
+created: 11/04/2012 08:28:45
+created_utc: 11/04/2012 01:28:45
+
+
+domain: "theatlanticwire.com"
+title: "You Google Wrong. \"Googling isn't just a skill, it's a series of skills. You can choose to just type into that empty box. Or you can take this class and join the 1 percent of Google Searchers.\""
+score: 250
+permalink: "/r/technology/comments/138q55/you_google_wrong_googling_isnt_just_a_skill_its_a/"
+created: 11/15/2012 18:20:06
+created_utc: 11/15/2012 10:20:06
+
+
+domain: "wired.com"
+title: "Feds Say No Dice in Retrieving Your Data Seized in Megaupload Case"
+score: 251
+permalink: "/r/technology/comments/12gsit/feds_say_no_dice_in_retrieving_your_data_seized/"
+created: 11/01/2012 21:15:42
+created_utc: 11/01/2012 13:15:42
+
+
+domain: "theverge.com"
+title: "Windows 8 PC sales reportedly 'well below Microsoft's internal projections'"
+score: 247
+permalink: "/r/technology/comments/13c33e/windows_8_pc_sales_reportedly_well_below/"
+created: 11/17/2012 06:23:54
+created_utc: 11/16/2012 22:23:54
+
+
+domain: "techdirt.com"
+title: "Being A Jackass On Twitter Shouldn't Be Illegal; Public Shame Should Be Enough"
+score: 248
+permalink: "/r/technology/comments/12ec82/being_a_jackass_on_twitter_shouldnt_be_illegal/"
+created: 10/31/2012 17:56:06
+created_utc: 10/31/2012 09:56:06
+
+
+domain: "arcfn.com"
+title: "A dozen USB chargers in the lab: A detailed comparison of chargers from several companies (including some counterfeits)"
+score: 241
+permalink: "/r/technology/comments/129uyr/a_dozen_usb_chargers_in_the_lab_a_detailed/"
+created: 10/29/2012 17:30:23
+created_utc: 10/29/2012 09:30:23
+
+
+domain: "thestreet.com"
+title: "Contrary to certain 'sources', Samsung is not increasing the price of processors for Apple by 20%."
+score: 247
+permalink: "/r/technology/comments/136tyr/contrary_to_certain_sources_samsung_is_not/"
+created: 11/14/2012 20:23:33
+created_utc: 11/14/2012 12:23:33
+
+
+domain: "thenextweb.com"
+title: "Android crushes the competition in China as it passes 90% smartphone market share"
+score: 240
+permalink: "/r/technology/comments/138hz1/android_crushes_the_competition_in_china_as_it/"
+created: 11/15/2012 14:55:38
+created_utc: 11/15/2012 06:55:38
+
+
+domain: "eff.org"
+title: "TV Networks Use Bogus Infringement Claims in Fight to Shut Down Streaming Service | Electronic Frontier Foundation"
+score: 238
+permalink: "/r/technology/comments/12a7lz/tv_networks_use_bogus_infringement_claims_in/"
+created: 10/29/2012 14:00:21
+created_utc: 10/29/2012 13:00:21
+
+
+domain: "autoblog.com"
+title: "Feds ironing out rules for autonomous cars"
+score: 239
+permalink: "/r/technology/comments/124kob/feds_ironing_out_rules_for_autonomous_cars/"
+created: 10/26/2012 19:21:29
+created_utc: 10/26/2012 11:21:29
+
+
+domain: "news.cnet.com"
+title: "Windows 8 sales 'well below' projections, report claims"
+score: 240
+permalink: "/r/technology/comments/13cg4i/windows_8_sales_well_below_projections_report/"
+created: 11/17/2012 11:57:43
+created_utc: 11/17/2012 03:57:43
+
+
+domain: "theregister.co.uk"
+title: "Files aren\u2019t property, says US government"
+score: 235
+permalink: "/r/technology/comments/12n12u/files_arent_property_says_us_government/"
+created: 11/05/2012 03:30:58
+created_utc: 11/04/2012 19:30:58
+
+
+domain: "fiercewireless.com"
+title: "SMS is losing ground to WhatsApp, textPlus and other messaging apps"
+score: 238
+permalink: "/r/technology/comments/1304tp/sms_is_losing_ground_to_whatsapp_textplus_and/"
+created: 11/11/2012 11:40:56
+created_utc: 11/11/2012 03:40:56
+
+
+domain: "techdirt.com"
+title: "AT&amp;T Admits That The Whole 'Spectrum Crunch' Argument It Made For Why It Needed T-Mobile Wasn't True"
+score: 236
+permalink: "/r/technology/comments/12xuen/att_admits_that_the_whole_spectrum_crunch/"
+created: 11/10/2012 02:46:45
+created_utc: 11/09/2012 18:46:45
+
+
+domain: "pcadvisor.co.uk"
+title: "Windows Phone 8 has the ability to show you where to get free Wi-fi... pretty handy!"
+score: 228
+permalink: "/r/technology/comments/12shiz/windows_phone_8_has_the_ability_to_show_you_where/"
+created: 11/07/2012 13:23:10
+created_utc: 11/07/2012 05:23:10
+
+
+domain: "kim.com"
+title: "Kim Dotcom's new Mega site "
+score: 227
+permalink: "/r/technology/comments/12fj6p/kim_dotcoms_new_mega_site/"
+created: 11/01/2012 04:33:42
+created_utc: 10/31/2012 20:33:42
+
+
+domain: "automobilemag.com"
+title: "2013 Automobile of the Year: Tesla Model S"
+score: 231
+permalink: "/r/technology/comments/12h0bs/2013_automobile_of_the_year_tesla_model_s/"
+created: 11/01/2012 23:14:25
+created_utc: 11/01/2012 15:14:25
+
+
+domain: "huffingtonpost.com"
+title: "Jailbreaking Tablets Deemed Illegal By The U.S. Copyright Office "
+score: 227
+permalink: "/r/technology/comments/126l03/jailbreaking_tablets_deemed_illegal_by_the_us/"
+created: 10/27/2012 22:34:44
+created_utc: 10/27/2012 14:34:44
+
+
+domain: "wired.com"
+title: "9-Billion-Pixel Photo of Milky Way's Center Is Full of Stars | Wired Science"
+score: 229
+permalink: "/r/technology/comments/120qfq/9billionpixel_photo_of_milky_ways_center_is_full/"
+created: 10/24/2012 22:50:13
+created_utc: 10/24/2012 14:50:13
+
+
+domain: "arstechnica.com"
+title: "How a Supreme Court ruling may stop you from reselling just about anything"
+score: 227
+permalink: "/r/technology/comments/128yso/how_a_supreme_court_ruling_may_stop_you_from/"
+created: 10/29/2012 04:59:43
+created_utc: 10/28/2012 20:59:43
+
+
+domain: "eurogamer.net"
+title: "DirectX 11.1 will be exclusive to Windows 8"
+score: 224
+permalink: "/r/technology/comments/1329qy/directx_111_will_be_exclusive_to_windows_8/"
+created: 11/12/2012 17:15:06
+created_utc: 11/12/2012 09:15:06
+
+
+domain: "edition.cnn.com"
+title: "Google: 'Government surveillance is on the rise' - CNN.com"
+score: 220
+permalink: "/r/technology/comments/136kh7/google_government_surveillance_is_on_the_rise/"
+created: 11/14/2012 17:45:09
+created_utc: 11/14/2012 09:45:09
+
+
+domain: "motherboard.vice.com"
+title: "What Would You Even Do with a 48-Core Smartphone?: May all your puny dual- and quad-core smartphone chips cower in fear: Intel has been working on 48-core processors for a few years now,"
+score: 220
+permalink: "/r/technology/comments/12jyoq/what_would_you_even_do_with_a_48core_smartphone/"
+created: 11/03/2012 02:40:09
+created_utc: 11/03/2012 01:40:09
+
+
+domain: "torrentfreak.com"
+title: "Games Developer Gives Customer Support To Pirate Bay Downloaders"
+score: 222
+permalink: "/r/technology/comments/124882/games_developer_gives_customer_support_to_pirate/"
+created: 10/26/2012 14:09:42
+created_utc: 10/26/2012 06:09:42
+
+
+domain: "stardock.com"
+title: "Start8 - Bringing back the start menu to windows 8!"
+score: 218
+permalink: "/r/technology/comments/1275rc/start8_bringing_back_the_start_menu_to_windows_8/"
+created: 10/28/2012 05:01:51
+created_utc: 10/27/2012 21:01:51
+
+
+domain: "guardian.co.uk"
+title: "Pay-what-you-want ebooks 'bundle' makes $1.1 m in two weeks"
+score: 222
+permalink: "/r/technology/comments/11xv1d/paywhatyouwant_ebooks_bundle_makes_11_m_in_two/"
+created: 10/23/2012 14:57:11
+created_utc: 10/23/2012 06:57:11
+
+
+domain: "news.cnet.com"
+title: "Federal judge tells FBI to do more to comply with open government laws when disclosing what backdoors it wants Internet companies to create for government surveillance."
+score: 217
+permalink: "/r/technology/comments/12icab/federal_judge_tells_fbi_to_do_more_to_comply_with/"
+created: 11/02/2012 15:15:46
+created_utc: 11/02/2012 07:15:46
+
+
+domain: "devosdiscovery.wordpress.com"
+title: "5 Technologies That Will Shape The Future By 2040"
+score: 216
+permalink: "/r/technology/comments/12kp8z/5_technologies_that_will_shape_the_future_by_2040/"
+created: 11/03/2012 22:53:28
+created_utc: 11/03/2012 14:53:28
+
+
+domain: "assets.sbnation.com"
+title: "Apple officially owns a rectangular device with rounded corners - USD670,286 S"
+score: 211
+permalink: "/r/technology/comments/1376ms/apple_officially_owns_a_rectangular_device_with/"
+created: 11/14/2012 23:34:15
+created_utc: 11/14/2012 15:34:15
+
+
+domain: "theregister.co.uk"
+title: "Judge: Your boss has no right to your emails held by a third party "
+score: 213
+permalink: "/r/technology/comments/13243z/judge_your_boss_has_no_right_to_your_emails_held/"
+created: 11/12/2012 14:08:26
+created_utc: 11/12/2012 06:08:26
+
+
+domain: "torrentfreak.com"
+title: "The evidence review for the controversial \u201csix strikes\u201d anti-piracy warning scheme will be reexamined, it has been confirmed - after news broke that the\u201cimpartial and independent\u201d technology expert who was hired had previously lobbied for the RIAA"
+score: 211
+permalink: "/r/technology/comments/12ebh6/the_evidence_review_for_the_controversial_six/"
+created: 10/31/2012 17:40:13
+created_utc: 10/31/2012 09:40:13
+
+
+domain: "engadget.com"
+title: "AMD releases 8 core processor with a 4ghz base clock speed and 4.2ghz turbo boost for $195"
+score: 211
+permalink: "/r/technology/comments/11yhp9/amd_releases_8_core_processor_with_a_4ghz_base/"
+created: 10/23/2012 22:08:24
+created_utc: 10/23/2012 14:08:24
+
+
+domain: "techcrunch.com"
+title: "U.S. Court Orders Apple To Pay $368 Million Damages For FaceTime Patent Infringement"
+score: 208
+permalink: "/r/technology/comments/12t96m/us_court_orders_apple_to_pay_368_million_damages/"
+created: 11/07/2012 22:23:29
+created_utc: 11/07/2012 14:23:29
+
+
+domain: "cbsnews.com"
+title: "Oldest known voice, music recording restored"
+score: 214
+permalink: "/r/technology/comments/1247t6/oldest_known_voice_music_recording_restored/"
+created: 10/26/2012 13:53:53
+created_utc: 10/26/2012 05:53:53
+
+
+domain: "smh.com.au"
+title: "Security flaws in pacemakers and defibrillators discovered exploiting their use of wireless technology - \"Mr Jack demonstrated how he was able to deliver a deadly 830-volt jolt to a pacemaker by logging into it remotely after hacking it\" (attack possible from up to 12m away)"
+score: 209
+permalink: "/r/technology/comments/12q1py/security_flaws_in_pacemakers_and_defibrillators/"
+created: 11/06/2012 13:32:04
+created_utc: 11/06/2012 05:32:04
+
+
+domain: "news24.com"
+title: "Microsoft sued over Surface storage"
+score: 205
+permalink: "/r/technology/comments/138imh/microsoft_sued_over_surface_storage/"
+created: 11/15/2012 15:17:54
+created_utc: 11/15/2012 07:17:54
+
+
+domain: "bgr.com"
+title: "AT&amp;T and T-Mobile join forces to become the first mobile carriers in the United States to implement a database designed to track customers\u2019 stolen cellular phones."
+score: 202
+permalink: "/r/technology/comments/12ifcf/att_and_tmobile_join_forces_to_become_the_first/"
+created: 11/02/2012 16:53:21
+created_utc: 11/02/2012 08:53:21
+
+
+domain: "news.cnet.com"
+title: "The era of Japanese consumer electronics giants is dead"
+score: 207
+permalink: "/r/technology/comments/12yryh/the_era_of_japanese_consumer_electronics_giants/"
+created: 11/10/2012 18:44:38
+created_utc: 11/10/2012 10:44:38
+
+
+domain: "cnn.com"
+title: "Paralyzed Man Walks with Exoskeleton"
+score: 206
+permalink: "/r/technology/comments/1327x5/paralyzed_man_walks_with_exoskeleton/"
+created: 11/12/2012 16:28:59
+created_utc: 11/12/2012 08:28:59
+
+
+domain: "bgr.com"
+title: "Apple Lightning authentication chip cracked before official Apple partners release their own cables\n"
+score: 202
+permalink: "/r/technology/comments/11wg42/apple_lightning_authentication_chip_cracked/"
+created: 10/22/2012 20:15:58
+created_utc: 10/22/2012 12:15:58
+
+
+domain: "boeing.com"
+title: "CHAMP: Boeing's new missile that can remotely disable electronics was just sucessfully tested"
+score: 201
+permalink: "/r/technology/comments/12065n/champ_boeings_new_missile_that_can_remotely/"
+created: 10/24/2012 10:36:04
+created_utc: 10/24/2012 09:36:04
+
+
+domain: "arstechnica.com"
+title: "How ISPs will do \u201csix strikes\u201d: throttled speeds, blocked sites"
+score: 198
+permalink: "/r/technology/comments/13atw0/how_isps_will_do_six_strikes_throttled_speeds/"
+created: 11/16/2012 11:08:11
+created_utc: 11/16/2012 10:08:11
+
+
+domain: "consciouslifenews.com"
+title: "Denmark Hits 200 Megawatt Solar Capacity Goal 8yrs Ahead of Schedule"
+score: 198
+permalink: "/r/technology/comments/137wv6/denmark_hits_200_megawatt_solar_capacity_goal/"
+created: 11/15/2012 06:07:54
+created_utc: 11/14/2012 22:07:54
+
+
+domain: "twitter.com"
+title: "FEMA Announcement- Text or use social networking sites to prevent congesting phone lines during the hurricane."
+score: 196
+permalink: "/r/technology/comments/12a72q/fema_announcement_text_or_use_social_networking/"
+created: 10/29/2012 13:52:27
+created_utc: 10/29/2012 12:52:27
+
+
+domain: "nbcnews.com"
+title: "Seattle PD to show off its aerial drones Thursday. Probably on the look out for wood carvers."
+score: 194
+permalink: "/r/technology/comments/122nte/seattle_pd_to_show_off_its_aerial_drones_thursday/"
+created: 10/25/2012 20:59:10
+created_utc: 10/25/2012 12:59:10
+
+
+domain: "theverge.com"
+title: "Lenovo now world's largest laptop supplier, defies trends with growing PC sales"
+score: 194
+permalink: "/r/technology/comments/12uq54/lenovo_now_worlds_largest_laptop_supplier_defies/"
+created: 11/08/2012 15:03:03
+created_utc: 11/08/2012 07:03:03
+
+
+domain: "futurity.org"
+title: "Software Adds Brawn to 3D-Printed Objects - \u201cWe not only make the objects structurally better, but we also make them much more inexpensive,\u201d Mech says. \u201cWe have demonstrated a weight and cost savings of 80 percent.\u201d"
+score: 197
+permalink: "/r/technology/comments/126kwj/software_adds_brawn_to_3dprinted_objects_we_not/"
+created: 10/27/2012 15:32:54
+created_utc: 10/27/2012 14:32:54
+
+
+
+
+domain: "cultofmac.com"
+title: "\nSurprise! There\u2019s Apple-Like Lines For Microsoft\u2019s New Tablet"
+score: 193
+permalink: "/r/technology/comments/12761h/surprise_theres_applelike_lines_for_microsofts/"
+created: 10/28/2012 05:07:34
+created_utc: 10/27/2012 21:07:34
+
+
+domain: "9to5google.com"
+title: "Google-Dish wireless service said to be confirmed, will launch in 2013"
+score: 195
+permalink: "/r/technology/comments/13b5lz/googledish_wireless_service_said_to_be_confirmed/"
+created: 11/16/2012 21:16:48
+created_utc: 11/16/2012 13:16:48
+
+
+domain: "edition.cnn.com"
+title: "Project to turn the desert green"
+score: 189
+permalink: "/r/technology/comments/13amzm/project_to_turn_the_desert_green/"
+created: 11/16/2012 15:13:59
+created_utc: 11/16/2012 07:13:59
+
+
+domain: "theregister.co.uk"
+title: "Apple-v-Samsung $1bn iPhone fine: 'Jury foreman was biased'"
+score: 192
+permalink: "/r/technology/comments/12wuyg/applevsamsung_1bn_iphone_fine_jury_foreman_was/"
+created: 11/09/2012 16:54:47
+created_utc: 11/09/2012 08:54:47
+
+
+domain: "bgr.com"
+title: "For Apple, \u2018it\u2019s all downhill from here\u2019"
+score: 192
+permalink: "/r/technology/comments/12st4r/for_apple_its_all_downhill_from_here/"
+created: 11/07/2012 18:25:07
+created_utc: 11/07/2012 10:25:07
+
+
+domain: "eff.org"
+title: "We Invite You to Join EFF"
+score: 188
+permalink: "/r/technology/comments/125j8g/we_invite_you_to_join_eff/"
+created: 10/26/2012 21:56:51
+created_utc: 10/26/2012 20:56:51
+
+
+domain: "arstechnica.com"
+title: "Katy Perry, Rihanna sign ad attacking Pandora for copyright proposal | Ars Technica"
+score: 187
+permalink: "/r/technology/comments/139fbp/katy_perry_rihanna_sign_ad_attacking_pandora_for/"
+created: 11/16/2012 00:38:40
+created_utc: 11/15/2012 16:38:40
+
+
+domain: "readwrite.com"
+title: "Mark Cuban says he's moving the Mavericks and 70 or so other companies he's invested in away from Facebook because their algorithm is decreasing Page reach purposely to get people to by more ads"
+score: 185
+permalink: "/r/technology/comments/13945l/mark_cuban_says_hes_moving_the_mavericks_and_70/"
+created: 11/15/2012 21:56:41
+created_utc: 11/15/2012 13:56:41
+
+
+domain: "tech.infaround.com"
+title: "Google no longer will support custom Background images from November 16, 2012."
+score: 183
+permalink: "/r/technology/comments/12m424/google_no_longer_will_support_custom_background/"
+created: 11/04/2012 18:26:47
+created_utc: 11/04/2012 10:26:47
+
+
+domain: "technologyreview.com"
+title: "First Teleportation From One Macroscopic Object to Another.  Physicists have teleported quantum information from one ensemble of atoms to another 150 metres away, a demonstration that paves the way towards quantum routers and a quantum internet "
+score: 185
+permalink: "/r/technology/comments/138mj3/first_teleportation_from_one_macroscopic_object/"
+created: 11/15/2012 17:06:11
+created_utc: 11/15/2012 09:06:11
+
+
+domain: "motortrend.com"
+title: "2013 Motor Trend Car of the Year: Tesla Model S"
+score: 183
+permalink: "/r/technology/comments/133apv/2013_motor_trend_car_of_the_year_tesla_model_s/"
+created: 11/13/2012 02:45:23
+created_utc: 11/12/2012 18:45:23
+
+
+domain: "pcworld.com"
+title: "Tiny $57 PC is like the Raspberry Pi, but faster and fully open  | PCWorld"
+score: 177
+permalink: "/r/technology/comments/12tmb0/tiny_57_pc_is_like_the_raspberry_pi_but_faster/"
+created: 11/08/2012 01:25:09
+created_utc: 11/07/2012 17:25:09
+
+
+domain: "eff.org"
+title: "Megaupload and the US Government's Attack on Cloud Computing:  '..the govt admitted that it has accessed a (third party) Mr. Goodwin's Megaupload account and reviewed the content of his files.'"
+score: 184
+permalink: "/r/technology/comments/12gnpd/megaupload_and_the_us_governments_attack_on_cloud/"
+created: 11/01/2012 19:59:06
+created_utc: 11/01/2012 11:59:06
+
+
+domain: "thestar.com"
+title: "Man climbs 103 floors with \"mind controlled\" bionic leg"
+score: 179
+permalink: "/r/technology/comments/12o3s8/man_climbs_103_floors_with_mind_controlled_bionic/"
+created: 11/05/2012 18:11:53
+created_utc: 11/05/2012 10:11:53
+
+
+domain: "wired.com"
+title: "Elon Musk's Mission to Mars | Wired Science | Wired.com"
+score: 180
+permalink: "/r/technology/comments/12lzly/elon_musks_mission_to_mars_wired_science_wiredcom/"
+created: 11/04/2012 16:20:48
+created_utc: 11/04/2012 08:20:48
+
+
+domain: "blog.wikimedia.org"
+title: "Introducing Wikipedia\u2019s new HTML5 video player"
+score: 179
+permalink: "/r/technology/comments/12x0bp/introducing_wikipedias_new_html5_video_player/"
+created: 11/09/2012 18:43:59
+created_utc: 11/09/2012 10:43:59
+
+
+domain: "virtusmachina.com"
+title: "Google Trends: Americans more interested in Twinkies than Israel/Gaza"
+score: 408
+permalink: "/r/technology/comments/13f7kd/google_trends_americans_more_interested_in/"
+created: 11/19/2012 03:03:15
+created_utc: 11/18/2012 19:03:15
+
+
+domain: "tomshardware.com"
+title: "With Sinofsky Gone, Start Menu Could Return to Windows 8"
+score: 177
+permalink: "/r/technology/comments/13ed24/with_sinofsky_gone_start_menu_could_return_to/"
+created: 11/18/2012 17:25:37
+created_utc: 11/18/2012 09:25:37
+
+
+domain: "theverge.com"
+title: "NASA to drop water-seeking robot on Moon in 2017, manned lunar base could be next"
+score: 171
+permalink: "/r/technology/comments/12wxss/nasa_to_drop_waterseeking_robot_on_moon_in_2017/"
+created: 11/09/2012 17:56:52
+created_utc: 11/09/2012 09:56:52
+
+
+domain: "mashable.com"
+title: "HTC Will Pay Apple $6-$8 Per Android Phone As Part of Patent Settlement"
+score: 169
+permalink: "/r/technology/comments/132gre/htc_will_pay_apple_68_per_android_phone_as_part/"
+created: 11/12/2012 19:34:40
+created_utc: 11/12/2012 11:34:40
+
+
+domain: "here.net"
+title: "The new online HTML5 Maps from Nokia: here.net - runs on every web browser, including Android and iOS"
+score: 167
+permalink: "/r/technology/comments/134t47/the_new_online_html5_maps_from_nokia_herenet_runs/"
+created: 11/13/2012 21:20:11
+created_utc: 11/13/2012 13:20:11
+
+
+domain: "fsf.org"
+title: "The Copyright Office picked Sony over you; fails to expand DMCA anti-circumvention exemptions"
+score: 169
+permalink: "/r/technology/comments/125a44/the_copyright_office_picked_sony_over_you_fails/"
+created: 10/27/2012 02:03:04
+created_utc: 10/26/2012 18:03:04
+
+
+domain: "businessinsider.com"
+title: "You Won't Believe This, But Gmail Only Just Now Passed Hotmail In Popularity - Business Insider"
+score: 169
+permalink: "/r/technology/comments/12hdog/you_wont_believe_this_but_gmail_only_just_now/"
+created: 11/02/2012 02:31:18
+created_utc: 11/01/2012 18:31:18
+
+
+domain: "googletranslate.blogspot.com"
+title: "Google Translate Gets A Better Dictionary With Smarter Rankings, Reverse Translations And Grouped Synonyms"
+score: 167
+permalink: "/r/technology/comments/12f18i/google_translate_gets_a_better_dictionary_with/"
+created: 11/01/2012 00:17:52
+created_utc: 10/31/2012 16:17:52
+
+
+domain: "torrentfreak.com"
+title: "Why Is Megaupload (Still) Censored by Google\u2019s Piracy Filter?"
+score: 167
+permalink: "/r/technology/comments/127v2h/why_is_megaupload_still_censored_by_googles/"
+created: 10/28/2012 17:46:06
+created_utc: 10/28/2012 09:46:06
+
+
+domain: "ozar.me"
+title: "Why I\u2019m Returning My Microsoft Surface RT"
+score: 167
+permalink: "/r/technology/comments/126nwt/why_im_returning_my_microsoft_surface_rt/"
+created: 10/27/2012 23:26:58
+created_utc: 10/27/2012 15:26:58
+
+
+domain: "abcnews.go.com"
+title: "Reddit Co-Founder Defends Site and Internet Freedom of Speech - ABC News"
+score: 168
+permalink: "/r/technology/comments/12gpjv/reddit_cofounder_defends_site_and_internet/"
+created: 11/01/2012 20:28:59
+created_utc: 11/01/2012 12:28:59
+
+
+domain: "techdirt.com"
+title: "Meet The Patent Troll Suing Hundreds Of Companies For Encrypting Web Traffic"
+score: 163
+permalink: "/r/technology/comments/132a9y/meet_the_patent_troll_suing_hundreds_of_companies/"
+created: 11/12/2012 17:27:22
+created_utc: 11/12/2012 09:27:22
+
+
+domain: "feed.torrentfreak.com"
+title: "Kim Dotcom Avoids \u201cUnsafe\u201d .Com, Picks Me.Ga for New Megaupload"
+score: 163
+permalink: "/r/technology/comments/12icwo/kim_dotcom_avoids_unsafe_com_picks_mega_for_new/"
+created: 11/02/2012 15:39:05
+created_utc: 11/02/2012 07:39:05
+
+
+domain: "c64web.com"
+title: "This website is hosted by an unmodified Commodore 64 built in 1982 - Don't all try to hit it at once, please."
+score: 163
+permalink: "/r/technology/comments/12ypjr/this_website_is_hosted_by_an_unmodified_commodore/"
+created: 11/10/2012 10:43:46
+created_utc: 11/10/2012 09:43:46
+
+
+domain: "news.cnet.com"
+title: "Asus: Nexus 7 sales climb toward 1 million a month"
+score: 158
+permalink: "/r/technology/comments/12e9t0/asus_nexus_7_sales_climb_toward_1_million_a_month/"
+created: 10/31/2012 17:03:01
+created_utc: 10/31/2012 09:03:01
+
+
+domain: "torrentfreak.com"
+title: "BitTorrent Traffic Increases 40% in Half a Year "
+score: 158
+permalink: "/r/technology/comments/12u9tq/bittorrent_traffic_increases_40_in_half_a_year/"
+created: 11/08/2012 07:19:50
+created_utc: 11/07/2012 23:19:50
+
+
+domain: "m.techcrunch.com"
+title: "Android Malware Surges Despite Google\u2019s Efforts To Bounce Dodgy Apps Off Its Platform; F-Secure IDs 51,447 \u201cUnique Samples\u201d In Q3"
+score: 156
+permalink: "/r/technology/comments/12nwo7/android_malware_surges_despite_googles_efforts_to/"
+created: 11/05/2012 15:14:43
+created_utc: 11/05/2012 07:14:43
+
+
+domain: "wired.com"
+title: "NASA is testing a space capsule with rotary wings for a helicopter-like re-entry."
+score: 153
+permalink: "/r/technology/comments/1249lg/nasa_is_testing_a_space_capsule_with_rotary_wings/"
+created: 10/26/2012 08:03:09
+created_utc: 10/26/2012 07:03:09
+
+
+domain: "geekwire.com"
+title: "Google's patent war against Microsoft amps up: wants 2.25% of all future Surface sales."
+score: 155
+permalink: "/r/technology/comments/135g3u/googles_patent_war_against_microsoft_amps_up/"
+created: 11/14/2012 02:57:33
+created_utc: 11/13/2012 18:57:33
+
+
+domain: "techdirt.com"
+title: "Senator Wyden Puts Hold On Intelligence Authorization Act Over Free Speech Concerns"
+score: 152
+permalink: "/r/technology/comments/138hu2/senator_wyden_puts_hold_on_intelligence/"
+created: 11/15/2012 14:50:10
+created_utc: 11/15/2012 06:50:10
+
+
+domain: "reddit.com"
+title: "The admins are considering bitcoin as a new payment method for reddit gold!"
+score: 152
+permalink: "/r/technology/comments/12vpvo/the_admins_are_considering_bitcoin_as_a_new/"
+created: 11/09/2012 01:26:03
+created_utc: 11/08/2012 17:26:03
+
+
+domain: "businessinsider.com"
+title: "The economy won't do it so IBM is lending $4 billion to create its own small biz clients"
+score: 151
+permalink: "/r/technology/comments/138j85/the_economy_wont_do_it_so_ibm_is_lending_4/"
+created: 11/15/2012 15:37:31
+created_utc: 11/15/2012 07:37:31
+
+
+domain: "techdirt.com"
+title: "Toshiba: You Can't Have Repair Manuals Because They're Copyrighted And You're Too Dumb To Fix A Computer"
+score: 150
+permalink: "/r/technology/comments/133j3p/toshiba_you_cant_have_repair_manuals_because/"
+created: 11/13/2012 04:47:39
+created_utc: 11/12/2012 20:47:39
+
+
+domain: "falkvinge.net"
+title: "\"Since ACTA was decisively beaten on 4th July 2012.. scuppered by the people of EU member nations, the big business lobbyists have taken heed and resolved to change in order to be more successful. Hence the secrecy. CETA and the EU-India trade agreement are the next big battles.\""
+score: 151
+permalink: "/r/technology/comments/12c6l5/since_acta_was_decisively_beaten_on_4th_july_2012/"
+created: 10/30/2012 18:15:24
+created_utc: 10/30/2012 10:15:24
+
+
+domain: "theverge.com"
+title: "Scott Forstall leaving Apple next year | The Verge"
+score: 151
+permalink: "/r/technology/comments/12aqg3/scott_forstall_leaving_apple_next_year_the_verge/"
+created: 10/30/2012 01:10:43
+created_utc: 10/29/2012 17:10:43
+
+
+domain: "cms.paypal.com"
+title: "Reminder: You'll no longer be able to participate in class-action suits against PayPal unless you snail-mail them an Opt-Out Notice by December 1. (Scroll down to 14.3e: Agreement to Arbitrate/Opt-Out Procedure.)"
+score: 149
+permalink: "/r/technology/comments/12ede5/reminder_youll_no_longer_be_able_to_participate/"
+created: 10/31/2012 18:18:06
+created_utc: 10/31/2012 10:18:06
+
+
+domain: "npr.org"
+title: "US company that still makes Model M keyboards discovers the problem with making keyboards that never break: If you can't find new buyers, you run out of business."
+score: 147
+permalink: "/r/technology/comments/12kpek/us_company_that_still_makes_model_m_keyboards/"
+created: 11/03/2012 22:56:01
+created_utc: 11/03/2012 14:56:01
+title: "Old-School Keyboard Makes Comeback Of Sorts : NPR"
+
+
+domain: "wired.com"
+title: "You know those 360 degree panoramic photographs? Well here is a 360 degree panoramic video on a formula one car."
+score: 145
+permalink: "/r/technology/comments/12h1m9/you_know_those_360_degree_panoramic_photographs/"
+created: 11/01/2012 23:32:54
+created_utc: 11/01/2012 15:32:54
+
+
+domain: "indiegogo.com"
+title: "Bladeless fan inspired by Nikola Tesla's turbine - with a nice example video of a vortex being generated"
+score: 151
+permalink: "/r/technology/comments/13dder/bladeless_fan_inspired_by_nikola_teslas_turbine/"
+created: 11/18/2012 01:34:40
+created_utc: 11/17/2012 17:34:40
+
+
+domain: "extremetech.com"
+title: "NASA 3D prints rocket parts -- with steel, not plastic"
+score: 150
+permalink: "/r/technology/comments/138uec/nasa_3d_prints_rocket_parts_with_steel_not_plastic/"
+created: 11/15/2012 19:30:08
+created_utc: 11/15/2012 11:30:08
+
+
+domain: "asia.cnet.com"
+title: "MasterCard rolls out credit card with display and keypad allowing users to see their balance and other numbers."
+score: 145
+permalink: "/r/technology/comments/12t5e8/mastercard_rolls_out_credit_card_with_display_and/"
+created: 11/07/2012 21:29:03
+created_utc: 11/07/2012 13:29:03
+
+
+domain: "bgr.com"
+title: "Apple and HTC find patent peace -- The two companies confirmed that they have entered into a 10-year patent licensing deal that covers all current, pending and future patents and will prevent future entanglements in court, at least for the next decade."
+score: 145
+permalink: "/r/technology/comments/1326zl/apple_and_htc_find_patent_peace_the_two_companies/"
+created: 11/12/2012 16:01:09
+created_utc: 11/12/2012 08:01:09
+
+
+domain: "torrentfreak.com"
+title: "\nuTorrent Is Now Ad-Supported (and How to Disable)\n"
+score: 143
+permalink: "/r/technology/comments/131lh8/utorrent_is_now_adsupported_and_how_to_disable/"
+created: 11/12/2012 06:26:56
+created_utc: 11/11/2012 22:26:56
+
+
+domain: "theatlantic.com"
+title: "David Petraeus was brought down by...Gmail"
+score: 142
+permalink: "/r/technology/comments/130a0b/david_petraeus_was_brought_down_bygmail/"
+created: 11/11/2012 15:35:36
+created_utc: 11/11/2012 07:35:36
+
+
+domain: "kotaku.com"
+title: "How Sony Is Turning into a Ghost in Japan and Around the World"
+score: 143
+permalink: "/r/technology/comments/136ay8/how_sony_is_turning_into_a_ghost_in_japan_and/"
+created: 11/14/2012 12:42:52
+created_utc: 11/14/2012 04:42:52
+
+
+domain: "arstechnica.com"
+title: "Finland: Plan for universal 100Mbps service by 2015 on track  | Ars Technica"
+score: 143
+permalink: "/r/technology/comments/12f2vx/finland_plan_for_universal_100mbps_service_by/"
+created: 11/01/2012 00:40:20
+created_utc: 10/31/2012 16:40:20
+
+
+domain: "theregister.co.uk"
+title: "AMD uncloaks 4GHz-and-up FX Series, all priced under $200"
+score: 136
+permalink: "/r/technology/comments/11xj3z/amd_uncloaks_4ghzandup_fx_series_all_priced_under/"
+created: 10/23/2012 02:11:44
+created_utc: 10/23/2012 01:11:44
+
+
+domain: "readwrite.com"
+title: "Facebook Tries To Silence Blogger To Cover Up User Data Scandal [Updated]"
+score: 137
+permalink: "/r/technology/comments/126p9r/facebook_tries_to_silence_blogger_to_cover_up/"
+created: 10/27/2012 16:51:37
+created_utc: 10/27/2012 15:51:37
+
+
+domain: "arstechnica.com"
+title: "Facebook Forced to Disable Facial Recognition in Europe"
+score: 136
+permalink: "/r/technology/comments/12h866/facebook_forced_to_disable_facial_recognition_in/"
+created: 11/02/2012 01:09:48
+created_utc: 11/01/2012 17:09:48
+
+
+domain: "techdirt.com"
+title: "Studio To Amazon Instant Video Customer: Thanks For The $$$. Enjoy Your Blank Screen. "
+score: 139
+permalink: "/r/technology/comments/11w5gr/studio_to_amazon_instant_video_customer_thanks/"
+created: 10/22/2012 16:44:21
+created_utc: 10/22/2012 08:44:21
+
+
+domain: "techdirt.com"
+title: "House Republicans: Copyright Law Destroys Markets; It's Time For Real Reform"
+score: 138
+permalink: "/r/technology/comments/13cklg/house_republicans_copyright_law_destroys_markets/"
+created: 11/17/2012 15:18:39
+created_utc: 11/17/2012 07:18:39
+
+
+domain: "ibtimes.co.uk"
+title: "Apple Fined \u00a3230m After Losing FaceTime Patent \nLawsuit"
+score: 135
+permalink: "/r/technology/comments/12spp4/apple_fined_230m_after_losing_facetime_patent/"
+created: 11/07/2012 17:22:09
+created_utc: 11/07/2012 09:22:09
+
+
+domain: "jsmachines.net"
+title: "IBM 5150 emulator in JS"
+score: 137
+permalink: "/r/technology/comments/13clgv/ibm_5150_emulator_in_js/"
+created: 11/17/2012 15:56:13
+created_utc: 11/17/2012 07:56:13
+
+
+domain: "tgdaily.com"
+title: "LG launches 84-inch \"Ultra HD\" TV"
+score: 130
+permalink: "/r/technology/comments/122ck8/lg_launches_84inch_ultra_hd_tv/"
+created: 10/25/2012 10:47:54
+created_utc: 10/25/2012 09:47:54
+
+
+domain: "technologyreview.com"
+title: "A Computer Infection that Can Never Be Cured | MIT Technology Review"
+score: 137
+permalink: "/r/technology/comments/13chri/a_computer_infection_that_can_never_be_cured_mit/"
+created: 11/17/2012 13:09:51
+created_utc: 11/17/2012 05:09:51
+
+
+domain: "marketingland.com"
+title: "TIME Names Google Glass A 'Best Invention Of 2012'"
+score: 128
+permalink: "/r/technology/comments/132km1/time_names_google_glass_a_best_invention_of_2012/"
+created: 11/12/2012 20:35:23
+created_utc: 11/12/2012 12:35:23
+
+
+domain: "singularityhub.com"
+title: "Cheap, Paper-Based Blood Test Costs Only Pennies, No Lab Equipment Needed"
+score: 132
+permalink: "/r/technology/comments/130h92/cheap_paperbased_blood_test_costs_only_pennies_no/"
+created: 11/11/2012 19:09:14
+created_utc: 11/11/2012 11:09:14
+
+
+domain: "slate.com"
+title: "Private investigators are spying on people with GPS trackers even though it could be illegal. Charge $1,200 to do surveillance of vehicle for 2 weeks."
+score: 127
+permalink: "/r/technology/comments/12yqqo/private_investigators_are_spying_on_people_with/"
+created: 11/10/2012 11:16:17
+created_utc: 11/10/2012 10:16:17
+
+
+domain: "bbc.co.uk"
+title: "Hey Reddit, just a friendly heads-up to you all - You might want to change your Paypal password"
+score: 130
+permalink: "/r/technology/comments/12od8n/hey_reddit_just_a_friendly_headsup_to_you_all_you/"
+created: 11/05/2012 20:40:18
+created_utc: 11/05/2012 12:40:18
+
+
+domain: "zdnet.com"
+title: "PayPal, Symantec hacked as Anonymous begins November 5 hacking spree"
+score: 126
+permalink: "/r/technology/comments/12ngsc/paypal_symantec_hacked_as_anonymous_begins/"
+created: 11/05/2012 07:33:18
+created_utc: 11/04/2012 23:33:18
+
+
+domain: "guardian.co.uk"
+title: "Sharp warns that it may not survive - Japanese electronics firm doubles loss forecast to $5.6bn and raises doubts about ability to continue as a going concern"
+score: 128
+permalink: "/r/technology/comments/12ga5m/sharp_warns_that_it_may_not_survive_japanese/"
+created: 11/01/2012 14:53:55
+created_utc: 11/01/2012 06:53:55
+
+
+domain: "usatoday.com"
+title: "Early look at Windows 8 baffles consumers"
+score: 130
+permalink: "/r/technology/comments/11sud8/early_look_at_windows_8_baffles_consumers/"
+created: 10/20/2012 19:51:59
+created_utc: 10/20/2012 11:51:59
+
+
+domain: "engadget.com"
+title: "Engadget deleting posts en-masse because of reader backlash for biased iPad Mini review"
+score: 126
+permalink: "/r/technology/comments/12dn6j/engadget_deleting_posts_enmasse_because_of_reader/"
+created: 10/31/2012 07:01:31
+created_utc: 10/30/2012 23:01:31
+
+
+domain: "technologyreview.com"
+title: "A Bandwidth Breakthrough: A dash of algebra on wireless networks promises to boost bandwidth tenfold, without new infrastructure."
+score: 128
+permalink: "/r/technology/comments/11xezh/a_bandwidth_breakthrough_a_dash_of_algebra_on/"
+created: 10/23/2012 08:05:16
+created_utc: 10/23/2012 00:05:16
+
+
+domain: "eff.org"
+title: "\nEFF Urges No Vote on California Proposition 35 in Upcoming Election: 'Proposition calls for new restrictions on registered sex offenders, including that they provide a list of all ISPs they use and a list of all their online accounts - such as usernames, email accounts, and Twitter handles.'"
+score: 126
+permalink: "/r/technology/comments/12o1y2/eff_urges_no_vote_on_california_proposition_35_in/"
+created: 11/05/2012 17:34:57
+created_utc: 11/05/2012 09:34:57
+
+
+domain: "thenextweb.com"
+title: "Kim Dotcom's Free Internet Plan May Just Work"
+score: 129
+permalink: "/r/technology/comments/13e7j1/kim_dotcoms_free_internet_plan_may_just_work/"
+created: 11/18/2012 13:28:57
+created_utc: 11/18/2012 05:28:57
+
+
+domain: "thedroidguy.com"
+title: "Microsoft Surface Pro Tablet reportedly slated for January 2013 release"
+score: 122
+permalink: "/r/technology/comments/12m3pp/microsoft_surface_pro_tablet_reportedly_slated/"
+created: 11/04/2012 18:19:03
+created_utc: 11/04/2012 10:19:03
+
+
+domain: "news.cnet.com"
+title: "MegaUpload will be reborn as Me.ga in January"
+score: 127
+permalink: "/r/technology/comments/12gn1v/megaupload_will_be_reborn_as_mega_in_january/"
+created: 11/01/2012 19:48:55
+created_utc: 11/01/2012 11:48:55
+
+
+domain: "thenextweb.com"
+title: "27 Ways to Learn to Program Online"
+score: 123
+permalink: "/r/technology/comments/11ycp0/27_ways_to_learn_to_program_online/"
+created: 10/23/2012 20:51:41
+created_utc: 10/23/2012 12:51:41
+
+
+domain: "nytimes.com"
+title: "You Can\u2019t Say That on the Internet: Hip Silicon Valley is actually imposing prudish strictures on billions of technology users worldwide"
+score: 126
+permalink: "/r/technology/comments/13dyoz/you_cant_say_that_on_the_internet_hip_silicon/"
+created: 11/18/2012 08:35:48
+created_utc: 11/18/2012 00:35:48
+
+
+domain: "theatlantic.com"
+title: "Noam Chomsky On Where Artificial Intelligence Went Wrong"
+score: 126
+permalink: "/r/technology/comments/12nvbq/noam_chomsky_on_where_artificial_intelligence/"
+created: 11/05/2012 14:25:35
+created_utc: 11/05/2012 06:25:35
+
+
+domain: "dailydot.com"
+title: "Dad cracks Zelda game, turns daughter into hero"
+score: 123
+permalink: "/r/technology/comments/136xxf/dad_cracks_zelda_game_turns_daughter_into_hero/"
+created: 11/14/2012 21:25:04
+created_utc: 11/14/2012 13:25:04
+
+
+domain: "technologyreview.com"
+title: "A startup cofounded by two MIT electrical engineering professors say they've cracked a decades-old efficiency problem that could double the battery life of smatphones"
+score: 125
+permalink: "/r/technology/comments/12krnn/a_startup_cofounded_by_two_mit_electrical/"
+created: 11/03/2012 23:36:03
+created_utc: 11/03/2012 15:36:03
+
+
+domain: "engadget.com"
+title: "Apple officially announces the iPad mini"
+score: 125
+permalink: "/r/technology/comments/11yh1z/apple_officially_announces_the_ipad_mini/"
+created: 10/23/2012 21:57:34
+created_utc: 10/23/2012 13:57:34
+
+
+
+
+domain: "techcrunch.com"
+title: "How Long Will Programmers Be So Well-Paid?"
+score: 118
+permalink: "/r/technology/comments/126edh/how_long_will_programmers_be_so_wellpaid/"
+created: 10/27/2012 20:29:01
+created_utc: 10/27/2012 12:29:01
+
+
+domain: "arstechnica.com"
+title: "How one law student is making Facebook get serious about privacy"
+score: 117
+permalink: "/r/technology/comments/138ldl/how_one_law_student_is_making_facebook_get/"
+created: 11/15/2012 16:38:36
+created_utc: 11/15/2012 08:38:36
+
+
+domain: "autoblog.com"
+title: "Hyundai/Kia forced to admit they exaggerated MPG claims, will compensate owners, lose most(maybe all) of their 40 MPG HWY ratings"
+score: 118
+permalink: "/r/technology/comments/12j6qd/hyundaikia_forced_to_admit_they_exaggerated_mpg/"
+created: 11/03/2012 00:47:54
+created_utc: 11/02/2012 16:47:54
+
+
+domain: "bigstory.ap.org"
+title: "Petraeus and Broadwell apparently used a trick, known to terrorists and teenagers alike, to conceal their email traffic. Instead of exchanging emails to each other's accounts, they instead shared an account and composed unsent draft emails for the other to read and delete."
+score: 116
+permalink: "/r/technology/comments/133ajx/petraeus_and_broadwell_apparently_used_a_trick/"
+created: 11/13/2012 02:42:45
+created_utc: 11/12/2012 18:42:45
+
+
+domain: "cbc.ca"
+title: "Philips to begin selling programmable Wifi LED light bulbs controlled by a smartphone"
+score: 116
+permalink: "/r/technology/comments/12c4io/philips_to_begin_selling_programmable_wifi_led/"
+created: 10/30/2012 10:31:20
+created_utc: 10/30/2012 09:31:20
+
+
+domain: "cnbc.com"
+title: "Microsoft, Google Are Keeping Their Patent Battle Very Secret "
+score: 113
+permalink: "/r/technology/comments/12k0td/microsoft_google_are_keeping_their_patent_battle/"
+created: 11/03/2012 03:44:18
+created_utc: 11/03/2012 02:44:18
+
+
+domain: "dailydot.com"
+title: "20 of the Internet's best-known activists turn out for Reddit's Internet freedom forum"
+score: 116
+permalink: "/r/technology/comments/122suu/20_of_the_internets_bestknown_activists_turn_out/"
+created: 10/25/2012 15:11:59
+created_utc: 10/25/2012 14:11:59
+
+
+domain: "seattlepi.com"
+title: "Petraeus Case Shows FBI's Authority To Read Email: \"Your emails are not nearly as private as you think.\""
+score: 115
+permalink: "/r/technology/comments/133voi/petraeus_case_shows_fbis_authority_to_read_email/"
+created: 11/13/2012 07:55:13
+created_utc: 11/12/2012 23:55:13
+
+
+domain: "harpers.org"
+title: "\"Our faith-based elections are the result of a new Dark Age in American democracy, brought on, paradoxically, by techological progress.\""
+score: 113
+permalink: "/r/technology/comments/12ohmt/our_faithbased_elections_are_the_result_of_a_new/"
+created: 11/05/2012 21:43:53
+created_utc: 11/05/2012 13:43:53
+
+
+domain: "what-if.xkcd.com"
+title: "\"What if\" from XKCD: Can a BB Gun stop a Train?"
+score: 114
+permalink: "/r/technology/comments/12klok/what_if_from_xkcd_can_a_bb_gun_stop_a_train/"
+created: 11/03/2012 21:47:46
+created_utc: 11/03/2012 13:47:46
+
+
+domain: "nytimes.com"
+title: "\"There is a widespread belief among teachers that students' constant use of digital technology is hampering their attention spans and ability to persevere in the face of challenging tasks, according to two surveys of teachers being released on Thursday [1 November 2012].\""
+score: 118
+permalink: "/r/technology/comments/12id9g/there_is_a_widespread_belief_among_teachers_that/"
+created: 11/02/2012 15:51:08
+created_utc: 11/02/2012 07:51:08
+
+
+domain: "slashdot.org"
+title: "Microsoft-Built Smartphone Could Harm Nokia, Irritate Google"
+score: 111
+permalink: "/r/technology/comments/12pvbr/microsoftbuilt_smartphone_could_harm_nokia/"
+created: 11/06/2012 10:00:29
+created_utc: 11/06/2012 02:00:29
+
+
+domain: "arstechnica.com"
+title: "Sony faces setback as hackers release PlayStation 3 decryption keys | Ars Technica"
+score: 112
+permalink: "/r/technology/comments/11zous/sony_faces_setback_as_hackers_release_playstation/"
+created: 10/24/2012 08:47:38
+created_utc: 10/24/2012 00:47:38
+
+
+domain: "guardian.co.uk"
+title: "Google pledge to downgrade piracy sites under review. The government is to review Google's pledge to downgrade illegal filesharing websites in its search results, after entertainment groups accused the internet giant of dragging its feet over the issue."
+score: 112
+permalink: "/r/technology/comments/12pxg9/google_pledge_to_downgrade_piracy_sites_under/"
+created: 11/06/2012 10:57:49
+created_utc: 11/06/2012 02:57:49
+
+
+domain: "news.sky.com"
+title: "Apple Slammed In Samsung High Court Case\nSenior judges criticise Apple for publishing \"false and misleading\" information, as its legal battle with Samsung continues."
+score: 110
+permalink: "/r/technology/comments/13092j/apple_slammed_in_samsung_high_court_case_senior/"
+created: 11/11/2012 14:55:32
+created_utc: 11/11/2012 06:55:32
+
+
+domain: "boingboing.net"
+title: "Meet the record industry lobbyists who'll be throttling your Internet connection in America's six strikes world"
+score: 110
+permalink: "/r/technology/comments/11w0bo/meet_the_record_industry_lobbyists_wholl_be/"
+created: 10/22/2012 13:40:44
+created_utc: 10/22/2012 05:40:44
+
+
+domain: "wired.co.uk"
+title: "Iceland votes for crowdsourced constitution "
+score: 108
+permalink: "/r/technology/comments/11y7dk/iceland_votes_for_crowdsourced_constitution/"
+created: 10/23/2012 12:28:17
+created_utc: 10/23/2012 11:28:17
+
+
+domain: "pcmag.com"
+title: "NASA testing interplanetary internet system: Using its DTN system NASA is sending messages and controlling robots from ISS"
+score: 109
+permalink: "/r/technology/comments/12x0jp/nasa_testing_interplanetary_internet_system_using/"
+created: 11/09/2012 18:47:46
+created_utc: 11/09/2012 10:47:46
+
+
+domain: "phys.org"
+title: "Fujifilm will introduce a 1TB optical disc in 2015."
+score: 106
+permalink: "/r/technology/comments/13e9dp/fujifilm_will_introduce_a_1tb_optical_disc_in_2015/"
+created: 11/18/2012 14:59:30
+created_utc: 11/18/2012 06:59:30
+
+
+domain: "slate.com"
+title: "Google: US Government responsible for most internet surveillance, and it's getting worse"
+score: 108
+permalink: "/r/technology/comments/1379nn/google_us_government_responsible_for_most/"
+created: 11/15/2012 00:18:21
+created_utc: 11/14/2012 16:18:21
+
+
+domain: "allthingsd.com"
+title: "Google is now the seventh-biggest lobbying spender"
+score: 105
+permalink: "/r/technology/comments/121auj/google_is_now_the_seventhbiggest_lobbying_spender/"
+created: 10/25/2012 03:46:34
+created_utc: 10/24/2012 19:46:34
+
+
+domain: "newyorker.com"
+title: "Former head of NSA can't keep his Facebook page private because Facebook keeps changing the settings"
+score: 103
+permalink: "/r/technology/comments/135mw1/former_head_of_nsa_cant_keep_his_facebook_page/"
+created: 11/14/2012 04:35:38
+created_utc: 11/13/2012 20:35:38
+
+
+domain: "businessinsider.com"
+title: "Apple Massively Escalates Its Patent War, Finally Goes After Google"
+score: 108
+permalink: "/r/technology/comments/12trva/apple_massively_escalates_its_patent_war_finally/"
+created: 11/08/2012 02:43:16
+created_utc: 11/07/2012 18:43:16
+
+
+domain: "nytimes.com"
+title: "Amazon Reports First Quarterly Loss in 4 Years"
+score: 103
+permalink: "/r/technology/comments/123aws/amazon_reports_first_quarterly_loss_in_4_years/"
+created: 10/25/2012 19:28:50
+created_utc: 10/25/2012 18:28:50
+
+
+domain: "engadget.com"
+title: "This is the Modem World: Hotels owe us free WiFi"
+score: 106
+permalink: "/r/technology/comments/138jju/this_is_the_modem_world_hotels_owe_us_free_wifi/"
+created: 11/15/2012 15:47:04
+created_utc: 11/15/2012 07:47:04
+
+
+domain: "theregister.co.uk"
+title: "Gates: Microsoft will merge Phone and Windows platforms "
+score: 104
+permalink: "/r/technology/comments/11xspl/gates_microsoft_will_merge_phone_and_windows/"
+created: 10/23/2012 13:36:02
+created_utc: 10/23/2012 05:36:02
+
+
+domain: "economist.com"
+title: "A report describes the sacrifices the poor make to keep a mobile phone: in Kenya, mobile phone credit is more valuable than a meal or bus fare..."
+score: 101
+permalink: "/r/technology/comments/12yt55/a_report_describes_the_sacrifices_the_poor_make/"
+created: 11/10/2012 19:11:33
+created_utc: 11/10/2012 11:11:33
+
+
+domain: "wired.com"
+title: "Truth, Lies, and 'Doxxing': The Real Moral of the Gawker/Reddit Story"
+score: 104
+permalink: "/r/technology/comments/129slu/truth_lies_and_doxxing_the_real_moral_of_the/"
+created: 10/29/2012 16:32:25
+created_utc: 10/29/2012 08:32:25
+
+
+domain: "news.cnet.com"
+title: "Google hit by huge outages"
+score: 104
+permalink: "/r/technology/comments/124tco/google_hit_by_huge_outages/"
+created: 10/26/2012 21:38:01
+created_utc: 10/26/2012 13:38:01
+
+
+domain: "research.google.com"
+title: "Google researchers find tablet are for games, email and are used mainly on the couch and in bed"
+score: 100
+permalink: "/r/technology/comments/11wl3g/google_researchers_find_tablet_are_for_games/"
+created: 10/22/2012 17:32:46
+created_utc: 10/22/2012 16:32:46
+
+
+domain: "hackaday.com"
+title: "Google Books team open sources their book scanner"
+score: 101
+permalink: "/r/technology/comments/13avk1/google_books_team_open_sources_their_book_scanner/"
+created: 11/16/2012 18:40:28
+created_utc: 11/16/2012 10:40:28
+
+
+domain: "arstechnica.com"
+title: "Netherlands highways will glow in the dark \nstarting \nin mid-2013 "
+score: 99
+permalink: "/r/technology/comments/12iipy/netherlands_highways_will_glow_in_the_dark/"
+created: 11/02/2012 18:09:32
+created_utc: 11/02/2012 10:09:32
+
+
+domain: "arstechnica.com"
+title: "Windows, reimagined: A review of Windows 8 | Ars Technica"
+score: 98
+permalink: "/r/technology/comments/122xvj/windows_reimagined_a_review_of_windows_8_ars/"
+created: 10/25/2012 23:23:57
+created_utc: 10/25/2012 15:23:57
+
+
+domain: "reviews.cnet.com"
+title: "Roku TV boxes cross-search Netflix, Amazon streaming, Hulu and others so you don't have to"
+score: 100
+permalink: "/r/technology/comments/12ccnw/roku_tv_boxes_crosssearch_netflix_amazon/"
+created: 10/30/2012 20:01:46
+created_utc: 10/30/2012 12:01:46
+
+
+domain: "washingtonpost.com"
+title: "\"In March 2011, a Predator parked at the camp started its engine without any human direction, even though the ignition had been turned off and the fuel lines closed. Technicians concluded that a software bug had infected the 'brains' of the drone, but never pinpointed the problem.\""
+score: 99
+permalink: "/r/technology/comments/124hbi/in_march_2011_a_predator_parked_at_the_camp/"
+created: 10/26/2012 11:22:24
+created_utc: 10/26/2012 10:22:24
+
+
+domain: "wired.com"
+title: "Friggin' Laser Beams - US Navy to deploy laser weapons within two years"
+score: 94
+permalink: "/r/technology/comments/11wmew/friggin_laser_beams_us_navy_to_deploy_laser/"
+created: 10/22/2012 19:24:53
+created_utc: 10/22/2012 18:24:53
+
+
+domain: "vimeo.com"
+title: "Dean Kamen's Slingshot - A machine to bring clean water to the world."
+score: 98
+permalink: "/r/technology/comments/13atqo/dean_kamens_slingshot_a_machine_to_bring_clean/"
+created: 11/16/2012 18:04:56
+created_utc: 11/16/2012 10:04:56
+
+
+domain: "news.discovery.com"
+title: "A robot built of muscle cells and gels from a 3D printer walks on its own"
+score: 96
+permalink: "/r/technology/comments/13cj4a/a_robot_built_of_muscle_cells_and_gels_from_a_3d/"
+created: 11/17/2012 14:13:47
+created_utc: 11/17/2012 06:13:47
+
+
+domain: "theregister.co.uk"
+title: "Twitter survives election after Ruby-to-Java move: peak traffic of 874,560 Tweets per minute without Fail Whale coming up for air."
+score: 96
+permalink: "/r/technology/comments/12uiz7/twitter_survives_election_after_rubytojava_move/"
+created: 11/08/2012 10:34:47
+created_utc: 11/08/2012 02:34:47
+
+
+domain: "eff.org"
+title: "Senate Defeats Dangerously Vague Cybersecurity Act\u2014Again"
+score: 91
+permalink: "/r/technology/comments/137obr/senate_defeats_dangerously_vague_cybersecurity/"
+created: 11/15/2012 03:58:57
+created_utc: 11/14/2012 19:58:57
+
+
+domain: "arstechnica.com"
+title: "UK government targeting tax loophole used by many US tech companies"
+score: 95
+permalink: "/r/technology/comments/136baz/uk_government_targeting_tax_loophole_used_by_many/"
+created: 11/14/2012 12:57:19
+created_utc: 11/14/2012 04:57:19
+
+
+domain: "theverge.com"
+title: "Xbox Surface: Microsoft's 7-inch gaming tablet"
+score: 91
+permalink: "/r/technology/comments/12qckm/xbox_surface_microsofts_7inch_gaming_tablet/"
+created: 11/06/2012 18:14:29
+created_utc: 11/06/2012 10:14:29
+
+
+domain: "bbc.co.uk"
+title: "Give social networks fake details, advises Whitehall web security official"
+score: 92
+permalink: "/r/technology/comments/122eb9/give_social_networks_fake_details_advises/"
+created: 10/25/2012 18:21:20
+created_utc: 10/25/2012 10:21:20
+
+
+domain: "timesofindia.indiatimes.com"
+title: "India to run out of 10 digit mobile numbers within a year as the subscriber base grows to billion plus"
+score: 90
+permalink: "/r/technology/comments/11w2cq/india_to_run_out_of_10_digit_mobile_numbers/"
+created: 10/22/2012 08:04:40
+created_utc: 10/22/2012 07:04:40
+
+
+domain: "abb.com"
+title: "100-year-old electrical puzzle solved!"
+score: 94
+permalink: "/r/technology/comments/12t70m/100yearold_electrical_puzzle_solved/"
+created: 11/07/2012 21:52:38
+created_utc: 11/07/2012 13:52:38
+
+
+domain: "news.cnet.com"
+title: "Samsung is currently putting the final touches on flexible displays made of plastic rather than glass. Once Samsung's development phase is complete, the company plans to start mass producing the displays for release in the first half of 2013"
+score: 89
+permalink: "/r/technology/comments/136n7f/samsung_is_currently_putting_the_final_touches_on/"
+created: 11/14/2012 18:37:59
+created_utc: 11/14/2012 10:37:59
+
+
+domain: "thenextweb.com"
+title: "Website that allows you to use Netflix, Pandora, Hulu, Rdio from Anywhere"
+score: 93
+permalink: "/r/technology/comments/12t45f/website_that_allows_you_to_use_netflix_pandora/"
+created: 11/07/2012 21:12:04
+created_utc: 11/07/2012 13:12:04
+
+
+domain: "arstechnica.com"
+title: "Accused student prevails in first \u201cthree strikes\u201d copyright case | Ars Technica"
+score: 91
+permalink: "/r/technology/comments/11vjc6/accused_student_prevails_in_first_three_strikes/"
+created: 10/21/2012 23:36:53
+created_utc: 10/21/2012 22:36:53
+
+
+domain: "macrumors.com"
+title: "Apple Removes Code Hiding Samsung Court Order on UK Website "
+score: 90
+permalink: "/r/technology/comments/12v0cb/apple_removes_code_hiding_samsung_court_order_on/"
+created: 11/08/2012 19:01:17
+created_utc: 11/08/2012 11:01:17
+
+
+domain: "engadget.com"
+title: "NASA releases web app to help you spot ISS, celebrates 12 years of continuous crew occupation "
+score: 87
+permalink: "/r/technology/comments/12n0c6/nasa_releases_web_app_to_help_you_spot_iss/"
+created: 11/05/2012 03:19:57
+created_utc: 11/04/2012 19:19:57
+
+
+domain: "deadline.com"
+title: "G4 cancels Attack of the Show and X-Play"
+score: 92
+permalink: "/r/technology/comments/124zgw/g4_cancels_attack_of_the_show_and_xplay/"
+created: 10/26/2012 23:11:08
+created_utc: 10/26/2012 15:11:08
+
+
+domain: "reuters.com"
+title: "When computer \"hackers\" working for the U.S. Navy succeeded in breaking into the computer logistics system that controls the Lockheed Martin Corp F-35 Joint Strike Fighter earlier this year, they did the company a favor: allowing it to fix a critical vulnerability in the $396 billion program.\n"
+score: 86
+permalink: "/r/technology/comments/13b0us/when_computer_hackers_working_for_the_us_navy/"
+created: 11/16/2012 20:05:38
+created_utc: 11/16/2012 12:05:38
+
+
+domain: "codeweavers.com"
+title: "Crossover, a super easy to use WINE package for running Windows software on Linux/OSX, is free today only!"
+score: 90
+permalink: "/r/technology/comments/12efq9/crossover_a_super_easy_to_use_wine_package_for/"
+created: 10/31/2012 11:58:54
+created_utc: 10/31/2012 10:58:54
+
+
+domain: "engadget.com"
+title: "IBM Labs develops 'initial step' towards commercial fabrication of carbon nanotubes"
+score: 92
+permalink: "/r/technology/comments/1289g9/ibm_labs_develops_initial_step_towards_commercial/"
+created: 10/28/2012 15:35:13
+created_utc: 10/28/2012 14:35:13
+
+
+domain: "forbes.com"
+title: "Is Android becoming cooler then apple?"
+score: 87
+permalink: "/r/technology/comments/125lxk/is_android_becoming_cooler_then_apple/"
+created: 10/27/2012 05:51:59
+created_utc: 10/26/2012 21:51:59
+
+
+domain: "guardian.co.uk"
+title: "Internet censorship: There's no way to stop children viewing porn in Starbucks"
+score: 86
+permalink: "/r/technology/comments/134pd5/internet_censorship_theres_no_way_to_stop/"
+created: 11/13/2012 20:25:12
+created_utc: 11/13/2012 12:25:12
+
+
+domain: "news.cnet.com"
+title: "SpaceX's Dragon returns from ISS"
+score: 84
+permalink: "/r/technology/comments/128ih2/spacexs_dragon_returns_from_iss/"
+created: 10/29/2012 00:55:16
+created_utc: 10/28/2012 16:55:16
+
+
+domain: "bits.blogs.nytimes.com"
+title: "I.B.M. reports Nanotube Chip Breakthrough"
+score: 91
+permalink: "/r/technology/comments/128c98/ibm_reports_nanotube_chip_breakthrough/"
+created: 10/28/2012 23:20:46
+created_utc: 10/28/2012 15:20:46
+
+
+domain: "slate.com"
+title: "The FBI uses secretive surveillance tech that functions as a fake cell network to trick phones and mine data"
+score: 90
+permalink: "/r/technology/comments/11t80y/the_fbi_uses_secretive_surveillance_tech_that/"
+created: 10/20/2012 17:08:42
+created_utc: 10/20/2012 16:08:42
+
+
+domain: "theverge.com"
+title: "Into the vault: the operation to rescue Manhattan's drowned internet"
+score: 93
+permalink: "/r/technology/comments/13ctlv/into_the_vault_the_operation_to_rescue_manhattans/"
+created: 11/17/2012 19:43:38
+created_utc: 11/17/2012 11:43:38
+
+
+domain: "engadget.com"
+title: "AT&amp;T has announced that it will spend $14 billion over the next three years to beef up its wireless and wireline broadband networks."
+score: 88
+permalink: "/r/technology/comments/12td8i/att_has_announced_that_it_will_spend_14_billion/"
+created: 11/07/2012 23:19:30
+created_utc: 11/07/2012 15:19:30
+
+
+domain: "arstechnica.com"
+title: "Kim Dotcom loses new domain in preemptive strike by government"
+score: 86
+permalink: "/r/technology/comments/12svcd/kim_dotcom_loses_new_domain_in_preemptive_strike/"
+created: 11/07/2012 12:01:29
+created_utc: 11/07/2012 11:01:29
+
+
+domain: "chrome.blogspot.nl"
+title: "Chrome 23 released: 25% better battery life when watching GPU-accelerated video; improved permission system"
+score: 89
+permalink: "/r/technology/comments/12quw3/chrome_23_released_25_better_battery_life_when/"
+created: 11/06/2012 15:38:55
+created_utc: 11/06/2012 14:38:55
+
+
+domain: "yro.slashdot.org"
+title: "US Government: You Don't Own Your Cloud Data So We Can Access It At Any Time"
+score: 88
+permalink: "/r/technology/comments/12kda2/us_government_you_dont_own_your_cloud_data_so_we/"
+created: 11/03/2012 11:58:00
+created_utc: 11/03/2012 10:58:00
+
+
+domain: "arstechnica.com"
+title: "Apple to pay Samsung\u2019s UK legal fees due to \u201clack of integrity\u201d"
+score: 85
+permalink: "/r/technology/comments/132j3d/apple_to_pay_samsungs_uk_legal_fees_due_to_lack/"
+created: 11/12/2012 20:12:03
+created_utc: 11/12/2012 12:12:03
+
+
+domain: "chrome.google.com"
+title: "New Chrome extension will remove political posts from your social media feeds, replace them with cats."
+score: 86
+permalink: "/r/technology/comments/120s0a/new_chrome_extension_will_remove_political_posts/"
+created: 10/24/2012 23:12:01
+created_utc: 10/24/2012 15:12:01
+
+
+domain: "theverge.com"
+title: "AT&amp;T Nokia Lumia 920 launches on November \n9th for $99, Lumia 820 for $49"
+score: 84
+permalink: "/r/technology/comments/12qanf/att_nokia_lumia_920_launches_on_november_9th_for/"
+created: 11/06/2012 10:40:59
+created_utc: 11/06/2012 09:40:59
+
+
+domain: "techcrunch.com"
+title: "Bestselling author Tim Ferriss reaches deal with BitTorrent for distribution after being banned from all Barnes &amp; Nobles. \"BitTorrent is a technology that is part of this sustainable future for content. There\u2019s no turning back\""
+score: 84
+permalink: "/r/technology/comments/13bjap/bestselling_author_tim_ferriss_reaches_deal_with/"
+created: 11/17/2012 00:40:13
+created_utc: 11/16/2012 16:40:13
+
+
+domain: "eff.org"
+title: "A first in all of EFF's history of FOIA litigation: ICE releases documents detailing electronic surveillance problems.. and then demands them back a year later"
+score: 83
+permalink: "/r/technology/comments/12q4h3/a_first_in_all_of_effs_history_of_foia_litigation/"
+created: 11/06/2012 15:16:57
+created_utc: 11/06/2012 07:16:57
+
+
+domain: "eff.org"
+title: "EFF and ERI Fight to Quash Speech-Chilling Subpoenas from Chevron: Oil Giant Demands Years of Private Email Account Information from Activists, Journalists, and Attorneys"
+score: 80
+permalink: "/r/technology/comments/12038n/eff_and_eri_fight_to_quash_speechchilling/"
+created: 10/24/2012 09:30:39
+created_utc: 10/24/2012 08:30:39
+
+
+domain: "theatlantic.com"
+title: "When the Nerds Go Marching In: President Obama's reelection campaign brought 40 engineers into their ranks to build the technology they needed to get the president reelected. This is the very human story of how they helped out, even if they never fit in"
+score: 81
+permalink: "/r/technology/comments/13aulc/when_the_nerds_go_marching_in_president_obamas/"
+created: 11/16/2012 18:22:23
+created_utc: 11/16/2012 10:22:23
+
+
+domain: "blogs.amd.com"
+title: "AMD is officially building ARM server processors (x-post)"
+score: 82
+permalink: "/r/technology/comments/12aybf/amd_is_officially_building_arm_server_processors/"
+created: 10/29/2012 19:50:43
+created_utc: 10/29/2012 18:50:43
+
+
+domain: "ecnmag.com"
+title: "This \u201csmart\u201d traffic light could cut commutes by 60 percent"
+score: 83
+permalink: "/r/technology/comments/13b62p/this_smart_traffic_light_could_cut_commutes_by_60/"
+created: 11/16/2012 21:23:47
+created_utc: 11/16/2012 13:23:47
+
+
+domain: "designboom.com"
+title: "Worlds first \"Smart Highway\" to be built in the Netherlands next year"
+score: 80
+permalink: "/r/technology/comments/1221eb/worlds_first_smart_highway_to_be_built_in_the/"
+created: 10/25/2012 04:59:29
+created_utc: 10/25/2012 03:59:29
+
+
+domain: "web.law.duke.edu"
+title: "What Could Have Been Entering the Public Domain on January\u00a01,\u00a02012?"
+score: 106
+permalink: "/r/technology/comments/13ex5c/what_could_have_been_entering_the_public_domain/"
+created: 11/19/2012 00:14:26
+created_utc: 11/18/2012 16:14:26
+
+
+domain: "google.com"
+title: "Google complied with 90% of the 7,969 Law Enforcement requests between Jan - Jun 2012, affecting 16,281 users."
+score: 76
+permalink: "/r/technology/comments/134wac/google_complied_with_90_of_the_7969_law/"
+created: 11/13/2012 22:05:37
+created_utc: 11/13/2012 14:05:37
+
+
+domain: "csoonline.com"
+title: "DHS Secretary Janet Napolitano is comparing the damage from Hurricane Sandy to justify cyber security fear-mongering"
+score: 80
+permalink: "/r/technology/comments/12oe3s/dhs_secretary_janet_napolitano_is_comparing_the/"
+created: 11/05/2012 20:53:04
+created_utc: 11/05/2012 12:53:04
+
+
+domain: "h-online.com"
+title: "Google engineers open source book scanner design"
+score: 75
+permalink: "/r/technology/comments/136wn9/google_engineers_open_source_book_scanner_design/"
+created: 11/14/2012 21:05:19
+created_utc: 11/14/2012 13:05:19
+
+
+domain: "arstechnica.com"
+title: "Two men from indicted BitTorrent group imprisoned for movie piracy"
+score: 78
+permalink: "/r/technology/comments/12ltrq/two_men_from_indicted_bittorrent_group_imprisoned/"
+created: 11/04/2012 11:56:05
+created_utc: 11/04/2012 03:56:05
+
+
+domain: "wired.com"
+title: "The long-awaited next-gen Arduino finally released: meet the 32bit Due"
+score: 79
+permalink: "/r/technology/comments/11t15a/the_longawaited_nextgen_arduino_finally_released/"
+created: 10/20/2012 15:05:19
+created_utc: 10/20/2012 14:05:19
+
+
+domain: "theatlantic.com"
+title: "How Much Longer Can Tech's Free Party Last? - We're living through a unique time in history, when the most important innovations, created by some of the country's smartest thinkers and hackers, are basically free"
+score: 77
+permalink: "/r/technology/comments/13dti4/how_much_longer_can_techs_free_party_last_were/"
+created: 11/18/2012 06:48:59
+created_utc: 11/17/2012 22:48:59
+
+
+domain: "ifixit.org"
+title: "In response to Toshiba targeting sites that distribute their manuals free online, iFixit begins work on creating open-source Toshiba repair manuals."
+score: 80
+permalink: "/r/technology/comments/133ay9/in_response_to_toshiba_targeting_sites_that/"
+created: 11/13/2012 02:48:36
+created_utc: 11/12/2012 18:48:36
+
+
+domain: "wired.com"
+title: "Apples loses a lawsuit against Google for Patent licencing in Wisconsin"
+score: 78
+permalink: "/r/technology/comments/12p2rs/apples_loses_a_lawsuit_against_google_for_patent/"
+created: 11/06/2012 02:39:25
+created_utc: 11/05/2012 18:39:25
+
+
+domain: "engadget.com"
+title: "Google adds AMBER Alerts for missing children to Search and Maps"
+score: 76
+permalink: "/r/technology/comments/12fdgt/google_adds_amber_alerts_for_missing_children_to/"
+created: 11/01/2012 03:08:10
+created_utc: 10/31/2012 19:08:10
+
+
+domain: "online.wsj.com"
+title: "Apple Executive Refused to Sign Maps Apology - WSJ.com"
+score: 78
+permalink: "/r/technology/comments/12bd8k/apple_executive_refused_to_sign_maps_apology/"
+created: 10/29/2012 23:11:01
+created_utc: 10/29/2012 22:11:01
+
+
+domain: "news.cnet.com"
+title: "Titan Steals No. 1 Spot on Top500 Supercomputer List"
+score: 74
+permalink: "/r/technology/comments/132b1y/titan_steals_no_1_spot_on_top500_supercomputer/"
+created: 11/12/2012 17:45:21
+created_utc: 11/12/2012 09:45:21
+
+
+domain: "arstechnica.com"
+title: "Android and Linux on a dual-booting tablet for $100"
+score: 72
+permalink: "/r/technology/comments/12xk9j/android_and_linux_on_a_dualbooting_tablet_for_100/"
+created: 11/09/2012 23:58:44
+created_utc: 11/09/2012 15:58:44
+
+
+domain: "technologyreview.com"
+title: "Given Tablets but No Teachers, Ethiopian Children Teach Themselves | MIT Technology Review"
+score: 77
+permalink: "/r/technology/comments/12c3b0/given_tablets_but_no_teachers_ethiopian_children/"
+created: 10/30/2012 17:03:13
+created_utc: 10/30/2012 09:03:13
+
+
+domain: "techcrunch.com"
+title: "Google\u2019s Research Shows Tablets Are For Games And Email, Mostly Used On Couch &amp; In Bed"
+score: 73
+permalink: "/r/technology/comments/11yb5n/googles_research_shows_tablets_are_for_games_and/"
+created: 10/23/2012 20:27:23
+created_utc: 10/23/2012 12:27:23
+
+
+domain: "prochan.com"
+title: "Most badass prosthetic arm I've ever seen"
+score: 74
+permalink: "/r/technology/comments/12vd6f/most_badass_prosthetic_arm_ive_ever_seen/"
+created: 11/08/2012 22:18:20
+created_utc: 11/08/2012 14:18:20
+
+
+domain: "theverge.com"
+title: "The Nexus 4: Google's flagship phone lands November 13th for $299"
+score: 74
+permalink: "/r/technology/comments/12a6p1/the_nexus_4_googles_flagship_phone_lands_november/"
+created: 10/29/2012 20:46:57
+created_utc: 10/29/2012 12:46:57
+
+
+domain: "patentlyapple.com"
+title: "Class Action Filed against Apple for locking iPhones to AT&amp;amp;T Network - Patently Apple"
+score: 76
+permalink: "/r/technology/comments/11ud5k/class_action_filed_against_apple_for_locking/"
+created: 10/21/2012 10:48:03
+created_utc: 10/21/2012 09:48:03
+
+
+domain: "technology.web4us.info"
+title: "Curiosity rover finds radiation levels on Mars are safe for humans"
+score: 74
+permalink: "/r/technology/comments/13dxtm/curiosity_rover_finds_radiation_levels_on_mars/"
+created: 11/18/2012 08:16:27
+created_utc: 11/18/2012 00:16:27
+
+
+domain: "techdirt.com"
+title: "RIAA Prefers Customers Who Buy A Little To Pirates Who Buy A Lot"
+score: 74
+permalink: "/r/technology/comments/1397ae/riaa_prefers_customers_who_buy_a_little_to/"
+created: 11/15/2012 22:44:04
+created_utc: 11/15/2012 14:44:04
+
+
+domain: "wired.com"
+title: "How Germany Is Getting Cars to Talk to Each Other (And Traffic Lights)"
+score: 75
+permalink: "/r/technology/comments/120iur/how_germany_is_getting_cars_to_talk_to_each_other/"
+created: 10/24/2012 14:02:18
+created_utc: 10/24/2012 13:02:18
+
+
+domain: "wired.com"
+title: "Big, Smart and Green: A Revolutionary Vision for Modern Farming (Do techniques of doing something count as technology?)"
+score: 73
+permalink: "/r/technology/comments/11zz7e/big_smart_and_green_a_revolutionary_vision_for/"
+created: 10/24/2012 14:07:28
+created_utc: 10/24/2012 06:07:28
+
+
+domain: "bbc.co.uk"
+title: "Flossie restored: World's oldest commercial computer has been brought back to life"
+score: 72
+permalink: "/r/technology/comments/11y6l8/flossie_restored_worlds_oldest_commercial/"
+created: 10/23/2012 12:16:16
+created_utc: 10/23/2012 11:16:16
+
+
+domain: "engadget.com"
+title: "With peak performance of 20 petaflops, Cray's Jaguar supercomputer is upgraded with NVIDIA Tesla GPUs and renamed Titan."
+score: 73
+permalink: "/r/technology/comments/129qrl/with_peak_performance_of_20_petaflops_crays/"
+created: 10/29/2012 15:37:57
+created_utc: 10/29/2012 07:37:57
+
+
+domain: "news.cnet.com"
+title: "iPad Mini Wi-Fi version lacks GPS found in similar tablets"
+score: 73
+permalink: "/r/technology/comments/120b9g/ipad_mini_wifi_version_lacks_gps_found_in_similar/"
+created: 10/24/2012 12:09:14
+created_utc: 10/24/2012 11:09:14
+
+
+domain: "theverge.com"
+title: "Microsoft Surface review | The Verge"
+score: 75
+permalink: "/r/technology/comments/11zb49/microsoft_surface_review_the_verge/"
+created: 10/24/2012 05:15:20
+created_utc: 10/23/2012 21:15:20
+
+
+domain: "motortrend.com"
+title: "Tesla Motors's Elon Musk talks about collaboration with Google for self driving cars."
+score: 73
+permalink: "/r/technology/comments/1354w9/tesla_motorss_elon_musk_talks_about_collaboration/"
+created: 11/14/2012 00:05:21
+created_utc: 11/13/2012 16:05:21
+
+
+domain: "techdirt.com"
+title: "UK Looking To Cement Its New Anti-Free Speech Reputation By Arresting Man For Posting Photo Of A Burning Poppy"
+score: 69
+permalink: "/r/technology/comments/1348yg/uk_looking_to_cement_its_new_antifree_speech/"
+created: 11/13/2012 14:35:31
+created_utc: 11/13/2012 06:35:31
+
+
+domain: "teslamotors.com"
+title: "Tesla S 4 door comes with a 17\" Nav Screen"
+score: 71
+permalink: "/r/technology/comments/12x946/tesla_s_4_door_comes_with_a_17_nav_screen/"
+created: 11/09/2012 21:07:22
+created_utc: 11/09/2012 13:07:22
+
+
+domain: "arstechnica.com"
+title: "Hack of South Carolina network exposes SSNs for 3.6 million taxpayers."
+score: 69
+permalink: "/r/technology/comments/1266ns/hack_of_south_carolina_network_exposes_ssns_for/"
+created: 10/27/2012 17:17:19
+created_utc: 10/27/2012 09:17:19
+
+
+domain: "news.cnet.com"
+title: "Giant wind-blown ball rolls around and detonates landmines"
+score: 72
+permalink: "/r/technology/comments/11zjzh/giant_windblown_ball_rolls_around_and_detonates/"
+created: 10/24/2012 07:23:02
+created_utc: 10/23/2012 23:23:02
+
+
+domain: "arstechnica.com"
+title: "The actual difference between the old and new tracking systems on iOS"
+score: 72
+permalink: "/r/technology/comments/11uq7q/the_actual_difference_between_the_old_and_new/"
+created: 10/21/2012 15:22:34
+created_utc: 10/21/2012 14:22:34
+
+
+domain: "idealab.talkingpointsmemo.com"
+title: "Why OpenStreetMap should worry tech companies"
+score: 68
+permalink: "/r/technology/comments/11tavv/why_openstreetmap_should_worry_tech_companies/"
+created: 10/20/2012 18:01:14
+created_utc: 10/20/2012 17:01:14
+
+
+domain: "gigaom.com"
+title: "\nLiquidPiston unveils its ultra efficient, small diesel engine"
+score: 71
+permalink: "/r/technology/comments/11t83e/liquidpiston_unveils_its_ultra_efficient_small/"
+created: 10/21/2012 00:09:49
+created_utc: 10/20/2012 16:09:49
+
+
+domain: "gizmodo.com"
+title: "John McAfee reveals his secret hiding place: his home"
+score: 72
+permalink: "/r/technology/comments/13dmuz/john_mcafee_reveals_his_secret_hiding_place_his/"
+created: 11/18/2012 04:34:20
+created_utc: 11/17/2012 20:34:20
+
+
+
+
+domain: "theverge.com"
+title: "New touch-sensitive, self-healing polymer could lead to the most advanced prosthetics yet | The Verge"
+score: 69
+permalink: "/r/technology/comments/1328jg/new_touchsensitive_selfhealing_polymer_could_lead/"
+created: 11/12/2012 16:45:16
+created_utc: 11/12/2012 08:45:16
+
+
+domain: "theverge.com"
+title: "Nexus 4 Review | The Verge"
+score: 71
+permalink: "/r/technology/comments/12im51/nexus_4_review_the_verge/"
+created: 11/02/2012 19:14:44
+created_utc: 11/02/2012 11:14:44
+
+
+domain: "virtual-strategy.com"
+title: "New Lithium Si-Graphene Battery Material Opens Doors"
+score: 75
+permalink: "/r/technology/comments/1247tr/new_lithium_sigraphene_battery_material_opens/"
+created: 10/26/2012 06:54:28
+created_utc: 10/26/2012 05:54:28
+
+
+domain: "belfasttelegraph.co.uk"
+title: "Does 3D printing mark the advent of a 'new industrial revolution'?"
+score: 71
+permalink: "/r/technology/comments/121tai/does_3d_printing_mark_the_advent_of_a_new/"
+created: 10/25/2012 08:33:39
+created_utc: 10/25/2012 00:33:39
+
+
+domain: "slate.com"
+title: "U.S. Navy will have active laser guns on ships within two years"
+score: 70
+permalink: "/r/technology/comments/11yoth/us_navy_will_have_active_laser_guns_on_ships/"
+created: 10/23/2012 16:50:03
+created_utc: 10/23/2012 15:50:03
+
+
+domain: "news.yahoo.com"
+title: "FTC offers $50,000 prize for best technology to stop robocalls."
+score: 71
+permalink: "/r/technology/comments/11t3nc/ftc_offers_50000_prize_for_best_technology_to/"
+created: 10/20/2012 15:51:18
+created_utc: 10/20/2012 14:51:18
+
+
+domain: "allthingsd.com"
+title: "Google Launches Ingress, a Worldwide Mobile Alternate Reality Game"
+score: 69
+permalink: "/r/technology/comments/13akfd/google_launches_ingress_a_worldwide_mobile/"
+created: 11/16/2012 13:37:41
+created_utc: 11/16/2012 05:37:41
+
+
+domain: "appy-geek.com"
+title: "RIM to hold BlackBerry 10 launch event on January 30th, 2013"
+score: 74
+permalink: "/r/technology/comments/1328o9/rim_to_hold_blackberry_10_launch_event_on_january/"
+created: 11/12/2012 16:48:48
+created_utc: 11/12/2012 08:48:48
+
+
+domain: "conversations.nokia.com"
+title: "Discover yourself: How to tell if you\u2019re a closet inventor"
+score: 66
+permalink: "/r/technology/comments/12uscf/discover_yourself_how_to_tell_if_youre_a_closet/"
+created: 11/08/2012 16:14:07
+created_utc: 11/08/2012 08:14:07
+
+
+domain: "apple.com"
+title: "Apple's UK Apology \"They are not as cool\""
+score: 71
+permalink: "/r/technology/comments/1246bg/apples_uk_apology_they_are_not_as_cool/"
+created: 10/26/2012 05:51:41
+created_utc: 10/26/2012 04:51:41
+
+
+domain: "theverge.com"
+title: "Windows head Steven Sinofsky leaves Microsoft | The Verge"
+score: 69
+permalink: "/r/technology/comments/133ifx/windows_head_steven_sinofsky_leaves_microsoft_the/"
+created: 11/13/2012 04:38:07
+created_utc: 11/12/2012 20:38:07
+
+
+domain: "theverge.com"
+title: "Apple finally gets its patent on a rectangle with rounded corners | The Verge"
+score: 72
+permalink: "/r/technology/comments/12tifr/apple_finally_gets_its_patent_on_a_rectangle_with/"
+created: 11/08/2012 00:32:10
+created_utc: 11/07/2012 16:32:10
+
+
+domain: "npr.org"
+title: "The Rise of the Payphone!  Pay Phones Are Suddenly Important Again Because Of Sandy"
+score: 68
+permalink: "/r/technology/comments/12ilg3/the_rise_of_the_payphone_pay_phones_are_suddenly/"
+created: 11/02/2012 19:02:07
+created_utc: 11/02/2012 11:02:07
+
+
+domain: "boingboing.net"
+title: "Act now to stop unaccountable, censor-friendly UN agency from hijacking control of the Internet!"
+score: 67
+permalink: "/r/technology/comments/13afn4/act_now_to_stop_unaccountable_censorfriendly_un/"
+created: 11/16/2012 10:37:34
+created_utc: 11/16/2012 02:37:34
+
+
+domain: "arnnet.com.au"
+title: "Apple, HTC settle patent suits worldwide"
+score: 70
+permalink: "/r/technology/comments/12zp6e/apple_htc_settle_patent_suits_worldwide/"
+created: 11/11/2012 05:12:44
+created_utc: 11/10/2012 21:12:44
+
+
+domain: "informationweek.com"
+title: "Good guy Verizon does the right thing, doesn't charge Sandy victims for usage"
+score: 66
+permalink: "/r/technology/comments/12utpw/good_guy_verizon_does_the_right_thing_doesnt/"
+created: 11/08/2012 16:51:16
+created_utc: 11/08/2012 08:51:16
+
+
+domain: "consumeraffairs.com"
+title: "Your iPhone Could Be Disabled During The Next Protest You Attend"
+score: 68
+permalink: "/r/technology/comments/12oe9p/your_iphone_could_be_disabled_during_the_next/"
+created: 11/05/2012 13:55:10
+created_utc: 11/05/2012 12:55:10
+
+
+domain: "engadget.com"
+title: "Sony quietly gets PlayStation 3 certification in China"
+score: 69
+permalink: "/r/technology/comments/12m4cf/sony_quietly_gets_playstation_3_certification_in/"
+created: 11/04/2012 18:33:03
+created_utc: 11/04/2012 10:33:03
+
+
+domain: "latimes.com"
+title: "127 Musicians oppose Pandora's push for Congress to pass the Internet Radio Fairness Act"
+score: 66
+permalink: "/r/technology/comments/138mgp/127_musicians_oppose_pandoras_push_for_congress/"
+created: 11/15/2012 17:04:43
+created_utc: 11/15/2012 09:04:43
+
+
+domain: "technologyreview.com"
+title: "Microsoft researchers have demonstrated software that translates spoken English into spoken Chinese almost instantly, while preserving the unique cadence of the speaker's voice\u2014a trick that could make conversation more effective and personal."
+score: 68
+permalink: "/r/technology/comments/12vu6h/microsoft_researchers_have_demonstrated_software/"
+created: 11/09/2012 02:33:10
+created_utc: 11/08/2012 18:33:10
+
+
+domain: "arstechnica.com"
+title: "Is Facebook \u201cbroken on purpose\u201d to sell promoted posts?"
+score: 67
+permalink: "/r/technology/comments/12nd8a/is_facebook_broken_on_purpose_to_sell_promoted/"
+created: 11/05/2012 06:35:55
+created_utc: 11/04/2012 22:35:55
+
+
+domain: "torrentfreak.com"
+title: "\nAnti-Piracy Group Threatens To Sue ISPs Over TV Show \u2018Piracy\u2019\n"
+score: 70
+permalink: "/r/technology/comments/12jos6/antipiracy_group_threatens_to_sue_isps_over_tv/"
+created: 11/03/2012 06:08:21
+created_utc: 11/02/2012 22:08:21
+
+
+domain: "eff.org"
+title: "EFF Demands Answers About Predator Drone Flights in the U.S. | Electronic Frontier Foundation"
+score: 68
+permalink: "/r/technology/comments/12hcem/eff_demands_answers_about_predator_drone_flights/"
+created: 11/01/2012 19:10:51
+created_utc: 11/01/2012 18:10:51
+
+
+domain: "hint.fm"
+title: "Real-time \"wind map\" of United States reveals Sandy's overwhelming spiral form."
+score: 68
+permalink: "/r/technology/comments/12cki7/realtime_wind_map_of_united_states_reveals_sandys/"
+created: 10/30/2012 22:00:18
+created_utc: 10/30/2012 14:00:18
+
+
+domain: "blogs.wsj.com"
+title: "For U.S. Diplomat, Culture Shock after Estonia Stint"
+score: 68
+permalink: "/r/technology/comments/11wxsp/for_us_diplomat_culture_shock_after_estonia_stint/"
+created: 10/22/2012 21:35:15
+created_utc: 10/22/2012 20:35:15
+
+
+domain: "news.cnet.com"
+title: "U.S. judge in MegaUpload case partially unseals search warrant | Internet &amp; Media - CNET News"
+score: 69
+permalink: "/r/technology/comments/13d41k/us_judge_in_megaupload_case_partially_unseals/"
+created: 11/17/2012 22:53:54
+created_utc: 11/17/2012 14:53:54
+
+
+domain: "anandtech.com"
+title: "HTC Droid DNA announced: 5 inch display, 1920x1080 resolution"
+score: 65
+permalink: "/r/technology/comments/135nr6/htc_droid_dna_announced_5_inch_display_1920x1080/"
+created: 11/14/2012 04:48:54
+created_utc: 11/13/2012 20:48:54
+
+
+domain: "geek.com"
+title: "Security FAIL: Samsung Galaxy S3 stores passwords in plain text "
+score: 68
+permalink: "/r/technology/comments/1333j2/security_fail_samsung_galaxy_s3_stores_passwords/"
+created: 11/13/2012 01:03:56
+created_utc: 11/12/2012 17:03:56
+
+
+domain: "bbc.co.uk"
+title: "US army builds its own 3D printer"
+score: 67
+permalink: "/r/technology/comments/12yph4/us_army_builds_its_own_3d_printer/"
+created: 11/10/2012 17:41:40
+created_utc: 11/10/2012 09:41:40
+
+
+domain: "dailydot.com"
+title: "The Markovian Parallax Denigrate: Unraveling the Internet's oldest and weirdest mystery"
+score: 68
+permalink: "/r/technology/comments/12o0m3/the_markovian_parallax_denigrate_unraveling_the/"
+created: 11/05/2012 10:05:13
+created_utc: 11/05/2012 09:05:13
+
+
+domain: "arstechnica.com"
+title: "One Supreme Court ruling may stop you from reselling just about anything - Wiley v. Kirtsaeng may be the IP case of the decade\u2014affecting all from eBay to libraries."
+score: 68
+permalink: "/r/technology/comments/128rlv/one_supreme_court_ruling_may_stop_you_from/"
+created: 10/28/2012 20:12:16
+created_utc: 10/28/2012 19:12:16
+
+
+domain: "bgr.com"
+title: "HTC Q3 2012 earnings: Profit tumbles 79% as Apple and Samsung continue to dominate "
+score: 67
+permalink: "/r/technology/comments/127zfw/htc_q3_2012_earnings_profit_tumbles_79_as_apple/"
+created: 10/28/2012 19:35:26
+created_utc: 10/28/2012 11:35:26
+
+
+domain: "arstechnica.com"
+title: "Mono 3.0 debuts, casting a wider .NET\n"
+score: 63
+permalink: "/r/technology/comments/11xuyw/mono_30_debuts_casting_a_wider_net/"
+created: 10/23/2012 14:54:56
+created_utc: 10/23/2012 06:54:56
+
+
+domain: "news.bbc.co.uk"
+title: "IBM reveals tech advances of the future."
+score: 64
+permalink: "/r/technology/comments/1353gm/ibm_reveals_tech_advances_of_the_future/"
+created: 11/13/2012 23:45:43
+created_utc: 11/13/2012 15:45:43
+
+
+domain: "arstechnica.com"
+title: "The Russian underground economy has democratized cybercrime"
+score: 65
+permalink: "/r/technology/comments/12ml5r/the_russian_underground_economy_has_democratized/"
+created: 11/04/2012 23:24:19
+created_utc: 11/04/2012 15:24:19
+
+
+domain: "parl.gc.ca"
+title: "Canadians should be worried about Bill C-12, gives police easy access to all your online activity"
+score: 62
+permalink: "/r/technology/comments/12fcn2/canadians_should_be_worried_about_bill_c12_gives/"
+created: 10/31/2012 19:56:21
+created_utc: 10/31/2012 18:56:21
+
+
+
+
+domain: "amd.com"
+title: "AMD enters ARM CPU market; will deploy their first ARM processor by 2014"
+score: 63
+permalink: "/r/technology/comments/12cefu/amd_enters_arm_cpu_market_will_deploy_their_first/"
+created: 10/30/2012 20:28:56
+created_utc: 10/30/2012 12:28:56
+
+
+domain: "chron.com"
+title: "Chinese Rare Earths Producer Suspends Output"
+score: 64
+permalink: "/r/technology/comments/122rir/chinese_rare_earths_producer_suspends_output/"
+created: 10/25/2012 14:52:40
+created_utc: 10/25/2012 13:52:40
+
+
+domain: "dailytech.com"
+title: "Retina Who? Google Set to Announce 10\", 2560x1600 Jelly Bean Tablet"
+score: 68
+permalink: "/r/technology/comments/1210jz/retina_who_google_set_to_announce_10_2560x1600/"
+created: 10/25/2012 01:14:07
+created_utc: 10/24/2012 17:14:07
+
+
+domain: "torrentfreak.com"
+title: "Strict Copyright Law Hurts Innovation and Consumers, Republicans Say"
+score: 66
+permalink: "/r/technology/comments/13e7qa/strict_copyright_law_hurts_innovation_and/"
+created: 11/18/2012 13:38:15
+created_utc: 11/18/2012 05:38:15
+
+
+domain: "torrentfreak.com"
+title: "US \u201csix-strikes\u201d anti-piracy system takes effect at month end: Verizon will throttle the connection speeds of repeated infringers. Time Warner Cable will restrict users\u2019 Internet browsing by directing them to a landing page"
+score: 59
+permalink: "/r/technology/comments/13av10/us_sixstrikes_antipiracy_system_takes_effect_at/"
+created: 11/16/2012 18:30:33
+created_utc: 11/16/2012 10:30:33
+
+
+domain: "allthingsd.com"
+title: "\u201cPosts on Reddit about a Siri replacement in the last two days\u201d. SkyPhrase built to understand complex queries and syntactical relationships, not just keywords and commands"
+score: 63
+permalink: "/r/technology/comments/12v1f8/posts_on_reddit_about_a_siri_replacement_in_the/"
+created: 11/08/2012 19:18:55
+created_utc: 11/08/2012 11:18:55
+
+
+domain: "news.cnet.com"
+title: "Apple now attacking Android 4.1 in court"
+score: 61
+permalink: "/r/technology/comments/12spjg/apple_now_attacking_android_41_in_court/"
+created: 11/07/2012 17:19:17
+created_utc: 11/07/2012 09:19:17
+
+
+domain: "arstechnica.com"
+title: "Patent troll claims it invented the Windows 8 and Windows Phone \u201ctiles\u201d"
+score: 67
+permalink: "/r/technology/comments/12jgqj/patent_troll_claims_it_invented_the_windows_8_and/"
+created: 11/03/2012 03:35:06
+created_utc: 11/02/2012 19:35:06
+
+
+domain: "arstechnica.com"
+title: "How Georgia doxed a Russian hacker (and why it matters)"
+score: 59
+permalink: "/r/technology/comments/12iejm/how_georgia_doxed_a_russian_hacker_and_why_it/"
+created: 11/02/2012 16:31:23
+created_utc: 11/02/2012 08:31:23
+
+
+domain: "boingboing.net"
+title: "Zappos's crappy EULA found unenforceable, leaving Zappos without a legal leg to stand on"
+score: 63
+permalink: "/r/technology/comments/12el80/zapposs_crappy_eula_found_unenforceable_leaving/"
+created: 10/31/2012 20:29:12
+created_utc: 10/31/2012 12:29:12
+
+
+domain: "techdirt.com"
+title: "DOJ Hints At Additional Charges Against Kim Dotcom If He Launches Megabox"
+score: 61
+permalink: "/r/technology/comments/1243qa/doj_hints_at_additional_charges_against_kim/"
+created: 10/26/2012 11:14:13
+created_utc: 10/26/2012 03:14:13
+
+
+domain: "phys.org"
+title: "Do you trust the government with your computer?"
+score: 62
+permalink: "/r/technology/comments/13cp35/do_you_trust_the_government_with_your_computer/"
+created: 11/17/2012 17:52:39
+created_utc: 11/17/2012 09:52:39
+
+
+domain: "extremetech.com"
+title: "NASA proves interplanetary internet, Lego proves marketing brilliance"
+score: 62
+permalink: "/r/technology/comments/12yu9b/nasa_proves_interplanetary_internet_lego_proves/"
+created: 11/10/2012 19:34:18
+created_utc: 11/10/2012 11:34:18
+
+
+domain: "rusnavy.com"
+title: "Russia develops first hydrogen fueled submarine, the B-90 Sarov "
+score: 60
+permalink: "/r/technology/comments/12vhkn/russia_develops_first_hydrogen_fueled_submarine/"
+created: 11/08/2012 23:23:20
+created_utc: 11/08/2012 15:23:20
+
+
+domain: "techland.time.com"
+title: "Watch: humanlike DARPA robot climbs and leaps from obstacles with mad skills"
+score: 65
+permalink: "/r/technology/comments/124wdh/watch_humanlike_darpa_robot_climbs_and_leaps_from/"
+created: 10/26/2012 15:25:05
+created_utc: 10/26/2012 14:25:05
+
+
+domain: "isohunt.com"
+title: "isoHunt Forums :: View topic - Google: Censorship and Antitrust bully. We need a protest."
+score: 61
+permalink: "/r/technology/comments/11tsps/isohunt_forums_view_topic_google_censorship_and/"
+created: 10/21/2012 06:41:24
+created_utc: 10/20/2012 22:41:24
+
+
+domain: "bbc.co.uk"
+title: "Vegetative patient Scott Routley says 'I'm not in pain'"
+score: 64
+permalink: "/r/technology/comments/134cud/vegetative_patient_scott_routley_says_im_not_in/"
+created: 11/13/2012 16:46:23
+created_utc: 11/13/2012 08:46:23
+
+
+domain: "akamai.com"
+title: "Internet usage of the world"
+score: 62
+permalink: "/r/technology/comments/12wokr/internet_usage_of_the_world/"
+created: 11/09/2012 06:19:09
+created_utc: 11/09/2012 05:19:09
+
+
+domain: "m.digitaltrends.com"
+title: "Terms and Conditions: Photo-sharing site Imgur says it all in under 1000 words"
+score: 61
+permalink: "/r/technology/comments/127vhy/terms_and_conditions_photosharing_site_imgur_says/"
+created: 10/28/2012 17:58:53
+created_utc: 10/28/2012 09:58:53
+
+
+domain: "news.cnet.com"
+title: "John Mellencamp: Congress must target search engines. Musician-turned-activist wants new SOPA-like law preventing search engines like Google from linking to Web sites where pirated music might be found."
+score: 60
+permalink: "/r/technology/comments/1260sa/john_mellencamp_congress_must_target_search/"
+created: 10/27/2012 12:41:02
+created_utc: 10/27/2012 04:41:02
+
+
+domain: "eurogamer.net"
+title: "LV0-keys published, enabling custom firmware to be developed for the Playstation 3."
+score: 60
+permalink: "/r/technology/comments/11ydwg/lv0keys_published_enabling_custom_firmware_to_be/"
+created: 10/23/2012 21:09:36
+created_utc: 10/23/2012 13:09:36
+
+
+domain: "google.com"
+title: "Google updates graphing capabilities with HTML5, search for anything (i.e. sqrt(x^2 + y^2))."
+score: 184
+permalink: "/r/technology/comments/13fkzc/google_updates_graphing_capabilities_with_html5/"
+created: 11/19/2012 06:44:13
+created_utc: 11/18/2012 22:44:13
+
+
+domain: "wired.com"
+title: "Kill the Password: Why a String of Characters Can\u2019t Protect Us Anymore"
+score: 61
+permalink: "/r/technology/comments/138jme/kill_the_password_why_a_string_of_characters_cant/"
+created: 11/15/2012 15:49:12
+created_utc: 11/15/2012 07:49:12
+
+
+domain: "nytimes.com"
+title: "Antiquated patent law is the weapon of choice to stifle competition -- and the courts are going along with it."
+score: 60
+permalink: "/r/technology/comments/1321tq/antiquated_patent_law_is_the_weapon_of_choice_to/"
+created: 11/12/2012 12:36:08
+created_utc: 11/12/2012 04:36:08
+
+
+domain: "arstechnica.com"
+title: "Windows 8, the post-PC world, and Linux: Microsoft will prevail  | Ars Technica"
+score: 58
+permalink: "/r/technology/comments/12etir/windows_8_the_postpc_world_and_linux_microsoft/"
+created: 10/31/2012 22:29:43
+created_utc: 10/31/2012 14:29:43
+
+
+domain: "indiegogo.com"
+title: "Raspberry Pi alternative: Cubieboard with 1Ghz and 1GB Memory"
+score: 60
+permalink: "/r/technology/comments/1228ho/raspberry_pi_alternative_cubieboard_with_1ghz_and/"
+created: 10/25/2012 16:12:51
+created_utc: 10/25/2012 08:12:51
+
+
+domain: "bgr.com"
+title: "The European Commission has found that Microsoft failed to comply with an order that requires it to offer a choice of web browsers to Windows PC buyers"
+score: 62
+permalink: "/r/technology/comments/1208dd/the_european_commission_has_found_that_microsoft/"
+created: 10/24/2012 18:20:27
+created_utc: 10/24/2012 10:20:27
+
+
+domain: "truth-out.org"
+title: "A Pivotal Moment for Internet Freedom: This may seem far-fetched or even laughable, but the United Nations is planning to take over the Internet."
+score: 59
+permalink: "/r/technology/comments/13dkwc/a_pivotal_moment_for_internet_freedom_this_may/"
+created: 11/18/2012 03:53:51
+created_utc: 11/17/2012 19:53:51
+
+
+domain: "bbc.co.uk"
+title: "Nasa has ordered that the data on all its laptops must be encrypted, after losing another one of its portable computers."
+score: 60
+permalink: "/r/technology/comments/138oh1/nasa_has_ordered_that_the_data_on_all_its_laptops/"
+created: 11/15/2012 17:47:04
+created_utc: 11/15/2012 09:47:04
+
+
+domain: "opensource.com"
+title: "Hampshire College distributes free software bundle to all incoming students"
+score: 63
+permalink: "/r/technology/comments/12uukr/hampshire_college_distributes_free_software/"
+created: 11/08/2012 17:11:52
+created_utc: 11/08/2012 09:11:52
+
+
+domain: "techcrunch.com"
+title: "Thieves Grab 3,600 iPad Minis Worth $1.5M In JFK Airport Heist"
+score: 58
+permalink: "/r/technology/comments/1394io/thieves_grab_3600_ipad_minis_worth_15m_in_jfk/"
+created: 11/15/2012 22:02:02
+created_utc: 11/15/2012 14:02:02
+
+
+domain: "gigaom.com"
+title: "One year with solar energy at home: Mostly sunny!"
+score: 62
+permalink: "/r/technology/comments/130j9s/one_year_with_solar_energy_at_home_mostly_sunny/"
+created: 11/11/2012 19:51:42
+created_utc: 11/11/2012 11:51:42
+
+
+domain: "cnn.com"
+title: "Samsung Galaxy S III dethrones iPhone as world's top seller - CNN.com"
+score: 59
+permalink: "/r/technology/comments/12wb28/samsung_galaxy_s_iii_dethrones_iphone_as_worlds/"
+created: 11/09/2012 07:05:53
+created_utc: 11/08/2012 23:05:53
+
+
+domain: "techcrunch.com"
+title: "Amazon Gets Feisty, Updates Homepage To Talk Smack On The iPad Mini"
+score: 57
+permalink: "/r/technology/comments/129bel/amazon_gets_feisty_updates_homepage_to_talk_smack/"
+created: 10/29/2012 08:14:14
+created_utc: 10/29/2012 00:14:14
+
+
+domain: "theverge.com"
+title: "Google's Android event canceled due to hurricane"
+score: 60
+permalink: "/r/technology/comments/126i1z/googles_android_event_canceled_due_to_hurricane/"
+created: 10/27/2012 21:41:21
+created_utc: 10/27/2012 13:41:21
+
+
+domain: "news.slashdot.org"
+title: "The Greatest Battle of the Personal Computing Revolution Lies Ahead - Slashdot"
+score: 54
+permalink: "/r/technology/comments/120ifl/the_greatest_battle_of_the_personal_computing/"
+created: 10/24/2012 20:56:03
+created_utc: 10/24/2012 12:56:03
+
+

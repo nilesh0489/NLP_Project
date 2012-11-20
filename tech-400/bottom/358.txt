@@ -1,0 +1,9 @@
+NASA’s Marshall Space Flight Center is using ”selective laser melting” (SLM) to create intricate metal parts for America’s Space Launch System (SLS) heavy-lift rocket, saving millions in manufacturing costs.
+
+SLM is similar to 3-D printing (additive printing) and is the future of manufacturing, says Ken Cooper, advanced manufacturing team lead at the Marshall Center.
+
+“This machine takes metal powder and uses a high-energy laser to melt it in a designed pattern. The laser will layer the melted dust to fuse whatever part we need from the ground up, creating intricate designs.
+
+“The process produces parts with complex geometries and precise mechanical properties from a three-dimensional computer-aided design.”
+
+SLS is designed to take humans, equipment and experiments beyond low Earth orbit to nearby asteroids and eventually to Mars.

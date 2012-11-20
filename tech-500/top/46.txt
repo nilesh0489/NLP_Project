@@ -1,0 +1,43 @@
+If you buy e-books from Amazon and want to engage in a bit of digital civil disobedience—by stripping the files’ DRM and making sure that Amazon can’t deny you access—we’re about to show you how. Yes, many parts of the Internet have known about this technique for some time now, but we feel that it bears mentioning again here.
+
+Over the past week, the tech world has been abuzz with news that—surprise, surprise—Amazon can remotely wipe any Kindle, at any time, for effectively any reason. (The company did it before, ironically, with George Orwell’s 1984, back in 2009.)
+
+This week’s case involves a Norwegian woman (Google Translate) named Linn Nygaard. She bought a Kindle in the United Kingdom, took it home to Norway, and bought UK e-books on the Kindle. This week, Amazon suddenly disabled her account, taking away her access to an e-book library of 40 books. That move was reversed (Google Translate) about 24 hours later, with access to her Kindle account restored.
+
+"I have not heard anything from Amazon about this, except that I got a very strange phone [call] earlier from someone with a hidden number," Nygaard told Norwegian broadcaster NRK. "They claimed that they worked in Amazon.co.uk and would give me a new Kindle, but they would not talk to me about my account."
+
+Many speculated that because she was buying content licensed for the UK from Norway, Nygaard somehow ran afoul of Amazon’s licensing deals. (For two years, my wife and I regularly bought e-books for our US-bought Amazon Kindle while we were living in Germany—I can’t believe that we just got lucky. More likely, Amazon turns a blind eye to most people who fall into this category.)
+
+Amazon declined to respond to media queries (including those from Ars) as to exactly what Nygaard, an IT consultant, had done to prompt the company’s wrath.
+
+Many other websites also lamented that many digital retailers (Amazon, Apple, and plenty of others) are not selling digital goods, but rather license them. It's a distinction many Ars readers may already understand, but it's less apparent outside the ranks of the tech-savvy. (After all, those purchase buttons usually say BUY, not BUY A LICENSE.)
+
+Fortunately, though, there’s an easy way to ensure you can avoid the same fate as Nygaard. By downloading a free and open-source e-book management app known as Calibre, and a corresponding plugin that cracks Amazon’s DRM encryption, you can convert any Kindle e-book into an iBook format, or pretty much any other format that you like.
+
+We will offer this caveat, however: it’s quite possible the technique we’re about to outline violates not only Amazon’s Terms of Service, but the Digital Millennium Copyright Act as well. We are not advocating breaking the law, but we are demonstrating for non-American Kindle users how this technique can be used to safeguard against remote deletion tactics. Related laws may differ in countries around the world, so be sure to check your local situation if you’re unsure. In short, follow these instructions at your own risk.
+
+Zac West, a San Francisco-based iOS developer wrote up his instructions about a year ago. We used his directions on a Mac (although repeating the same trick on Windows is likely quite similar), and found they worked well transferring books to an iPad 3. But the program should allow you to load DRM-stripped books onto your Kindle, Nook, Nexus 7, or other device as well. Let’s dive right in:
+
+You’ll need to download Calibre, which is available for OS X, Windows, and Linux. The software describes itself as a "free and open source e-book library management application developed by users of e-books for users of e-books."
+
+Then, download the DeDRM plugin and unzip it. That’s the actual piece of code that, as the name implies, cracks Amazon’s DRM scheme. Once Calibre is installed, open its Preferences (under the File menu). At the bottom of the screen, in the lower left-hand corner, click "Plugins."
+
+Then, "Load plugin from file," and choose the K4MobileDRM plugin’s zip file—it’s a zipped file inside of the DeDRM zipped file you downloaded. Don’t decompress this second file.
+
+A note for Windows users: it might also be necessary to install both Python and the PyCrypto precompiled binary in order to be able to decrypt some e-books. The easiest way to get Python for this purpose is to download and install Active Python from here, and then get the matching version of PyCrypto from here (either 2.7 or 3.3, for 32-bit or 64-bit Windows, whichever is appropriate). Thanks to forum user krimhorn for the suggestion!
+
+Now, be sure to download Kindle for Mac (or the Windows/Linux equivalent), and connect it to your Amazon account. (If you have the app already installed, go ahead and skip this step.) Download all your e-books—open them up from "Archived Items" in the top left of the app. Once done, your "Archived Items" count will go to zero and "Downloaded Items" should show a number greater than zero.
+
+As West notes, Kindle e-books come in the MobiPocket format, while iBooks requires ePub, so we’re going to be converting from one to the other. On a Mac, open up ~/Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/.
+
+Note: this does require the Library file found under the "username" directory. An easy way to open that folder is by holding the Option key while clicking the "Go" menu in the Finder. (On Windows, you can find the "My Kindle Content" folder under My Documents.)
+
+Now we have to drag the .azw files (each Kindle e-book) into Calibre—why not do them all?
+
+Next, click "Convert books" in the app’s toolbar. When the "Bulk Convert" window pops up, make sure that EPUB is selected in the upper right corner of the screen. Then click the third item on the left-hand side, "Page Setup," and configure the output profile to whatever device you want to export to—we’re working with an iPad 3, so that’s what we chose. Similarly, choose Kindle as the input profile.
+
+Click "OK" to begin the conversion. Depending on how many books you have, it may take a little while. Our 44 books, including some Lonely Planet travel guidebooks, took around 10 to 15 minutes. You can monitor Calibre’s progress by clicking the "Jobs" button in the lower right-hand corner.
+
+On a Mac, Calibre defaults to creating its "Calibre Library" file under the username directory. If everything has gone correctly, you should have a bunch of sub-folders, organized by author’s name, complete with cover art and a converted file in EPUB format. Drag all of those folders directly into iTunes, which should open them all under "Books" (found in the upper left part of the app, between "Podcasts" and "Apps.") Then, when you sync Books with your iPad, you’ll have all your Amazon e-books for your own use in iBooks, safe from Amazon’s whims.
+
+As West himself noted, these files are for your personal use only—they’re not meant to be distributed anywhere. Enjoy!

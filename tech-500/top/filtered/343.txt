@@ -1,0 +1,21 @@
+Never mind looming defense cuts or residual technical challenges. The Navy’s chief futurist is pushing up the anticipated date for when sailors can expect to use laser weapons on the decks of their ships, and raising expectations for robotic submarines.
+
+“On directed energy” — the term for the Navy’s laser cannons, “I’d say two years,” Rear Adm. Matthew Klunder, the chief of the Office of Naval Research, told Danger Room in a Monday interview. The previous estimate, which came from Klunder’s laser technicians earlier this year, was that it will take four years at the earliest for a laser gun to come aboard.
+
+“We’re well past physics,” Klunder said, echoing a mantra for the Office of Naval Research’s laser specialists. Now, the questions surrounding a weapon once thought to be purely science fiction sound almost pedestrian. “We’re just going through the integration efforts,” Klunder continued. “Hopefully, that tells you we’re well mature, and we’re ready to put these on naval ships.”
+
+Klunder isn’t worried about the ships generating sufficient energy to fill the laser gun’s magazine, which has been an engineering concern of the Navy’s for years. “I’ve got the power,” said Klunder, who spoke during the Office of Naval Research’s biennial science and technology conference. “I just need to know on this ship, this particular naval vessel, what are the power requirements, and how do I integrate that directed energy system or railgun system.”
+
+That’s a relief for the Navy. It means that the Navy’s future ships probably won’t have to make captains choose between maneuvering their ships and firing their laser weapons out of fear they’d overload their power supplies.
+
+But shipboard testing is underway. Klunder wouldn’t elaborate, but he said that there have been “very successful” tests placing laser weapons on board a ship. That’s not to say the first order of business for naval laser weaponry will be all that taxing: In their early stages, Pentagon officials talk about using lasers to shoot down drones or enable better sensing. Klunder alluded to recent tests in which the Navy’s lasers brought drones down, although he declined to elaborate.
+
+Then come the unmanned submarines. Current, commercially available drone subs typically swim for several days at a time, according to Frank Herr, an Office of Naval Research department head who works on so-called unmanned underwater vehicles, or UUVs. That’s way behind the capabilities that successive Navy leaders want: crossing entire oceans without needing to refuel. So Klunder wants to raise the bar.
+
+“The propulsion systems that I think you’re going to see within a year are going to [give] a UUV with over 30 days of endurance,” Klunder said. By 2016, a prototype drone sub for the office’s Long Duration Unmanned Underwater Vehicle program should be able to spend 60 days underwater at a time: “That’s ahead of schedule of what we told the secretary of the Navy a year ago.”
+
+That’s a challenge for the subs’ propulsion and fuel systems. Typically, Herr explains, the commercially available batteries built into prototype drone subs take up a lot of the ship; but building bigger subs just increases the need for power. The nut that the Office of Naval Research has to crack is using more efficient fuel cells while designing subs that don’t need as much energy to run. “We’re thinking about power requirements for these systems as well as the power [sources] available for them,” Herr says.
+
+“The breakthrough,” Klunder explains, “was really on getting past your more traditional lead-acid battery pieces to more technically robust but also mature lithium ion fuel cell technology and the hybrids of that.”
+
+None of that is to say the lasers will be actually on board by 2014 or the drone subs will disappear beneath the waves for 60 days by 2016. That depends in part on the Navy’s ability to afford it — and at the conference this morning, Adm. Mark Ferguson, the Navy’s vice chief, warned that “research and development is part of that reduction” in defense budgets currently scheduled to take effect in January. But it might not be long before Klunder is finally able to hand over a battle-ready laser cannon to Big Navy.

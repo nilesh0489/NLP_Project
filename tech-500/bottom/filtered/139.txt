@@ -1,0 +1,47 @@
+The Federal Government has formally abandoned plans to introduce legislation for mandatory ISP filtering, closing a dark chapter in politics concerning Australia's internet.
+
+Instead, internet service providers will be directed by the Government and the Australian Federal Police to block "child abuse websites" that feature on an INTERPOL block list.
+
+Communications Minister Stephen Conroy said in a statement that "Australia's largest ISPs have been issued notices requiring them to block these illegal sites in accordance with their obligations under the Telecommunications Act 1997".
+
+"The Australian Federal Police will now begin issuing notices to smaller ISPs and will work closely to assist them in meeting their obligation under Australian law and prevent their services being used for illegal activities," Conroy said.
+
+"Given this successful outcome, the Government has no need to proceed with mandatory filtering legislation."
+
+Conroy unveiled plans for a mandatory internet filter plan in May 2008 as part of Labor's $125.8 million Cybersafety Plan.
+
+A live pilot of ISP filtering in 2009 provided further ammunition to the Government to pursue the mandatory filter proposal.
+
+Following the release of the pilot results, Conroy fleshed out the Government's plans, saying that he aimed to "introduce legislative amendments to the Broadcasting Services Act to require all ISPs to block [Refused Classification]-rated material hosted on overseas servers."
+
+Pursual of the proposal led to a fresh wave of grassroots activism, including more protests and DDoS attacks levelled against Government internet properties.
+
+Conroy formally put the filter proposal on hold in July 2010, pending the outcome of a review of Australia's guidelines for content classification.
+
+The announcement coincided with Telstra, Optus and iPrimus agreeing to voluntarily filter out a list of child abuse URLs, using a blocklist to be maintained by the Australian Communications and Media Authority.
+
+In November 2010, strategy papers revealed that the introduction of mandatory ISP filtering legislation had been deferred until at least the second half of 2013.
+
+Outwardly, Conroy maintained he had not abandoned the proposal entirely, and that it was still a key part of Labor policy.
+
+He denied an internal reshuffle in June 2011 was the result of the Government scaling back its plans for mandatory filtering.
+
+But the same month, the Internet Industry Association revealed plans to make the blocking of child abuse material against an INTERPOL blocklist part of a voluntary code applicable to all Australian ISPs.
+
+The move sidelined ACMA's plan to maintain its own local blocklist. It also superseded the voluntary filter plan announced by Conroy in July 2010 that was to have used the ACMA list. ISPs had not actioned that plan anyway, in part due to the ongoing threat posed by internet hacktivists.
+
+Telstra, Optus and CyberOne opted to voluntarily filter internet services using the INTERPOL list, which is locally maintained by the Australian Federal Police.
+
+In March this year, the classification review recommended that ISPs be obliged to block a narrowly defined scope of 'prohibited' content on websites.
+
+Conroy indicated initial acceptance of the review's key recommendations in May. The move indicated a further softenining in the Government's approach to mandatory internet filtering.
+
+He said at the time that discussions were underway with "key stakeholders" before a final decision on mandatory filtering was taken.
+
+"I welcome the support of Australia's major ISPs and the Internet Industry Association for taking these steps," Conroy said.
+
+"This means that more than 90 percent of Australians using internet services will have child abuse material blocked by their ISP.
+
+"The Gillard Government takes the safety of children seriously and believes that there is never a place for child sexual abuse material in our society.
+
+"There is also widespread community support for blocking access to child abuse material."

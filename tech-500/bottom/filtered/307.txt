@@ -1,0 +1,19 @@
+Here’s the thing about contemporary rapid prototyping tools — while they’re rapid compared to sending your designs off to a factory, they still aren’t all that rapid. You design in software, then you fabricate it on a machine, then you examine the results, then you go back to the software to make changes, then back to the machine, then back to the software, until you get it right.
+
+It’s a model of interaction that anyone who uses computers is used to, but it can be a very frustrating way to work with tools. “It kind of follows a 1970s paradigm of graphical user interfaces where there is a very strong distinction between my interaction and what I am producing,” says Ph.D. student Stefanie Mueller. With co-author Pedro Lopes and advisor Patrick Baudisch at the Hasso Plattner Institute, Mueller is looking to change that.
+
+They’ve created a system called Constructable. It’s a suite of tools that allows people to interact much more directly with the high-powered machines of the modern workshop. Using laser pointers, users draw their designs directly on the material. The software then corrects and interprets those paths into lines, converting a laser-pointer sketch into a precisely cut pattern.
+
+Confused? This demo video shows how it works.
+
+If you are the type of person who likes to think with your hands, you’ll see the appeal immediately. Constructable takes out a step of interaction between idea and object, allowing faster sketching of physical designs. “As people nowadays lean towards using touch interfaces instead of using a mouse, we are trying to get rid of the indirection of a CAD system and instead work directly on the data,” says Mueller.
+
+This is laser-cutting as the child of whittling rather than the child of desktop publishing. It allows users to make a cut, see how it looks, and make another, rather than designing the whole thing before arriving at the table.
+
+Much as with whittling, Constructable has a variety of tools for different purposes. A set of laser pointers — Mueller says there are 14 in all — act as signals for different kinds of applications. One laser might create straight lines, while another is used to create rounded corners, a third can be used to copy shapes, while a fourth turns lines into finger joints.
+
+The system works by using an overhead camera to track the lines being sketched with the laser pointers. “Since hand drawing is never perfect, we send the path to a shape recognizer, which returns geometric primitives such as lines, circles and rectangles,” says Mueller. “We then apply geometric constraints, such as aligning lines with each other, and spatial constraints defined by each specific tool.”
+
+All of that intelligence goes toward converting your shaky hand movements into a workable, reusable pattern. Once you have a design you like, you can reproduce it as many times as you wish.
+
+Constructable isn’t intended to replace current CAD entirely, says Mueller. There is still a place for those tools on complex projects that require a lot of detailed measurements. But there are a lot of projects that simply don’t require that much precision. In those cases, Constructable shines. “Working directly with the workpiece systems like Constructable will make prototyping truly rapid,” says Mueller, “allowing users to create a simple object in seconds.”

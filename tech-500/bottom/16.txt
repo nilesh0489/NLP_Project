@@ -1,0 +1,13 @@
+The Fukushima nuclear disaster in March 2011 was a wake-up call across the globe to the potential danger of nuclear energy — but could technology help us to respond to such emergencies?
+
+The Hybrid Assistive Limb (HAL) exoskeleton has been developed by the University of Tsukuba spin-off company Cyberdyne. Once disaster strikes, safety of on-call teams is paramount — and that is where this new suit comes in.
+
+According to Cyberdyne, the exoskeleton can reduce radiation exposure by 50 percent, and includes a cooling system to prevent heatstroke. Heart rates and vital signs are monitored in real-time, and most of the suit’s weight is carried by the skeleton’s mechanical legs — as well as tools that can be used to repair damage.
+
+The HAL suit was originally intended to be a rehabilitation aid, although other modifications have resulted in a significant increase of a wearer’s strength.
+
+In addition, part of the same initiative has resulted in the development of remotely-operated robots that can enter radioactive areas unaided. Two generations have already been built – Rosemary and Quince — and now “Sakura” is the latest attempt in rescue robotics. It can be used to inspect damage pipes, radiation levels and humidity.
+
+With further development and minimization of the robots, it is expected that they will be able to explore anywhere within a reactor. At the moment it is able to negotiate stairwells and narrow passages, and is able to function for three years without maintenance.
+
+The exoskeleton was developed under NEDO’s “unmanned systems research and development project disaster” in conjunction with the Chiba Institute of Technology. It will be unveiled at Japan Robot Week 2012.

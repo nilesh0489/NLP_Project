@@ -1,0 +1,33 @@
+Steven Sinofsky, the executive in charge of Microsoft's Windows 8 operating system and the driving force behind its new OS, is leaving the company, Microsoft announced late Monday, leading analysts to speculate that the company could be dissatisfied with early sales of the operating system.
+
+Sinofsky was the public face for Windows 8 and its new Metro interface, posting constant updates in a Windows 8 blog that charted its development. His last post, fittingly, was entitled "Updating Windows 8 for General Availability." The OS was officially launched at the end of last month.
+
+Sinofsky's departure is effective immediately, Microsoft said. The company will promote Julie Larson-Green, a lead engineer on Windows 7, to lead all Windows software and hardware engineering. CFO Tami Reller will take on the added duty of managing the business side of Windows.
+
+IDG News Service -Steven Sinofsky, the executive in charge of Microsoft's Windows 8 operating system and the driving force behind its new OS, is leaving the company, Microsoft announced late Monday, leading analysts to speculate that the company could be dissatisfied with early sales of the operating system.
+
+Sinofsky was the public face for Windows 8 and its new Metro interface, posting constant updates in a Windows 8 blog that charted its development. His last post, fittingly, was entitled "Updating Windows 8 for General Availability." The OS was officially launched at the end of last month.
+
+Sinofsky's departure is effective immediately, Microsoft said. The company will promote Julie Larson-Green, a lead engineer on Windows 7, to lead all Windows software and hardware engineering. CFO Tami Reller will take on the added duty of managing the business side of Windows.
+
+Microsoft didn't say why Sinofsky left. In a statement, CEO Steve Ballmer thanked him for his work and added, somewhat ambiguously, that the company must "continue to drive alignment across all Microsoft teams, and have more integrated and rapid development cycles for our offerings."
+
+According to the All Things D blog, there was growing tension between Sinofsky and other members of the Microsoft executive team, who didn't see him as enough of a team player. But Microsoft's official position is that the decision was a mutual one.
+
+Sinofsky's official title was President of Windows and Windows Live. He the executive who demonstrated Microsoft's Surface tablet for the first time at an event in Los Angeles this year. And it was Sinofsky who disclosed to the media two years ago Microsoft's plans to develop a version of Windows for ARM-based processors.
+
+Sinofsky had nothing but good things to say about his former employer.
+
+"It is impossible to count the blessings I have received over my years at Microsoft," he said in a statement. "I am humbled by the professionalism and generosity of everyone I have had the good fortune to work with at this awesome company."
+
+Analysts speculated that the reasons for the split could include dissatisfaction with early Windows 8 sales and customer feedback, as well as Sinofsky's reportedly difficult personality.
+
+"An organization will only stick with that sort of disruption for so long and only huge success makes putting up with it worthwhile," Gartner analyst Michael Silver said via email.
+
+He added that Microsoft has so far been quiet about the sales performance of Windows 8 and of the company's Surface tablet, whose first models run a version of the OS called Windows RT designed for devices with ARM chips.
+
+This relative silence "could be an indication that they did not meet expectations," Silver said.
+
+Al Gillen, an IDC analyst, said Ballmer and the board may be second-guessing some bold bets Microsoft made with Windows 8, such as its radically-redesigned user interface.
+
+The new UI uses square and rectangular tile icons to make it better for touch screens, such as those in tablets, and has a very different navigation scheme.

@@ -1,0 +1,23 @@
+Microsoft has suffered through more than a few security embarrassments over the years, but at least according to Kaspersky Labs, the Redmond based software giant is back in control. The security researchers have named the top 10 offending companies/products, and for once, Microsoft has been knocked off the list thanks to improvements in Windows 7 & 8. Automatic update mechanisms are citied as the top reason for the high profile exclusion, and have indeed done an amazing job of keeping hackers at bay.
+
+Here is a list of the top 10 worst offenders:
+
+1.) Oracle Java Multiple Vulnerabilities: DoS-attack (Gain access to a system and execute arbitrary code with local user privileges) and Cross-Site Scripting (Gain access to sensitive data). Highly Critical.
+
+2.) Oracle Java Three Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Extremely Critical.
+
+3.) Adobe Flash Player Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Gain access to sensitive data. Highly Critical.
+
+4.) Adobe Flash Player Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Bypass security systems. Highly Critical.
+
+5.) Adobe Reader/Acrobat Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Extremely Critical.
+
+6.) Apple QuickTime Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Highly Critical.
+
+7.) Apple iTunes Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Highly Critical.
+
+8.) Winamp AVI / IT File Processing Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Highly Critical.
+
+9.) Adobe Shockwave Player Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Highly Critical.
+
+10.) Adobe Flash Player Multiple Vulnerabilities: Gain access to a system and execute arbitrary code with local user privileges. Bypass security systems. Gain access to sensitive data. Extremely Critical.

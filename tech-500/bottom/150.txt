@@ -1,0 +1,87 @@
+New chips from Butterfly Labs, a leading Bitcoin equipment manufacturer, promise speeds of 4.5 gigahashes per second to 1,500 gigahashes per second.
+
+Jim O’Shea, a web programmer, gadget lover, and family man living in Pennsylvania, became a digital gold miner in June of 2011.
+
+The resource he mines is not World of Warcraft currency, personal data, or fancy new domain names. It’s Bitcoin, the internet-native currency that many believe has the potential to become a revolutionary new universal currency independent of governments, banks, and PayPal.
+
+O’Shea has 24 computers running constantly in a shed behind his house, making Bitcoins. "My setup is kind of... ghetto. I have bugs crawling around on my rigs and there’s dust and pollen and cigar smoke," he told The Verge recently by phone. "I'm out here now, I don’t know if you can hear them in the background. Can you hear the hum?"
+
+The race to mine Bitcoins has drawn a rush of digital '49ers
+
+Bitcoin has been described as cash for the internet, but gold is a more appropriate analogy. Anyone can "mine" Bitcoins on their own computers by running a program that’s designed to produce a 64-digit number in a resource-intensive way. This program randomly computes a cryptographic "hash" over and over until the result is below the number the network is looking for. The network rewards the first miner to get the right answer with 50 Bitcoins and then the process starts again. Only 21 million will be created in total, mimicking the scarcity of a precious metal. The race to mine them has attracted a rush of digital ‘49ers. There are many, likely thousands, like O’Shea.
+
+"Other miners are more organized. They’ll rent this warehouse and wire it and build all these beautiful racks," he said. "I’ve known people that have actually moved their whole mining operation right next to the power plant so they can get the cheapest power."
+
+O’Shea’s backyard operation brings in about $3,000 a month, he estimates, although the take is always changing because the price of Bitcoin is extremely volatile. He’s spent more than $60,000 on equipment, and his electricity costs run between $2,200 and $2,400 a month. He’s defrayed his cost significantly but has yet to break even.
+
+"Some people have made retirement money, but I'm not one of them. I'm more into it just for the gadgetry," he said. "I’m in my backyard so I can come home, visit the kids, and then disappear into my cave."
+
+People have been mining Bitcoin since the currency debuted in 2009. The network automatically adjusts the difficulty of mining so that 50 Bitcoins are created roughly every ten minutes. In the early days, it was easy: anyone could run the Bitcoin-generating program at home on a CPU and crank out the coins without much effort. One early miner accumulated so many that he offered 10,000 Bitcoins to anyone who would deliver him two pizzas. At the time, that would have been around $100, but at today’s prices, it’s over $100,000.
+
+Some miners are students, who take over whatever computers they can find. Others are bankers or venture capitalists, drawn by the ostensible investment opportunity. Some join mining pools, which let individuals combine computing power and hedge their investments; others are "solo miners," like O’Shea. Still others have set up botnets to stealthily infect unsuspecting users over the internet and harness the collective computing power to mine.
+
+There is money to be made
+
+The allure of passively cranking out Bitcoins has given geeks around the world goldlust. One IT worker at the Australian Broadcasting Corporation made headlines after he installed the Bitcoin software on the company’s servers; a college IT administrator confessed to Motherboard that he was secretly running the software on school computers. Another solo miner’s story went viral when he confessed on 4chan that he got minor but permanent brain damage from mining. He had set up a small operation in his room, and the hard-working computers, running 24 hours, had given him heat stroke while he was sleeping. There’s an urban legend that one Bitcoin miner’s high electricity usage brought the cops to his door, suspecting a marijuana farm.
+
+There is money to be made. Last year, miners generated $16.7 million worth of Bitcoins, using the price at the time the coins were created. But miners’ margins are getting thin. The popularity of the profession surged when the price of Bitcoins spiked up to $33 each in 2011. That was good for Bitcoin, because the more miners there are, the lower the odds that any one person can override Bitcoin’s security measures with a so-called "51 percent attack." But it meant that mining became less lucrative and more competitive.
+
+One highly-active miner's setup from May 2011.
+
+Miners started using GPUs, normally reserved for gaming, to mine Bitcoins at much faster rates. Anyone who wanted to stay in the game had to invest in new equipment. At today’s prices, only about $550 in Bitcoins is generated by all miners every eleven minutes. The total number of people mining Bitcoin is unknown, except that it is below 20,000. When you factor in equipment and electricity costs, many miners are underwater on their operations.
+
+"I'd say that the majority of miners, especially large-scale ones that I know, including myself, are not paid off," said Jeff Brandt, who makes about $2,000 a month mining Bitcoin on the $40,000 worth of equipment he keeps in an 1,800-square-foot barn. "I would estimate that a majority of the Bitcoin network was built off of credit card debt."
+
+Because there is no central Bank of Bitcoin, miners are an essential part of the system. The currency was designed to incentivize users to process the network’s transactions by running the Bitcoin program on their own machines. Those users are rewarded for their efforts with transaction fees. In the beginning phases of the currency, the network also spits out 50 brand new Bitcoins for every "block" of transactions, which is called the "block reward."
+
+Some people mine because they want Bitcoin to succeed, but most do it for the promise of profit, plunging time, energy, and hundreds of thousands of US dollars into mining.
+
+Miners have dutifully generated just under half of the total Bitcoins that will ever be mined. But the mining industry is about to be thrown into turmoil due to two major changes expected to hit, entirely coincidentally, around the same time. One is the introduction of application-specific integrated circuits, or "ASICs," designed specifically to mine Bitcoins up to 1,000 times faster than current technology. The other is a deadline hard-coded into the Bitcoin software. When the total number of Bitcoins reaches 10.5 million in about one week, the block reward will suddenly be cut in half — a protection built into the currency in order to prevent inflation.
+
+The new chips, which retail from $150 to $29,899 for a 'mini-rig,' are built exclusively to mine Bitcoin
+
+The new chips, which retail from $150 to $29,899 for a "mini-rig," are purpose-built to mine Bitcoin. That ups the stakes for miners, since they will no longer be able to resell their equipment to non-Bitcoiners if mining becomes unprofitable. In the past, miners could resell their gear to gamers or other buyers. But if one of the new ASICs isn't being used to mine Bitcoin, "it's a doorstop," said Josh Zerlan, COO of Butterfly Labs, which is producing the new chips.
+
+At least three companies are selling these chips, which are scheduled to start shipping in December. Whoever receives the chips first will have as long as two weeks to rake in profits before the network adjusts to the higher performance and increases the difficulty of mining, so miners rushed to place pre-orders. Zerlan told The Verge that 20,000 chips are on the way in the first batch, with an additional 30,000 to follow.
+
+No one is quite sure what will happen to miners’ income when the new chips come online and the block reward drops to 25 Bitcoins every ten minutes instead of 50. The Bitcoin mining forums have been full of nail-biting since February. "The end is nigh," one user wrote.
+
+In March of 2011, Yifu Guo decided to cash in on the Bitcoin gold rush. Guo, a 23-year-old student taking a break from his digital media program at NYU-Poly, made a calculated investment. If he spent a few thousand in computer equipment to generate Bitcoins, he could break even in 26 days — after that, he’d be making around two thousand dollars a month.
+
+"I was like, no way. That’s absurd," Guo recalled on a recent blizzardy afternoon in a coffee shop in downtown Brooklyn, where he sipped a hot chocolate spiked with espresso. "The return was amazing." He bought the equipment and became a small-time miner. But it wasn’t long before he saw a bigger opportunity: instead of mining the gold, he’d sell the pickaxes.
+
+"A lot of people are going to stop mining."
+
+Guo had connections to hardware makers in Taiwan thanks to a previous project to build a $100 Android tablet. He contracted with TSMC, the company that is reportedly replacing Samsung as Apple’s chip supplier, to produce custom-built chips comparable to the ones being peddled by Butterfly Labs. He took orders for 300 units, which he's calling Avalon, which he plans to ship in mid-January. The rush of orders crashed his site in two hours. His hosting company thought he was under attack.
+
+Most miners are in it for profit, but many don’t know how tough it is to make money, Guo said. "A lot of them are uninformed," he said. "If you don’t have cheap power, don’t go into mining long-term."
+
+When the new chips come online, he expects miners will have to go pro or go home. "A lot of people are going to stop mining," he said.
+
+CoinLab, a startup funded by Silicon Valley venture capitalist Tim Draper and others, hopes to give Bitcoin miners another way to make a buck. CoinLab was originally a Bitcoin mining startup that attempted to partner with video game makers in order to use players’ computers to mine Bitcoins.
+
+That didn’t work out, so the company pivoted to a new model which matches Bitcoin miners with universities and other entities that need distributed computing power. CoinLab also runs a mining pool of more than 1,000 miners. As a result, CoinLab is very tied in with the amorphous mining community.
+
+CEO Peter Vessenes remembers when Bitcoin mining was easy, before the economy had developed. "I got like 50 in an hour on my laptop or something," he told The Verge. "That was well over two years ago."
+
+Vessenes expects that the new chips, coupled with the change in the block reward, will drive up the demand for Bitcoins and therefore the price, keeping more serious miners engaged. Further, he believes that mining technology will continue to improve, requiring miners to upgrade as often as annually. "No one is worried Bitcoin will go away in the next six months," he said.
+
+"No one is worried Bitcoin will go away in the next six months."
+
+Although the Bitcoin community has a lot of discussions about how the refine the currency, there were no calls to oppose the coming change to the block reward. Miners seem content to accept the rules of the currency, no matter how detrimental to profits. "There was a very interesting thing that happened in January or February of this year," Vessenes recalled. "It was a little too technical for the press to cover, a change to the Bitcoin protocol that could have an escrow agent release funds. Gavin [Andresen, the lead Bitcoin developer] put it out to miners for a vote.
+
+"There were really interesting politics at that time. People changed mining pools because they didn’t like how the mining operator had voted.
+
+"But no miners even brought up voting for keeping [the block reward] at 50. It wasn't even mentioned," he said. "I think that’s intriguing. These are all people putting in significant time and money, and they’re not even organizing to change the issuance. It feels nice to say there’s only going to be 21 million of these coins."
+
+Fon Duke is another Bitcoin miner who has spent $30,000 on equipment — but he lives in the California desert, and runs his rigs on solar power. He’s made back almost a third of his investment. When the new purpose-built chips went up for sale, he had to make a decision. "I was $15,000 in. I was half in on a mini-rig for $7,500 and then another $7,000 for singles and video cards. I had to basically, just like in the casino, I had to double down or cash out."
+
+He pre-ordered the new chips in order to upgrade his operation. "Either I’m being very aggressive or I’m being very foolish," he said. "I wouldn't call myself a business. If anything, I’m just trying to recoup my funds. If it makes money I’ll be really ecstatic."
+
+Bitcoin has come a long way in almost three years. Over the last month, there were more than 20,000 transactions per day done in Bitcoin, and the number of coins in circulation at valued at $114 million in today’s prices. Bitcoin is popular on the online black market, but it can also be used legitimately to buy food, electronics, computer services, and a lot more. Bitcoin got what is arguably its best endorsement yet: the popular blogging platform WordPress started accepting the ecurrency in order to bring in customers from countries blocked by credit cards and PayPal.
+
+But as the movement struggles to go from a novelty to a serious economy, the viability of mining is increasingly critical. Eventually, the block reward will disappear altogether, all the Bitcoins will have been mined, and miners will be compensated with higher transaction fees.
+
+"Either I’m being very aggressive or I’m being very foolish."
+
+In theory, this monetary incentive should be enough to keep miners in the black. In practice, there are many more variables — the price of electricity, the distribution of computing power, the number of miners — that complicate the equation. Bitcoin’s price has been driven up multiple times by speculators buying and selling the currency, but it’s miners who are its biggest investors. "The amount of growth we've seen in the last year just in the Bitcoin market as a whole, then in the mining market, is staggering. I can compare it to the beginning of the dot-com era," said Josh Zerlan, COO at Butterfly Labs. "Hopefully it won't have a big dot-com crash."

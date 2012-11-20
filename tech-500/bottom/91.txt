@@ -1,0 +1,7 @@
+After receiving over 60,000 beta applications since last week, Valve has begun sending out the first wave of invites for the Steam for Linux beta today.
+
+The Linux version of Steam currently only works on Ubuntu 12.04, reflecting what Steam for Linux team member Frank Crockett said in a statement was "an overwhelming majority of beta applicants [reporting] they’re running the Ubuntu distro of Linux." Other popular Linux distributions will be supported in the future, Valve said. The service will be opened to more beta testers going forward, then expanded to all Linux users "once the team has seen a solid level of stability and performance across a variety of systems."
+
+The service currently features 24 Linux games, a list dominated by indie titles that were already available via other means, as well as larger releases like Team Fortress 2 and Serious Sam 3. Valve has promised that internally developed titles like Portal and Left 4 Dead 2 will be available for Linux soon. Only one paid Steam Linux title, World of Goo, currently has a free demo available on the platform.
+
+Steam for Linux also supports the recently launched Big Picture mode, tuned for use on living rooms TVs with handheld controllers. Valve has set up a Steam Community to discuss the new release.

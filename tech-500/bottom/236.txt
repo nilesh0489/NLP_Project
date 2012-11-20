@@ -1,0 +1,21 @@
+Mikhail Frank - Robotics (Planning and Control) M.S. and B.S. Mechanical Engineering, University of Connecticut, USA B.S. German Language, University of Connecticut, USA
+
+Simon Harding - Machine Learning and Vision Ph.D. Electronics, University of York, UK B.Sc. AI and Computer Science, Birmingham University, UK
+
+Varun Kompella - Pattern Recognition and Reinforcement Learning M.S. Informatics, Institut Nationale Polytechnique de Grenoble, France M.S. and B.E. Electronics and Communication Engineering, Ramaiah Institute of Technology, Bangalore, India
+
+Ju?rgen Leitner - Robotics (Computer Vision and Control) M.Sc. Space Science and Technology, Luleå Technical University, Sweden M.Sc. Space Robotics and Automation, Aalto University (TKK), Finland B.Sc. Software and Information Engineering, TU Vienna, Austria
+
+Hung Ngo - Reinforcement Learning M.Sc. Computer Engineering, KyungHee University, Korea. B.E. Electronics and Telecom, HCMC University of Technology, Vietnam
+
+We support the following open-source projects:
+
+The RobotCub Project Yet Another Robot Platform (YARP) ...and the iCub Cartesian Interface The Boost Graph Library (BGL) Computational Geometry Algorithms Library (CGAL) The Software Library for Interference Detection (FreeSOLID) Cross-Platform Make (CMAKE) The Qt Application Framework
+
+The authors would also like to thank:
+
+The Italian Institute of Technology (IIT) for developing the iCub, the first open-source, humanoid robot.
+
+Gregor Kaufmann and Tobias Glasmachers for their valuable contributions to the MoBeE code base.
+
+No researchers or robot-babies were harmed during the making of this film.

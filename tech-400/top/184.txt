@@ -1,0 +1,15 @@
+From the inimitable Michael Giest comes the news that the controversial Bill C-11 (aka the copyright reform bill), took effect in Canada this week. The bill introduces a host of new consumer-oriented provisions including fair dealing provisions for education, satire and parody; a fair dealing provision for time shifting, format shifting and making of backup copies; an exemption for public performances in schools; and others, which Geist details in his write-up.
+
+There is a big ‘but’ coming, though: The law also controversially includes a much-opposed digital locks provision which basically trumps all of the new rights it gives to Canadian consumers. If there is a digital lock present, one is not permitted to break it—even for purposes specifically allowable under the new law. Geist testified before the committee drafting the law, and he lobbied hard for a personal use exception that would permit digital lock circumvention if it was for non-infringing purposes. But his supposition is that the Canadian government bowed to pressure from American lobbyists and so ignored the concerns raised by Canadians.
+
+For those, like myself, who do buy legal content and who sometimes have to contend with digital locks in some way, there are, of course, some loopholes:
+
+♦ A specific exemption to the digital lock rule is given for those who need to modify ‘computer software’ for ‘interoperability.’ If one could argue that their ebook is actually software, this exemption could arguably apply.
+
+♦ A specific exemption to the digital lock rule is also given for those who have a ‘perceptual disability’ and need to make the file readable. If you have reading glasses prescribed by a doctor, as I do, and your preferred reader has font options which help you read, this exemption could arguably apply.
+
+♦ The bill notes specifically that in non-commercial cases, liability is limited to actual damages incurred. If no actual damages are incurred, your usage may still be technically illegal—but they can’t sue you for it, and indeed, government representatives have specially said they won’t go after people for personal use.
+
+I am deeply disappointed that this law passed with the digital lock provision still intact. I think the government might not realize what a slippery slope it is establishing here. If breaking a digital lock on your legitimate purchased copy for your own personal use is now just as illegal as downloading a free copy off a torrent site, what incentive, from a practical standpoint, will users have to make the legal purchase?
+
+Yes, it is ‘wrong’ to pirate. But now, it’s also ‘wrong’ to buy a Kobo book and then unlock it to read on a Kindle. So if one is ‘breaking the law’ anyway, why not have the free, unlocked copy?

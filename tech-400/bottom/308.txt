@@ -1,0 +1,13 @@
+Fly-by-wire control systems are fairly common on modern airliners today. Rather than connecting the flight stick straight to the control surfaces on the wings and tail, the stick communicates with a flight computer digitally, which then makes the actual mechanical movements while automatically compensating for factors like wind speed. It’s a once-removed system of control, but it also allows for less pilot fatigue and more intelligent computer intervention should things go wrong.
+
+Now, Nissan has announced a drive-by-wire system coming to Infiniti cars in 2013. Rather than relying on a driver to physically rotate the rack and pinion steering column via the steering wheel, Nissan’s system simply sends steering information to the onboard computer, and the computer handles the rest.
+
+We’re told the system offers the same road feel without additional driver fatigue--the system includes a camera that analyzes car lanes for the driver, reducing a driver’s micro adjustments and compensating for crosswinds without the white knuckles. And no doubt, it will couple well with other, recently announced Nissan tech that will allow the car to self-steer to avoid accidents.
+
+There’s also a level of customization that could change the way a car feels. Today, we expect luxury cars and sports cars to steer a bit differently. Nissan’s system, however, will allow drivers to tweak how tight they like their controls. So drivers could soon define the feel of a car as much as automakers.
+
+But what’s equally interesting is that, with pure digital steering, everything about the traditional car cockpit can be reimagined.
+
+“Theoretically, you could have no steering wheel whatsoever,” a spokesperson tells me. With the steering column out of play, there’s no reason that a touchscreen, gesture interface, even an Xbox 360 gamepad couldn’t be used to steer the car. In the more immediate future, Nissan suggested the possibility of cars customized for left-handed and right-handed people. If the steering column doesn’t need to shape so much of the experience, moving a steering wheel over a few inches is no longer a challenge.
+
+That said, when Nissan’s new drive-by-wire tech launches next year, the wheel will still be connected to the steering column. There are three reasons Nissan could be doing this--current regulations, engineering fail-safes (if drive-by-wire cuts out, the wheel will engage with the shaft) and, of course, consumer expectation--steering wheels work pretty well, and a car without one might not exactly improve on anything just yet. And no automaker wants to tip their hand on the real endgame at play in the industry: cars that drive themselves.

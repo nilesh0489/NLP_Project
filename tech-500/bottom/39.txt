@@ -1,0 +1,23 @@
+Software that 'works like a human brain' to instantly translate spoken language is being developed by Microsoft.
+
+The program retains the intonation and cadence of the original speaker so that the overall effect is broadly similar.
+
+The software was demonstrated in a presentation last year, when Microsoft's chief research officer Rick Rashid spoke in English and it was almost instantly turned into Chinese by the program.
+
+Mr Rashid gave more details of the project in a blogpost today after confessing that the demonstration had generated "a bit of attention".
+
+Instant translation has been historically difficult because of the struggle to capture the range of human vocal ability, the difference between people's voices, the time taken to crunch the data and the lack of time to edit inaccuracies.
+
+It became a possibility after Microsoft dropped the conventional "pattern matching" approach to speech translation, which Mr Rashid described as "extremely fragile", and went back to the drawing board.
+
+The company experimented with statistical models which proved better at capturing the human vocal range.
+
+The translation was wrong on as many as one in four words, but the company persisted, and after a spell of work with scientists at the University of Toronto in 2010, they found that they could use a technique called Deep Neural Networks.
+
+Mr Rashid writes that this is "patterned after human brain behaviour" and resulted in a greatly improved success rate.
+
+Last October, Microsoft showcased the results, reducing the error rate to just one in seven or eight words.
+
+Mr Rashid wrote in the post: "The results are still not perfect, and there is still much work to be done, but the technology is very promising, and we hope that in a few years we will have systems that can completely break down language barriers."
+
+He added: "We may not have to wait until the 22nd century for a usable equivalent of Star Trek’s universal translator."

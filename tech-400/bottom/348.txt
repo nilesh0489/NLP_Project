@@ -1,0 +1,5 @@
+Today at SharePoint conference, Microsoft announced the availability of preview version of SharePoint Newsfeed app for Windows Phone devices.
+
+The SharePoint Newsfeed for Windows Phone makes it easy to stay connected with your colleagues using SharePoint’s social features. You can post to newsfeeds on all your SharePoint sites, follow people, documents, and tags, and more.
+
+The SharePoint Newsfeed app allows you to: • Create new status posts • Add comments to ongoing discussions • Read and “like” your colleagues’ posts • @mention a colleague directly • Use #hashtags • Upload pictures • Discover people profiles • Work with followed documents

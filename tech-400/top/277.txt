@@ -1,0 +1,41 @@
+The F.B.I. investigation that toppled the director of the C.I.A. and has now entangled the top American commander in Afghanistan underscores a danger that civil libertarians have long warned about: that in policing the Web for crime, espionage and sabotage, government investigators will unavoidably invade the private lives of Americans.
+
+On the Internet, and especially in e-mails, text messages, social network postings and online photos, the work lives and personal lives of Americans are inextricably mixed. Private, personal messages are stored for years on computer servers, available to be discovered by investigators who may be looking into completely unrelated matters.
+
+In the current F.B.I. case, a Tampa, Fla., woman, Jill Kelley, a friend both of David H. Petraeus, the former C.I.A. director, and Gen. John R. Allen, the top NATO commander in Afghanistan, was disturbed by a half-dozen anonymous e-mails she had received in June. She took them to an F.B.I. agent whose acquaintance with Ms. Kelley (he had sent her shirtless photos of himself — electronically, of course) eventually prompted his bosses to order him to stay away from the investigation.
+
+But a squad of investigators at the bureau’s Tampa office, in consultation with prosecutors, opened a cyberstalking inquiry. Although that investigation is still open, law enforcement officials have said that criminal charges appear unlikely.
+
+In the meantime, however, there has been a cascade of unintended consequences. What began as a private, and far from momentous, conflict between two women, Ms. Kelley and Paula Broadwell, Mr. Petraeus’s biographer and the reported author of the harassing e-mails, has had incalculable public costs.
+
+The C.I.A. is suddenly without a permanent director at a time of urgent intelligence challenges in Syria, Iran, Libya and beyond. The leader of the American-led effort to prevent a Taliban takeover in Afghanistan is distracted, at the least, by an inquiry into his e-mail exchanges with Ms. Kelley by the Defense Department’s inspector general.
+
+For privacy advocates, the case sets off alarms.
+
+“There should be an investigation not of the personal behavior of General Petraeus and General Allen, but of what surveillance powers the F.B.I. used to look into their private lives,” Anthony D. Romero, executive director of the American Civil Liberties Union, said in an interview. “This is a textbook example of the blurring of lines between the private and the public.”
+
+Law enforcement officials have said they used only ordinary methods in the case, which might have included grand jury subpoenas and search warrants. As the complainant, Ms. Kelley presumably granted F.B.I. specialists access to her computer, which they would have needed in their hunt for clues to the identity of the sender of the anonymous e-mails. While they were looking, they discovered General Allen’s e-mails, which F.B.I. superiors found “potentially inappropriate” and decided should be shared with the Defense Department.
+
+In a parallel process, the investigators gained access, probably using a search warrant, to Ms. Broadwell’s Gmail account. There they found messages that turned out to be from Mr. Petraeus.
+
+Marc Rotenberg, executive director of the Electronic Privacy Information Center in Washington, said the chain of unexpected disclosures was not unusual in computer-centric cases.
+
+“It’s a particular problem with cyberinvestigations — they rapidly become open-ended because there’s such a huge quantity of information available and it’s so easily searchable,” he said, adding, “If the C.I.A. director can get caught, it’s pretty much open season on everyone else.”
+
+For years now, as national security officials and experts have warned of a Pearl Harbor cyberattack that could fray the electrical grid or collapse stock markets, policy makers have jostled over which agencies should be assigned the delicate task of monitoring the Internet for dangerous intrusions.
+
+Advocates of civil liberties have been especially wary of the National Security Agency, whose expertise is unrivaled but whose immense surveillance capabilities they see as frightening. They have successfully urged that the Department of Homeland Security take the leading role in cybersecurity.
+
+That is in part because the D.H.S., if far from entirely open to public scrutiny, is much less secretive than the N.S.A., the eavesdropping and code-breaking agency. To this day, N.S.A. officials have revealed almost nothing about the warrantless wiretapping it conducted inside the United States in the hunt for terrorists in the years after 2001, even after the secret program was disclosed by The New York Times in 2005 and set off a political firestorm.
+
+The hazards of the Web as record keeper, of course, are a familiar topic. New college graduates find that their Facebook postings give would-be employers pause. Husbands discover wives’ infidelity by spotting incriminating e-mails on a shared computer. Teachers lose their jobs over impulsive Twitter comments.
+
+But the events of the last few days have shown how law enforcement investigators who plunge into the private territories of cyberspace looking for one thing can find something else altogether, with astonishingly destructive results.
+
+Some people may applaud those results, at least in part. By having a secret extramarital affair, for instance, Mr. Petraeus was arguably making himself vulnerable to blackmail, which would be a serious concern for a top intelligence officer. What if Russian or Chinese intelligence, rather than the F.B.I., had discovered the e-mails between the C.I.A. director and Ms. Broadwell?
+
+Likewise, military law prohibits adultery — which General Allen’s associates say he denies committing — and some kinds of relationships. So should an officer’s privacy really be total?
+
+But some commentators have renewed an argument that a puritanical American culture overreacts to sexual transgressions that have little relevance to job performance. “Most Americans were dismayed that General Petraeus resigned,” said Mr. Romero of the A.C.L.U.
+
+That old debate now takes place in a new age of electronic information. The public shaming that labeled the adulterer in Nathaniel Hawthorne’s “Scarlet Letter” might now be accomplished by an F.B.I. search warrant or an N.S.A. satellite dish.

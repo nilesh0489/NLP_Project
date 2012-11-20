@@ -1,0 +1,57 @@
+NEW YORK (AP) — The release of Microsoft's Windows 8 operating system is a week away, and consumers are in for a shock. Windows, used in one form or another for a generation, is getting a completely different look that will force users to learn new ways to get things done.
+
+Microsoft is making a radical break with the past to stay relevant in a world where smartphones and tablets have eroded the three-decade dominance of the personal computer. Windows 8 is supposed to tie together Microsoft's PC, tablet and phone software with one look. But judging by the reactions of some people who have tried the PC version, it's a move that risks confusing and alienating customers.
+
+Tony Roos, an American missionary in Paris, installed a free preview version of Windows 8 on his aging laptop to see if Microsoft's new operating system would make the PC faster and more responsive. It didn't, he said, and he quickly learned that working with the new software requires tossing out a lot of what he knows about Windows.
+
+"It was very difficult to get used to," he said. "I have an 8-year-old and a 10-year-old, and they never got used to it. They were like, 'We're just going to use Mom's computer.'"
+
+Windows 8 is the biggest revision of Microsoft Corp.'s operating system since it introduced Windows 95 amid great fanfare 17 years ago. Ultimately, Windows grew into a $14 billion a year business and helped make former Chief Executive Bill Gates the richest man in the world for a time. Now, due to smartphones and tablets, the personal computer industry is slumping. Computer companies are desperate for something that will get sales growing again. PC sales are expected to shrink this year for the first time since 2001, according to IHS iSuppli, a market research firm.
+
+The question is whether the new version, which can be run on tablets and smartphones, along with the traditional PC, can satisfy the needs of both types of users.
+
+"I am very worried that Microsoft may be about to shoot itself in the foot spectacularly," said. Michael Mace, the CEO of Silicon Valley software startup Cera Technology and a former Apple employee. Windows 8 is so different, he said, that many Windows users who aren't technophiles will feel lost, he said.
+
+Microsoft is releasing Windows 8 on Oct. 26, and it doesn't plan to cushion the impact. Computer companies will make Windows 8 standard on practically all PCs that are sold to consumers.
+
+Speaking to Wall Street analysts on Thursday, Microsoft's chief financial officer Peter Klein said he isn't very concerned that user confusion could slow the adoption of Windows 8. When Microsoft introduces new features, he said, people eventually realize that "those innovations have delivered way more value, way more productivity and way better usability." That's going to be true of Windows 8 too, he said.
+
+Instead of the familiar Start menu and icons, Windows 8 displays applications as a colorful array of tiles, which can feature updated information from the applications. For instance, the "Photos" tile shows an image from the user's collection, and the "People" tile shows images from the user's social-media contacts. (Microsoft is licensed to use AP content in the Windows 8 news applications.)
+
+The tiles are big and easy to hit with a finger — convenient for a touch screen. Applications fill the whole screen by default — convenient for a tablet screen, which is usually smaller than a PC's. The little buttons that surround Windows 7 applications, for functions like controlling the speaker volume, are hidden, giving a clean, uncluttered view. When you need those little buttons, you can bring them out, but users have to figure out on their own how to do it.
+
+"In the quest for simplicity, they sacrificed obviousness," said Sebastiaan de With, an interface designer and the chief creative officer at app developer DoubleTwist in San Francisco.
+
+Technology blogger Chris Pirillo posted a YouTube video of his father using a preview version of Windows 8 for the first time. As the elder Pirillo tours the operating system with no help from his son, he blunders into the old "Desktop" environment and can't figure out how to get back to the Start tiles. (Hint: Move the mouse cursor into the top right corner of the screen, then swipe down to the "Start" button that appears, and click it. On a touch screen, swipe a finger in from the right edge of the screen to reveal the Start button.) The four-minute video has been viewed more than 1.1 million times since it was posted in March.
+
+"There are many things that are hidden," said Raluca Budiu, a user experience specialist with Nielsen Norman Group. "Once users discover them, they have to remember where they are. People will have to work hard and use this system on a regular basis."
+
+Mace, the software CEO, has used every version of Windows since version 2.0, which came out in 1987. Each one, he said, built upon the previous one. Users didn't need to toss out their old ways of doing things when new software came along. Windows 8 ditches that tradition of continuity, he said.
+
+"Most Windows users don't view their PCs as being broken to begin with. If you tell them 'Oh, here's a new version of Windows, and you have to relearn everything to use it,' how many normal users are going to want to do that?" he asked.
+
+The familiar Windows Desktop is still available through one of the tiles, and most programs will open up in that environment. But since the Start button is gone, users will have to flip back and forth between the desktop and the tile screen.
+
+There's additional potential for confusion because there's one version of Windows 8, called "Windows RT," that looks like the PC version but doesn't run regular Windows programs. It's intended for tablets and lightweight tablet-laptop hybrids.
+
+Budiu believes the transition to Windows 8 will be most difficult for PC users, because Microsoft's design choices favor touch screens rather than mice and keyboards. Alex Wukovich, a Londoner who tried Windows 8 on a friend's laptop, agrees.
+
+"On a desktop, it just felt really weird," he said. "It feels like it's a tablet operating system that Microsoft managed to twist and shoehorn onto a desktop."
+
+Not everyone who has tried Windows 8 agrees with the critics.
+
+Sheldon Skaggs, a Web developer in Charlotte, N.C., thought he was going to hate Windows 8, but he needed to do something to speed up his 5-year-old laptop. So he installed the new software.
+
+"After a bit of a learning curve and playing around with it a bit more, you get used to it, surprisingly," he said.
+
+The computer now boots up faster than it did with Windows Vista, he said.
+
+Vista was Microsoft's most recent operating-system flop. It was seen as so clunky and buggy when released in 2007 that many PC users sat out the upgrade cycle and waited for Windows 7, which arrived two and a half years later. Companies and other institutions wait much longer than consumers to upgrade their software, and many will keep paying for Windows 7. Many companies are still using Windows XP, released in 2001.
+
+Colin Gillis, an analyst at BGC Financial, is optimistic about Windows 8, pointing out that it's snappy and runs well on PCs with limited processing power, making it suited for compact, tablet-style machines. But he also notes that through Microsoft's history, roughly every other operating-system release has been a letdown.
+
+Intel Corp. makes the processors that go into 80 percent of PCs, and has a strong interest in the success of Windows. CEO Paul Otellini said Tuesday that when the company has let consumers try Windows 8 on expensive "ultrabook" laptops with touch screens, "the feedback is universally positive." But he told analysts that he doesn't really know if people will embrace Windows 8 for mainstream PCs.
+
+"We'll know a lot more about this 90 days from now," he said.
+
+Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.

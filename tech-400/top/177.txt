@@ -1,0 +1,15 @@
+Far, far away, on the diminutive, 4000-mile-wide Red Planet, Mars Science Laboratory (MSL) Curiosity has unfortunately found no methane in the Martian atmosphere. This puts a fairly large dent in the likelihood of there being life on Mars. In happier news, Curiosity has spent the last few weeks extracting delicious sciencefrom rock and soil samples at the Rocknest site, and the one-ton rover also took some time out to snap the coolest interplanetary self-portrait you’ll ever see.
+
+The methane discovery (or lack thereof) comes from the first analysis of Martian atmosphere, taken by the Sample Analysis at Mars (SAM) instrument aboard Curiosity. SAM took a small gulp of Martian air and analyzed it with the Quadrupole Mass Spectrometer and the Tunable Laser Spectrometer — and in both cases, the sensors failed to detect any methane. This does not mean that there’s no methane at all, but it means that there’s no more than a few parts methane per billion parts of Martian atmosphere.
+
+This is of scientific interest because, on Earth, about 90% of the methane in our atmosphere is produced by living organisms. Methane could also be a precursor for the formation of simple life. The fact that Martian air contains no methane would suggest that there is no life on Mars. Or at least life as we know it…
+
+The self-portrait of Curiosity at the top of this story (see larger) is a mosaic of 55 photos taken by MAHLI, the camera on the end of Curiosity’s robotic arm. On the left side of the frame you can see the Rocknest site that has occupied Curiosity for the last few weeks, and below the rocks you can see the bite marks made by Curiosity’s scoop. On the right side is Mount Sharp, MSL Curiosity’s eventual destination. The photo isn’t a chronic case of interplanetary narcissism: NASA uses self-portraits like these to make sure everything looks all right; that the wheels aren’t wearing down too quickly, that dust isn’t accumulating in the wrong place, and so on.
+
+Finally, here’s a couple more images from Curiosity’s recent scientific endeavors on Mars.
+
+This is the first X-ray view of Martian soil, captured by the Chemistry and Mineralogy (CheMin) instrument about Curiosity. CheMin fires an X-ray beam at a sample, and depending on the constituent minerals the X-rays are scattered in a different pattern — creating the rings that you see above. In this case, the soil contains crystalline feldspar, pyroxenes, and olivine (also called peridot or chrysolite).
+
+This is simply a photo of the Rocknest site (where Curiosity is currently located). You can see how wind has blown the sand/soil into a dune-like formation, and also dusted the rocks. The image on the left hand side is what you would actually see if you were standing on Mars, within the Martian atmosphere; the image on the right has been adjusted (white-balanced) to match the lighting conditions here on Earth. This can make it a lot easier for human eyes to pick out interesting features.
+
+Now read: Inside NASA’s Curiosity: It’s an Apple Airport Extreme…with wheels

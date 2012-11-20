@@ -1,0 +1,20 @@
+Duke University scientists say they've succeeded for the first time in building a truly effective invisibility cloak.
+
+When the team first developed a cloaking device back in 2006, one of the biggest problems was the appearance of minor reflections around the edges.
+
+These were similar to the reflections seen when looking through a clear piece of glass, and made the cloaking less than perfect.
+
+Now, though, they say they've cracked the problem.
+
+"In order to create the first cloaks, many approximations had to be made in order to fabricate the intricate meta-materials used in the device," says graduate student Nathan Landy.
+
+"One issue, which we were fully aware of, was loss of the waves due to reflections at the boundaries of the device."  
+
+But he's now been able to reduce the occurrence of reflections by using a different fabrication strategy. While the original cloak consisted of parallel and intersecting strips of fiberglass etched with copper, Landy's uses a similar row-by-row design, but with added copper strips to creat a more complicated - and better-performing - material.
+
+"Each quadrant of the cloak tended to have voids, or blind spots, at their intersections and corners with each other. After many calculations, we thought we could correct this situation by shifting each strip so that it met its mirror image at each interface," says Landy.
+
+"We built the cloak, and it worked. It split light into two waves which traveled around an object in the center and re-emerged as the single wave with minimal loss due to reflections."
+
+The researchers are now working to apply the principles learned in the latest experiments to three dimensions - much more difficult than two.
+

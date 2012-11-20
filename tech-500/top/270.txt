@@ -1,0 +1,63 @@
+Almost all keyboards made since the early 1990s are, frankly, no good. A tiny group of writers and hackers know better. They use vintage IBM keyboards. Ugly, built like tanks, and, most importantly, with a spring under each key, and which clicks when you press it.
+
+Copyright © 2009 National Public Radio. For personal, noncommercial use only. See Terms of Use. For other uses, prior permission required.
+
+If you're like me, you probably spend hours typing on your keyboard - working, reading, googling. So, take note. NPR's Martin Kaste reports that a tiny company is making what some fans call the one true keyboard.
+
+MARTIN KASTE: If you're 30-something and slightly geeky, this might be music to your ears.
+
+KASTE: That's the IBM model M, a tank of a keyboard whose distinctive racket once reverberated through the offices and computer labs of the land. This one belongs to Cheryl Lowry, a technical writer at Microsoft.
+
+Ms. CHERYL LOWRY (Technical Writer, Microsoft): People tend to stop in the hall and look in and say, wow, that's an old school keyboard because it's fast and it's clattery, and people haven't heard that in 15 years.
+
+KASTE: IBM stopped making these in the early 90s. Since then connoisseurs have come to the conclusion that the Model M was the best keyboard ever, certainly better than the mushy cheapness that standard issue today. The M was the last computer keyboard that still tried to feel like a typewriter. In this case the old IBM Selectric.
+
+Ms. LOWRY: I think this is it. Model M is the end of the line. (Laughing)
+
+KASTE: The end of the line? Not quite yet. They're still cranking out new Model Ms here in Lexington, Kentucky. Not at the former IBM plant, which once upon a time produced millions of keyboards a year. That kind of manufacturing is long gone to China. This operation is a little more modest.
+
+Mr. NEIL MUYSKENS (Electrical Engineer, Unicomp): This building started as a furniture factory back in the 40s.
+
+KASTE: Neil Muyskens is an electrical engineer who used to work at that IBM plant. He founded Unicomp in the mid 90s to try to keep making the Model M's using IBM's old moulds and tools. It really is the exact same keyboard, except for updated electronics and a USB plug. And most important, Muyskens still puts a spring under each key.
+
+Mr. MUYSKENSIEGEL: We manually insert the magic if you will and that is a what we call pivot-plate assembly, the magic. Well, this is the buckling spring.
+
+KASTE: The buckling spring. Most keyboards today use rubber domes, little mushy blisters under all the keys. They're quiet, cheap, and good enough, but there's not much for your finger to feel on its way down. But with buckling springs, the feel is everything.
+
+Ms. BONNIE(ph) COLLINS (Employee, Unicomp): So you hear the the clicking in it?
+
+Ms. COLLINS: That means it's good. If you don't hear it clicking then it's not really good.
+
+KASTE: Got it. Bonnie Collins checks the new keyboards, making sure every key produces that distinctive metallic ping.
+
+You don't like that one?
+
+KASTE: The N key is no good there, eh?
+
+Ms. COLLINS: No, it's not picking on(ph), put the button back on. It's a lot better now. You got to click it in, and when you click down you hear it clicking?
+
+KASTE: I do. When Collins is finished with the keyboards, it's time for the pneumatic fingers.
+
+KASTE: That's the robotic super typist that rechecks the keys' response times to within a fraction of a second. This is what American computers used to be. Machines, and springs, and switches that had to be assembled just so and were built to last. That old school-industry is still alive in this converted furniture factory and it has the appreciation of certain aging nerds. But those guys just don't make Unicomp enough money. The trouble with Model M is they rarely break down, and Neil Muyskens says he's having a hard time getting the attention of potential new buyers.
+
+Mr. MUYSKENS: The Office Depot of the world, or the Best Buys of the world, they won't stock our product because our product is $69 product.
+
+KASTE: Price is everything in consumer electronics, and there's no Muyskens is ever going to undercut his Asian competitors.
+
+Mr. MUYSKENS: We put two dollars worth of medical insurance in every keyboard we sell. Now, I can tell you, I mean I can buy a keyboards from the Far East vendors today for three bucks.
+
+KASTE: So, like other American manufacturers, Unicomp has retreated to niche markets. It makes customized keyboards for banks, hospitals, even tire shops. But in the last few months those big customers have stopped buying.
+
+Mr. MUYSKENS: It's bad. We sell into banks, we sell into large retail...
+
+KASTE: Just the industries that are taking the biggest hit in this recession. Since the start of the year Muyskens has laid off a third of his workforce and things look grim. Still, he's got the pocket protector optimism of an old school IBMer. He says he wants to engineer his way out of this by selling more customized keyboards to individuals, say the gamers who want their flame thrower keys positioned just so. And Muyskens is even reconsidering some old designs for what he calls silent buckling springs...
+
+Though really it's hard to see the point of that, I mean, listen.
+
+KASTE: Isn't that what a keyboard is supposed to sound like? I'm Martin Kaste, NPR News.
+
+SIEGEL: And you can peer inside those keyboards and learn what makes them click at npr.org.
+
+Copyright © 2009 National Public Radio. All rights reserved. No quotes from the materials contained herein may be used in any media without attribution to National Public Radio. This transcript is provided for personal, noncommercial use only, pursuant to our Terms of Use. Any other use requires NPR's prior permission. Visit our permissions page for further information.
+
+NPR transcripts are created on a rush deadline by a contractor for NPR, and accuracy and availability may vary. This text may not be in its final form and may be updated or revised in the future. Please be aware that the authoritative record of NPR's programming is the audio.

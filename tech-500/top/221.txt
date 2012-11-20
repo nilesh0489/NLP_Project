@@ -1,0 +1,9 @@
+A recent weapons flight test in the Utah desert may change future warfare after the missile successfully defeated electronic targets with little to no collateral damage.
+
+Boeing and the U.S. Air Force Research Laboratory (AFRL) Directed Energy Directorate, Kirtland Air Force Base, N.M., successfully tested the Counter-electronics High-powered Microwave Advanced Missile Project (CHAMP) during a flight over the Utah Test and Training Range.
+
+CHAMP, which renders electronic targets useless, is a non-kinetic alternative to traditional explosive weapons that use the energy of motion to defeat a target.
+
+During the test, the CHAMP missile navigated a pre-programmed flight plan and emitted bursts of high-powered energy, effectively knocking out the target's data and electronic subsystems. CHAMP allows for selective high-frequency radio wave strikes against numerous targets during a single mission.
+
+"This technology marks a new era in modern-day warfare," said Keith Coleman, CHAMP program manager for Boeing Phantom Works. "In the near future, this technology may be used to render an enemy’s electronic and data systems useless even before the first troops or aircraft arrive."

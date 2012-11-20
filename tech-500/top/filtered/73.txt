@@ -1,0 +1,17 @@
+Apple has quietly decided that it probably shouldn’t be using JavaScript code on its UK site to hide its second Samsung apology. While you still have to scroll down in almost cases, the company is no longer forcing it; check it out yourself at Apple UK.
+
+On Saturday, Apple posted its second Samsung apology to its UK website, complying with requests by the UK Court of Appeal to say its original apology was inaccurate and link to a new statement. On the same day, users on Reddit and Hacker News pointed out that Apple had recently modified its site to ensure the message is never displayed without visitors having to scroll down to the bottom first. The backlash has apparently led the company to remove the code sometime between Monday and Thursday, possibly in the hopes of avoiding yet another court order.
+
+As pointed out by CNET, the Javascript code in question is still on Apple’s site, but it just isn’t being used any more. The code ensured that the iPad mini advertisement would take up the whole page; regardless of your resolution, you wouldn’t be able to see the statement without scrolling down the page.
+
+While the code’s main purpose wasn’t necessarily to hide the apology (Apple has been pushing a more vertically-responsive design on its international sites for a while now), it’s very likely that putting the text in question at the bottom of its UK site, where the code would hide it, was on purpose. Apple’s decision to stop using the code, in fact, points to this being the case.
+
+Like on the weekend, I have verified on my laptop, as well as my desktop, which has a 1600×1200 resolution monitor, and Apple is indeed no longer scaling the image accordingly. That being said, I still can’t see the text in question. My editor Martin Bryant confirms the scaling no longer occurs on his Retina Mac, although he points out that Apple might be using a larger image than it has in the past. He notes he has to scroll a little, but not as much, since “a little of the text is visible if I have it at maximum resolution and full screen.”
+
+In my previous piece, I discussed that unless the judge specifically ordered that the message be in view without scrolling, Apple is following the letter of the law, not the spirit of the law. While in most cases you still have to scroll down to see the text in question, Apple is no longer ensuring that it’s a requirement, which frankly was a bit too much.
+
+Here’s the message that appears on the Apple’s UK site, whether you scroll down to the bottom or if you can see it on your monster monitor:
+
+Apple already enraged the judge once with its first cheeky apology to Samsung. I wrote earlier that “It’s difficult to say what the judge will make of this most recent change, but if he finds out, I can’t see him being pleased.” It looks like Apple decided it didn’t want to find out what would happen.
+
+See also – Apple may be dropping Intel processors in Macs for in-house designs, Mansfield likely in charge and Samsung’s Galaxy S III overtakes the iPhone 4S as the world’s best-selling smartphone in Q3 2012

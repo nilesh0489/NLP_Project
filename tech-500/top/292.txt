@@ -1,0 +1,41 @@
+A series of website hacks over the past 24 hours has been attributed to the online hacktivist group Anonymous.
+
+The websites of US broadcaster NBC, pop singer Lady Gaga and the Australian government have all been attacked.
+
+Some of the hacked websites displayed a rhyme about 5 November, when Guy Fawkes's attempt to destroy Parliament in 1605 is marked in the UK.
+
+Paypal and security firm Symantec said they were investigating whether they had also been compromised.
+
+Both companies were linked to the latest attacks, in various online reports.
+
+After investigating Paypal said it had "no evidence" of a security breach and the list of almost 28,000 passwords said to be from Paypal accounts was from another service.
+
+The passwords appeared to have been taken by using an exploit in ZPanel, a web hosting control panel application.
+
+Anuj Nayar, a PayPal spokesman, said the payments company had been investigating the attack since Sunday night and concluded that there was no evidence any of its data had been breached.
+
+A tweet by the hacker collective, which claimed to have hacked Paypal has now been taken down.
+
+Symantec said it took "each and every claim" of an attack on its systems seriously.
+
+"Our first priority is to make sure that any customer information remains protected," it said in a statement.
+
+ZPanel said that it had been made aware of a software bug which it fixed in August, and assumed Anonymous had taken advantage of users who had failed to upgrade the software.
+
+A video posted to YouTube called on Anonymous members and activists around the world to "act now against overall surveillance systems".
+
+It argued that systems like Trapwire and Indect, which use CCTV data and number plate readers to identify individuals and try to predict criminal activity, are a breach of privacy.
+
+UK privacy and civil liberties campaign group Big Brother Watch has previously described such projects as demonstrating "a dangerously heavy-handed attitude towards the public".
+
+Members of the online group wear distinctive Guy Fawkes masks, like the one used in the film V for Vendetta, when demonstrating in public.
+
+It is thought that most Anonymous members are unknown even to each other.
+
+Anonymous has pursued the Australian government before over its proposals to introduce a country-wide internet filter it says will block pornographic and criminal material.
+
+At time of writing the Australian government website is operating normally, but new-age website ascensionaustralia.com.au carries a message from Anonymous suggesting the government is compromising the online privacy of its citizens.
+
+"When will governments learn that the internet will never be controlled and we will not allow governments to trample on our civil liberties and our basic digital privacy rights?" reads the statement on the front page of the site.
+
+Many of the websites hacked so far are currently operating normally again.

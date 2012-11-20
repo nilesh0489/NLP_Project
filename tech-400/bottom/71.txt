@@ -1,0 +1,33 @@
+The iPad has been a true tech phenomenon. Apple has sold 100 million of the tablets in just 2½ years, even though many people doubted they needed a $500 device that's in between a smartphone and a laptop. No competing model has gained significant traction in the market.
+
+Still, there's been a problem with the iPad. Though it's much smaller than a laptop, at just 1.44 pounds, and 0.37 inch thick, it can be too heavy to hold for long periods of time, such as when you're using it to read an e-book. It typically takes two hands to hold. Its 9.7-inch screen, while a pleasure to use, makes it too large to carry without a thought in many purses.
+
+So, on Friday, Apple is introducing a much smaller variant, the iPad Mini, which works exactly like the original and runs all the same apps—the 275,000 tablet-optimized programs plus the rest of the over 700,000 apps available for the iOS operating system the iPad shares with Apple's iPhone.
+
+The iPad Mini weighs just less than 11 ounces, and is only 0.28 inch thick. That's 53% lighter and 23% thinner than the standard iPad. It's 5.3 inches wide versus 7.3 inches for its larger sibling.
+
+In shrinking the iconic iPad, Apple has pulled off an impressive feat. It has managed to create a tablet that's notably thinner and lighter than the leading small competitors with 7-inch screens, while squeezing in a significantly roomier 7.9-inch display. And it has shunned the plastic construction used in its smaller rivals to retain the iPad's sturdier aluminum and glass body.
+
+Unlike its two top small tablet competitors, the Mini has a rear camera. And unlike the Kindle Fire HD, it offers optional cellular data connectivity to supplement Wi-Fi. It has very good battery life.
+
+However, there are two downsides compared with the leading 7-inch competitors, the Google Nexus 7 and the Amazon Kindle Fire HD. First, the iPad mini starts at $329, versus $199 for its two main rivals (though the Fire HD costs $214 without annoying ads). Second, it has a lower screen resolution—1024x768, versus 1280x800 for the other two.
+
+I've been testing the iPad Mini for several days and found it does exactly what it promises: It brings the iPad experience to a smaller device. Every app that ran on my larger iPad ran perfectly on the Mini. I was able to use it one-handed and hold it for long periods of time without tiring. My only complaints were that it's a tad too wide to fit in most of my pockets, and the screen resolution is a big step backwards from the Retina display on the current large iPad.
+
+But it's about 30% thinner than the leading 7-inch competitors, the Google Nexus 7 and the Amazon Kindle Fire 7. And it's about 9% lighter than the Nexus and about 22% lighter than the Fire HD. It's very slightly narrower across than the Fire HD, but about 11% wider than the Nexus. I found it easy to hold with one hand, though the width might be a bit too much for some people with smaller hands.
+
+Even though the Mini is thinner and lighter than the leading 7-inch tablets, its larger screen provides about 35% more room for viewing content like books and Web pages. I found it easy to see and read material on the screen and to tap and swipe. My only complaint was that the keyboard, in portrait mode, felt a bit cramped, though it was fine in landscape mode. (I found that, unlike with the big iPad, it was more common for me to hold the Mini in portrait mode.)
+
+In my harsh battery test, where I play videos back to back with the screen set at 75% and the Wi-Fi on to collect email, the iPad mini exceeded Apple's battery life claim of 10 hours and lasted 10 hours and 27 minutes. That was about an hour better than the Kindle Fire HD, but about 17 minutes less than the Nexus 7.
+
+I found the cameras did a very good job. I conducted several clear video chats using the 1.2 megapixel front camera, and the 5-megapixel rear camera produced very good photos and videos. The stereo speakers sounded good to my ears.
+
+So why did Apple, whose large iPad and new Macs boast extremely high screen resolution, choose a lower resolution for the Mini? The company did so because it says there are only two resolutions that allow its tablet apps to run unmodified. One is the extremely high resolution on the current large iPad, which would have boosted the cost and lowered the battery life of the Mini. The other, the one Apple chose for the Mini, is the same resolution on iPad models consumers have snapped up: the original iPad and the iPad 2, which is still on the market at $399.
+
+This makes sense, but it means that, unlike its closest competitors, the Mini can't play video in high definition. Apple insists the device does better than standard definition, if you are obtaining the video from its iTunes service, since iTunes scales the video for the device, so it will render somewhere between standard definition and HD. It says some other services will do the same. But the lack of true HD gives the Nexus and Fire HD an advantage for video fans. In my tests, video looked just fine, but not as good as on the regular iPad.
+
+The cellular models, which will start at $459, will be available in a couple of weeks.
+
+The $329 price may well tempt some budget-conscious buyers who have lusted for an iPad. But Apple believes the lower size and weight, not the price, are the key attractions.
+
+If you love the iPad, or want one, but just found it too large or heavy, the iPad Mini is the perfect solution.

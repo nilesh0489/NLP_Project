@@ -1,0 +1,27 @@
+Microsoft's Windows Phone platform is the safest mobile operating system available to businesses while Android remains a haven for cyber crimianls, according to F-Secure security chief Mikko Hypponen.
+
+Hypponen highlighted the operating systems inherent security features, telling V3the F-Secure Labs are yet to detect a single piece of mobile malware targeting the platform.
+
+"Windows Phone is safe, we've seen no malware at all targeting the platform. You want a safe phone? Buy a Windows Phone," Hypponen told V3.
+
+Hypponen added that Windows Phone's lack of malware contrasted sharply with other mobile platforms.
+
+"At the moment Windows Phone is the safest, there is more malware for BlackBerry and more malware for the iPhone and definitely more on Android."
+
+Hypponen said Android remains the most targeted ecosystem, highlighting a marked increase in the number of malicious programs detected during the third quarter of 2012.
+
+"The big news is the amount of malicious Android installation files we have seen in the labs. Quarter one, 3,000 installation files, quarter two, 5,000 installation files and quarter three, 51,000. So a 10-fold increase in malicious Android installations files."
+
+Hypponen attributes the boom to Android's unregulated nature, with Google's policy of letting third-party stores run on the OS a popular system for criminals across the world to trick users into installing malware.
+
+"Practically all of these are things people install themselves. The vast majority of the malware are Trojanised apps on third-party app stores," Hypponen told V3.
+
+"Criminals are being much more active in creating versions of existing malware on the Android platform now. Most are in China and link back to Chinese and Russian premium rate numbers."
+
+In contrast, Hypponen predicted that Windows Phone will likely remain the safest mobile operating system, adding that its restrictive development policy should protect it from criminals for the foreseeable future.
+
+"Windows Phone's security model inside is quite restrictive, I think it's going to take a while before we see Windows Phone being seriously targeted. I could be wrong, but my hunch says it will stay the safest," said Hypponen.
+
+The news will be welcomed by Microsoft, which has touted its recently released Windows Phone 8's security features as a key selling point that will help it expand the OS' market share.
+
+For a more thorough look at Windows Phone 8's security features, check out V3's top 10 breakdown.

@@ -1,0 +1,11 @@
+A Music Hack Day event in Boston has yielded The Infinite Jukebox -- an app that creates infinitely long and ever-changing versions of uploaded tracks.
+
+The Infinite Jukebox is the handiwork of Paul Lamere, director of developer platform for music intelligence company The Echo Nest and the man behind the Infinite Gangnam Style hack at Reykjavik's Music Hack Day, and extends his previous project to its universal conclusion.
+
+The app uses The Echo Nest analyser -- a music data service -- to break the uploaded mp3 into individual beats. These beats can then be checked against one another to find similar sounding points in the song. When the song is played, beat by beat there is a chance that the track will transition to one of the matched points rather than just playing normally.
+
+Each track generates its own unique visualisation which maps the beats around the circumference of a circle and shows possible transition paths between them.
+
+"I was quite pleased at how the visualisation turned out," says Lamere. "I think it does a good job of helping the listener understand what is going on under the hood, and different songs have very different looks and color palettes. They can be quite attractive."
+
+The Infinite Jukebox works best with songs that have a lot of repetition as they contain many transition opportunities -- hence why we have been listening to Call Me Maybe by Carly Rae Jepson for 55 minutes but uploading an audiofile of Richard Dreyfuss's dramatic reading of the iTunes EULA yielded the error message, "Sorry, can't make an infinite version of the song, it is too varied."

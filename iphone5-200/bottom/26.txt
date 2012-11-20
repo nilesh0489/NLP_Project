@@ -1,0 +1,35 @@
+Apple Inc.'s next iPhone will work on the fastest wireless networks around the world—including in the U.S., Europe and Asia—though it is unlikely to be available on every carrier, people familiar with the matter said.
+
+The technical compatibility with so-called LTE networks removes a competitive danger for Apple and gives carriers a chance to sell their fastest data services to Apple's base of iPhone customers.
+
+Smartphone makers, including market leader Samsung Electronics Co., have begun offering LTE phones globally. That has given them a selling point that so far Apple has lacked.
+
+Wireless carriers are eager to drive more customers to those networks, which are more efficient and could spur faster growth in data revenue by making it easier for consumers to use services like streaming video.
+
+Apple is expected to unveil its latest iPhone, which will also have a slightly larger screen, at a press event in San Francisco on Sept. 12. Analysts have widely expected the new phone to support LTE.
+
+It isn't likely to work with all carriers' LTE networks in all countries, the people said, though it wasn't clear which would be left out.
+
+LTE technology is much more fragmented than the previous third-generation wireless technology, making it more difficult to make LTE phones that work seamlessly around the world.
+
+International Data Corp. analyst John Byrne estimates there are 36 LTE bands around the world, compared with 22 bands for the most popular version of 3G technology.
+
+While building a phone that supports multiple bands of LTE is possible, it presents a significant technical challenge to design chips needed to support all of the different bands.
+
+"It's like patchwork quilt in terms of spectrum," said Bill Davidson, senior vice president of Qualcomm Inc., which designs LTE computer chips. "It will be impractical to have all of the bands."
+
+The new iPad, introduced in March, was the first Apple device to support LTE technology. But it only worked with networks operated by Verizon Wireless and AT&T Inc. in the U.S., and Bell Canada, Rogers Communications Inc. and Telus Corp. in Canada.
+
+IDC data shows that only three countries in the world have significant numbers of LTE customers: the U.S., South Korea and Japan. Verizon currently has the largest LTE network in the world and the highest number of LTE subscribers, says IDC.
+
+At the end of the first quarter, Verizon Wireless had about nine million LTE subscribers, while South Korea's SK Telecom Co. Ltd. came in second with 2.75 million and Japan's NTT DoCoMo Inc. came in third with 2.23 million, said IDC.
+
+In Europe, the availability of LTE wireless service lags behind some other parts of the world. For the time being, there is LTE service in Scandinavia, as well as some in Germany and elsewhere. But in many places, it is still in its infancy.
+
+In France, for instance, the rollout is just beginning in a handful of major cities—and not yet Paris.
+
+IDC says Android phones supporting LTE are currently being sold in 11 countries including the U.S., Japan, South Korea, Australia and Germany.
+
+Write to Jessica E. Vascellaro at jessica.vascellaro@wsj.com, Sam Schechner at sam.schechner@wsj.com and Spencer E. Ante at spencer.ante@wsj.com
+
+A version of this article appeared September 8, 2012, on page B3 in the U.S. edition of The Wall Street Journal, with the headline: New iPhone to Support LTE.

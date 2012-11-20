@@ -1,0 +1,19 @@
+E-books, tablets and computers are great ways to call up information, unless your hands aren't free to make use of them.
+
+Computer technicians and mechanics often need to page through repair manuals while on the job, but that takes a while to do even when the text is online. It also breaks up the technician's train of thought and adds to the time it takes to finish the job.
+
+Augmented reality may solve that problem, via a pair of special glasses. The idea is similar to Google Glass.
+
+Google Glass is a smart-phone interface that works by a combination of accelerometers reading the position of the wearer's head and a touch pad on the piece that goes over the ear.
+
+For this new device, researchers at the Fraunhofer Center for Organics, Materials and Electronic Devices in Dresden, Germany, have designed an interactive, head-mounted display based on organic light-emitting diode technology.
+
+The Fraunhofer design tracks the movements of the eyes, using a combination of the LEDs (to transmit both light and the image) and photodetectors, which pick up the eye's position. It's essentially a combination display and digital camera.
+
+The eye's position takes the place of a finger swipe on a tablet or a mouse click -- glancing at the arrow in the display, for instance turns a page.
+
+The designers say it completely frees the hands, unlike Google Glass, which still needs a hand to work.
+
+Technicians would be able to flip through a manual while looking at whatever damage they are assessing.
+
+The technology is being presented at the Electronica Trade Fair in Munich.

@@ -1,0 +1,17 @@
+Jan. 15, 2009 -- An invisibility cloak for visible light could be made within six months, say scientists from Duke University, who, in a new paper published today in Science, explain how to hide objects from a dramatically extended range of wave lengths.
+
+"I think that within six months it's certainly viable [a cloak for visible light]," said David Smith, a professor at Duke University and author of the Science paper.
+
+"A large number of folks are looking at it, and I think it's a matter of coupling the right material to the right device."
+
+A metamaterial is a material with unique properties that derive from its physical structure, not its chemical make up. To manipulate light, the microscopic surface of a material must be much smaller than that of the wave length of light being used.
+
+Smith's original 2006 invisibility cloak provided invisibility to longer microwaves, letting them flow around the object and regroup on the other side. As you move through microwaves and into the infrared (and soon, visible light) wavelengths become shorter, so the microscopic structure of the material has to get even smaller.
+
+Advances in nanotechnology are making it easier to create ever smaller structures that can manipulate ever smaller wavelengths, said Smith.
+
+To conduct the experiment, the scientists assembled a roughly 20- by 4-inch platform and covered it with the mirror-like metamaterial. Then they covered a roughly 1-square-inch rounded bump in the same metamaterial, placed it on the other surface, and shined infrared light on the set up.
+
+Any normal curved material would scatter the light at a variety of different angles. The metamaterial covered bump instead reflected light back towards the source like a flat surface would do, hiding the bump underneath.
+
+The Duke cloak does have its limitations. It only works in two dimensions. Both the background and the hidden object must also both be wrapped in the metamaterial.

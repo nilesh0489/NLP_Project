@@ -1,0 +1,11 @@
+Skataviz is an experimental prototype developed by Design I/O which uses an iPhone or iPod touch attached to a skateboard to record its motion and visualize its movement as 3D data augmented over live video.
+
+Using the gyroscope and accelerometer sensors of the iPod, the software is able to recreate the motion of the run, detecting moments of high rotation and acceleration as 'tricks' and visualizing the angles and axis of the boards movement.
+
+The project uses openFrameworks ( openframeworks.cc ) for both the iOS sensor recorder and the desktop visualization.
+
+To see more of our work please visit: design-io.com/ theowatson.com/
+
+Huge thanks to: Thomas Kramer - Tom's Skateshop - Amsterdam Frankie Nash - Orchard Skateshop - Boston Benny from Ben-G Skateshop - Amsterdam Wout Westen - Circus Family Eric Klotz - Visualized Conference
+
+Extra massive thanks to Aram Bartholl - whose fffff.at/skate-and-share-or-die/ project got me thinking about attaching electronics to skateboards :)

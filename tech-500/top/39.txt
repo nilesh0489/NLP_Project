@@ -1,0 +1,5 @@
+Surface with Windows RT comes with either 32 GB or 64 GB of internal storage space (hard disk space). However, not all of this space is available for your music, photos, videos, and other content.
+
+Here’s how much hard disk space you have available out of the box:
+
+You can use this free space for apps, documents, music, videos, and photos. If you need additional space, see the How can I add more storage space? section below.

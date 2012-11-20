@@ -1,0 +1,17 @@
+Apple has been sued by a group of about 27,000 South Koreans in a class-action lawsuit over alleged privacy violations related to location services on iPhones, iPads and the iPod Touch.
+
+The suit, filed Wednesday in Changwon, South Korea, seeks about 27 billion won, or about $26 million, in damages, which would work out to about $930 for each plaintiff, the Associated Press reports.
+
+The complaint says Apple's iOS location services infringe on privacy rights because the iPhone stores location data obtained from nearby mobile network towers and Wi-Fi hot spots for as long as a year.
+
+The tech giant has faced criticism from consumers and politicians in the U.S. and abroad since the storage of location tracking data came to light earlier this year. The issue has prompted privacy questions for the mobile industry as a whole, including Google, creator of the rival Android operating system.
+
+Some iPhone and iPad owners have demonstrated that they can use the location data stored on their devices to create a map of their travels.
+
+Apple has said its mobile devices don't need to store location data for more than seven days and were keeping the information for as long as a year only because of a software glitch in the iOS operating system that runs the machines.
+
+The tech giant has released software updates to change how its iOS devices track a user's location for maps, geo-tagged photos and location-based apps such as Foursquare and Gowalla.
+
+Company representatives couldn't be reached Wednesday morning to comment about the lawsuit.
+
+Image: A map plots location data stored on an iPhone of a person who traveled around the Netherlands. Credit: marketingfacts / Flickr

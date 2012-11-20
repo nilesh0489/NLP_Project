@@ -1,0 +1,20 @@
+A number of people have contacted me today asking why I haven't commented on the numerous news stories (click on each link) about a version of Sophos Anti-Virus available in the Klingon language.
+
+
+(Enjoy this video? You can check out more on the SophosLabs YouTube channel and subscribe if you like)
+
+There have even been some furious discussions regarding whether the correct Klingon grammar has been used in the product (trust me, you never want to upset a Klingon's grandma..) as you can read on klingon.org.
+
+The reason why I haven't been able to respond to umpteen emails, numerous Tweets on the subject, and whether or not the "-ghach suffix is allowed on a verb without another suffix" is that I've been stuck in meetings for most of the day with our legal eagles and various parties.
+
+So, here are the facts - hopefully they may answer some questions:
+
+1) From time-to-time Sophos looks into creating bespoke software for particular groups, rather than make them available to the masses. We were asked by a potential customer to investigate whether it was possible to translate our software into Klingon, and Klingon Anti-Virus was produced as a test by our techies. Although the software is finished it wasn't supposed to have been made available to the world at large - some of you have noticed that of the text on the webpage was unfinished. We've fixed that now, and added some additional information.
+
+2) We translated the software with help from naHQun, a member of the Klingon Language Institute (KLI). I'm sure those of you with a good knowledge of the language will agree that naHQun (who also goes by the name of "Michael") did a great job.
+
+By the way, naHQun's next translation project is the Klingon Kama Sutra. Seriously.
+
+3) As the Klingon Anti-Virus software is being widely linked to, we're not going to remove it for now. You can still grab a copy if you like.
+
+4) Which might well upset some people. Because earlier today Sophos received a rather hard-nosed communication from a certain party seemingly trying to bully us into removing the Klingon Anti-Virus software from our site. We think that's daft, so we won't be doing it.

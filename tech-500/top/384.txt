@@ -1,0 +1,43 @@
+— CSO — The damage to the electrical grid from Superstorm Sandy is just a taste of what could happen from a major cyberattack, says Department of Homeland Security (DHS) Secretary Janet Napolitano.
+
+And a DHS task force said this week that one way to minimize that kind of risk is to recruit a "Cyber Reserve" of computer security pros that could be deployed throughout the country to help the nation defend and recover from such an attack.
+
+Napolitano and other high government officials have been preaching about the escalating threats, particularly from hostile nation states like Iran, Russia and China, for some time.
+
+The Hill reported that at a cybersecurity event hosted by the Washington Post, Napolitano said while recent news has been about financial institutions being hit with Distributed Denial of Service (DDoS) attacks, the nation's control systems for major infrastructure like utilities and transportation infrastructure were also being targeted.
+
+The Secretary used Hurricane Sandy to make the point. "If you think that a critical systems attack that takes down a utility even for a few hours is not serious, just look at what is happening now that Mother Nature has taken out those utilities," Napolitano said.
+
+[Bill Brenner in Salted Hash: DHS is right to eye kindergartners for future security roles, but don't forget the adults]
+
+Government officials have been invoking the Pearl Harbor image for years. Defense Secretary Leon Panetta did it again just a few weeks ago, saying in a speech in New York that such an attack would, "cause physical destruction and the loss of life. In fact, it would paralyze and shock the nation and create a new, profound sense of vulnerability."
+
+For good measure, he also called it a "pre-9/11 moment."
+
+The security community is divided over the depth of the threat. Most experts say they are real, but not at the level of a catastrophic military attack.
+
+Bruce Schneier, author and chief security technology officer at BT, told CSO Online this year: "Throughout history, the definition of a 'major war' has involved casualties in the hundreds of thousands. That means dead people."
+
+Panetta did invoke the risk of dead people. "[Attackers could] derail passenger trains, or even more dangerous, derail passenger trains loaded with lethal chemicals," he said. "They could contaminate the water supply in major cities, or shut down the power grid across large parts of the country."
+
+Patrick Lambert wrote in a TechRepublic blog post that while the scenarios painted by Panetta are horrifying, "there's no way to accomplish them solely via the Internet. Most things have to be done on site, and any critical systems shouldn't be connected directly to the 'Net in the first place."
+
+John Felker, a retired Coast Guard captain and vice president of cyber programs at SCI Consulting Services, who believes Panetta is right, said: "Those systems were closed -- site specific -- when they were put in place a long time ago," he said. But now they are Internet facing. "It's cheaper that way, but they are also more vulnerable."
+
+"Absolutely -- no question about it. I've seen the ones and zeroes, so I know," Felker said. "Depending on the attack, could it be worse than Sandy, not only from the risk to life, but the economy. If there is no electricity, a lot of things don't get done."
+
+Could a "Cyber Reserve" mitigate the threat? DHS Deputy Secretary Jane Holl Lute believes that until DHS can improve its in-house capabilities, a reserve is the way to go.
+
+Jim Finkle reports at Reuters that the Deputy Secretary hopes to have a working model for a Cyber Reserve within a year, with the first members drawn from retired government employees now working for private companies, but also recruit from Department of Defense contractors, veterans' organizations and outside groups.
+
+The management of such a reserve of security pros could be tricky, however, since it would involve security clearances and allowing people access to confidential information and tools that could leak into the wild unless they were tightly controlled.
+
+"This has been talked about before," Felker said. "There are a lot of plusses and a lot of minuses. The big question is what authorities do they operate under. How do you get them to do what you want?"
+
+"We know [experts are] out there. But you have to have somebody managing the program that is very comfortable with ambiguity. Gen. [Keith] Alexander [head of the National Security Agency] is probably somebody who could do it."
+
+Felker said the security risks from reservists themselves are probably small. "It depends what kind of access you give them. Some of those [cyber] tools don't go outside unless it's under very controlled conditions," he said.
+
+However, even if the U.S. does get a Cyber Reserve up and running within a year, it will still be late to the party. Steve Elwart, writing inWND, noted that Estonia has a "white-hat hacker organization" that support's the country's National Guard; that the U.K. is developing a program; and that China is, "actively recruiting a vast [cyber] army of up to one-half billion soldiers."
+
+Read more about malware/cybercrime in CSOonline's Malware/Cybercrime section.

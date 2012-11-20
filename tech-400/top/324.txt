@@ -1,0 +1,51 @@
+“PLEASE put your hand on the scanner,” a receptionist at a doctor’s office at New York University Langone Medical Center said to me recently, pointing to a small plastic device on the counter between us. “I need to take a palm scan for your file.”
+
+As a reporter who has been covering the growing business of data collection, I know the potential drawbacks — like customer profiling — of giving out my personal details. But the idea of submitting to an infrared scan at a medical center that would take a copy of the unique vein patterns in my palm seemed fraught.
+
+The receptionist said it was for my own good. The medical center, she said, had recently instituted a biometric patient identification system to protect against identity theft.
+
+I reluctantly stuck my hand on the machine. If I demurred, I thought, perhaps I’d be denied medical care.
+
+Next, the receptionist said she needed to take my photo. After the palm scan, that seemed like data-collection overkill. Then an office manager appeared and explained that the scans and pictures were optional. Alas, my palm was already in the system.
+
+No longer the province of security services and science-fiction films, biometric technology is on the march. Facebook uses facial-recognition software so its members can automatically put name tags on friends when they upload their photos. Apple uses voice recognition to power Siri. Some theme parks take digital fingerprints to help recognize season pass holders. Now some hospitals and school districts are using palm vein pattern recognition to identify and efficiently manage their patients or students — in effect, turning your palm into an E-ZPass.
+
+But consumer advocates say that enterprises are increasingly employing biometric data to improve convenience — and that members of the public are paying for that convenience with their privacy.
+
+Fingerprints, facial dimensions and vein patterns are unique, consumer advocates say, and should be treated as carefully as genetic samples. So collecting such information for expediency, they say, could increase the risks of serious identity theft. Yet companies and institutions that compile such data often fail to adequately explain the risks to consumers, they say.
+
+“Let’s say someone makes a fake ID and goes in and has their photo and their palm print taken as you. What are you going to do when you go in?” said Pam Dixon, the executive director of the World Privacy Forum, an advocacy group in San Diego. “Hospitals that are doing this are leaping over profound security issues that they are actually introducing into their systems.”
+
+THE N.Y.U. medical center started researching biometric systems a few years ago in an effort to address several problems, said Kathryn McClellan, its vice president who is in charge of implementing its new electronic health records system. More than a million people in the New York area have the same or similar names, she said, creating a risk that medical personnel might pull up the wrong health record for a patient. Another issue, she said, was that some patients had multiple records from being treated at different affiliates; N.Y.U. wanted an efficient way to consolidate them.
+
+Last year, the medical center adopted photography and palm-scan technology so that each patient would have two unique identifying features. Now, Ms. McClellan said, each arriving patient has his or her palm scanned, allowing the system to automatically pull up the correct file.
+
+“It’s a patient safety initiative,” Ms. McClellan said. “We felt like the value to the patient was huge.”
+
+N.Y.U.’s system, called PatientSecure and marketed by HT Systems of Tampa, has already scanned more than 250,000 patients. In the United States, over five million patients have had the scans, said Charles Yanak, a spokesman for Fujitsu Frontech North America, a division of Fujitsu, the Japanese company that developed the vein palm identification technology.
+
+Yet, unless patients at N.Y.U. seem uncomfortable with the process, Ms. McClellan said, medical registration staff members don’t inform them that they can opt out of photos and scans.
+
+“We don’t have formal consent,” Ms. McClellan said in a phone interview last Tuesday.
+
+That raises red flags for privacy advocates. “If they are not informing patients it is optional,” said Joel Reidenberg, a professor at Fordham University Law School with an expertise in data privacy, “then effectively it is coerced consent.”
+
+He noted that N.Y.U. medical center has had recent incidents in which computers or USB drives containing unencrypted patient data have been lost or stolen, suggesting that the center’s collection of biometric data might increase patients’ risk of identity theft.
+
+Ms. McClellan responded that there was little chance of identity theft because the palm scan system turned the vein measurements into encrypted strings of binary numbers and stored them on an N.Y.U. server that is separate from the one with patients’ health records. Even if there were a breach, she added, the data would be useless to hackers because a unique key is needed to decode the number strings. As for patients’ photos, she said, they are attached to their medical records.
+
+Still, Arthur Caplan, the director of the division of medical ethics at the N.Y.U. center, recommended that hospitals do a better job of explaining biometric ID systems to patients. He himself recently had an appointment at the N.Y.U. center, he recounted, and didn’t learn that the palm scan was optional until he hesitated and asked questions.
+
+“It gave me pause,” Dr. Caplan said. “It would be useful to put up a sign saying ‘We are going to take biometric information which will help us track you through the system. If you don’t want to do this, please see’ ” an office manager.
+
+Other institutions that use PatientSecure, however, have instituted opt-in programs for patients.
+
+At the Duke University Health System, patients receive brochures explaining their options, said Eliana Owens, the health system’s director of patient revenue. The center also trains staff members at registration desks to read patients a script about the opt-in process for the palm scans, she said. (Duke does not take patients’ photos.)
+
+“They say: ‘The enrollment is optional. If you choose not to participate, we will continue to ask you for your photo ID on subsequent visits,’ ” Ms. Owens said.
+
+Consent or not, some leading identity experts see little value in palm scans for patients right now. If medical centers are going to use patients’ biometric data for their own institutional convenience, they argue, the centers should also enhance patient privacy — by, say, permitting lower-echelon medical personnel to look at a person’s medical record only if that patient is present and approves access by having a palm scanned.
+
+Otherwise, “you are enabling another level of danger,” said Joseph Atick, a pioneer in biometric identity systems who consults for governments, “instead of using the technology to enable another level of privacy.”
+
+At my request, N.Y.U. medical center has deleted my palm print.

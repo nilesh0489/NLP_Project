@@ -1,0 +1,23 @@
+Catch and Release: Marine Animals Inspire Researchers to Invent a Device that can Detect, Capture and Release Rare Cancer Cells
+
+BOSTON, MA-A research team at Brigham and Women's Hospital has developed a novel device that may one day have broad therapeutic and diagnostic uses in the detection and capture of rare cell types, such as cancer cells, fetal cells, viruses and bacteria. The device is inspired by the long, elegant appendages of sea creatures, such as jellyfish and sea cucumbers.
+
+The study will be published online on November 12, 2012 in Proceedings of the National Academy of Sciences.
+
+The device, a microchip, is inspired by a jellyfish's long, sticky tentacles that are used to capture miniscule food flowing in the water. The researchers designed a chip that uses a three-dimensional DNA network made up of long DNA strands with repetitive sequences that-like the jellyfish tentacles-can detect, bind and capture certain molecules. The researchers, led by Jeffrey Karp, PhD, BWH Division of Biomedical Engineering, Department of Medicine at Brigham and Women's Hospital, senior study author, and Rohit Karnik, PhD, Massachusetts Institute of Technology, co-author, created the chip using a microfluidic surface and methods that allowed them to rapidly replicate long DNA strands with multiple targeting sites that can bind to cancer cells, but also custom tailor critical characteristics, such as DNA length and sequence which would allow them to target various cell types.
+
+In this study, Karp and his team tested the chip using a DNA sequence that had a specific affinity to a cell-surface protein found abundantly in human cancer cells.
+
+The researchers engineered the device to efficiently capture a higher quantity of cancer cells from whole blood patient samples at much higher flow rates compared to other methods that use shorter DNA strands or antibodies.
+
+"The chip we have developed is highly sensitive. From just a tiny amount of blood, the chip can detect and capture the small population of cancer cells responsible for cancer relapse," said Weian Zhao, PhD, a postdoctoral fellow from the Karp lab who is now faculty at the University of California, Irvine, and first study author.
+
+In addition to using the device for blood-based cancers, it may find application to isolate cells that break away from solid tumors and travel through the bloodstream.
+
+"What most people don't realize is that it is the metastasis that kills, not the primary tumor," said Karp. "Our device has the potential to catch these cells in the act with its 'tentacles' before they may seed a new tumor in a distant organ."
+
+Moreover, unlike other methods, the device was able to maintain a high purity of the captured cells that could easily be released and cultured in the laboratory.
+
+"One of the greatest challenges in the treatment of cancer patients is to know which drug to prescribe," said Karp. "By isolating circulating tumor cells before and after the first round of chemotherapy is given, we can determine the biology behind why certain cells are resistant to chemotherapy. We can also use the isolated cells to screen drugs for personalized treatments that could boost effectiveness and hopefully prevent cancer relapse."
+
+The primary support for this research was from the International Human Frontier Science Program Organization postdoctoral fellowship and the National Institutes of Health (HL097172 and HL095722).

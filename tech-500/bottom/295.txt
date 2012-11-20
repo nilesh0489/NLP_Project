@@ -1,0 +1,61 @@
+commentary Leaked document from upcoming treaty negotiations reveals Russia wants transfer of authority over Net to national governments. The U.N.'s increasingly shrill denials are ringing ever more hollow.
+
+commentary The Russian Federation is calling on the United Nations to take over key aspects of Internet governance, including addressing and naming, according to documents leaked on Friday from an upcoming treaty conference.
+
+The Russians made their proposal on November 13 in the lead-up to December's World Conference on International Communications in Dubai. The conference will consider revisions to the International Telecommunications Regulations (ITRs), a treaty overseen by the UN's International Telecommunications Union (ITU). The treaty has not been revised since 1988, before the emergence of the commercial Internet.
+
+Russia's proposals would, if adopted, dramatically affect Internet governance, transferring power from engineering-based organizations such as the Internet Society and ICANN to national governments, all under the authority of the UN.
+
+There are 193 Member States participating in the WCIT. Each gets a single vote on proposed changes to the treaty. The treaty negotiations and its documents are secret, though many have been exposed through the Web site WCITLeaks, run by two researchers at George Mason University.
+
+"The [proposed] additions to the ITRs...are aimed at formulating an approach that views the Internet as a global physical telecommunications infrastructure, and also as a part of the national telecommunications infrastructure of each Member State," the Russian proposal says.
+
+Russians propose bringing "IP-Based Networks" under UN control Currently, the ITRs cover only international telecommunications services (PDF). But the Russians propose adding a new section to the treaty to deal explicitly with "IP-based networks." Bringing the Internet into the treaty in any capacity would represent a major expansion of the scope of the ITU's authority.
+
+The leaked proposal would strongly endorse national control over those parts of the Internet that reside within a country's borders, including ISPs, traffic, and engineering. One suggested change to the treaty, for example, declares that "Member States shall have the sovereign right to manage the Internet within their national territory, as well as to manage national Internet domain names."
+
+Russia is also calling for a major revision to the multi-stakeholder governance process that has long-presided over domain names and Internet addressing, which it calls a "critical transnational resource." Under a proposed revision, the treaty would be amended to make clear that "Member States shall have equal rights in the international allocation of Internet addressing and identification resources."
+
+Today, oversight of domain names and IP addresses is delegated toICANN, a nongovernmental organization, which manages key Internet resources through a complex mechanism. According to ICANN, its model is "bottom up" and includes "registries, registrars, Internet Service Providers (ISPs), intellectual property advocates, commercial and business interests, noncommercial and nonprofit interests, representation from more than 100 governments, and a global array of individual Internet users."
+
+The ITU, by contrast, allows only its member nations to vote. Private organizations can participate in its proceedings by paying a large annual fee but cannot propose amendments or vote.
+
+The multi-stakeholder system is seen as a major roadblock to long-standing efforts by some governments to control both incoming and outgoing Internet traffic, particularly for political purposes. Critics inside and outside the U.S. have been warning all year that some countries as well as private members of the ITU were determined to hijack the conference and transform the UN's increasingly trivial international telephone rules into a broad, UN-sanctioned takeover of Internet governance.
+
+Proposals leaked earlier from Russia, China, Iran, and others would authorize member nations, with UN blessing, to inspect and censor incoming and outgoing Internet traffic on the premise of monitoring criminal behavior, filtering spam, or protecting national security.
+
+Curbing the Internet is a priority for these countries that goes well beyond the WCIT process. China, for example, recently hosted its first annual "Internet Roundtable for Emerging Countries," attended by Russia, Brazil, India, and South Africa. According to observers of the meeting, the participants agreed that "The Internet must be managed by governments, with a particular focus on the influence of social networks on society."
+
+The Russian proposal, however, is the most audacious power grab to date. And it comes as little surprise to observers of the ITU, which hasdeepened ties to Russia in a bid to demonstrate its relevance in cybersecurity. Last year, during a meeting between Russian Prime Minister Vladimir Putin and ITU Secretary-General Hamadoun Toure, Putin bluntly told Toure that Russia was keen on the idea of "establishing international control over the Internet using the monitoring and supervisory capability of the International Telecommunications Union."
+
+Some private organizations are also exploiting WCIT in an effort to overcome local regulatory constraints. As first reported by CNET in June, for example, a trade association of European telephone companies known as ETNO proposed altering the ITRs to mandate new transit agreements for Internet traffic, implementing a "sending party network pays" model that would have taxed Internet content companies on behalf of local telecommunications companies.
+
+So far, the Internet traffic tax proposed by ETNO has not been endorsed by any European member nation, but versions of the plan have appeared in secret proposals from some African and Arab states.
+
+ITU efforts at spin go badly out of control Even before the Russians' latest proposal, the ITU had become increasingly desperate to cast itself as an innocent third party in the growing firestorm of criticism ahead of the WCIT meeting. Secretary-General Toure has been sharply critical of "sensationalist claims in the press" that characterize any WCIT proposal as antidemocratic or that suggest the ITU has a stake in extending its reach to IP-based networks. "WCIT is definitively not about taking control of the Internet or restricting people's freedom of expression or freedom of speech," Toure said in a speech in September.
+
+In afollow-up interview with Bloomberg BNA, Toure denied that his organization had any interest in Internet governance. "Internet Governance as we know it today," he said, concerns only "Domain Names and addresses. These are issues that we're not talking about at all," Toure said. "We're not pushing that, we don't need to."
+
+The Russian proposal, and earlier leaked proposals dealing with Internet engineering and protocols, belies that claim. Nor is WCIT the start of UN efforts to wrest control from existing multi-stakeholder organizations. Since 2004, the UN has tried in particular to seize power from ICANN, an effort the Russian proposal now endorses.
+
+To counter negative attention focused on the secrecy of ongoing treaty negotiations, the ITU has conducted a clumsy PR campaign rife with misdirection and misstatements. Today, for example, three days after receiving the Russian proposal and translating it into English, the ITU issued a statement on its Web site reiterating that "there have not been any proposals calling for a change from the bottom-up multi-stakeholder model of Internet governance to an ITU-controlled model."
+
+The ITU, which dates back over 150 years, seems increasingly desperate to control criticism that is now coming not only from government officials and private sources but from Internet users worldwide.
+
+In an op-ed published November 7 on Wired, Toure pleaded with readers to accept his "heartfelt" assurance that the ITU's only agenda was to expand Internet access for developing nations:
+
+After commenters on the piece savaged Toure's hypocrisy, the secretary-general added a postscript as "an engineer who comes from one of the world's poorest countries." He reassured readers that, "For me and the ITU, it's about giving people the power to totally transform their lives through education, health care, and everything else the online world can deliver."
+
+With the added postscript, Wired also notably changed the headline of the article, without any notice or explanation. The original title, "UN Must Regulate the Internet" was revised to "UN: We Seek to Bring Internet to All."
+
+In response to growing criticism about the ITU's lack of transparency, Toure also encouraged Internet users to "participate" in the WCIT process. "ITU has opened an online space where anyone can post an opinion on the issues, to be shared with all conference delegates," he said in the Wired article.
+
+A link directed readers to the WCIT 12 "Public Views and Opinions" page, which, since it was created in July, has received only 15 posts.
+
+But perhaps that's because the ITU required commenters to first register, provide extensive identifying information, and agree to a lengthy terms of service agreement before they could "express their views" on the contents of a single, and highly redacted, early draft of the proposals the ITU decided to release. (The complete document, as well as many more recent versions, are available on WCITLeaks.)
+
+Or perhaps that's because, as one of Wired's reader's pointed out, the "Public Views and Opinions" page had actually been shut down before Toure's editorial was even published.
+
+Weeks ahead of the conference, and just as some of the worst proposals are leaking out of the ITU's information fortress, the public comment page now reads solemnly: "We inform you that the WCIT-12 Open Consultation process is now closed."
+
+That statement captures, in a nutshell, everything that's wrong with the WCIT, and the ITU's pathetic effort to spin it.

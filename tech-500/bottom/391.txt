@@ -1,0 +1,33 @@
+In the era of Polaroid cameras, you didn't have to worry too much about a racy snapshot you took in the privacy of your bedroom becoming available to the general public. But thanks to the rise of digital cameras and the Internet, that's now a real risk. Hackers, disgruntled exes, and other vindictive individuals who gain access to your compromising digital snapshots can share them with the world with a single click.
+
+Recently, a number of websites have sprung up to cash in on the public humiliation of others. One of the first such sites was IsAnyoneUp, which solicited nude pictures of ordinary Americans submitted by third parties. To maximize the humiliation, the photos were posted along with identifying details such as name and home town. The site's owner, Hunter Moore, reportedly raked in thousands of dollars a month in advertising revenue, and he made the rounds on television talk shows defending his site.
+
+Moore finally shuttered the site earlier this year, but others have jumped in to fill the sordid niche he pioneered. One such site is the creatively named IsAnybodyDown. Like the original, it features naked pictures of ordinary Americans, generally submitted without the subjects' consent, as well as personal information such as their names, hometowns, phone numbers, and screenshots of their Facebook pages.
+
+If you think IsAnyoneUp couldn't be any sleazier, then IsAnybodyDown's seems determined to prove you wrong. A link on IsAnybodyDown reading "Get Me Off This Site!" leads to the website of "Takedown Hammer," an "independent third party team" that, for a modest fee of $250, will "issue a successful content removal request on your behalf." It brags of 90 successful removals from IsAnybodyDown.com.
+
+It seems pretty obvious that "Takedown Hammer" isn't actually independent of IsAnybodyDown. Indeed, copyright and First Amendment attorney Marc Randazza has found circumstantial evidence that IsAnybodyDown and Takedown Hammer are, in fact, both owned by a man named Craig Brittain.
+
+Randazza has made taking down IsAnybodyDown a personal cause. "I want to hurt isanybodydown.com. I want to hurt them bad," Randazza wrote in a recent blog post. "If anyone out there has been scammed by these crooks, contact me," Randazza wrote. "I will represent you pro bono."
+
+Is it even illegal to run a site like IsAnybodyDown? "Involuntary porn" sites are so new that the courts haven't really dealt with them before.
+
+In an interview earlier this month, Randazza told us that his legal strategy would depend on the client, but that he would likely sue Brittain for copyright infringement. Depending on where the client lived, he said there were also likely to be private torts available under state law.
+
+We asked Paul Alan Levy, a free speech lawyer at Public Citizen, whether a victim of IsAnybodyDown would have a case against the site. He drew a parallel to other cases that have dealt with allegedly extortionate websites.
+
+For example, Levy cited litigation over the website PissedConsumer.com. It collects negative comments about businesses, posts them to its website, and then charges businesses for the "service" of making those negative reviews less conspicuous. Unsurprisingly, the businesses who get negative reviews aren't happy about PissedConsumer's business model, and one of them sued the site arguing that PissedConsumer—like IsAnybodyDown—is little more than an extortion racket.
+
+PissedConsumer countered that it is protected by Section 230 of the Communications Decency Act, which grants website operators broad immunity for user-submitted content. This summer, a judge refused to dismiss a case under Section 230 because the plaintiff alleged that PissedConsumer itself had written some of the allegedly defamatory reviews.
+
+A similar issue is likely to be raised in any litigation over IsAnybodyDown. Both Section 230 and the similar safe harbor under the Digital Millennium Copyright Act provide immunity for user-submitted content. But it's not clear whether the content on IsAnybodyDown qualifies as user-submitted under either safe harbor. "This doesn't go up in an automated fashion," Randazza told us. "They have a direct influence over the content."
+
+Even if a plaintiff establishes that IsAnybodyDown isn't eligible for the safe harbors, it's still not clear that a plaintiff could win an extortion case. "So far as I know, none of these extortion theories has ever been litigated to a decision," Levy told us.
+
+And, Levy said, "Those theories make me very nervous. On the one hand, if it is purely extortionate, that seems bad." On the other hand, he worries that charges of extortion could be used to attack as a basis for frivolous litigation against more legitimate sites.
+
+Levy had a similar perspective on copyright claims. The ability to sue would depend on who actually took the pictures. For example, if a photo were taken by a disgruntled ex-boyfriend, then the boyfriend, not the subject of the shot, would be the legal copyright holder. And he might not be interested in participating in a lawsuit. If the copyright holder did sue, the judge could issue an injunction ordering the photo to be removed and also awarding the plaintiff a "significant dollar amount" in damages.
+
+Once again, while Levy said it was "hard to get too excited about the rights of the host of this site," he's worried about "the use of copyright law as an excuse to hammer Internet speakers when the real objection is to the content."
+
+Update: I've deleted the sentence "Section 230 immunity is only available for content submitted by third parties and posted in an automated fashion" from the story because the law is murky about the exact circumstances in which website operators are eligible for Section 230 immunity.

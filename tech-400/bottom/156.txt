@@ -1,0 +1,9 @@
+The term “lung-on-a-chip” has a somewhat sticky, visceral connotation. In fact, the lung-on-a-chip developed by scientists at Harvard’s Wyss Institute is a very sterile and controlled affair. The purpose behind this project is to create a microchip that has all the basic properties of human organs. This has a huge number of applications, including drug testing.
+
+Early stage drug development often relies on animal testing; usually mice that have very well-understood genomes. This gets the job done, but there is quite a lot going on in a mouse that can skew results, and of course the mouse is not a perfect stand-in for a human. An organ-on-a-chip provides a simplified test-bed to study human biology at the cellular level.
+
+The lung-on-a-chip being shown off at Harvard consists of a chip with small channels etched into its surface that carry air, blood, water, and everything else you’d find in a real lung. The channels are lined with living human lung and capillary cells. Vacuum pumps on either side of each channel expand and contract, thus imitating the action of a real alveolar sac.
+
+The researchers are talking about this achievement because of some very promising recent results. Cancer patients are often given doses of Interleukin-2 (IL-2), a cell signalling protein active in the human immune system. While effective, IL-2 treatments tend to cause fluid buildup in the lungs, known as pulmonary edema. Dosing the lung-on-a-chip with IL-2 caused fluid buildup just like in a real lung.
+
+Researchers used this opportunity to test a new drug designed to treat pulmonary edema. They found that it was effective in the lung-on-a-chip, as well as in a confirmatory animal study. This suggests that organ-on-a-chip designs could stand in for animal testing, resulting in faster drug development without the cost and controversy of animal studies. This could be the future of pharmaceutical development.

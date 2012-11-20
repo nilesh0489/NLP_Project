@@ -1,0 +1,37 @@
+Federal prosecutors are proposing a process that would make it essentially impossible for former Megaupload users to recover their data following the government’s seizure of the file-sharing service’s servers and domain names in January as part of its prosecution of a criminal copyright infringement indictment of Megaupload’s employees.
+
+That’s according to Julie Samuels, an Electronic Frontier Foundation attorney representing an Ohio man seeking the return of his high school sports footage.
+
+“It’s almost an insurmountable hurdle for any individual or small business,” Samuels, in a telephone interview Wednesday, said of the government’s position.
+
+The government asserted in a court filing Tuesday that the process of returning videos to EFF client Kyle Goodwin, so far the only individual to come forward demanding return of data, “may require the testimony of numerous witnesses, including potential expert witnesses.”
+
+The government’s position comes as people increasingly store documents in the cloud, while the government, in the name of protecting intellectual property, has shown a willingness to seize servers and domain names first and worry later about the consequences, like there being no clear process on how to return data to their rightful owners. 
+
+The government fears a rush of some of 60 million-plus former Megaupload customers could make a claim to get their data back. The government says that Goodwin’s court declaration asserting he owns files in a Megaupload account is not good enough.
+
+“Mr. Goodwin has yet to demonstrate whether he has an interest in any property seized by the government,” the authorities said in a brief filing. The government added that “the mere fact that he may claim, for example, an initial copyright to a version of the files he uploaded is not sufficient to establish that he has an ownership interest in the property that is the subject of this motion.”
+
+Goodwin wants U.S. District Judge Liam O’Grady, the judge overseeing the Megaupload criminal infringement prosecution, to continue his order preserving the 25 petabytes of data the authorities seized in January. Goodwin, the operator of OhioSportsNet, which films and streams high school sports, wants to access his copyrighted footage that he stored on the file-sharing network. His hard drive crashed days before the government shuttered the site Jan. 19, he claims in a court filing.
+
+The government also suggested that Goodwin may have uploaded unauthorized music to Megaupload, too, which cannot be returned.
+
+The authorities suggested that “cheaper remedies” might exist for Goodwin to retrieve his content, “such as data recovery from Mr. Goodwin’s hard drive.”
+
+Here’s what the government said the judge should consider before agreeing that Goodwin should get back his files:
+
+(1) whether Mr. Goodwin has ‘clean hands’ or whether he is barred from obtaining equitable relief; (2) the cost and technical feasibility of finding a single user’s data on the Carpathia servers; (3) the number of other affected parties similarly situated to Mr. Goodwin; (4) how, if at all, the government can prevent the return of infringing materials and other contraband from the servers; (5) and whether other, cheaper remedies exist, such as data recovery from Mr. Goodwin’s hard drive. Such issues may require the testimony of numerous witnesses, including potential expert witnesses. Many of these difficult issues may be avoided if the Court determines that Mr. Goodwin’s lacks an interest in the seized property, or that his interest is narrower than he currently claims.
+
+Megaupload allowed users to upload large files and share them with others, but the feds and Hollywood allege the service was used almost exclusively for sharing copyrighted material without permission — which Megaupload denies.
+
+A hearing on the data issue is pending.
+
+Federal authorities have said they have copied some, but not all of the Megaupload data, and said Carpathia, Megaupload’s Virginia-based server host, could delete the 25 million gigabytes of Megaupload data it is hosting on 1,100 servers — a decision the judge in the case has tentatively halted.
+
+Carpathia has said it is spending $9,000 daily to retain the data, and is demanding that Judge O’Grady relieve it of that burden. Megaupload, meanwhile, wants the government to free up some of the millions in dollars of seized Megaupload assets to be released to pay Carpathia to retain the data for its defense and possibly to return data to its customers.
+
+The criminal prosecution of Megaupload targets seven individuals connected to the Hong Kong-based file-sharing site, including founder Kim Dotcom. They were indicted in January on a variety of charges, including criminal copyright infringement and conspiracy to commit money laundering.
+
+Five of the members of what the authorities called a five-year-old “racketeering conspiracy” have been arrested in New Zealand, pending possible extradition to the United States — though that has devolved into political mess, after the New Zealand government admitted to spying illegally on Dotcom.
+
+The U.S. government said the site, which generated hundreds of millions in user fees and advertising, facilitated copyright infringement of movies, often before their theatrical release, in addition to music, television programs, electronic books, and business and entertainment software. The government said Megaupload’s “estimated harm” to copyright holders was “well in excess of $500 million.”

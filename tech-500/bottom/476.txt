@@ -1,0 +1,15 @@
+FOLLOWING RUMOURS earlier this week, Microsoft has announced that it will take its Windows Live Messenger service offline early next year and replace it with Voice over IP (VoIP) and chat service Skype.
+
+The firm has already started advising Windows Live Messenger users to migrate to Skype, which rolled out its latest version, Skype 6.0 last month and has the ability to import Windows Live Messenger users' contacts.
+
+The firm said it will retire Windows Live Messenger in all countries worldwide in the first quarter of 2013, with the exception of mainland China where it will continue to be available.
+
+"We want to focus our efforts on making things simpler for our users while continuously improving the overall experience," Skype president Tom Bates said in a post on the firm's blog.
+
+To lure hardcore Windows Live Messenger fans away from the service that's set to become unavailable soon, Bates touted many of the marvellous features that users will benefit from by migrating to Skype, such as its "broad support" across devices like tablets and smartphones, as well as screen sharing and video calling with Facebook friends.
+
+However, although Bates said Skype will "work with [users] over the next few months to help the transition and offer information and help along the way", a large scale migration like this is never flawless and some users are already voicing their concerns about the move.
+
+"If you are going to do this, you should make group calls FREE", one user commented in response to Bates' blog post, while another asked, "What about the games that are playable through Windows Live Messenger - how will we be able to access those via Skype?" But perhaps more notable is one potential issue highlighted by a commenter who asked, "So will I be forced to give up on my [Windows Live Messenger] contacts?"
+
+We've sent these questions to Microsoft to find out. µ

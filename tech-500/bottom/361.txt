@@ -1,0 +1,55 @@
+Last night after the midnight release of the new Nintendo Wii U gaming console, we did what any self respecting hardware fan would do: we tore it apart.  That's right, while live on our PC Perspective Live! page, we opened up a pair of Wii U consoles, played a couple of games on the Deluxe while we took a tri-wing screwdriver to the second.  Inside we found some interesting hardware (and a lot more screws) and at the conclusion of the 5+ hour marathon, we had a reassembled system with only a handful of leftover screws!
+
+If you missed the show last night we have archived the entire video on our YouTube channel (embedded below) as well as the photos we took during the event in their full resolution glory.  There isn't much to discuss about the teardown other than what we said in the video but I am going to leave a few comments after each set of four images.
+
+OH!  And if you missed the live event and want to be apart of another one, we are going to be holding a Hitman: Absolution Game Stream on our Live Page sponsored by AMD with giveaways like Radeon graphics cards and LOTS of game keys!  Stop by again and see us on http://pcper.com/live on Tuesday the 20th at 8pm ET.
+
+During the stream we promised photos of everything we did while taking it apart, so here you go!  Click to get the full size image!
+
+Getting inside the Wii U was surprisingly easy as the white squares over the screws were simply stickers and we didn't have to worry about any clips breaking, etc.  The inside is dominated by the optical drive provided by Panasonic.
+
+Continue reading to see ALL the images from our Nintendo Wii U Teardown!!
+
+There were two ribbon cables, one for the front panel and one for the optical drive, otherwise the extraction of the hardware was pretty easy using a combination of tri-wing and Philips screws.  You can see the fan on the rear of the Wii U exhaust, a bit bigger than the one found in the original Wii.
+
+The front panel is pretty plain and you can see the front USB ports, SD card reader and slot loading optical drive bay.
+
+More on the optical drive and then two of the four different antennas inside the Wii U for WiFi and the custom video stream to the gamepad.
+
+The other antennas and the tape job for wires.  The fan is removed and the top shroud.
+
+While the heatsink is kind of large over the multi-chip module it is incredibly light made entirely of aluminum.
+
+The underside of the PCB has some more shielding as as well some loosely attached brackets on the side to facilitate securing screws.
+
+Some initial shots of the PCB including the Nintendo logo.
+
+There is a Panasonic chip here with the markings "MN864718 219P3162" and though I couldn't find any information on it we are guessing this is a video processor that may be sending the signal to the LCD on the gamepad.  We also have shots of the new MCM with the IBM PowerPC CPU and the AMD GPU under the heatspreader.  No, we didn't have the tools to remove the heatspreader though we have seen photos directly from Nintendo for that.  The MCM includes not only the two processors but also on-chip memory all on a single substrate.
+
+: Anandtech actually took a razor blade to the heatspreader on the Wii U processor to reveal the silicon underneath (image link) and you can clearly see the AMD GPU (larger chip) and the IBM CPU (smaller) built using 40nm and 45nm process technology respectively.  A very small die is likely some of-chip memory. 
+
+A close up of more of the antennas.
+
+This first module is a Hon Hai Win-B2 Bluetooth controller.
+
+Here are some more images of the MCM / processors as well as the gDDR3 memory, K4W4G16446B-HC12, rated at speeds up to 1066 MHz, each with a capacity of 4Gb, for a total of 16Gb / 2GB.  (PDF Source.)
+
+This secondary Samsung chip is an 8GB NAND flash chip that makes up the internal storage for this Basic version of the Nintendo Wii U.  The Hynix H27U8G8G5DTR is an ePROM likely used for the BIOS/boot controller.
+
+The module with the grey/black wires is a Hon Hai Win-A2 802.11b/g/n WiFi adapater while the modules with the red and grey wires is a Hon Hai MIC-B2 and is a dedicated WIFI 11n device, like used to stream the video the the Wii U Gamepad.
+
+: We have confirmation from Polygon.com that this controller does in fact power the gamepad, utilizing a version of Miracast:
+
+"The technology, co-developed by Nintendo and wireless and broadband communications giant Broadcom, marries run-of-the-mill Wi-Fi with a powerful bit of proprietary software to create a two-way stream of low-latency, high-definition video and controls between the Wii U and its innovative GamePad.
+
+That complex suite of software is designed to mitigate interference and deliver a smooth video signal and communication speeds, said Dino Bekis, senior director of wireless connectivity at Broadcom.
+
+The technology is built on top of something called Wi-Fi Miracast, which Broadcom first developed last summer. It's a system that is specifically designed to deal with interference issues while maintaining liquid fast two-way communication.
+
+Broadcom and Nintendo then teamed up to create a more solid system for the Wii U-to-GamePad connection."
+
+Finally, some more shots of those same modules.
+
+Well, that's it!  We wanted to take apart the Wii U Gamepad as well but weren't able to because we didn't have the correct size tri-wing screwdriver.  I'll give a couple of shops a chance today but I'm not holding much hope for that - check back here to see if we succeeded! 
+
+Thanks to everyone that joined us on the live stream last night and don't forget to check back at PC Perspective for more events coming soon!!

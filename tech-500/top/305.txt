@@ -1,0 +1,31 @@
+When Mike Hoye set out to make the game Legend of Zelda: The Wind Waker more gender-friendly for his 3-year-old daughter (she pronounces it gender “fwee”), he was doing it primarily out of parental love. But when the former system administrator released a crack for the game that reverses the genders of the characters—making Link the heroine and Zelda the guy she rescues—he struck a chord with gamers across the Internet.
+
+Hoye, who previously built corporate deploy systems for Mozilla products before becoming an entrepreneur, had been looking for games that his daughter Maya could play. Wind Waker was the most accessible game he owned for someone her age, but there was a problem: The console only had one gender mode for Zelda’s main character, the hero Link.
+
+Since Hoye wasn’t about to teach his daughter that she couldn’t be the hero in her own story unless she related to a man, he devised a special crack to reverse all the gender pronouns and other references to Link’s gender in the story. Once the crack was done—he told the Dot it took only “a few days of work, spread out over a couple of weeks”—he shared the results.
+
+“As you might imagine I’m not having my daughter growing up thinking girls don’t get to be the hero and rescue their little brothers,” he blogged on Wednesday. Hoye also made sure that the references matched up tonally, too: When one commenter suggested Hoye replace “lad” with “gal,” he responded succinctly, “‘Gal’ is not something you call the resurrected Hero Of Time.”
+
+Most people met Hoye’s genderswap with cheers and praise for his efforts to be a good parent. But some argued that his efforts actually reinforced a gender divide. The Dot chatted to Hoye about the ongoing gender tensions in the gaming community, the challenge of finding suitable games for kids, and more.
+
+Daily Dot: Based on the response from readers, would you consider turning this into a project for more than just games for your daughter? Obviously you've highlighted a huge and basic gender inequality issue at work.
+
+DD:There's so much tension right now in the gaming community over issues of sexism that it seems like such a project could be a really touchy subject.
+
+DD:Are you aware of theretconningof Lara Croft's backstory earlier this year so that players would "want to protect her?"
+
+I heard about that. It was pretty crappy. Likewise what Team Ninja did to Samus Aran's narrative in "Other M." This year we seem to have hit a pivot point in gaming where we (and bear with me, when I use words like “we” blithely here) as a community can't ignore the effect of bad actors and crappy behavior towards women. Projects that aim for inclusiveness—Valve's "Project Lil", referenced in the dev commentary of Portal 2, Bioware's FemShep in ME3 —have done insanely well, and people and projects that have gone the other way have been rightly called to the mat for it.
+
+DD:Were you thinking about those kinds of things when you made the decision to encourage your daughter to get into gaming at such an early age? She's going to face a lot of flack and misogyny in the industry and the community as she grows up. Putting myself in your shoes as a parent, it seems like it'd be a little scary.
+
+It's more than a little scary. But it's also pretty inspiring, to see how fast she learns and grows. The situation in tech now is, depending on what corner of that world you're in, either "kind of bad" or "extraordinarily bad." but it's also changing. But those changes don't just magically happen. So on the one hand, yes— I've had that in mind while I did this, and it feels like it was valuable work as a result. On the other hand, this is also something I'm doing just for Maya, hopefully to make her a little bit happy this year, and maybe in a few years when she has a better sense of what's going on, to show her that the culture around software isn't carved in stone any more than the software itself is. That is to say, if you're a bit smart and a lot determined, you can make the changes you want happen. It might be a lot of work, but worthwhile things usually are.
+
+DD:On your post, a commenter named Simonpoints outthat emphasizing the gender pronouns may endorse the idea that people can't relate to characters across gender lines.
+
+Well, Simon says "I stopped really paying attention to gender after a while," which is adorable. It reminds me of this, because the only people in the world who get to act like race and gender don't matter are white men. I'm a white man myself. And let me tell you: It is amazing. No joke. And if I shave and put on a suit? You would not believe it. When [Maya]’s a fully formed person, I hope that's true—that she'll be able to empathize with other people across racial, gender and class lines, and be a better person for it. But for now, when she's three? Let's just get that barrier to entry out of the way, and let her be the hero of the story. My motivation here was, this is a thing which my daughter likes, but it's also a thing in which girls are getting shortchanged. What can I do about that? And once I've done it, can I share it? And here we are.
+
+DD:Do you have any other game recommendations with a good gender balance for kids your daughter's age?
+
+Yeah, there's a few strikes against that sort of game these days. Network gaming has pretty much killed same-couch gameplay, and I haven't really found a same-couch co-op game that can accommodate people with extremely different skill levels. But I've also had a lot of fun in big open-world games, playing them not as they were originally intended. Take, for example: Assassin's Creed: Brotherhood. Not exactly suitable for a preschooler, if you play it as intended. But there's a horse in it! And you can climb things! So Maya and I spend time just galloping around ancient Rome, climbing buildings to look for her eagle, jumping into the water to make a big splash, hiding in hay bales and looking at the moon.
+
+DD:Are you planning to blog her progress as she gets more into the story?

@@ -1,0 +1,9 @@
+Norwegian engineer Kåre Halvorsen has built a robot that has multiple perambulation options. It can walk over rough terrain like an insect, or roll around like a ball. He calls it a "morphing hexapod".
+
+The spherical robot's body is divided up into 12 parts. Each can be pushed out at will, allowing the bot some freedom in its movement. It's built from a Toys-R-Us globe that Halvorsen took about with a hacksaw.
+
+Halvorsen has been working on the project on and off since November 2010, and he says in a blog post that he's been thinking about the idea for much longer.
+
+Right now the internal design is asymmetric, which is why the bot rolls in an arc rather than a straight line. The creator explains that this was mainly due to a shortage of high torque servos, but that he's planning to make it more symmetric again.
+
+Halvorsen is also working on a selection of other robots, including this little sexy, dancing spider.

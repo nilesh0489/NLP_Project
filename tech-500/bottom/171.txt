@@ -1,0 +1,53 @@
+Project Orca was supposed to give the Romney campaign a technical advantage over Obama on election day. It got harpooned instead.
+
+The 2012 presidential election season was highlighted by dramatic debates, nearly $1 billion of negative TV ads, incessant polling and intensive "ground games" to mobilize voters and get them to voting booths in key swing states.
+
+On Nov. 6, it was the ground game, as well as what we now know as demographics favoring Democrats, that proved key to President Obama's victory. In a race that both sides anxiously deemed too close to call, the Romney and Obama camps bet that their technology would help provide the crucial edge. Both invested heavily in software, data modeling and brainpower to identify and message likely voters throughout the campaign. On Election Day, however, technology led the Romney candidacy down a wrong path.
+
+Romney's Orca The Romney team's Election Day operation poured its soul into Project Orca, which the candidate described as "state of the art" technology. It was supposed to paint a real-time picture as the voting unfolded, allowing Romney's campaign team to allocate resources and mobilize the voters they needed in critical swing state precincts. 
+
+It turned out that Orca's human masters misread the voter turnout. "They expected it to be between 2004 and 2008 levels, with a plus-2 or plus-3 Democratic electorate, instead of plus-7 as it was in 2008," said CBS News' Jan Crawford. "Their assumptions were wrong on both sides: The president's base turned out and Romney's did not. More African-Americans voted in Ohio, Virginia, North Carolina and Florida than in 2008. And fewer Republicans did: Romney got just over 2 million fewer votes than John McCain."
+
+It's ironic that Romney, who built his career at Bain Capital making strategic decisions about whether to invest in a company based on copious amounts of data analysis, would deem Project Orca an "unprecedented advantage on election day" given its performance.
+
+Here's how Orca was supposed to work. On election day, the Romney campaign would deploy 34,000 volunteers with an Orca mobile web app in swing states to monitor turnout. In Boston Garden (now called TD Garden), 800 staffers would direct get-out-the-vote efforts in key precincts based on incoming data from volunteers on the ground and other sources.
+
+The Romney campaign further described what Orca would do on Election Day:
+
+"We are going to know more than the exit polls will be able tell us because we will know who voted in which precinct, and based on micro-targeting we know who that person likes," Romney campaign communications director Gail Gitcho told PBS. "At 5 o'clock when the exit polls come out, I doubt we will pay attention to it because we will have had much more scientific information based on the political operation we have set up."
+
+Gitcho said that based on the data, the Romney campaign could take action to boost voter participation. "If we know that there is a low turnout in one of our target precincts, then we can lob phones into them...we'll send a robocall, or whatever, or our state offices will have volunteers to pick up the phone and say, 'Have you voted yet, go to precinct here.'"
+
+She described Orca as a "brand new model" that trumps what the Obama campaign has in the field. "The Obama campaign likes to brag about their ground operation," Gitcho said in the NPR interview, "but it's nothing compared this."
+
+In the end, Gitcho's brand new model didn't deliver the votes.
+
+Conservative commentator Byron York wrote in the Washington Examiner following Romney's loss, "Early in the evening, one aide said that, as of 4 p.m., Orca still projected a Romney victory of somewhere between 290 and 300 electoral votes. Obviously that didn't happen. Later, another aide said Orca had pretty much crashed in the heat of the action.  'Somebody said Orca is lying on the beach with a harpoon in it,' said the aide."
+
+Romney's state of the art technology clearly didn't provide the crucial difference he needed to become the 45th president of the U.S. There were reports that the Orca app crashed on Election Day, and wasn't beta-tested sufficiently.
+
+Zac Moffatt, digital director for Romney campaign, acknowledged that Orca experienced problems on Election Day. "The primary issue was we beta-tested in a different environment than the Garden [Boston Garden, where the 800 campaign staffers were working]. There was so much data coming in -- 1200 records or more per minute -- it shut down the system for a time. Users were frustrated by lag, and some people dropped off and we experienced attrition as a result."
+
+Moffatt maintained that Orca's problems were not a factor in the outcome of the election and that, for the most part, Orca worked.
+
+"We don't think Orca's problems had a material impact on the campaign, it was not election determinative," he said. "We had 30,000 plus volunteers across the country putting information into the system. We had 91 percent of all counties report into the system, 14.3 million voters were accounted for as having voted, and we received 5,397 reports on voting issues, such as instances where they ran out of ballots. The information came in, so you can't say it didn't work. You run into issues because it's so massive in scale."
+
+Obama's Narwhal Orca was up against a tough and more seasoned competitor in the Obama campaign's technology and data analysis system. Gitcho said that Orca was selected as the name for Romney's data-mining and micro-targeting operation because of the name of Obama campaign's similar operation -- Narwhal, after the whale with a long, straight tusk. "Orca is the only known predator to that," she told NPR.
+
+As Election Day played out, it was clear that Obama's Narwhal outsmarted Romney's Orca. 
+
+"In 2008, Romney was as sophisticated as anyone in the Republican field using micro-targeting. In fact, Romney's 2002 gubernatorial campaign was the first to use the individual-level information from commercial data warehouses and run statistical models to segment the electorate into different groups to target voters," said Sasha Issenberg, author of "The Victory Lab: The Secret Science of Winning Campaigns."
+
+But the Republican data world has become static compared to the opposition party, and hasn't ventured into new areas pioneered by academics, applying lessons from behavior psychology and social science, such as randomized-control experiments that identify more precisely voter targets, Issenberg said.
+
+Obama's number crunchers went beyond looking at the standard demographic data from voter-registration records and consumer data, incorporating the results from "micro-targeting models that analyze hundreds of data points to generate 'support scores' -- a percentage probability that an individual would back the Democratic candidate," Issenberg explained in an article on Obama's secret weapon for persuading and targeting voters.
+
+Time's Michael Scherer described how the Obama campaign cooked up its secret sauce following the 2008 campaign, making a major change to its database architecture. Similar to the Department of Homeland Security's effort to unify its databases to better find the needle in the haystack, Obama's team set out to merge all the data collected from pollsters, social networks, consumer data sources, field workers and voter profiles.
+
+On election day, Obama's micro-targeting operation paid off, while Romney's flailed.  Obama's campaign found people in key demographics favorable to the candidate and converted them into voters that Romney's Orca didn't know existed.
+
+"Romney generally failed to keep up with the cutting edge beyond data mining. It's not in the culture of Republicans, and they are suffering for it," Issenberg said. "It matters around the margins, but look at the numbers around Virginia and Florida. It doesn't change the overall demographic architecture of the race, but there is a massive difference in the ability to know who to target and to mobilize them. The Democrats have it and the Republicans don't. In a close race it's sensible to look at this, and not hard to see it impact on the outcome."
+
+"We read the same studies as the Obama team," Moffatt countered. "It's not an apples to apples comparison." He said that the Obama campaign basically had six years to develop its technology and data models, while the Romney team basically had only six months to mount its national campaign following the long primary cycle.
+
+"There is only so much resource you can move around at 3:00 p.m. on Tuesday afternoon on Election Day," Issenberg said. "On short notice, you can send robocalls, reorder a call list and employ paid phone banks, but you are not radically changing the shape of the electorate. They acted like they had invented the wheel, but really all it would have been was a slightly better tread on the tire."

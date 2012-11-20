@@ -1,0 +1,35 @@
+Chandra McMahon, Lockheed vice president and chief information security officer, said about 20 percent of the threats directed at Lockheed networks were considered "advanced persistent threats," prolonged and targeted attacks by a nation state or other group trying to steal data or harm operations.
+
+"The number of campaigns has increased dramatically over the last several years," McMahon told a news conference. "The pace has picked up."
+
+She said the tactics and techniques were becoming increasingly sophisticated, and attackers were clearly targeting Lockheed suppliers to gain access to information since the company had fortified its own networks.
+
+U.S. officials have stepped up their warnings about cyber attacks on U.S. banks and other institutions in recent months, warning that attackers are developing the ability to strike U.S. power grids and government systems.
+
+Lockheed officials declined to say if any of the attacks they had seen originated in Iran, which has been linked to recent denial-of-service attacks against U.S. financial institutions.
+
+Rohan Amin, Lockheed program director for the Pentagon's Cyber Crime Center (DC3), said internal analysis showed that the number of campaigns had clearly grown, and multiple campaigns were often linked.
+
+Lockheed recently wrested a $450 million contract to run the military cyber center away from long-time holder General Dynamics Corp.
+
+As the top information technology provider to the U.S. government, Lockheed has long worked to secure data on computer networks run by a range of civilian and military agencies. The company is also trying to expand sales of cybersecurity technology and services to commercial firms, including its suppliers, and foreign governments, Lockheed executives said.
+
+"Suppliers are still a huge problem," said Charlie Croom, Lockheed's vice president of cybersecurity solutions, noting the large number of companies that provide products and components for Lockheed, which has annual sales of just under $47 billion.
+
+Croom, the former head of the Pentagon's Defense Information Systems Agency, said cybersecurity was a crucial area for Lockheed, but said it was difficult to pinpoint exactly how much business it generates because network security is part of nearly everything the company sells and does for the government.
+
+He estimated that 5 to 8 percent of Lockheed's revenues in the information systems sector were related to cybersecurity. Lockheed generated $9.4 billion sales in that division in 2011.
+
+McMahon said Lockheed had seen "very successful" attacks against a number of the company's suppliers, and was focusing heavily on helping those companies improve their security.
+
+She said a well-publicized cyber attack on Lockheed's networks in May 2011 came after the computer systems of two of its suppliers -- RSA, the security division of EMC Corp and another unidentified company -- were compromised.
+
+"The adversary was able to get information from RSA and then they were also able to steal information from another supplier of ours, and they were able to put those two pieces of information together and launch an attack on us," McMahon said.
+
+She said Lockheed had been tracking the adversary for years before that attack, and was able to prevent any loss of data by using its in-house detection and monitoring capabilities.
+
+One of the lessons the company learned was the importance of sharing data with other companies in the defense sector, and suppliers, to avert similar attacks, McMahon said.
+
+"It's just one example of how the adversary has been very significant and tenacious and has really been targeting the defense industrial base," she said.
+
+Social media, websites and malware introduced by emails remain major areas of concern, Lockheed executives said.

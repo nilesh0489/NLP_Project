@@ -1,0 +1,1 @@
+Yesterday morning, the Free Software Foundation crashed the Windows 8 launch event in New York City. A cheerful GNU and her team handed out DVDs loaded with Trisquel, FSF stickers, and information about our new pledge, which asks Windows users to upgrade not to Windows 8, but to GNU/Linux.

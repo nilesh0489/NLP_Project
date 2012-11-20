@@ -1,0 +1,47 @@
+Google on Monday introduced new Android devices in small, medium and large: a phone, the Nexus 4; an upgraded seven-inch tablet, the Nexus 7; and a 10-inch tablet, the Nexus 10. That puts Google in even more direct competition with Apple, which offers a similar family of three: the iPhone, the iPad Mini and the iPad.
+
+In an interview, John Lagerling, director of business development for Android, talked about the company’s strategy with the Nexus brand, one that revolves around lower prices. An edited transcript of the interview follows.
+
+What do you think are the highlights of the new Nexus devices?
+
+My personal favorites are the 360-degree panoramic photo, Photo Sphere, and the fact that you can do inductive charging so you don’t need to fiddle with a plug — you can just put it on a surface to charge. On a Nexus 10 it’s the fact that it’s so thin and light, and the resolution is 2.5 K, so it has very crisp text and pictures.
+
+And the price. I negotiated the prices and I’m very pleased with being able to deliver these things at these prices; $299 for an unlocked Nexus 4 — I think that’s pretty revolutionary.
+
+How did you get the prices lower?
+
+Basically we felt that we wanted to prove you don’t have to charge $600 to deliver a phone that has the latest-generation technologies. Simply that level of margin is sometimes even unreasonable, and we believed that we could do this. For Nexus 7, we were able to ramp those new memory SKUs at the same price. These move so fast that we knew after a few months, from an economical perspective, it was doable. Between us and our partners we have a very good understanding of supply chains. We’ve all done the best we can to really reach these prices — $399, $299 is pretty amazing, if I may say so.
+
+I noticed each Nexus device is made by a different manufacturer. Is this to keep the playing field fair for Android partners?
+
+It’s not so much fairness as it is to sort of work with partners who happen to be in good “phase match” with us in what we’re trying to do. So Samsung just happens to be in a good phase match on a high-end display, which is exactly what we wanted to do at a low cost. LG had a good phase match with the hardware they were working on. Asus as well. It’s just more about the timing being right.
+
+We’ve always done that with our lead devices. Even before the Nexus One we did the lead device with HTC. We did the Xoom, which was a lead device with Motorola. And now we’ve sort of streamlined what the Nexus program is. We did really well with the Nexus 7, I feel, because nobody really pushed the envelope with seven-inch in terms of price and performance. It really proved that category. We felt the 10-inch category was overpriced and underpowered, and we wanted to see what we could do for that from our perspective.
+
+Where does Motorola stand in all this? You haven’t used them yet for the Nexus program.
+
+They stand where Sharp would stand, or Sony would stand or Huawei would stand. From my perspective as a partnership director, they are another partner. We are really walled between the Motorola team and the Android team. They would bid on doing a Nexus device just like any other company.
+
+So how does Google take advantage of the Motorola acquisition?
+
+The way I understand it is, it’s mostly about the patents, the way you can sort of disarm this huge attack against Android. We talked about prices. There are players in the industry who were unhappy about more competitive pricing for the consumers. They want to keep the prices high, they want to force the price to be so high that operators have to subsidize the devices very highly. That’s not only the Cupertino guys but also for the guys up in Seattle. They want higher margins, they want to charge more for software.
+
+We simply believe there’s a better way of doing it without extracting that much payment from end users, because there are other ways to drive revenues. Patents were used as a weapon to try to stop that evolution and scare people away from lower-cost alternatives. And I think with the Motorola acquisition we’ve shown we’re able to put skin in the game and push back.
+
+With Nexus phones, the lack of carrier support is the big roadblock. Only having the marketing and retail support of one carrier — T-Mobile, in the case of the Nexus 4 — isn’t as good as having the Big Four. In the past you’ve sold Nexus phones through the Google online store, and it was a failure.
+
+Nexus One was very early. People didn’t know what Nexus was or what Android phones were. I feel we’re in a very different environment now and I feel the Nexus 7 has set the stage for the Nexus program at a new level, so we feel the time is right.
+
+Approaching one million sales a month for the Nexus 7, right? According to Asus.
+
+We haven’t announced numbers. We typically don’t allow our partners to announce numbers. All I can say is it has sold way above expectations. That could mean one of two things: Either we have very low expectations or we’ve done amazing well. But we’re very pleased with how we’ve done with the Nexus 7.
+
+Most of the apps in the Google Play store are for phones, not for tablets. How many are there for tablets?
+
+I don’t have a number for how many apps are properly adding those APIs that you need to put fully to use the extra screen real estate. What I can say is that the Nexus 7 has been a superstrong catalyst to kick off developers’ attention to making those expansions, so we’ve seen tremendous growth in apps for the larger screen size. The trending is very positive because of the Nexus 7.
+
+But before, I’ll be honest and say, yes, there was a lack of tablet apps that supported bigger screen real estate. But I’ll add that, I know we talked about the Cupertino guys, but obviously people who have smartphones are a huge target for us. If you look globally that’s something we worry more about, not so much about competing with other smartphones, but more about, how can we get more people onto the Internet on mobile phones? And that’s a big deal. That’s why low cost is so important.
+
+Android software has gotten to the point where it’s more respectable. There used to be these two very polarized camps, where a lot of people would say iOS was the greatest and Android was ugly. But the lines are blurring as Android has gotten polished. What happened?
+
+We had such a long laundry list of things we wanted to do, and the fact we had to roll it out so it would work on a multitude of devices, it simply took a bit more time for us to get here. But the structure we’ve had for an operating system from day one including widgets, actual multitasking, notifications, it’s finally coming to its true form right as the software has come into final polish. Project Butter for Jelly Bean, to get every pixel to move really beautifully, it’s finally showing off those capabilities we’ve always planned to have. We have the right teams and maturity to deliver what we’ve always wanted to do. I’ll admit we’re finally much more closer to our actual vision in the past year than we have ever been.

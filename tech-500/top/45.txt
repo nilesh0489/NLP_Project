@@ -1,0 +1,13 @@
+Security firm Kaspersky has released its latest IT Threat Evolution report. There were some interesting findings in the report, as always, but the most interesting thing that stuck out was all the way at the bottom:
+
+I can hear the Microsoft haters crying foul all across the globe. Yet it’s true. Here are the top 10 vulnerabilities for the third quarter, according to Kaspersky:
+
+The rankings are based on the percentage of users whose computers had the vulnerability in question. In other words, unpatched and old software, or just poor software in the first place.
+
+A few years ago, Microsoft would be all over the list, but starting with the release of Windows Vista, the company has seriously cleaned up its act. Windows 7 builds on that, and Windows 8 takes it yet another step forward. Windows is still highly targeted due to its market share: 0-days for Windows 8 allegedly already exist.
+
+If you’re looking at that list above and demanding for some juicy security figures, this list of findings is for you:
+
+That second one is brutal. It’s exactly why you shouldn’t have Java installed, unless you absolutely need it.
+
+See also – Security companies are recommending you disable Java, or just uninstall it and IE9 passes 20% market share, Firefox falls below 20%, Chrome loses users second month in a row

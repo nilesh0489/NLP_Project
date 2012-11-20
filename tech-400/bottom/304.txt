@@ -1,0 +1,43 @@
+NASA is scrambling to implement full disk encryption on agency laptops after one containing unencrypted personal information on a "large" number of people was recently stolen.
+
+Agency employees were told of the 31 October theft of the laptop and NASA documents from a locked car in an email message Tuesday from Richard Keegan Jr., associate deputy administrator at NASA.
+
+Keegan told employees that the stolen laptop contained sensitive "Personally Identifiable Information" (PII) about a large number of NASA employees, contractors and others.
+
+"Although the laptop was password protected, it did not have whole disk encryption software, which means the information on the laptop could be accessible to unauthorized individuals," Keegan warned.
+
+"We are thoroughly assessing and investigating the incident, and taking every possible action to mitigate the risk of harm or inconvenience to affected employees," he added.
+
+NASA has hired data breach specialist ID Experts to help notify all of the individuals affected by the breach, Keegan said.
+
+Those whose personal data could be accessed by the crooks will receive free credit monitoring and identity theft monitoring services as well as an insurance reimbursement policy in case of identity theft.
+
+NASA did not respond to a request for information on how many employees were affected, or why the agency waited nearly two weeks to disclose the breach.
+
+The incident marks the second time this year that a NASA laptop containing unencrypted sensitive information was stolen.
+
+In March, a laptop containing names, Social Security Numbers, phone numbers, email addresses, dates of birth, college GPAs and other personal data of NASA employees at NASA"s Kennedy Space Center was stolen from the car of a worker at the facility, according to NASA Watch.
+
+That breach also impacted a large but unspecified number of employees.
+
+The latest incident appears to have finally pushed NASA to mandate full disk encryption on laptops containing sensitive data.
+
+In his alert, Keegan noted that NASA Administrator Charles Bolden and CIO Linda Cureton have issued a directive prohibiting the removal of computers from a NASA facility unless whole disk encryption is enabled or all sensitive files are individually encrypted.
+
+The directive applies to all laptops containing PII, data on International Traffic in Arms Regulations (ITAR), Export Administration Regulations (EAR) data, procurement and human resources information, and other sensitive but unclassified (SBU) data, Keegan said.
+
+CIOs at all NASA facilities have been instructed to complete disk encryption on the "maximum possible number of laptops" by 21 November, Keegan said, and to add encryption capabilities to all laptops by 21 December. After that date, no laptop from any NASA facility, unless whole disk encryption is enabled.
+
+"Additionally, the CIO will identify any other changes in policy and/or procedures that are necessary to prevent a recurrence of this type of breach in the future," Keegan added.
+
+NASA's new measures appear intended to blunt criticism of the latest data breach.
+
+The agency has been criticised in the past for lacking strong measures to protect sensitive data. In February, NASA Inspector General Paul Martin criticised the agency for lagging "far behind other federal agencies" in protecting data on agency laptops.
+
+In testimony before the US House of Representatives, Committee on Science, Space and Technology, Subcommittee on Investigations and Oversight, Martin noted that NASA had reported the loss or theft of 48 mobile computing devices between April 2009 and April 2011. Some of the incidents resulted in unauthorised release of sensitive data, Martin had noted. (The full report is available here).
+
+In his testimony, Martin pointed to the March 2011 theft of an unencrypted notebook computer that resulted in the exposure of algorithms used to command and control the International Space Station. In another incident, sensitive data on NASA's Constellation and Orion programs were similar compromised when a laptop containing the data was stolen.
+
+"NASA cannot consistently measure the amount of sensitive data exposed when employee notebooks are lost or stolen because the Agency relies on employees to self-report regarding the lost data rather than determining what was stored on the devices by reviewing backup files," Martin testified.
+
+"Until NASA fully implements an Agency-wide data encryption solution, sensitive data on its mobile computing and portable data storage devices will remain at high risk for loss or theft," he added.

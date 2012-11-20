@@ -1,0 +1,43 @@
+Apple and Samsung are engaged in a knives-out smartphone war, most infamously in the courts, but, more importantly, in the marketplace. In its latest ad campaign, Samsung has cleverly "borrowed" a page from Apple's own marketing playbook, posturing the iPhone as the choice of autumn-aged parents and brainwashed queue sheep.
+
+But when it comes to chips, the two companies must pretend to be civil for the sake of the children: Samsung is the sole supplier of ARM-based processors for the iPhone.
+
+Something has to give.
+
+Since no one sees Samsung getting out of its booming smartphone business, the conclusion is that Apple will assume full custody, it will take its iDevices processor business elsewhere.
+
+But where? There are rumours (which we'll get to), and none of them so much as hint at Intel.
+
+Except for the rare cameo appearance, Intel is nowhere in the Post-PC world (or, as Frank Shaw, the literate and witty head of Microsoft's corporate PR obdurately insists, the "PC Plus" world). Becoming Apple's ARM source wouldn't just put the Santa Clara company in the race, it would vault them into the lead.
+
+They've been there before: Intel scored a coup when Apple switched to the x86 architecture for its Macintosh line in 2005. An iDevice encore would mark an even bigger score as smartphones and tablets have already reached much higher volumes and grow much faster.
+
+So … Why hasn't Intel jumped at the chance?
+
+The first explanation is architectural disdain. Intel sees "no future for ARM", it's a culture of x86 true believers. And they have a right to their conviction: With each iteration of its manufacturing technology, Intel has full control over how to improve its processors. They can reduce x86 power consumption by using smaller building blocks (they're already down to 22 nanometers wide). They can micro-manage (literally) which parts of a complex chip will be turned on, off, or somewhere in between – in a kind of hibernation.
+
+A further problem is Intel would need to change roles. Today, the company designs the microprocessors that it manufactures. It tells PC clone makers what these chips will do, how many they will get, when, and for how much. Its development model (called Tick Tock in industry argot) essentially defines the schedules and finances of hardware makers.
+
+This dictatorial model won't work for iDevices. Apple crossed the border into Intel's chipset empire back in the Macintosh era, but, today, it has far too much invested in its ARM design to again surrender complete control.
+
+As evidenced by the A6 processor running inside the iPhone 5, Apple goes to great lengths to customise the basic ARM cores, adding graphic processors, memory, and large amounts of support logic, and even resorts to aggressive hand-optimisation of the silicon layout – as opposed to just letting CAD software tools do the job.
+
+Intel would have to accept Apple's design and "pour" it into silicon – it would become a lowly "merchant foundry". Intel knows how to design and manufacture standard parts, it has little experience manufacturing other people's custom designs … or pricing them.
+
+Which leads us to the most likely answer to the "why not Intel?" question: Money. Intel is a sophisticated business entity that expertly balances both terms of the profit equation. On the one hand, they use brand identity, marketing incentives, and a little strong-arming to keep prices "acceptable", while on the other, the Tick Tock technology and product development pushes its costs down.
+
+The company meticulously tunes the price points for its processors to generate the revenue that will fund development, as well as the Intel Inside campaigns that have cost hundreds of millions of dollars over the years, to say nothing of the more recent $300m (£187m) Ultrabook fund.
+
+One way to visualise Intel's money pump is to think of what the industry calls a Wafer Start. Here, "wafer" refers to the basic silicon "galette" that will go through the manufacturing steps and emerge with thousands of chips ready to be diced out. For Intel, profit comes from the difference between the cost of running a wafer through the $5bn manufacturing unit (a "fab" in our argot) and the revenue that the marketplace will grant each chip.
+
+Intel's published prices range from a "low" $117 for a Core i3 processor, to $999 for a top-of-the-line Core i7 device. Of course, these are the publicly advertised price tags, so we can assume that Acer, Lenovo, and HP pay less … but compare this to iSuppli's estimate for the cost of the A6 processor: $17.50.
+
+Even if more A6 chips could be produced per wafer – an unproven assumption – Intel's revenue per A6 wafer start would be much lower than with their x86 microprocessors. In Intel's perception of reality, this would destroy the business model.
+
+In the meantime, the rumour of the day is that Apple will use TSMC, a well-regarded Taiwanese foundry, the world's largest. TSMC is known to have made test runs of the A4 last year, and is now reportedly doing the same for the A5 processors that power the new iPad.
+
+Furthermore, industry insiders have reported that Apple attempted to secure exclusive access to TMSC's semiconductor output but were rebuffed. (Qualcomm tried, as well – same result.)
+
+This raises a big disruption question for Intel: in the name of protecting today's business model, will it let TSMC and others take the huge mobile volume, albeit with lower profit per unit? Can Intel afford to shun ARM?
+
+For all of Intel's semiconductor design and manufacturing feats, its processors suffer from a genetic handicap – they have to support the legacy x86 instruction set, and thus they're inherently more complicated than legacy-free ARM devices, they require more transistors, more silicon. Intel will argue, rightly, that they'll always be one technological step ahead of the competition, but is one step enough for x86 chips to beat ARM microprocessors?

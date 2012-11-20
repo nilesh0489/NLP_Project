@@ -1,0 +1,23 @@
+The Chinese government has blocked access to Google.com, Gmail, Google Maps, Google Docs, Google Analytics, Google Drive, and many other Google services as the Communist Party of China holds the 18th Party Congress, which started Thursday morning. Google has confirmed the block with The Next Web, and a Google spokesperson offered the following statement: “We’ve checked and there’s nothing wrong on our end.”
+
+Update on November 10: Service has been “restored.” See the bottom of this article for more information.
+
+This latest censorship is part of a long dispute between Google and the Chinese government that has been going on for years. The blocking was first reported by Chinese web monitoring site GreatFire, which summarized its findings like so:
+
+The subdomains www.google.com, mail.google.com, google-analytics.com, docs.google.com, drive.google.com, maps.google.com, play.google.com and perhaps many more are all currently DNS poisoned in China. Instead of the real IP addresses, any lookups from China to any of these domains result in the following IP: 59.24.3.173. That IP address is located in Korea and doesn’t serve any website at all.
+This means that none of these websites, including Google Search, currently work in China, unless you have a VPN or other circumvention tool.
+Using a DNS server outside of China doesn’t help. A lookup of www.google.com to 8.8.8.8 is also distorted, by the Great Firewall.
+So far you can still access other country versions of Google such as www.google.co.uk.
+While the subdomains play.google.com and plus.google.com aren’t specifically mentioned, it seems that the Google Play Store and Google+, as well as pretty much any other service hosted on Google.com, are also being blocked. We tested the google.com domain, as well as many subdomains ourselves on GreatFirewallChina.org, and it doesn’t look good:
+
+This is huge, as GreatFire sums up: Never before have so many people been affected by a decision to block a website. If Google stays blocked, many more people in China will become aware of the extent of censorship.
+
+When we contacted Google, the company pointed us to its Transparency report, which measures traffic to its sites around the world. 
+
+It’s currently unclear if this move is temporary or not. China could unblock Google.com again once the congress is over, but at the very least, this means we can expect the service to be blocked on a regular basis, if not permanently.
+
+Update on November 10: GreatFire is reporting that Google services have returned to normal. What that means is Google.com isn’t blocked, but many of the company’s services are still censored. Here’s the organization’s take:
+
+The DNS poisoning that was imposed on most Google websites yesterday appears to have been lifted. The blocking was likely reversed some time this morning. Due to the nature of DNS there is a delay before this trickles down to every ISP and every computer so if you still cannot access Google in China it’s likely just a question of time. You can also try to flush your DNS cache and it should work again. Even though the blocking of Google Search may only have lasted for 12 hours or so, it was likely the single one decision by the Great Firewall authorities affecting the most users ever.
+
+In other words, we can expect more such blocks in the future.

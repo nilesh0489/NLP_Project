@@ -1,0 +1,27 @@
+If you're aware of 3D printing, but not sure how it works, then you could have done worse than head to the City of London last Friday for the world's first-ever consumer 3D print show, the catchily titled 3D Print Show.
+
+There, you would have met some of the biggest names in what – on the consumer side at least – is a small, but increasingly influential industry. Many of the attendees are watching 3D printing for the first time. The process involves using special printheads that transform computer-aided designs into real objects by adding layer on tiny layer of material to create objects. Think of it as the opposite of chipping away at granite to create a statue.
+
+For most of us now, that may mean the ability to tinker around and make little keepsakes. Engineers, meanwhile, will be able to print off plastic models, with component parts, of their designs. But, in the not-too-distant future it might mean that if your bike's handlebar breaks, all you have to do will be to log on to Cannondale.com, "download" the code of your new component and print it off.
+
+As intellectual property rights expire and components become cheaper, a new generation of industrial designers, programmers, hackers and hobbyists are combining to bring 3D print to regular consumers. You can now buy 3D printers for the price of a Macbook.
+
+The crowd at the show is a mix of people working in industries where 3D printers can immediately be used. But organisers have also sold tickets to the general public, giving many their first opportunity to see a 3D printer print.
+
+On one side of the main room there are 3D scale-size prints of a human foetus created by Jorge Lopes, a Brazilian researcher who fed ultrasound scans into 3D print software. On the other, there are examples from Sculpteo, a French company which allows users to create their own designs on their website. Its latest idea is to allow people to customise their iPhone cases with shapes of their own face or overlaid Google Maps terrains.
+
+Elsewhere, two young boys play Minecraft to demonstrate Paul Harter's Printcraft, which allows Minecraft users to transfer the objects they've created in the block-building game into real-life. Next to them, an engineer from Europac3D uses a hand scanner to replicate a 4x4 tyre.
+
+A separate room is dedicated to Makerbot Industries, a three-year-old desktop 3D-printer manufacturer. It could be the Apple of this gathering. CEO Bre Pettis, one of three co-founders, looks more like the bassist in Wilco than the future Steve Jobs, but his firm have gone from three employees in 2009 to 150 today and it can't keep up with demand for machines such as the Makerbot Replicator 2. It costs about £1,400, looks great and could perhaps do for home manufacturing what the Apple II did for home printing.
+
+Makerbot has just opened its first retail store in Manhattan and Pettis has achieved the Holy Grail of modern geekery – he's on the cover of this month's American Wired. The store, Pettis says, "allows people to come in and see 3D printing. People walk by (the shop), [look] and then turn by. When you go to buy jeans, you know what jeans look like. When people walk in the Makerbot store they have no idea what it does. Then they get to learn about it. Then they realise they can afford it. And then they buy it."
+
+Pettis is incredibly excited about the opportunities 3D printing affords. At a panel session between CEOs of several 3D-print firms, he tells the audience: "This is the most exciting time ever to be an engineer, an industrial designer, an architect. This technology has arrived to the point where you can make the things you want. The electronics are there to support it... This whole idea of an industrial revolution where you had people move out of the cottage industries where they worked at home and they went to the factory where the machines were. All of us here, we've kind of put the factory into a little box. The factory can be one person at home again."
+
+Which all sounds a bit much. After all, most of what these machines seem to make (so far, at least) are little plastic knick-knacks. And what the planet needs less than anything is more plastic to go straight into landfills.
+
+Thankfully, a highlight of the first day of the three-day show was the Makerbot-sponsored 3D4D challenge, in which UK charity Techfortrade challenged designers and engineers to use 3D printing to help the developing world. Seven teams presented their ideas. Some were ingenious, such as Kenyan student Roy Ombatti's plan to turn recycled plastic into customised plastic shoes for Kenyans whose feet have been misshaped by the chigoe flea.
+
+The winners were Matthew Rogge and Bethany Weeks from the University of Washington, who proposed using the £10,000 fund to create a 3D shop in Oaxaca, Mexico, so local entrepreneurs could take old plastic and convert it into items such as rainwater capture systems or toilet systems.
+
+The trade show itself, and its evening events including a fashion show featuring 3D accessories and a gig using printed instruments, were proof of the fun to be had with 3D printing. But the 3D4D presentations proved that, given its lack of limitations and relatively low costs, the technology "has the ability to empower people and change the world", according to Pettis. With researchers already recreating human tissue and hoping to work out ways to "print" circuitry (so you could print off an iPod, say), you sense he's not far wrong.

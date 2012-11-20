@@ -1,0 +1,13 @@
+The iOS community has been buzzing since yesterday, about the hidden panorama setting in iOS5 discovered by conradev. Today chpwn released a Cydia package that will do all the dirty work for you and enables this feature, but unfortunately you need a tethered or semitethered jailbreak for that. If you want the panorama feature but don’t want all the headaches of a tethered jailbreak ( or no jailbreak in case of the iPhone 4S ), here’s how to do it:
+
+1. Download iBackupBot from the official website. ( Mac and Windows )
+
+2. Plugin your iPhone and back it up via iTunes
+
+3. Open iBackupBot and find the backup that you just made via iTunes. Select and load it.
+
+5. Now you need to add a key to this .plist file. Open the file ( on mac, it just works *wink, wink* ) and near the bottom, add a key ( EnableFirebreak ) and a string( YES )
+
+6. Save your modifications, and right from iBackupBot restore your iPhone with the modified iTunes backup
+
+7. That’s it. Open your camera app, tap on options and there it is.

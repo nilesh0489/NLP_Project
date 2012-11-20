@@ -1,0 +1,27 @@
+When the Israel Defense Forces (IDF) this week began taking military action in the Gaza strip against Hamas (as the IDF announced on Twitter), Anonymous declared its own war as part of #OpIsrael. Among the casualties are thousands of email addresses and passwords, hundreds of Israeli Web sites, government-owned as well as privately owned pages, as well as databases belonging to Bank Jerusalem and the Ministry of Foreign Affairs.
+
+While the hacktivist group doesn’t appear to be anywhere near satisfied yet, the YourAnonNews account, which has over 686,000 followers, did just send out this message:
+
+If that’s not a declaration of success, I don’t know what is. There have so far been hundreds of takedowns and defacements of sites by Distributed Denial of Service (DDoS) attacks; one Pastebin trying to list them all includes 659 Web sites. Not all of them are still down, but some are, and others are still defaced.
+
+Another AnonPaste includes 2,004 email addresses, the majority of which appear to have corresponding passwords, allegedly stolen from an MySQL database belonging to dirotmodiin.co.il, a site for finding real estate in Israel. Many of them are hosted on Israeli domains, but there are also the usual Gmail, Hotmail, and Yahoo accounts.
+
+Yet as already mentioned, we’re talking about more than just DDoS attacks that are overloading Web sites, such as tel-aviv.gov.il, the municipal site for the second most populous city in Israel (after Jerusalem). There are also plenty of defacements, and, as of a few minutes ago, databases have also been wiped.
+
+While the Israeli government almost certainly has backups of the aformentioned databases, these attacks as well as the defacements show Anonymous isn’t just doing its usual spree of overloading target sites. OpIsrael appears to have gotten multiple hackers involved who are interested in doing actual damage, or at least something that is slightly more permanent than just a 404.
+
+Update at 8:20PM EST: The Twitter account is now claiming that over 9,000 sites have been taken down or defaced, but don’t be fooled: this is a meme reference.
+
+Update at 9:00AM on November 17 – Anonymous is claiming to have taken down the Web sites for the President of the state of Israel and the IDF’s blog. At the time of writing, the former is still down but the latter is working just fine.
+
+Update at 4:00PM on November 17: Anonymous is claiming to have taken down a few more sites; here are the ones that were down or defaced at the time of this update:
+
+Nothing major, but this further shows Anonymous is clearly still at it.
+
+A press release attempts to explain Anonymous’ motives behind the attacks:
+
+For far too long, Anonymous has stood by with the rest of the world and watched in despair the barbaric, brutal and despicable treatment of the Palestinian people in the so called “Occupied Territories” by the Israel Defense Force. Like so many around the globe, we have felt helpless in the face of such implacable evil. And today’s insane attack and threatened invasion of Gaza was more of the same. But when the government of Israel publicly threatened to sever all Internet and other telecommunications into and out of Gaza they crossed a line in the sand. As the former dictator of Egypt Mubarack learned the hard way – we are ANONYMOUS and NO ONE shuts down the Internet on our watch. To the IDF and government of Israel we issue you this warning only once. Do NOT shut down the Internet into the “Occupied Territories”, and cease and desist from your terror upon the innocent people of Palestine or you will know the full and unbridled wrath of Anonymous. And like all the other evil governments that have faced our rage, you will NOT survive it unscathed. To the people of Gaza and the “Occupied Territories”, know that Anonymous stands with you in this fight. We will do everything in our power to hinder the evil forces of the IDF arrayed against you. We will use all our resources to make certain you stay connected to the Internet and remain able to transmit your experiences to the world. As a start, we have put together the Anonymous Gaza Care Package – http://bit.ly/XH87C5 – which contains instructions in Arabic and English that can aid you in the event the Israel government makes good on it’s threat to attempt to sever your Internet connection. It also contains useful information on evading IDF surveillance, and some basic first aid and other useful information. We will continue to expand and improve this document in the coming days, and we will transmit it to you by every means at our disposal. We encourage you to download this package, and to share it with your fellow Palestinians to the best of your ability. We will be with you. No matter how dark it may seem, no matter how alone and abandoned you may feel – know that tens of thousands of us in Anonymous are with you and working tirelessly around the clock to bring you every aid and assistance that we can. We Are Anonymous We Are Everywhere We Are Legion We Do Not Forgive We Do Not Forget To the oppressors of the innocent Palestinian people, it is too late to EXPECT US
+
+A second press release has even more to add.
+
+See also – Anonymous hacks Cambodian government in response to The Pirate Bay co-founder’s arrest, leaks over 5k docs

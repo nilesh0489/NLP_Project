@@ -1,0 +1,23 @@
+. All the phone numbers series currently in use, like the ones beginning with 98 or 99, are quickly getting used up with the subscriber base in the country expected to reach a billion and beyond by next year.
+
+CHENNAI: It was inevitable, but it is now closer than ever. All the phone numbers series currently in use, like the ones beginning with 98 or 99, are quickly getting used up with the subscriber base in the country expected to reach a billion and beyond by next year.
+
+"There might be a serious problem if a new series of numbers are not brought in by the middle of next year. We are theoretically reaching the limit of existing number sets with a subscriber base of one billion," said Rajan Mathews, director general of Cellular Operators Association of India (COAI).
+
+The solution may lie in 11-digit phone numbers but Department of Telecom (DoT) is also looking at alternatives.
+
+Mathews said allocation of numbers to operators is done in batches, depending on factors like the size of subscriber base and efficiency in utilizing existing number sets, among other things.
+
+A batch system is followed to avoid chaos due to all kinds of phone numbers flooding the market.
+
+Since a particular range of numbers is given to an operator, it generally has an identifier like the first two digits, for example 98 or 99, which come to be associated with that operator.
+
+"None of these number ranges can be used to their full extent due to the way in which they are allotted. Only a certain portion of these numbers are used as phone numbers. This is called percentage of numbering system utilization and it hovers around 50%, meaning only around half or more of the potential numbers are used as phone numbers," said Sandip Biswas, director at consultancy firm Deloitte.
+
+"The numbers will have to be increased by at least one digit to accommodate new devices. However, to ensure there's absolutely no scope for any problem, we may even see the introduction of 12 digit numbers," said Biswas.
+
+However, Mathews said that a similar proposal was given to DoT by the Telecom Regulatory Authority of India (Trai), which DoT didn't take up. "DoT said that it may need remapping of networks and there might be issues conforming to international numbering standards too. DoT hasn't rejected the idea completely but is looking into alternatives," said Mathews.
+
+Some measures have been taken to address the situation. "Trai has made some recommendations like getting rid of inactive users to free up phone numbers and getting more than a million landline numbers to be used in the mobile domain," said Mathews. "While these are small numbers in the overall picture, they can help for another three-six months."
+
+Biswassaid that 2G spectrum redistribution will be a positive step in this direction. "The numbering system in general is dependent on the number of subscribers. However, it is a different situation after mobility came into picture. Today, devices ranging from cars to tablets to washing machines are connected to networks," said Biswas.

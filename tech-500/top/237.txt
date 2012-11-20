@@ -1,0 +1,25 @@
+One of the enabling technologies behind a quantum internet will be quantum routers capable of transmitting quantum information from one location to another without destroying it.
+
+That's no easy task. Quantum bits or qubits are famously fragile—a single measurement destroys them. So it's not all obvious how macroscopic objects such as routers in a fibre optics network can handle qubits without demolishing them.
+
+However, physicists have a trick up their sleeve to help send qubits safely. This trick is teleportation, a standard tool in any decent quantum optics lab.
+
+It relies on the strange phenomenon of entanglement in which two quantum objects share the same existence. That link ensures that no matter how far apart they are, a measurement on one particle instantly influences the other.
+
+It is this 'influence' that allows physicists to transmit quantum information from one point in space to another without it passing through the space in between.
+
+Of course, teleportation is tricky, but physicists are getting better at it. They've teleported quantum information from one photon to another, from ions to photons and even from a macroscopic ensemble of atoms to a photon.
+
+Today, Xiao-Hui Bao at the University of Science and Technology of China in Hefei and a few buddies say they've added a new and important technique to this box of tricks.
+
+These guys have teleported quantum information from ensemble of rubidium atoms to another ensemble of rubidium atoms over a distance of 150 metres using entangled photons. That's the first time that anybody has performed teleportation from one macroscopic object to another.
+
+“This is interesting as the first teleportation between two macroscopic-sized objects at a distance of macroscopic scale,” say Xiao-Hui and co.
+
+Quite right. The goal in a quantum internet is that ensembles of atoms will sit at the heart of quantum routers, receiving quantum information from incoming photons and then generating photons that pass this information on to the next router.
+
+So clearly the first teleportation from one of these hearts to another is an important advance.
+
+Of course, there are hurdles ahead. Xiao-Hui and co want to increase the probability of success for each instance of teleportation, to increase the amount of time that the atomic ensemble can store quantum information before it leaks away (currently just over 100 microseconds) and to create a chain of atomic ensembles that will better demonstrate the potential of the technique for quantum routing.
+
+None of those challenges seem like showstoppers. Which means that practical quantum routers and the quantum internet that relies on them are just around the corner.

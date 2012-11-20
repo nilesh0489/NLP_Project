@@ -1,0 +1,3 @@
+Internet Explorer 9 gives you control over your privacy by blocking online tracking. To use this feature, you need to select a Tracking Protection List that tells your browser which trackers to block. Your browser will automatically check for updates to your list every week.
+
+Note: This new feature and our lists are still under development. Your browsing experience may be different and subject to changes when you use this beta. Please help us make this service better by reporting any problems.

@@ -1,0 +1,9 @@
+This is a guest post by political scientists Brian Crisher and Mark Souva.
+
+In the last debate, Governor Romney made the claim that the USNavy is the smallest it’s been since 1916 implying that the USNavy is regressing in terms of overall strength. How accurate is this claim? We recently compiled a new data set on naval capabilities and created a measure of state naval strength for all countries from 1865 to 2011. As such, we are in a position to address the claims of the Romney campaign.
+
+Broadly stated, our measure of state naval power is based on a state’s total number of warships (non-fighting ships are excluded) and each ship’s available firepower. To make comparisons over time, our annual measure is based on available firepower within the international system in that year.  (For more information, see our paper here.)
+
+In 1916, the US controlled roughly 11% of the world’s naval power. This is an impressive number that ranks the US third in naval strength behind the UK(34%) and Germany (19%), and just ahead of France (10%). What about the US navy in 2011? In 2011, the US controlled roughly 50% of the world’s naval power putting it in a comfortable lead in naval power ahead of Russia (11%).
+
+The USNavy has decreased in absolute size as Governor Romney argues (although this decline has been ongoing since the end of Cold War). U.S. warships are more powerful now than in the past, as President Obama implied. However, neither the number of warships nor the power of our ships is what is most important for understanding military and political influence. It is relative military power that matters most. In this respect, the U.S. navy is far stronger now than in 1916.

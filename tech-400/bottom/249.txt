@@ -1,0 +1,45 @@
+Several years ago I remarked to my wife about how mainstream media was largely ignoring the world of startups. The amount of coverage in books, news, television and movies was sparse for such a revolutionary industry, let alone one with a track record of producing billion dollar companies.
+
+In some ways it still is, but things have slowly improved, as I conjectured at the time. Startups have garnered much wider mainstream coverage, the news has an unhealthy fascination with Twitter, and you can’t walk in a reputable bookstore without finding several titles about startups.
+
+At the time, I also mentioned that I’d be very interested in watching TV shows and documentaries about startups and other high-tech companies. If you’re running your own startup or are into the startup world in some capacity, such productions would be definitely interesting, useful, and entertaining.
+
+Thus I was very excited when I discovered that a new show about Silicon Valley had kicked off on Bravo. The show is called Start-Ups: Silicon Valley and has none other than Randi Zuckerberg (Mark’s sister) as an executive producer. (She joined the team at a later stage, so she was not involved with selecting the cast.)
+
+I must prefix my review by mentioning that I am not a TV snob. I watch a wide range of shows, including top-notch programs like Boardwalk Empire, Mad Men, Dexter, Breaking Bad, Top Gear, but at the same time, I don’t mind some of the sillier, “just for fun” ones either (e.g., South Park, Family Guy, The Big Bang Theory, and How I Met Your Mother), as well as some reality shows, too (such as Pawn Stars, American Restoration, Storage Wars, American/Canadian Pickers, and Tanked). I don’t watch shows like Jersey Shore, Big Brother, Honey Boo Boo, and so on, but I won’t shy away from the occasional episode of Maury if nothing else is on.
+
+That is to say that I can appreciate a multitude of styles and am okay with reality TV being somewhat scripted for comedic or dramatic effect.
+
+I watched the first episode of Start-Ups: Silicon Valley recently and my initial reaction was, “Are you freaking kidding me?”. Nobody expects reality shows to accurately represent reality, but I feel that in this case, they grossly missed what it means to run a startup. As well as bypassing most of the culture that makes the tech world unique.
+
+It’s hard to generalize, as there are all sorts of people running startups, but you can rest assured that the majority of them are up late writing code, not frolicking at glamorous toga parties as depicted in the first episode. The misrepresentation doesn’t end there however. Not by a long shot.
+
+The cast members are not your typical group of startup folks. For starters, not many of them are actual programmers. They most prominent ones are depicted as social butterflies trying to use their connections to succeed. Who you know does matter, but it’s definitely not the focus in the disruptive environment of startups. However the show portrays this as pretty much being the only goal and requirement one needs to succeed in Silicon Valley.
+
+Critical components of running a startup, such as customer discovery and acquisition, implementing a great product, and ramen profitability are practically ignored throughout the show. Instead we’re shown a world where startup founders are all extremely good looking and often in various stages of undress. They party, have cat fights over an email (see, they’re so nerdy), get spray tanned, spend hours getting ready, mostly sleep in glamorous places, drive exotic cars, discuss dating (Silicon Valley is apparently 1/3 gay, 1/3 geek, and only 1/3 dateable), and try to pitch to investors in atrocious ways (OK, this last point is not unheard of in real life either).
+
+(Incidentally, this is also what Start-Ups: Silicon Valley’s producers think nerdy guys look like.)
+
+The startup people depicted in Start-Ups: Silicon Valley might look like the cast of 90210, but they are not professional actors. And it shows. So most of the scenes come across as contrived, disingenuous, and more scripted than Chumlee’s shenanigans on Pawn Stars. At some point Hermione (one of the good looking kids on the show) heads over to Dave McClure’s office with her brother Ben (whose relationship is, to my mind, depicted with somewhat incestuous undertones throughout the show).
+
+She is wearing tight Tetris print leggings (see again, so nerdy!) and ends up sleeping under Dave’s boardroom table before the pitch (because she’s exhausted from being up partying the night before). Dave of course randomly wanders into the office to find her sleeping there.
+
+So you are either a completely unprofessional moron who got away with too many things in life because of your decent looks, or this is bizarrely scripted to show how relaxed, laid back, and easy this whole startup game supposedly is. And when Hermione and Ben inevitably get turned down (they couldn’t articulate what their company does in 30 seconds and reveal that they are involved in another 42 startups), one cannot help but sense that the desk and/or similar future incidents will no doubt be used for some extra drama between the two siblings.
+
+There is being creative, hustling,and thinking outside of the box, and then there is being inappropriate and childish. Did I mention that Hermione is not the most surreal character? Wait until you meet her ex-friend turned nemesis, Sarah, a so called social media expert/blogger who lives in a hotel room, and feeds on artificial drama and tweets for breakfast. O.M.G., in the next episode she live tweets a video during a date with a model. How will he react? Will he be OK with it? Don’t miss that episode. How else are you gonna know if it’s socially acceptable to do so the next time you date a model after a hard day of work at your startup?
+
+Even when computer screens are shown, they’re often a caricature of what an actual programmer’s screen might look like. At some point you can see a terminal scrolling (almost reminiscent of The Matrix), yet upon closer inspection, one sees that it’s just a listing of directory and files with a dir command in Windows to make the setting look more impressive than it really is.
+
+Overall this show is an utter travesty and a complete misrepresentation of what the startup world is really like. It is to the startup world what porn is to real sex. It’s Hollywood’s misunderstanding of what the nerdy neighbors in Silicon Valley are doing.
+
+The sacrifices, risks, low profile, and 70+ hours workweeks of most actual startup founders are mocked and trivialized by a show that portrays a carefree world where you can easily make it if you’re connected enough and can pull the right strings. Where partying and looks come first, and where they are virtually never shown, you know, actually doing any hard work.
+
+Look, I get it, coding is boring to most viewers, but surely there must be a middle ground between the fantasyland portrayed in this show and a more documentary-like approach that captures some of the real struggles behind running a startup and what it takes to succeed in Silicon Valley. There is plenty of real drama when you start running out of savings, VCs are turning you down, and your churn rate is going up fast. So much so, that you don’t need petty high-school fake drama to make a show about startups action packed or interesting.
+
+Come to think of it, imagine a show that actually explained to the general public, Mythbusters style, what churn rate, SaaS, and other startup terms mean as they go about following and documenting the journey of a few founders.
+
+Aside from the missed opportunity of producing something entertaining and useful, this show risks further propagating the myth that launching and succeeding at a startup is easy. And that is something we as a community certainly don’t need.
+
+Going into it, I had hoped that Start-Ups: Silicon Valley would be akin to, at least, American Restoration meets the startup world. In reality however, it’s a perverse sprinkling of scripted scenes and a farce of what the life behind most startups truly is. So that when all is said and done, what we’re left with is a Silicon Valley version of The Hills.
+
+If you enjoyed this post, then make sure you subscribe to my Newsletter and/or Feed.

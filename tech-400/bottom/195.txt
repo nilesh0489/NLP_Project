@@ -1,0 +1,16 @@
+Today we are making Android 4.2 (Jelly Bean) SDK platform available for download. Below are some of the highlights of Android 4.2, API level 17.
+
+
+Performance
+We've worked with our partners to run Renderscript computation directly in the GPU on the Nexus 10, a first for any mobile computation platform.
+
+New ways to engage users
+Users can now place interactive lock screen widgets directly on their device lock screens, for instant access to favorite apps and content. With just a small update, you can adapt any app widget to run on the lock screen. Daydream is an interactive screensaver mode that users can encounter when their devices are charging or docked in a desk dock. You can create interactive daydreams that users display in this mode, and they can include any type of content. 
+
+New interaction and entertainment experiences
+Android 4.2 introduces platform support for external displays that goes beyond mirroring. Your apps can now target unique content to any number of displays attached to an Android device.
+
+Enhancements for international users
+To help you create better apps for users in languages such as Arabic, Hebrew, and Persian, Android 4.2 includes native RTL support, including layout mirroring. With native RTL support, you can deliver the same great app experience to all of your users with minimal extra work. Android 4.2 also includes a variety of font and character optimizations for Korean, Japanese, Indic, Thai, Arabic and Hebrew writing systems.
+
+To get started developing and testing, download the Android 4.2 Platform from the Android SDK Manager. For a complete overview of what's new, take a look at the Android 4.2 platform highlights or read more of the details in the API overview. 

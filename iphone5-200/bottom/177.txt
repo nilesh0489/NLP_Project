@@ -1,0 +1,3 @@
+Two years ago, designer Evan Boehm (who has worked on, among other things, Project Runway and Black Ops 2) developed the kernel of an idea at a weeklong workshop. From this workshop came The Carp and the Seagull, an interactive film written first in C++ and then WebGL. The short, folktale-inspired tragedy takes place in two overlapping worlds, and which one you see depends on how you've rotated the diorama. It's a perfect way to express the tension between an apparently mundane scene and its personal consequences for a character.
+
+The Carp and the Seagull is part of The Creators Project, which showcases works that combine traditional art and new technology. For the video's full backstory, you can start at about 1:30 in the video below.

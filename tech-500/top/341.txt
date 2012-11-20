@@ -1,0 +1,11 @@
+Streaming video may be the epitome of instant gratification, but that's only after you actually find the content you're looking for. You may know you want to watch "True Grit," but it's not easy to remember whether it's available on Netflix, Amazon Instant, or any of the other countless services available.
+
+That's exactly the problem the newly announced Roku Search is designed to fix.
+
+The feature upgrade will allow owners of Roku boxes to search for TV and movies available on Netflix, Amazon Instant, Vudu, Hulu Plus, Crackle, and HBO Go via one simple interface. The Roku Search channel will be rolling out to supported players (Roku LT, Roku HD and Roku 2 boxes) over the week and sits right next to the settings menu on Roku's home screen.
+
+I had the opportunity to try out the new feature over the weekend and it works well. Search for a movie and Roku will show you which services it's available for, plus whether it's free for subscribers or requires a pay-per-view fee. After you select your service, Roku launches the appropriate channel, bringing you right to the content you selected. The most tedious part is entering text, although you can use Roku's smartphone app (available for iOS and Android) to speed up the process. It's also possible to search for actors and directors and browse their available content.
+
+There are a few quirks. While you can use the Roku smartphone app to enter in text, response time is slightly delayed. I found I had to purposefully type slower than usual, otherwise letters would occasionally be left out, despite typing correctly. I also noticed that Roku Search would only specifically note that certain Amazon Instant movies are available to stream free for Prime members; TV shows didn't have the same "free for Prime" designation.
+
+Overall, it's definitely a handy feature, albeit one that only helps if you know what you want to watch. Competing platforms like the Xbox 360 and Google TV offers cross-platform browsing, in addition to search, which can help you find content you don't already know you want to watch. But in the back-and-forth battle between Roku and the Apple TV, it's another win for Roku, as Apple's box doesn't offer any cross-platform searching capabilities.

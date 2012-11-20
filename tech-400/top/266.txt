@@ -1,0 +1,13 @@
+AdTrap wants to help "make the Internet yours again."
+
+Imagine a $120 box that sits between your cable modem (the box that brings the internet into your house) and your wireless router (the thing that fills your house with wifi) and blocks every kind of ad that can be delivered over the internet. No more ads on your laptop, tablet or smartphone. No more ads on webpages, in music streams, in front of videos, or on mobile apps.
+
+That's the goal of AdTrap, a device that is already in the working prototype stage. If you want to get your hands on one, you can pre-order it now by supporting the project on the crowd-funding site Kickstarter. If AdTrap's three Palo Alto, California-based creators can get enough pledges by December 8 -- $150,000 worth -- they'll start shipping the device.
+
+AdTrap is basically a small computer running the Linux operating system, programmed to recognize and block every sort of ad its creators could identify. Many people already have ad blockers on our web browsers, but AdTrap's combination of simplicity and comprehensiveness are reasons it could take off. (As of this writing, AdTrap has less than $20,000 in pledges on Kickstarter.)
+
+AdTrap is "open and very hackable," which means that it could be updated to block new kinds of advertisements. It also promises to block the user tracking that many internet advertisements engage in. Advertisers will hate that, of course, and so will the websites that depend on them. (Quartz might not do very well if everyone had an AdTrap.) The website Cult of Mac, which posted a little plug for AdTrap, also posted a little plea, asking any of its readers who buy an AdTrap to add Cult of Mac to their device's list of sites whose ads will not be blocked.
+
+It seems unlikely that all but the most dedicated and conscientious internet user would take the time to create such a "whitelist". But Cult of Mac can probably breathe easy, because it's also unclear that a majority of its readers would fork out $120 for an ad-blocker. Unless the processing power needed to display them actually slows your device down, ads quickly become mere background noise for many people.
+
+Still, there is a subset of internet purists who both care deeply about their privacy and hate ads with a passion, and maybe that group is big enough to make this into a nice little business. Since AdTrap is currently being crowd-funded, the usual caveats apply: Kickstarter is not a store, and pledging money for a project doesn't guarantee that it's going to deliver on all of its promises, or even that it will ever be delivered. At the time of this writing, ten hours after being launched, it had raised just over 10 percent of its goal -- respectable, but not yet a guarantee of success.

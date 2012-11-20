@@ -1,0 +1,21 @@
+Siri, Google Voice Actions and other mobile speech assistant tools have promise, but they often fail to do what we ask them. And so we find ourselves scrolling one-fingered through mountains of messages looking for the right one, or painstakingly copy-pasting addresses into mobile maps.
+
+A cognitive-science professor named Nick Cassimatis thinks that all these big companies are doing natural language search wrong, and he and two grad students have built their own set of tools — and a start-up called SkyPhrase — to try to show them up.
+
+SkyPhrase today searches Gmail, Twitter and Orbitz, through its own Web site, Chrome extension and iPhone app.
+
+It can search through email for attachments with a query like “emails that Jane sent me during the holidays containing pictures,” do complex Twitter searches like “tweets about Mars from NASA during the last two days,” and find airline tickets with flexible dates like “flights from New York to Orlando leaving next week and returning in November.”
+
+Cassimatis, who is a professor at Rensselaer Polytechnic Institute and got his PhD in artificial intelligence at the MIT Media Lab, says the SkyPhrase approach is more precise because it is more linguistically informed than others.
+
+“We memorize the dictionary to read the Library of Congress,” he said. “Siri is trying to memorize the Library of Congress.”
+
+SkyPhrase is built to understand complex queries and syntactical relationships, not just keywords and commands. It can interpret conjunctions, coordinative clauses and noun phrases.
+
+But there’s still a long way to go. SkyPhrase’s example queries may well stump Siri — as they did when I tried them — but it’s hard to even know what these services are capable of, much less dream up relevant queries in the moment. And the SkyPhrase site and app look more like a tech demo than a polished service.
+
+The company — which has raised some seed funding and also accepts PayPal donations on its site — sells its Gmail search app for the iPhone for 99 cents.
+
+The app does not search within the contents of emails or users’ contact lists, but understands subject lines, sender names, times and attachment types. Users can buy a paid subscription for speech recognition licensed from iSpeech for older iPhones, or just use the built-in speech recognition on newer ones. A free mobile Web version is coming soon, Cassimatis said.
+
+What might be better than a specialized app — and perhaps more fitting, considering the SkyPhrase team’s expertise — is for Siri, Google and other people’s systems to get smarter using these linguistic search techniques. To that end, Cassimatis said he also plans to license a SkyPhrase API.

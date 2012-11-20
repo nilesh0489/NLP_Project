@@ -1,0 +1,129 @@
+Last week, Bob Fitrakis and Gerry Bello at FreePress.org reported an important story concerning what they described as “uncertified ‘experimental’ software patches” being installed at the last minute on electronic vote tabulation systems in 39 Ohio counties.
+
+The story included a copy of the contract [PDF] between Republican Ohio Secretary of State Jon Husted’s office and ES&S, the nation’s largest e-voting system manufacturer, for a new, last-minute piece of software created to the custom specifications of the secretary of state. The contract itself describes the software as “High-level enhancements to ES&S’ election reporting software that extend beyond the current features and functionality of the software to facilitate a custom-developed State Election Results Reporting File.”
+
+A subsequent story at the Free Press the following day included text said to be from a Nov. 1 memo sent from the Ohio secretary of state’s Election Counsel Brandi Laser Seske to a number of state election officials confirming the use of the new, uncertified software on Ohio’s tabulator systems. The memo claims that “its function is to aid in the reporting of results” by converting them “into a format that can be read by the Secretary of State’s election night reporting system.”
+
+On Friday evening, at Huffington Post, journalist Art Levine followed up with a piece that, among other things, advanced the story by breaking the news that Fitrakis and his attorney Cliff Arnebeck were filing a lawsuit for an immediate injunction against Husted and ES&S to “halt the use of secretly installed, unauthorized ‘experimental’ software in 39 counties’ tabulators.” Levine also reported that Arnebeck had referred the matter to the Cincinnati FBI for criminal investigation of what the Ohio attorney describes as “a flagrant violation of the law.”
+
+“Before you add new software, you need approval of a state board,” says Arnebeck. “They are installing an uncertified, suspect software patch that interfaces between the county’s vote tabulation equipment and state tabulators.” Arnebeck’s alarm is understandable.
+
+Since the story initially broke, I’ve been trying to learn as much as I could about what is actually going on here. During that time, a few in the mainstream media have gotten wind of the story as well, including NBC News and CNN, and have been able to press Husted and other officials in his office into finally responding to the concerns publicly. The Ohio officials have attempted to downplay the concerns, though in doing so they appear to have given misleading information which, at times, seems to conflict even with the contract itself.
+
+I’ve also spoken to computer scientists and election integrity experts, in trying to make sense of all of this, though many of them seem to be scratching their heads as well. My own queries to the Secretary of State’s office have gone unanswered, as had Fitrakis’ and Bello’s before they published their initial story, begging the question as to why, if this software is as benign as Ohio officials are suggesting, they didn’t respond immediately to say as much. Furthermore, why did they keep the contract a secret? Why did they wait until just before the election to have this work done? And why did they feel it was appropriate to circumvent both federal and state testing and certification programs for the software in the bargain?
+
+I’d like to have been able to learn much more before running anything on this at all, frankly. But the lack of time between now and Tuesday’s election — in which Ohio’s results are universally believed to be key to determining the next president of the United States — preclude that.
+
+So, based on the information I’ve been able to glean so far, allow me to try to explain, in as simple terms as I can, what we currently know and what we don’t, and what the serious concerns are all about.
+
+And, just to pre-respond to those supposed journalists who have shown a proclivity for reading comprehension issues, let me be clear: No, this does not mean I am charging that there is a conspiracy to rig or steal the Ohio election. While there certainly could be, if there is, I don’t know about it, nor am I charging there is any such conspiracy at this time. The secretive, seemingly extra-legal way in which Secretary of State Husted’s office is going about whatever it is they are trying to do, however, at the very last minute before the election, along with the explanations they’ve given for it to date, and concerns about similar cases in the past, in both Ohio and elsewhere, are certainly cause for any reasonable skeptic or journalist to be suspicious and investigate what could be going on. And so I am …
+
+The first 13 pages of the 28-page contract [PDF] is largely boilerplate legal stuff. The actual “Statement of Work” in the contract, signed on Sept. 18, 2012, by ES&S and on Sept. 19 by Assistant Secretary of State Scott Borgemenke — less than two months before this year’s presidential election — describes the software that is to be created for the state by ES&S, beginning on Page 17.
+
+Here’s the beginning of the “Overview” section, describing the scope of the work, which I’ll try to unpack just below it, for non-geeks…
+
+In short, the contract is for an application called EXP, which exports voting results into a specific format after the data from the central tabulator has been organized by the ES&S Election Reporting Manager (ERM). The ERM program itself directly accesses the main tabulator database and the results are then exported, by EXP, to a text-based file.
+
+The text-based file is then sent by the county, via some unspecified means, to the secretary of state for import into its Election Night Reporting System, which is subsequently made available on the Web, where it will be viewed by the media and the rest of the world as the “results” of that day’s election in Ohio.
+
+The unencrypted text-based file created by EXP is a simple CSV (Comma Separate Values) formatted file, which includes field names and values separated by commas, as culled from the tabulated results database. Pages 26 and 27 of the contract detail the specific format for the plain text files created by EXP. Here’s an example:
+
+Last last week, a public response was finally offered to Ugonna Okpalaoka of theGrio, an African-American-centric website published in partnership with NBC News.
+
+Okpalaoka write: “Matt McClellan, a spokesman for the Secretary of State’s office, told theGrio that no patches were installed, describing instead a reporting tool software meant to ‘assist counties and to help them simplify the process by which they report the results to our system.’”
+
+McClellan’s reported claim that “no patches were installed,” but rather it was simply “a reporting tool software” to assist counties, seems to be in direct contradiction with the contract itself.
+
+At the bottom of Page 17, the contract states that “the current ES&S ERM Results Export Program (EXP) product version 2.0.6.0? will be “modified to meet the Customers request.” The contract goes on to say that it “shall be modified” into two different EXP versions, 2.0.7.0 and 3.0.1.0, to work with two different versions of the ERM software variously installed in different Ohio counties.
+
+It’s not entirely clear how the new version of EXP will differ from the existing one, though the contract specifies the older version created XML-formatted files instead of plain-text CSV files. The new version of the EXP program is installed onto the tabulation computing systems of the Ohio counties, which use the ES&S system, so this updated version is a new version of the existing software. It is either a “patch” or an upgrade or a new installation. Distinguishing between those descriptions, in this case, seems to be a distinction without a difference made by McClellan. In either case, it’s new software being applied onto the existing central tabulation system computers, without either state or federal certification, just days before the 2012 presidential election.
+
+By describing it as “experimental” software, it seems the state is attempting to skirt the legal requirements for state testing and certification by the Ohio Board of Voting Machine Examiners. But more on that in a moment.
+
+According to Pam Smith, president of the nonpartisan watchdog group VerifiedVoting.org, her organization also sought explanations for the last-minute software changes from the secretary of state’s office.
+
+She tells me that she was told that “the Secretary of State team installed the EXP tool” themselves in the counties that use the ES&S system. “It was not left to the counties to figure out the installation or the configuration.”
+
+Moreover, she stressed, she was told the software “does not get installed on voting machines.”
+
+But that makes little difference, since the software is installed directly onto the central tabulator machines, where it can affect — either accidentally, or by design — the main results of an entire county’s election. Software residing on the central tabulation systems is, in fact, far more dangerous than software on the voting systems, since it can have direct access to the entire set of county election results.
+
+Jim March, a longtime Libertarian election integrity and software expert, as well as a member of the Pima County, Ariz., Election Integrity Commission (which serves as an official advisory body to the Pima County Board of Supervisors), and a founding and current board member of BlackBoxVoting.org, is highly suspicious of the last-minute installation of software.
+
+In an affidavit [PDF] submitted to Fitrakis and Arnebeck for their legal case, March says he believes “that this custom software is not necessary for the conduct of elections and is in fact highly dangerous.”
+
+March has been involved in numerous cases involving suspicious elections and election software. In 2005 he received part of a multimillion-dollar settlement from Diebold as the result of a qui tam case with the state of California, after it had been discovered that the company had secretly installed uncertified software on its voting systems in the state. The secretary of state decertified the systems as a result.
+
+“What ES&S has chosen to do here is extremely dangerous and exactly what you’d want to do if you wanted to plant a ‘cheat’ onto the central tabulator,” March says in his affidavit.
+
+On Saturday night, Secretary Husted himself attempted to downplay the matter during an interview with CNN’s Don Lemon, explaining that there was no danger in installing the software on the county’s tabulation systems. MSNBC’s “Ed Show” played that part of the exchange with the secretary, as well as a response to it from Democratic Ohio state Sen. Nina Turner.
+
+As Husted explained to Lemon: “The reporting system and the counting system are not connected in any actual way. And the results that anybody can get at home on their computer are — they’re going to get them at the same time that I do on election night. So we have a very transparent system.”
+
+The “transparency” of a system that counts votes in secret and features a secretly installed piece of software that skirted normal certification procedures aside, March’s affidavit disputes Husted’s explanation about the separation between the reporting and counting systems.
+
+“Their custom application … would have full contact with the central tabulator database on both a read and write basis, while running on the same computer as where the ‘master vote records’ (the central tabulator database — the ‘crown jewels’ of the whole process) are stored,” he says.
+
+“Under this structure a case of accidental damage to the ‘crown jewels’ of the election data is possible. A case of deliberate tampering of that data using uncertified, untested software would be child’s play.”
+
+He describes the process as “criminally negligent just from a standpoint of data security.”
+
+State Sen. Turner was similarly suspicious: “They should not be experimenting in a presidential election. You know the secretary of state had previous years to try to experiment.”
+
+Indeed, one of the unanswered questions we sent to the secretary of state asked why they waited until Sept. 18 to begin this contract, since Husted’s been in office fore nearly two full years, and they’ve carried out many elections, of lesser import than a presidential election since that time during which this software could have had a trial run. Furthermore, we asked, how did they manage without it until now during both his tenure and that of his predecessors?
+
+We received no reply to that and a number of other related questions.
+
+When theGrio asked a similar question, as to why they waited until “so soon before the election” to commission the new software, they were told by McClellan: “I’m not sure the exact timeline of that, but I know we’ve been working with the counties for the past couple of months on getting these in place, testing them to make sure they work properly, and working with the vendors as well.”
+
+There was another point reported by theGrio that seems to be in direct contradiction to the contract between ES&S and the secretary of state, and it’s a troubling one.
+
+They report: “McClellan said the tool serves to cut down on the amount of information precinct workers would have to key in by hand by allowing the results to be output onto a thumbdrive and uploaded at once into the Secretary of State’s system.”
+
+But the contract specifically notes at the top of Page 21 that “Automated uploading or sending of the State Election Results Reporting file” is “outside the scope” of the software called for in the agreement, and that “It is a manual process to upload or send the results file.”
+
+That would seem to contradict McClellan’s claim that the converted file created by the EXP program is “output onto a thumbdrive and uploaded at once into the Secretary of State’s system.”
+
+The way in which that file is sent to the secretary of state, as noted, remains unknown. Moreover, if a plain text file is sent via email, or other similar Internet transmission, it can easily be intercepted and changed before it ever even reaches the SoS Election Night Reporting System. Such an attack is sometimes described as a “Man-in-the-Middle” attack.
+
+Verified Voting’s Smith explained that she had been told that results files from the state’s other e-voting systems made by Diebold and Hart-Intercivic already created files in the format that EXP was being modified to create. Thus, she said, all of the files would be in the same format for uniform import into the Election Night Reporting System.
+
+Another question I’d asked of Husted’s office was, if all that EXP did was simply convert files from one simple format to another, wouldn’t it have been far less dangerous to install the software once at the secretary of state’s office and simply convert files there for the Reporting System, after they’d been sent to them by the counties, rather than install 39 uncertified pieces of software on 39 different central tabulators in 39 different Ohio counties just days before the 2012 presidential election?
+
+I received no answer to that question either.
+
+Writing in the Oct. 5, 2006, issue of Rolling Stone, Robert F. Kennedy Jr. in“Will the Next Election Be Hacked?” described a suspect election that took place in Georgia in 2002, just after Diebold’s electronic touch-screen voting systems had been deployed for the first time across the entire state.
+
+“Six days before the vote,” Kennedy writes, “polls showed Sen. Max Cleland, a decorated war veteran and Democratic incumbent, leading his Republican opponent Saxby Chambliss … by five percentage points. In the governor’s race, Democrat Roy Barnes was running a decisive eleven points ahead of Republican Sonny Perdue. But on Election Day, Chambliss won with fifty-three percent of the vote, and Perdue won with fifty-one percent.”
+
+To this day, Election Integrity advocates cite that 2002 election as suspect, along with the curious software “patch” they later learned was secretly applied to the state’s electronic voting system earlier that year.
+
+In his article, Kennedy quotes Diebold contractor Chris Hood, who was directly involved in the installation of the systems across the state, as describing Diebold Election Systems Inc. president Bob Urosevich personally distributing the software “patch,” which was covertly installed on more than 1,200 Diebold touch-screen systems that year.
+
+No one will likely ever be able to prove that the November 2002 election was rigged, but that infamous software “patch,” along with the anomalous election results from 100 percent unverifiable voting systems (which are still in use today across the state of Georgia and in many other states) has cast an everlasting cloud of suspicion over that election.
+
+Similarly, there remains a dark cloud of suspicion over the 2004 presidential election in Ohio itself, the last one run under the administration of a Republican secretary of state, when blatant voter suppression tactics, ballot tampering, unprecedented counting room lockdowns due to phony Homeland Security “terror warnings,” criminal manipulation of the post-election recount, as well as concern about a possible “Man-in-the-Middle” hack of the state’s Election Night Reporting System have long cast a shadow of doubt over the reported results.
+
+The BRAD BLOG was honored with an award from Sonoma State University’s 36-year old investigative reporting project Project Censored for some of our coverage of the mysterous death of Ohio-based GOP IT guru Michael Connell.
+
+In 2004, Connell designed and created Ohio’s Election Night Reporting System for then Secretary of State J. Kenneth Blackwell. It was later discovered, ironically enough by Ohio’s investigative journalist Bob Fitrakis and the Free Press, that the results the world were watching on the Web that night, as it became clear that the winner of the Buckeye State would determine the presidency, had been diverted from Ohio down to the servers of a far right-wing company in Chattanooga, Tenn., called SmarTech in the middle of the night.
+
+Computer analysts and security experts, including a Republican who worked with Connell, have speculated, with a fair amount of evidence to support their case, that there could have been a “Man-in-the-Middle” attack that night, in which someone changed the results of the election between the time they were tabulated at the county level and before they appeared on the secretary of state’s website later that evening, as it was then being run out of SmarTech’s servers in Tennessee.
+
+We may never know if that actually occurred, though schematics unearthed during an election fraud case against Blackwell detailed how Connell’s system allowed for “Man-in-the-Middle” access to change the results before they were reported to the world. Despite a federal court order to retain all of the ballots from the election, some or all of them were destroyed in 56 out of 88 counties, so it became impossible to compare the reported results with the actual ballots cast during the 2004 election.
+
+Connell can no longer discuss the matter. He was killed when he crashed near the Columbus airport in his single-engine Piper Saratoga on his way back from Washington, D.C., for his company’s Christmas party in December of 2008. One month earlier, on the Monday before the 2008 presidential election, a federal judge compelled Connell to sit for a deposition in the 2004 election fraud case in which the attorneys believed the man who created the George W. Bush and John McCain campaign websites, as well as the now-infamous secret email system for the George W. Bush administration, held the key to an alleged conspiracy to steal the 2004 election in Ohio for Bush.
+
+Whether or not a similar scheme could be in the works in 2012 is certainly unknown. To be clear, once again, I am alleging no such thing. I am simply reporting the facts that I know, and those that I do not.
+
+Nonetheless, questions about a last-minute secret software patch to be used across multiple counties in Ohio, one that now resides on vote tabulation systems and is said to produce easily modifiable text files to be uploaded to a very partisan secretary of state’s Election Night Reporting System, certainly have a familiar, and to some, a chilling ring just over 24 hours before the next presidential election could well be decided in the Buckeye State.
+
+As the Free Press notes, “Government reports such as Ohio’s Everest study [PDF] [the landmark analysis of the state's electronic voting systems by world class academic and corporate computer science and security experts, commissioned by Husted's Democratic predecessor Secretary of State Jennifer Brunner] document that any single change to the system could corrupt the whole voting process.”
+
+Late on Sunday, in a new update from Bello and Fitrakis at the Free Press, the pair describe that “The potential federal illegality of this software has been hidden from public scrutiny by the Secretary of State’s Election Counsel Brandi Seske.” They report that a Sept. 29 memo from Seske describes “de minimis changes” in the ES&S software that allowed for use of the software updates without state testing. “De minimis,” they explain, “is a legal term for minute.”
+
+And yet, they go on to cite a memo from the U.S. Elections Assistance Commission, the body tasked with certifying electronic voting and tabulation systems at the federal level, dated February 8, 2012 entitled “Software and Firmware modifications are not de minimis changes.”
+
+“Ohio election law provides for experimental equipment only in a limited number of precincts per county,” they report. “Installing uncertified and untested software on central tabulation equipment essentially affects every single precinct in a given county.”
+
+“The method of execution chosen,” for this effort, notes March in his affidavit for the Fitrakis/Arnebeck injunction lawsuit, “is unspeakably stupid, excessively complex and insanely risky. In medical terms it is the equivalent of doing open heart surgery as part of a method of removing somebody’s hemorrhoids. Whoever came up with this idea is either the dumbest Information Technology ‘professional’ in the US or has criminal intent against the Ohio election process.”

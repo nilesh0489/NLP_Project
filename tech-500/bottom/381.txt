@@ -1,0 +1,11 @@
+In a cool report by the Georgian Government, Georgian CERT researchers claim to have nabbed a hacker by infecting his PC with malware and tracking him down by grabbing his files, photographs, and even viewing him at work. The hacker ran the Georbot Botnet, a botnet designed to spy specifically on Georgian citizens.
+
+The botnet could steal files from computers, search hard drives for Word documents, and take screenshots and video. The hackers used Georgian news sites as an attack vector, infecting a server to send out malware when they visited pages containing news that would be specifically interesting to Georgians. There were 390 infected computers in total — not a huge number but big enough for Georgia. The botnet also checked to make sure it was installed in a Central European Timezone, UTC+3 and +4.
+
+After a bit of digging, Georgian CERT traced the attacker back to a Moscow address and they allege that the FSB, the former KGB, had sent the initial emails spreading the virus. In 2008, Georgia saw a number of DDOS attacks that took out key organizations prior to Russian military action in the area, happenstance that could have been the start of a cyberwar.
+
+The Georgian team turned the tables on the hacker, sending him a file labelled “Georgian-Nato Agreement.” Using the same tool he used, the researchers were able to watch him accessing the bot panel and executing malicious files. They write:
+
+Then captured got video of him, personally. We have captured process of creating new malicious modules. We have Obtained Russian Document, from email, where he was giving someone instructions how to use this malicious software and how to infect targets. We have linked him with some of German and Russian hackers.
+
+Sadly, the report closes inconclusively, suggesting that the hacker is now under surveillance. However, given that his face is now splashed all over security websites, he’s probably already run Avast Anti-Virus and deleted his own infection. I’d be curious to know if Russia was really behind this, but the evidence is circumstantial at best, especially given the porous nature of the Internet.

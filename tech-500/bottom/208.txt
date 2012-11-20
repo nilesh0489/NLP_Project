@@ -1,0 +1,49 @@
+Razer has made a name for themselves in the eSports community with their sponsorships and endorsements of major gaming teams, eSports events, and by making some of the most preferred gaming peripherals on the market. But the reputation they’ve built in the gaming community is contested territory, as an Overclock.net forums member reported issues that his new Naga 2012 mouse requires online activation before he was able use it. This is simply not how it works.
+
+Razer’s Synapse 2.0 is a feature included with many of their products that allow users to have specific profiles to allow them to set unique key bindings, macros, and other various functions across any PC they use, so long as they log into the Synapse cloud.
+
+Razer has made both Synapse drivers available. Synapse 2.0 does not always have to be online to use the features. Once logged in once, users settings are synced from the cloud onto the computer. If for any reason the Internet connection is lost, Synapse will automatically shift into offline mode, and peripheral use is uninterrupted.
+
+With the launch of Razer’s new Blade 2 laptop, Synapse is required in order to access the touch-screen trackpad, as it doubles as a mini web-browser while you use a fullscreen program or game, as well as the 10 buttons that sit above said trackpad will come to life as an additional, game-specific profile display.
+
+So if you’re grinding out some experience in an MMO that Razer has a profile for, certain hotkeys and buttons are automatically assigned (and can be swapped out as the user can make edits to these in the Synapse interface), and the trackpad then doubles as anything from a HUD to a minimap of the game world.
+
+As for Synapse being deemed as spyware, it’s not. Razer’s subscriber agreement states:
+
+“User Generated Information” means any information made available to Razer through your use of the Software. Subject to the Privacy Policy mentioned above, you expressly grant Razer the complete and irrevocable right to use, reproduce, modify, create derivative works from, distribute, transmit, broadcast, and otherwise communicate, and publicly display and perform the User Generated Information and derivative works thereof in any form, anywhere, with or without attribution to you, and without any notice or compensation to you of any kind.
+
+By using Razer Synapse 2.0 (“Synapse”), the Subscriber agrees that Razer may collect aggregate information, individual information, and personally identifiable information. Razer may share aggregate information and individual information with other parties. Razer shall not share personally identifiable information with other parties, except as described in the policy below.
+
+This is a standard boilerplate language for any TOS. As Penny Arcade states in a post published this morning, a lot of tech companies (yes, even Steam) use the exact same language.
+
+Read Razer’s official response to Forbes below:
+
+Razer was the first to recognize the need for gamers to save their mouse configurations and settings onboard their peripherals. To that end, we created Synapse 1.0, which utilized onboard memory to store settings inside Razer products. This ability has now become one of the de facto features used in gaming mice worldwide.
+
+Over time, we realized that as firmware, profiles, macros and other settings stored in onboard memory became more complex, more memory space was required. On top of that, other features that we wanted to include, such as inter-device drivers and profile exchanging, were not possible with the Synapse 1.0 architecture.
+
+To give gamers the same benefits provided in Synapse 1.0 and more, we invented Synapse 2.0. Instead of having mouse settings limited by the space in onboard memory, Synapse 2.0 allows gamers to now have almost unlimited space for their profiles and macros. Moreover, other new functionalities such as being able to interact with other peripherals on the same architecture (i.e. keymaps between mice and keyboards) are now possible. Now gamers are also able to easily import and export profiles with their friends.
+
+Synapse 2.0 vs. DRM
+
+Our products work perfectly out of the box. Unlike DRM games or other media that require an always-on connection, you can use any of our peripherals right out of the box, even if someone doesn’t install Synapse 2.0, and whether a user is offline or online.
+
+Synapse 2.0 works OFFLINE
+
+One of the biggest misunderstandings is the equation of Synapse 2.0 to always-on DRM. It’s a popular notion that anything requiring a login has DRM included in it, and this misconception is one that easily gets the community fired up. In this case however, it’s incorrect.
+
+Once registered, Synapse 2.0 works offline and never needs to be online again. So basically, a user creates an account, saves initial settings, and if there’s no internet connection, it doesn’t matter - settings are saved on the client PC and are not synced to the cloud. Synapse 2.0 works offline.
+
+Server Outages
+
+Finally, as far as the Synapse 2.0 activation server goes, we realize that we have had intermittent issues with it due to server usage spikes and, most recently, because of Hurricane Sandy – not uncommon challenges with server-based functions, especially given the severity of the storm – and we’re working on increasing server reliability.
+
+We had an issue for four hours recently when users were unable to register for new Synapse 2.0 accounts. Current users of Synapse 2.0 were unaffected. We are working on new ways to keep these types of issues from occurring.
+
+Steps to clarify the situation
+
+1. Legacy or Synapse 1.0 drivers (for applicable legacy products) will be made available shortly on the Razer Support Site. We will continue to develop applicable Synapse 2.0 drivers for our other legacy products, as the vast majority of users of our products have been asking for Synapse 2.0 features. Again, if those products are already Synapse 1.0 supported, we will make both Synapse 1.0 and Synapse 2.0 drivers available to them.  All future Razer products will support Synapse 2.0 and other future platforms.
+
+2. Manual Offline mode will be made available shortly. At this time, Synapse 2.0 works seamlessly between online and offline mode, and is unobtrusive to the user. If an internet connection goes down and if the user has enabled offline mode by checking the “stay logged in” box, Synapse 2.0 automatically goes into offline mode.
+
+Through listening to our community we have added many new features to Synapse, and we have been working on putting in place a more robust manual offline mode for Synapse 2.0, letting users choose to go into offline mode with a click of a button. This functionality will be rolled into an upcoming update.

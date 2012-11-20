@@ -1,0 +1,15 @@
+Last year AMD officially became an ARM licensee, although the deal wasn't publicized at the time. Fast forward to June 2012 and we saw the first fruits of that deal: AMD announced it would integrate ARM's Cortex A5 core into its 2013 APUs to enable TrustZone support.
+
+Today comes a much bigger announcement: AMD will be building Opteron processors based on a 64-bit ARM architecture. There are no product announcements today, but the 64-bit ARM Opterons will go into production in 2014. Today's announcement is about a processor license, not an ARM architecture license - in other words, AMD will integrate an ARM designed 64-bit core for this new Opteron. Update: AMD will integrate ARM's new Cortex-A50 series of 64-bit ARMv8 CPU cores.
+
+The only other detail we know is that these ARM based Opterons will embed SeaMicro's Freedom Fabric, presumably on-die.
+
+AMD offering ARM based Opterons is really to target the microserver market. As for why AMD isn't using Jaguar for these parts, it's likely that by going with ARM it can lower the development time and cost to get into this market. The danger here is the total microserver market is expected to be around 10% of the overall server market, but that includes x86 + ARM. With x86 as the default incumbent, it's going to be an uphill battle for AMD/ARM to carve out a significant portion of that market.
+
+AMD was quick to mention that despite today's announcement, it will continue to build x86 CPUs and APUs for client and server markets.
+
+Overall the move sounds a lot like AMD trying to move quickly to capitalize on a new market. It's unclear just how big the ARM based server market will be, but AMD seems to hope that it'll be on the forefront of that revolution - should it happen. Embracing ARM also further aligns AMD with one of Intel's most threatening sources of competition at this point. The question is whether or not AMD is doing itself more harm than good by working to devalue x86 in the server space. I suspect it'll be years before we know the real impact of AMD's move here.
+
+The other major takeaway is that AMD is looking to find lower cost ways of bringing competitive platforms to market. I do think that a Jaguar based Opteron would likely be the best route for AMD, but it would also likely require a bit more effort than integrating an ARM core.
+
+Obviously competition will be more prevalent in the ARM server space, but here is where AMD hopes its brand and position in the market will be able to give it an advantage. AMD will also be relying heavily on the SeaMicro Freedom Fabric for giving its ARM based Opterons a leg up on the competition. This is one time where I really wish AMD hadn't spun off its fabs.

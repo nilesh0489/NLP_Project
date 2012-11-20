@@ -1,0 +1,35 @@
+I have been watching a few Storage Spaces discussion threads on Microsoft’s support forums with interest. Storage Spaces is a new way to manage disk storage in Windows 8 and Server 2012. It allows you to create a pool from two or more drives, create virtual drives on them with an option for RAID-like resilience, and add or remove physical drives as needed when drives fail or more storage is needed.
+
+
+It's a great feature, and particularly since it comes from the server team you would expect it to be solid. Nobody can afford to use storage that is unreliable.
+
+Look at this thread though, based on Windows 8 Enterprise Evaluation which should be the RTM code:
+
+I had three empty discs which I used for it: 320 GB, 1 TB, 2 TB. The manager told me that the maximum capacity for this setup would be ~2 TB.
+
+I then proceeded to fill the space up, resulting in a horrible write speed of ~20 MB/sec. Okay, that can be accepted, it is a software solution, after all.
+
+Here’s the kicker, though: Upon reaching ~0.9 TB, the storage space vanished! Yes, vanished.
+
+After invoking the Storage Space Manager, I discovered that the space was deemed “full” and that I was to add another disc. I also took a look at the volumes itself. Hmmh. The 320 GB disc was 100% filled, the 1 TB was at 32% and the 2 TB at 16%. And what are 32% of 1 TB and 16% of 2 TB? Why, 320 GB!
+
+So, instead of creating a Parity storage space, it simply downsized every hard disc to the lowest denominator, i.e. 320 GB.
+
+Which means that there are two massive problems here:
+
+It’s lying about the remaining capacity (which is confusing in itself: The manager talks about the storage space having a 2 TB capacity, but directly above it talks about a 3.01 pool capacity?)
+It also gives no warning when the real capacity is reached and the pool is deemed “full”. It simply takes the pool offline (instead of, say, reverting to a “read-only” mode with a warning) and you have to bring it online manually. Not fun.
+Later, another user complains:
+
+Today while I copied data over to it, it once again reached “full” status and turned itself “offline” – but this time it won’t come back “online” – it changes right back to “offline” as soon as I try to bring it online… So essentially I cannot access any of the data on the drive anymore.
+Or have a look at this (which likely refers to the release preview) – the article it is commenting about is worth a read to.
+
+I’ve run into a major problem with storage spaces. My storage space is full. Having a full storage space puts it into an error state, and it goes offline. You can click “Bring online” but it immediately goes offline again.
+
+So, I can’t free space on it, because I can’t get it online to delete stuff. And, more importantly, I can’t get anything off of it because it won’t stay online.
+
+It seems my only option is to add three drives, as I had it set to parity. The only problem? I don’t have three more drives to add.
+
+Even bugs in the release preview worry me. Storage is so fundamental that I would expect a feature like this to be 100 per cent solid early in the release cycle, or pulled.
+
+We asked Microsoft to comment, but the software giant is still investigating. ®

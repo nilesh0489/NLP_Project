@@ -1,0 +1,21 @@
+The Bulgarian blogger and digital rights activist who made headlines on Tuesday when he reported acquiring more than one million Facebook data entries for just $5, said Friday he is cooperating with Facebook as it conducts an internal investigation, but won't comply with the company's request to remove blog posts or not talk about the investigation.
+
+In an interview with ReadWrite, Bogomil Shopov said he had been contacted by Facebook's Platform Policy Team after revealing on his blog that he had acquired the list, which included email addresses of active Facebook users who were primarily located in the U.S., Canada and Europe. Shopov said officials with the company were upset because they feared his public revelation would upend an internal investigation.
+
+(Read Shopov's new blog post: Mixed Feelings After Conversation With Facebook.) 
+
+Facebook declined elaborate on the details of its investigation.
+
+“Facebook is vigilant about protecting our users from those who would try to expose any form of user information. In this case, it appears someone has attempted to scrape information from our site," Facebook spokesman Chris Kraeuter said in an email statement. "We have dedicated security engineers and teams that look into and take aggressive action on reports just like these. We continue to investigate this specific individual.” 
+
+In addition to requesting that he keep conversations with Facebook private, the company also requested that Shopov destroy the data after sending a copy to Facebook. Shopov said he complied with the request to destroy the data but was continuing to speak with news outlets to make Facebook users aware of the breach.
+
+That didn’t sit well with Facebook, according to Shopov. 
+
+“Their version is [they are conducting] an ‘internal investigation’ and one of the reasons they are angry about my blog posts is that the seller can ‘go deep’,” Shopov said, explaining Facebook is concerned the seller will disappear before the investigation can figure out how the data was obtained.
+
+Shopov provided ReadWrite with a cached link to the site where he purchased the data. The offer was removed within two days after his initial blog post on Tuesday, October 23, but the cached version shows that the seller obtained the data through an unidentified, third-party application. This raises the question of whether there's an international black market where anyone can buy supposedly secret Facebook user data. 
+
+Shopov verified that some of the addresses were legitimate and had planned to notify people on the list that he had purchased the data. Facebook asked him to not notify people included on the list, Shopov said.
+
+“We agreed with Facebook not to do that,” he said. “That was actually my first reaction, to tell them and to teach them about their rights.”

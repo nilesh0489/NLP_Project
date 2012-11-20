@@ -1,0 +1,24 @@
+The iPhone 5 launches into a more challenging field of competitors than ever, and to give you some context about the iPhone 5 specifications compared with those of its chief competitors, we put the most important characteristics of each into this handy table.
+THE LATEST: iPhone 5 Unveiled | iPhone 5 vs. Competitors | More of iOS 6 | Thinner iPod Nano | iPod Touch With Siri | New iTunes | New iPhone Dock Connector | New Earbuds, EarPods
+As we look at specs of the iPhone 5 compared with the Samsung Galaxy S III, Nokia Lumia 920 and Motorola Droid RAZR HD, we can see patterns emerging, such as all the iPhone 5's competitors have a screen that’s at least 720p (1,280×720 pixels), dual-core 1.5GHz processors, an updated operating system (although that’s debatable in the case of Android 4.0.4 Ice Cream Sandwich), an 8-megapixel camera and 4G LTE — all functioning as de facto standards in this highest echelon of smartphone goodness.
+
+iPhone 5 vs. Samsung Galaxy S III vs. Droid RAZR HD vs. Nokia Lumia 920
+
+
+Apple
+iPhone 5	
+Samsung Galaxy S III	
+Droid RAZR HD	
+Nokia
+Lumia 920
+Screen Size	4 inches	4.8 inches	4.7 inches	4.5 inches
+Resolution	1,136 x 640	1,280 x 720	1,280 x 720	1,280 x 768
+Weight	3.9 oz	4.7 oz	5.1 oz	6.5 oz
+CPU	Dual-core Apple A6	Dual-core 1.5GHz Snapdragon S4 (in the U.S.)	Dual-core 1.5GHz Snapdragon S4	Dual-core 1.5 GHz Snapdragon S4
+Storage	16GB, 32GB or 64GB, no card slot	16GB, 32GB or 64GB +microSD slot	12GB+microSD slot	32GB, no card slot
+Connectors	Apple Lightning	microUSB	microUSB	microUSB
+Operating System	iOS 6	Android 4.0.4 (Ice Cream Sandwich)	Android 4.0.4 (Ice Cream Sandwich)	Microsoft Windows Phone 8
+Battery	225 hours standby, 8 hours talk time (3G)	790 hours standby, 11:40 hours talk time (3G)	TBA	300 hours standby, 10 hours talk time (3G)
+Camera	8MP, 3264×2448 pixels, autofocus, LED flash	8MP, 3264×2448 pixels, autofocus, LED flash	8MP, 3264×2448 pixels, autofocus, LED flash	8MP, 3264×2448 pixels, optical image stabilization, autofocus, dual-LED flash
+Networking	Wi-Fi, 2G, 3G, 4G LTE	Wi-Fi, 2G, 3G, 4G LTE	Wi-Fi, 2G, 3G, 4G LTE	Wi-Fi, 2G, 3G, 4G LTE
+Price	$199 for 16GB, $299 for 32GB, $399 for 64GB; avail. Sept. 21	$199.99 + $35 carrier fee	$199 (estimated, launch end of 2012)	TBA, launch Q4 2012

@@ -1,0 +1,19 @@
+As Kaspersky Labs details in its latest State of the Union, the threats to the IT landscape are changing, as security teams now have to juggle threats coming from both new geographies and platforms — on top of vulnerabilities caused by the usual suspects, like malware, spam and cybercrime. As such, IT teams now monitor vulnerability data from a host of sources and tools, which can be tough to manually aggregate and mine, let alone prioritize which threats are the most pressing.
+
+That’s why Ed Bellis, the former chief of security at Orbitz, co-founded Risk I/O in 2010 — to make it easier for security teams to identify and remediate high-risk vulnerabilities and improve their security from the ground up. Using data from the top 20 security assessment technologies and integrating with bug fix and ticketing systems, the startup’s SaaS platform has since processed over six million security vulnerabilities for more than 400 businesses.
+
+Today, the Chicago-based company is supporting the growth of its so-called “vulnerability intelligence platform” with a fresh round of venture funding, as Risk I/O announced this morning that it has closed a $5.25 million series A funding round. The financing was led by U.S. Venture Partners, with participation from Tugboat Ventures and Greg Sands’ Costanoa Venture Capital. As a result of the raise, USVP partner Jacques Benkoski will be joining the startup’s board of directors.
+
+According to Bellis, most enterprises today find themselves overwhelmed by the amount of security data, both external and internal, they collect, and few have the time or expertise to analyze those reams of data effectively. Of course, if they had the tools, most would likely take advantage of the added security.
+
+So, to give them an easy way to understand and sort that data, Risk I/O’s platform aggregates vulnerability data from Qualys, Rapid7, HP, IBM, etc., serving that data through a single dashboard to give users a centralized view of their organization’s security operations and enable them to quickly identify the highest priorities.
+
+Businesses can also track vulnerabilities through their entire lifecycle, as well as enabling collaboration between engineers and security teams through the platform’s workflow tools. On top of that teams, can integrate the bug tracking and ticketing systems they’re already using to reduce the cost and pain of onboarding.
+
+“The explosion of cyber attacks against businesses today combined with the variety of security assessment tools in use has left CIOs with an increasingly uncontrollable vulnerability management problem,” says Benkoski. What sets Risk I/O apart from a crowded field, says the company’s newest board member, is the ability to view vulnerability data no matter what analytics or tracking tech the company is already using.
+
+By becoming a flexible platform that allows companies to integrate with their existing tools, while still offering the type of precognition capabilities that allow them to see where they’re most likely to be breached, Risk I/O wants to bring the ease of use typically reserved for consumer products to enterprise-grade risk assessment.
+
+With its new funding in tow, Risk I/O plans to ramp up sales and marketing to go after what it believes is a fractured enterprise market.
+
+More on Risk I/O at home here.

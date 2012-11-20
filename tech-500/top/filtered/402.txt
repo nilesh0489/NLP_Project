@@ -1,0 +1,21 @@
+When you think of the “connected car” you’re likely envisioning a smartphone interfacing with a vehicle to stream music, update your social media status and keep you up on the day’s events. But that’s one part of a much larger equation.
+
+Governments in the U.S. and Europe have developed technology that allows cars to speak to each other – and the larger transportation infrastructure – to reduce accidents, traffic and fuel consumption. Earlier this year we looked at NHTSA’s year-long connected-car field trial in Ann Arbor, Michigan and a similar three-month effort by the German government, both of which kicked off in August.
+
+Now we’ve got a firsthand look at how it works, and what happens when cars and infrastructure communicate. At Continental’s test track in Frankfurt, Germany, we got behind the wheel of a BMW test vehicle outfitted with a transceiver that uses Wi-Fi-like connectivity to communicate with both a traffic light and an emergency vehicle, all of which is part of the simTD field trial.
+
+Whereas the primary purpose of the NHTSA test is to study how connected cars can save lives, the simTD test is designed to examine how connected cars and infrastructure can save fuel and time normally wasted in traffic tie-ups, along with the ability to prevent accidents and inform drivers of emergency vehicles in their path.
+
+
+
+One of three Continental demonstrations showed how a car’s speed can be controlled by a traffic light to adjust its velocity relative to the light’s cycles instead of idling – and wasting gas and spewing emissions – while stopped at a red light.
+
+As the car approached the traffic light on the test track, a graphic showing the vehicle’s speed popped up on the dashboard display, indicating the rate the car would need to travel – below 40 kilometers per hour (km/h), or in the “green” zone – to avoid stopping for a red light. If the car is traveling above 40 km/h (or in the red zone), the accelerator pedal actively pushes back against the driver’s foot and the car automatically slows to below the 40 km/h mark. But if lead-footed drivers wants to dash towards the light – only to brake hard to stop – they can override the system by pushing against the pedal’s pushback.
+
+The system also alerts drivers to the presence of an emergency vehicle with a warning displayed on the dashboard, including an arrow pointing in the direction of the emergency vehicle to identify where it’s coming from. In this demonstration, the emergency vehicle was used to show how the system warns the driver about a stalled car and hazardous road conditions in their path of travel. While parked in the roadway and not visible around a bend, the dashboard display flashed a warning and showed the distance to the emergency vehicle ahead. And when the emergency vehicle passed a wet part of the track and skidded, activating its anti-lock braking system, a symbol and the distance to the slick part of the road were displayed for the driver.
+
+These are just four scenarios we can expect as connected cars and infrastructure start to converse. Others could include alerts regarding slow traffic or a delay for such routine hazards as construction, weather conditions or an oncoming car passing on a blind curve. And if that’s not enough, General Motors has demonstrated a technology that will also allow connected cars to detect pedestrians who are carrying a smartphone with a specific app.
+
+So while drivers are becoming increasingly distracted by apps, status updates and other cloud-based content, connecting cars and infrastructure could be the key counterpoint, helping to save lives, fuel, time, and the environment.
+
+

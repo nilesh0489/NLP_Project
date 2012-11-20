@@ -1,0 +1,7 @@
+The Linear Book Scanner prototype Source: Dany Qumsiyeh Engineers from Google's Books team have released the design plans for a comparatively reasonably priced book scanner under an open source licence on Google Code. The Verge reports that the engineers developed a prototype during the "20 per cent time" that Google allocates to its employees for personal projects. Built using a scanner, a vacuum cleaner and various other components, the Linear Book Scanner can automatically digitise entire books.
+
+The book scanner's individual components cost approximately $1,500 in total. According to the report, scanning a book with 1,000 pages takes around 90 minutes. Apparently, this only requires 40 seconds of preliminary setup work. A simple mechanism that uses the vacuum cleaner enables the device to turn pages automatically once the front and back of a page have been scanned.
+
+Dany Qumsiyeh, one of the developers, has described the construction details in a document that has now been published. The engineer explained the construction process, and highlighted the advantages of the design over existing models, during a Google Tech Talk in May:
+
+By releasing the plans for the Linear Book Scanner, the engineers have made it possible for anyone to build their own device, and the open source nature of the release makes it likely that the design can be further optimised.

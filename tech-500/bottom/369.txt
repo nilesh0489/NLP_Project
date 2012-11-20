@@ -1,0 +1,17 @@
+“She was like, ‘What are you doing?’?” Weinberg said. “She thought the idea was crazy.”
+
+Her theory was hard to dispute. A start-up taking on Google in search is much like a raft taking on a cruise ship as a vacation option. But Weinberg is not delusional. With money lining his pockets from selling a start-up for $10 million, Weinberg bet there was a place in the market for a product capitalizing on users’ emerging annoyances with Google — its search results gamed by marketers; its pages cluttered with ads; every query tracked, logged and personalized to the point of creepiness.
+
+He called his little search engine project DuckDuckGo, after the children’s game Duck, Duck, Goose. (Instead of “Just Google it,” think “Just Duck it.”)
+
+“My thesis for the company was, what can we do that other search engines, because they’re big, can’t do easily?” Weinberg said. “Because what’s good for Google business is bad for Google users.”
+
+So: DuckDuckGo does not track users. It doesn’t generate search results based on a user’s previous interests, potentially filtering out relevant information. It is not cluttered with ads. In many ways, DuckDuckGo is an homage the original Google — a pure search engine — and its use is soaring, with searches up from 10 million a month in October 2011 to 45 million this past October. The growth has attracted attention and cash from Union Square Ventures, the venture capital firm behind Twitter. Not long ago, a headline in the search industry bible SearchEngineLand. com asked, “Could DuckDuckGo Be The Biggest Long-Term Threat To Google?”
+
+The attention to DuckDuckGo comes as U.S. and European Union officials are stepping up scrutiny into Google’s search practices, which have been criticized for unfairly elbowing out competitors’ content and results in favor of its own. Earlier this year, in a response to criticism that it was acting monopolistically, Google publicly identified DuckDuckGo as a competitor — a move that pleased and entertained Weinberg but that also reflected a bit of hyperbole about just how close DuckDuckGo is to truly competing.
+
+“The reality in the United States is that we still really only have two search engines — Google and Bing,” said Danny Sullivan, editor of SearchEngineLand.com. “I think it’s entirely unlikely that DuckDuckGo is gonna put Google on its back and crush it.”
+
+But what if that’s not really Weinberg’s goal?
+
+Weinberg was born in the District but grew up near Atlanta in a tight-knit family. His father is a physician and infectious-disease specialist. His mother makes clothes and art, and Weinberg’s first job as a hacker — a child hacker — was building his mom a program to process orders online. He was not a complete dork. In middle and high school, he played soccer and tennis. He was, like most teens, a bit aloof. He spent a lot of time messing around with computers, and he excelled in his science classes, particularly physics. He studied physics at the Massachusetts Institute of Technology but didn’t want to pursue it in graduate school. As happens with college kids, one thing led to another, and eventually he wound up programming.

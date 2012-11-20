@@ -1,0 +1,29 @@
+The long-awaited Arduino Due just hit the market, replacing the 8-bit, 16MHz brain of the popular Uno microcontroller prototyping platform with a 32-bit, 84MHz processor, while augmenting inputs and capabilities all around.
+
+For robotics and electronics hobbyists, its a moment of much excitement. But for the rest of us, what does this new controller offer over the older models?
+
+“Having a 32bit ARM processor running at 84 MHz allows you to do much more much quicker,” explains Arduino co-founder Massimo Banzi in an e-mail to Wired. “If you think about the Quadcopters that Chris Anderson and his community are building, they need to read many sensors as fast as possible then process all that data to calculate how to keep the quadcopter flying properly. Having a faster processor, with much more capabilities like DMA can increase the stability, responsiveness and precision of the aircraft while using less chip to do it.”
+
+The heart of the Arduino Due is the Atmel SAM3X8E, an ARM Cortex-M3-based processor. And the board builds off the capabilities of this summer’s Arduino Leonardo release, offering two two micro USB ports — one for programming and communications and one that allows the Due to act as a client or host, allowing it to act as or utilize a USB mouse or keyboard. This addition gives Banzi excitement. “The USB host is something people have requested a lot over the years and it’s one of the places where we’re going to see the craziest applications being developed by the community.”
+
+Thanks to its new Atmel chip, the Arduino Due takes a giant leap forward in terms of ADC performance, allowing designers to push the limits of their creations. “Many people have built cool open source scientific instruments using Arduino in the past, with the Due they get 12-bit analog inputs, 12-bit analog outputs,” Massimo explains. The theoretical sampling rate has been multiplied to a whopping 1,000 ksps (kilosamples per second). In comparison, the Arduino Uno, Leonardo, and Mega 2560 boards all have theoretical ADC speeds of 15 ksps.
+
+The Due is also the first Arduino to feature a built-in digital-to-analog converter — two, in fact. An audio library for the Due is also being released, coupling onto the Due’s ability for wav file playback. Meanwhile, rumors about about a Google-written ogg player code that can also be used.
+
+The Arduino team also worked with Google’s Android Developer Kit team on the ADK 2012 platform, who used a version of the Due’s layout for their board. But despite the general popularity Android, Banzi sees room for much growth in the ADK community.
+
+“Unfortunately we have seen very few applications done by the community.” he says. “I think Google should promote it more and work with the community to make the right tutorials, the right documentation that would make people embrace it. If you think about it, apple has a similar technology that is proprietary, closed source, covered by NDA and requires a special chip and yet you see many hardware accessories developed for the iPhone/iPad. Android has a good technology released as open source and yet it gets less traction.”
+
+Meanwhile, the Due continues to support the ADK 2.0 protocol, making it compatible with Google’s libraries and certain code written for the ADK.
+
+The Due will continue to work with all Arduino shields — add-on boards and circuitry like motion sensors and LED light arrays — that conform to the official Arduino Revision 3 layout. However, the Due operates at 3.3V whereas AVR-based Arduinos operate at 5V, meaning some third-party shields that don’t follow the R3 specs to the letter may not be compatible, depending on their voltages. It also means those looking to use the Due in existing applications should adjust their voltage or risk damaging their board.
+
+The Arduino team has also assured that changes to the IDE will allow for cross-platform compatibility. Sketches that you write for your Uno or other AVR-based boards can run on a Due. There will of course be under-the-hood differences in how the software compiles your programs, but the design is intended to make the user experience seamless.
+
+Despite its increase in power and features, beginners and less advanced users will probably want to stick with the classic Uno for now. “The basic Arduinos like the UNO or Leonardo are still the best to learn with.” says Banzi “They are super simple, very stable and come with tons of examples and libraries.”
+
+As for the delay in the release of the Due, Banzi credits it to growing pains. “In the last two years, we had to move from a loose group of people working on the project to a proper company with proper employees to take care of all of the different business functions,” He explains. “Now there are doors around the world with Arduino (or Officine Arduino) written on it, with teams doing good work. Growing up sometimes slows things down.”
+
+The Due is priced at $49 and will be available on Monday, October 22nd.
+
+Technical Specification Microcontroller                                          AT91SAM3X8E Operating Voltage                                     3.3V Input Voltage (recommended)                  7-12V Input Voltage (min/max)                            6-20V Digital I/O Pins                                          54 (of which 6 provide PWM) Analog Input Pins                                     12 Analog Output Pins                                   2 (DAC) Total DC Output Current on all I/O lines   130 mA DC Current for 3.3V Pin                            800 mA DC Current for 5V Pin                               theoretical 1A, recommended 800 mA Flash Memory                                           512 KB SRAM                                                       96 KB (64 + 32 KB) Clock speed                                              84 MHz Debug access                                           JTAG/SWD connector

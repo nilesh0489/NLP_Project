@@ -1,0 +1,27 @@
+raditional computer process information as bits that can be a 0 or a 1. Quantum computers utilize the potential of quantum mechanics by making its bits a 0, a 1, or a 0 and a 1 simultaneously. This “superposition” lets it do many calculations at once, where a traditional computer can only perform one
+
+The most popular approach so far for building a quantum computer is the circuit or gate model, whose processor architecture resembles that of conventional computers.
+
+D-Wave Systems Inc. however, uses the relatively new adiabatic quantum computer model, also known as quantum annealing. This architecture allows its quantum bits, or qubits, to shift from superposition to a traditional computer state.
+
+The company could be on the verge of unleashing vast computing power. Quantum computers handle information in a fundamentally different way than so-called classical computers. A D-Wave processor doubles in power every time its developers add a quantum bit, or qubit, a basic building block that is the equivalent of transistors in classical silicon chips. As it prepares to launch a 512-qubit product before the end of 2012, the company has proven that it can roughly double the number of qubits every year.
+
+
+
+
+Already named Rose's Law for Quantum Computation, after Geordie Rose, D-Wave's founder, the exponential growth of the D-Wave development plan could have enormous potential consequences for AI, medicine, internet search and many other fields. 
+
+“A quantum computer is on a completely different scaling curve, where once it passes traditional computers, they can never catch up,” Steve Jurvetson, who sits on D-Wave’s board, recently told the Globe and Mail. “That is just unprecedented in the technology business.”
+
+Click Here for a video of Geordie Rose explaining the power of quantum computing.
+
+According to Rose, artificial intelligence in particular could benefit from quantum computing: "Recently there have been advances in the science of learning that allow us a path to try to actually try to mimic human-type learning in an engineered systems.  And, somewhat fortuitously, the underlying mathematics of those systems can be run on our hardware."
+
+Rose continues, "What we are doing on the application side is trying to understand the power of the state-of-the-art learning techniques when they are running on our systems.  In the service of building complete engineered systems that behave and mimic human intelligence.  Not just intelligence in the sense of being able to do things faster, but mimicking human creativity, judgement and so on.  For the first time in history, I believe that the frameworks for understanding how to do this are in place and our hardware is ideally suited to attacking one of the hard bottleneck problems that underlies this type of approach." 
+
+D-Wave's processor circuitry is made from the metal niobium, which turns into a superconductor at very low temperatures, so the processor is supercooled to just above 0º Kelvin (-273.15° Celsius). The D-Wave processor is housed in a cylindrical refrigerator suspended inside a shielded room, with 16 layers protecting it against everything from radio-frequency noise to magnetic disturbances.
+
+The processor consists of qubits connected by couplers; surrounding them is a programmable magnetic memory.  
+
+To date, D-Wave holds 93 U.S. patents and has 107 patent applications under way globally. Its IP portfolio will make it very difficult for competitors to design a similar machine, at least for 15 years or so, Dr. Rose predicts.
+

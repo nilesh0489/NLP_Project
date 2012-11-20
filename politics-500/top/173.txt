@@ -1,0 +1,47 @@
+President Obama is now better than a 4-in-5 favorite to win the Electoral College, according to the FiveThirtyEight forecast. His chances of winning it increased to 83.7 percent on Friday, his highest figure since the Denver debate and improved from 80.8 percent on Thursday.
+
+Friday’s polling should make it easy to discern why Mr. Obama has the Electoral College advantage. There were 22 polls of swing states published Friday. Of these, Mr. Obama led in 19 polls, and two showed a tie. Mitt Romney led in just one of the surveys, a Mason-Dixon poll of Florida.
+
+Although the fact that Mr. Obama held the lead in so many polls is partly coincidental — there weren’t any polls of North Carolina on Friday, for instance, which is Mr. Romney’s strongest battleground state — they nevertheless represent powerful evidence against the idea that the race is a “tossup.” A tossup race isn’t likely to produce 19 leads for one candidate and one for the other — any more than a fair coin is likely to come up heads 19 times and tails just once in 20 tosses. (The probability of a fair coin doing so is about 1 chance in 50,000.)
+
+Instead, Mr. Romney will have to hope that the coin isn’t fair, and instead has been weighted to Mr. Obama’s advantage. In other words, he’ll have to hope that the polls have been biased in Mr. Obama’s favor. (I recognize that ‘bias’ is a loaded term in political contexts. I’ll explain what I mean by it in a moment.)
+
+There are essentially three reasons that a poll might provide an inaccurate forecast of an upcoming election.
+
+The first is statistical sampling error: statistical error that comes from interviewing only a random sample of the population, rather than everyone. This is the type of error that is represented by the margin of error reported alongside a poll and it is reasonably easy to measure.
+
+If you have just one poll of a state, the statistical sampling error will be fairly high. For instance, a poll of 800 voters has a margin of error in estimating one candidate’s vote share of about plus or minus 3.5 percentage points. In a two-candidate race, however, the margin of error in estimating the difference between the candidates (as in: “Obama leads Romney by five points”) is roughly twice that, plus or minus seven percentage points, since a vote for one candidate is necessarily a vote against the other one.
+
+The margin of error is much reduced, however, when you aggregate different polls together, since that creates a much larger sample size. In Ohio, for example, there have been 17,615 interviews of likely voters in polls conducted there within the past 10 days. That yields a margin of error, in measuring the difference between the candidates, of about 1.5 percentage point — smaller than Mr. Obama’s current lead in the polling average there.
+
+In other words, Mr. Obama’s current lead in Ohio almost certainly does not reflect random sampling error alone. The same is true in states like Iowa, Nevada, Wisconsin and others that would suffice for him to win 270 electoral votes. (Mr. Obama’s more tenuous leads in Colorado and Virginia, and Mr. Romney’s thin lead in Florida, potentially could be a product of sampling error.)
+
+So why, then, do we have Mr. Obama as “only” an 83.7 percent favorite to win the Electoral College, and not close to 100 percent?
+
+This is because of the other potential sources of error in polling. One is that a poll is a snapshot in time — even if you’re sampling the voters accurately, their opinions could change again before Election Day.
+
+This is a huge concern if, for instance, you’re conducting a poll in June of an election year. Michael Dukakis led the polls for much of the spring in 1988; John Kerry did so for some of the summer in 2004; even John McCain, in 2008, had a few moments when he may have been ahead in the polling average.
+
+But it’s now the weekend before the election. The vast majority of voters are locked into their choices. In some states, in fact, a fair number of them have already voted. (Perhaps about 20 percent of the vote nationwide has been cast, and the tally may be as high as two-thirds of the vote in some states like Nevada.)
+
+Nor are there any more guaranteed opportunities for news or campaign events to intervene to alter the dynamics of the campaign, at least not at the national level. The debates have been held; the conventions occurred long ago; the vice-presidential nominees have been picked. The last major economic news of the campaign came on Friday, with the release of the October jobs numbers. A negative print on the payrolls report, or a sharp rise in the unemployment rate, could have altered the campaign, but instead the jobs report was a pretty good one. (I don’t expect the jobs report to produce much of a boost for Mr. Obama, but there’s little in the report that would aid Mr. Romney.) The recovery from Hurricane Sandy is still a developing story, but not one that seems to be playing to Mr. Romney’s benefit.
+
+There is the remote possibility of a true “black swan” event, like a national-security crisis or a major scandal unfolding at the last minute, but the chance for news events to affect the campaign is now greatly diminished. And most of the polls that we’ve seen over the past several days are the last ones that polling firms will be releasing into the field.
+
+That leaves only the final source of polling error, which is the potential that the polls might simply have been wrong all along because of statistical bias.
+
+Polling is a difficult enterprise nowadays. Some estimate that only about 10 percent of voters respond even to the best surveys, and the polls that take shortcuts pay for it with lower-still response rates, perhaps no better than 2 to 5 percent. The pollsters are making a leap of faith that the 10 percent of voters they can get on the phone and get to agree to participate are representative of the entire population. The polling was largely quite accurate in 2004, 2008 and 2010, but there is no guarantee that this streak will continue. Most of the “house effects” that you see introduced in the polls — the tendency of certain polling firms to show results that are consistently more favorable for either the Democrat or the Republican — reflect the different assumptions that pollsters make about how to get a truly representative sample and how to separate out the people who will really vote from ones who say they will, but won’t.
+
+But many of the pollsters are likely to make similar assumptions about how to measure the voter universe accurately. This introduces the possibility that most of the pollsters could err on one or another side — whether in Mr. Obama’s direction, or Mr. Romney’s. In a statistical sense, we would call this bias: that the polls are not taking an accurate sample of the voter population. If there is such a bias, furthermore, it is likely to be correlated across different states, especially if they are demographically similar. If either of the candidates beats his polls in Wisconsin, he is also likely to do so in Minnesota.
+
+The FiveThirtyEight forecast accounts for this possibility. Its estimates of the uncertainty in the race are based on how accurate the polls have been under real-world conditions since 1968, and not the idealized assumption that random sampling error alone accounts for entire reason for doubt.
+
+To be exceptionally clear: I do not mean to imply that the polls are biased in Mr. Obama’s favor. But there is the chance that they could be biased in either direction. If they are biased in Mr. Obama’s favor, then Mr. Romney could still win; the race is close enough. If they are biased in Mr. Romney’s favor, then Mr. Obama will win by a wider-than-expected margin, but since Mr. Obama is the favorite anyway, this will not change who sleeps in the White House on Jan. 20.
+
+My argument, rather, is this: we’ve about reached the point where if Mr. Romney wins, it can only be because the polls have been biased against him. Almost all of the chance that Mr. Romney has in the FiveThirtyEight forecast, about 16 percent to win the Electoral College, reflects this possibility.
+
+Yes, of course: most of the arguments that the polls are necessarily biased against Mr. Romney reflect little more than wishful thinking.
+
+Nevertheless, these arguments are potentially more intellectually coherent than the ones that propose that the leader in the race is “too close to call.” It isn’t. If the state polls are right, then Mr. Obama will win the Electoral College. If you can’t acknowledge that after a day when Mr. Obama leads 19 out of 20 swing-state polls, then you should abandon the pretense that your goal is to inform rather than entertain the public.
+
+But the state polls may not be right. They could be biased. Based on the historical reliability of polls, we put the chance that they will be biased enough to elect Mr. Romney at 16 percent.

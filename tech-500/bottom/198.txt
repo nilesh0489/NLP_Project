@@ -1,0 +1,11 @@
+Google’s autonomous vehicle project uses a spinning range-finding unit, called lidar, on top of the car. It has 64 lasers and receivers.
+
+Used for lane-keeping and back-up assistance. Image-processing software can detect lane stripes, signs, stop lights, road signs and other objects.
+
+Used for adaptive cruise control. Reflected microwaves can identify location and speed — but not always type — of nearby vehicles.
+
+Global positioning system unit determines car’s position. Accelerom- eters and wheel sensors help with naviga- tion when satellite signals are blocked.
+
+Used for assisted parking. Reflected sound waves detect distance to nearby objects. Some cars use short-range radar instead.
+
+The device creates a detailed map of the car’s surroundings as it moves. Software adds information from other sensors and compares the map with existing maps, alerting the system to any differences.

@@ -1,0 +1,9 @@
+While it is easy to fake Geekbench results, the above 1601 score purportedly coming from an iPhone 5 (from a reviewer?) could be an indication of the type of speed underneath the A6 processor’s hood. The score is more than double any A5 processor iPhone or iPad has achieved, and it ranks just above high-end Androids. Here is a quick comparison versus the iPhone 4S.
+
+No iOS device has ever crossed 800 before, so the 1601 score is a significant leap. Even the 2004's most powerful Apple computer, the Power Mac G5, only scored 1571. Just think about that.
+
+For reference: the quad core Tegra 3-powered Nexus 7 scored a 1591 and the quad-core Samsung Galaxy S III scored 1560 in the test— narrowly missing the new standard for mobile devices. (Note: Galaxy S IIIs running Jelly Bean still outperforms the iPhone 5.)
+
+The Geekbench results also seem to confirm a 1GHz ARMv7 processor and 1GB of RAM we heard about yesterday.
+
+[Via HackerNews] The full comparisons of Apple devices are at the top, while Android comparisons are below:

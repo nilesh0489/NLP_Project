@@ -1,0 +1,27 @@
+One OS to rule them all
+
+The code-sharing between the Windows 8 and Windows Phone 8 operating systems is just the start of a long-term plan to merge the two into a universal OS, company cofounder and chairman Bill Gates has promised.
+
+"We're certainly sharing between Windows 8 and Windows Phone 8 – sharing the user interface, sharing some of those development tools, and over time we'll just get to do more and more of that," he said in an in-house video (below). "It's evolving literally into being a single platform."
+
+He also promised an October surprise on the issue of Windows 8 applications. The shelves of the Windows Store are looking a little sparse in comparison to iOS and Android alternatives, but Redmond has been hiding its light under a bushel – and this will change, Gates said.
+
+"People will be pretty amazed about the energy Microsoft's putting behind these new waves of products," he suggested. "We've really saved up in terms of knowing that this was such an important set of innovations ... whether it's great new applications, or ISV engagement, or just plain marketing, this is the big time for us."
+
+Bill took time to shill for Microsoft's Surface tablet, describing it as "an unbelievably great product, really amazing," touting its keyboard, kick-stand, and access to "classic software" such as Office. People can't appreciate how incredible it is without trying it out in one of Redmond's retail outlets, he said, promising the UI would win people over, as would "the beauty of the device."
+
+Consumers will have to take Bill's word for this, since Microsoft has kept a tight lid on the hardware. But the mix of a keyboard and a touch screen will win people over, he said.
+
+The interview with a distinguished-looking Bill Gates comes across as tightly scripted – because that's likely what it is – but it raises some interesting points about where he (and presumably Microsoft's current day-to-day managers) sees the future for Windows and the company.
+
+That said, Gates has been wrong before. His 1995 work The Road Ahead is littered with technological howlers, most notably on the long-term future of the World Wide Web and the future of his antitrust troubles – although, to be fair, the same could be said of an awful lot of predictions that were made back then.
+
+The tablet market, and to a lesser extent smartphones, are going to be key to Microsoft's survival in getting user's screen space, Forrester Research principal analyst Frank Gillett has warned. Taking into account the huge growth in the sales of smartphones and tablets compared to the dwindling PC market, Microsoft has only 30 per cent of the end user market at the moment, Gillett argues.
+
+"Windows 8 will simply stop the shrinking," he writes, "maintaining Microsoft's share at about 30 per cent through 2016. By 2016, we believe that Microsoft will have about 27 per cent of tablet unit sales, but only about 14 per cent of smartphone sales (and some of us are very skeptical they'll even get to 14 per cent).
+
+"The result is the CIOs and individuals face a market over the next five years where Microsoft still dominates PCs, Apple's iPad leads the tablet category, and Google's Android leads in smartphone sales."
+
+The question, however, remains: can any of these companies translate market leads in one sector to the others? Microsoft seeks to merge phones and PCs, but is very much in fourth place in the mobile OS market and has little to lose there. iPad and iPhone sales haven't led to Apple gaining much ground in the desktop space, and Google's attempt at its own PC operating system and hardware has had little impact.
+
+Gates sees a future in which Microsoft can be the one-stop-shop across all screens, but so do Tim Cook and Larry Page. The turf fight over the coming years could get very interesting. ®

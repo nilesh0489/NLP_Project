@@ -1,0 +1,19 @@
+The new directive is the most extensive White House effort to date to wrestle with what constitutes an “offensive” and a “defensive” action in the rapidly evolving world of cyberwar and cyberterrorism, where an attack can be launched in milliseconds by unknown assailants utilizing a circuitous route. For the first time, the directive explicitly makes a distinction between network defense and cyber-operations to guide officials charged with making often-rapid decisions when confronted with threats.
+
+The policy also lays out a process to vet any operations outside government and defense networks and ensure that U.S. citizens’ and foreign allies’ data and privacy are protected and international laws of war are followed.
+
+“What it does, really for the first time, is it explicitly talks about how we will use cyber-operations,” a senior administration official said. “Network defense is what you’re doing inside your own networks. .?.?.Cyber-operations is stuff outside that space, and recognizing that you could be doing that for what might be called defensive purposes.”
+
+The policy, which updates a 2004 presidential directive, is part of a wider push by the Obama administration to confront the growing cyberthreat, which officials warn may overtake terrorism as the most significant danger to the country.
+
+“It should enable people to arrive at more effective decisions,” said a second senior administration official. “In that sense, it’s an enormous step forward.”
+
+Legislation to protect private networks from attack by setting security standards and promoting voluntary information sharing is pending on the Hill, and the White House is also is drafting an executive order along those lines.
+
+James A. Lewis, a cybersecurity expert at the Center for Strategic and International Studies, welcomed the new directive as bolstering the government’s capability to defend against “destructive scenarios,” such as those that Defense Secretary Leon E. Panetta recently outlined in a speech on cybersecurity.
+
+“It’s clear we’re not going to be a bystander anymore to cyberattacks,” Lewis said.
+
+The Pentagon is expected to finalize new rules of engagementthat would guide commanders on when and how the military can go outside government networks to prevent a cyberattack that could cause significant destruction or casualties.
+
+The presidential directive attempts to settle years of debate among government agencies about who is authorized to take what sorts of actions in cyberspace and with what level of permission.

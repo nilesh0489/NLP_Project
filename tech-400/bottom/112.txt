@@ -1,0 +1,14 @@
+While complaints can be heard far and wide that it's hard to find the right IT security experts to defend the nation's cyberspace, the real problem in hiring security professionals is the roadblocks put up by lawyers and human resources personnel and a complete lack of understanding of geek culture, says security consultant Winn Schwartau.
+
+Take Janet Napolitano, U.S. secretary of the Department of Homeland Security, who has said the country can't find the right people for network defense. The real problem is a misunderstanding of computer geeks, their personalities, habits and their backgrounds, said Schwartau today during his talk at the Hacker Halted information security conference here.
+Computer geeks are discriminated against under hiring rules and legal niceties that often categorize them as undesirables. "We do not fit the mold. We at the outer limits of normal," Schwartau said.
+
+According to Schwartau, there's a gauntlet of hiring obstacles today that actually work to discriminate against computer geeks who have the expertise to do the job of protecting government networks. Demands for college degrees and IT certifications and the ability to get IT security clearances should not be a priority in hiring, said Schwartau. "Forget education," he said, adding, "We need to re-design clearances -- they're a Cold War relic designed for nuclear secrets and 1950s crypto." The era of 9-to-5 is also over, he added.
+
+He said what's holding up hiring IT security professionals can be found in the thinking of human resources departments that frown on conditions such as attention deficit disorder and autism, or obsessive-compulsive personalities which are typical of computer geeks willing to focus on an issue through the night. And although hiring rules in place tend to go the extra mile to accept alcoholism, the slightest type of illegal drug infraction makes it tough for job applicants. "We've got to start getting politically incorrect if we want to get the job done," said Schwartau.
+
+If there are tests that need to be done to probe the basic trustworthiness of job applicants for sensitive network security jobs in government or industry, said Schwartau, it would be better to try industrial psychological profiling, making it clear that anyone that passed it and got hired would be subject to it over and over again during the time they were in their job.
+
+Computer geeks could be asked something like, "If your wife and daughter were kidnapped, will you turn against my company?" he suggested. The answer would likely need to be "yes," because "anything else is deceptive."
+
+"Do you need a secret clearance to defend a network? They say you do," said Schwartau, alluding to government rules. But the government is competing against private industry and, yes, the criminal world, for the kind of talent held by those who really know about network weaknesses.

@@ -1,0 +1,7 @@
+Dow Jones Reprints: This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, use the Order Reprints tool at the bottom of any article or visit www.djreprints.com
+
+Stuxnet, a sophisticated computer virus that former U.S. officials say was created by the U.S. and Israel to spy on and attack Iran's nuclear-enrichment facilities in Natanz, also infected Chevron Corp.'s network in 2010, shortly after it escaped from its intended target.
+
+Chevron found the virus in its systems after the malware's existence was first reported in a blog post in July 2010, according to Mark Koelmel, general manager of the earth-sciences department at the big U.S. oil company. The U.S. government has never officially acknowledged the Stuxnet program.
+
+"I don't think the U.S. government even realized how far [the ...

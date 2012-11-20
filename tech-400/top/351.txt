@@ -1,0 +1,29 @@
+As expected, Apple has come in for some blistering criticism from the UK courts over its refusal to publish a straightforward apology stating that Samsung did not copy the iPad.
+
+The full ruling of the court of appeal hearing, published today, pulls no punches, describing Apple’s compliance with the newspaper advertisement order (in which it was instructed to publish an apology in several UK newspapers and magazines) as "lackadaisical at best". The recent statement published on its website was found to be even more serious as it contained "false material" and made out the case as about Samsung copying the iPad, when it wasn’t. (It was actually about whether Samsung had copied Apple’s registered design.)
+
+Sir Robin Jacob, one of the three judges who presided over the case, notes in the ruling that instead of publishing the text as ordered, "Apple broke it up, interspersing it with text of its own devising", some of which was "false and misleading" and "clearly muddied the water and the message obviously intended to be conveyed by it".
+
+Apple inserted at the end of the apology:
+
+However, in a case tried in Germany regarding the same patent, the court found that Samsung engaged in unfair competition by copying the iPad design. A U.S. jury also found Samsung guilty of infringing on Apple's design and utility patents, awarding over one billion U.S. dollars in damages to Apple Inc. So while the UK court did not find Samsung guilty of infringement, other courts have recognized that in the course of creating its Galaxy tablet, Samsung wilfully copied Apple's far more popular iPad.
+
+Regarding the German case, the judge observes to be "false":
+
+(a) "Regarding the same patent." No patent of any kind has been involved in Germany or here, still less "the same patent." (b) As regards the Community Registered Design, the German Courts held that neither the Galaxy 10.1 nor the 8.9 infringed it. As to the 7.7 there was for a short while a German provisional order holding that it infringed. Whether there was a jurisdiction to make that order is very doubtful for the reasons given in my earlier judgment but in any event the order had been (or should have been) discharged by the time the Contested Notice was published. (c) There is a finding and injunction, limited to Germany alone, that the 10.1 and 8.9 infringe German unfair competition law. But the statement is likely to be read as of more general application.
+
+Regarding the US court case sentence:
+
+That is misleading by omission. For the US jury specifically rejected Apple's claim that the US design patent corresponding to the Community Design in issue here was infringed. The average reader would think that the UK decision was at odds with that in the US. Far from that being so, it was in accordance with it.
+
+With respect to the UK case:
+
+This is calculated to produce huge confusion. The false innuendo is that the UK court came to a different conclusion about copying, which is not true for the UK court did not form any view about copying. There is a further false innuendo that the UK court's decision is at odds with decisions in other countries whereas that is simply not true.
+
+Sir Jacob made clear what Apple has failed to in the published apologies: "The reality is that wherever Apple has sued on this registered design or its counterpart, it has ultimately failed".
+
+As a result of all this disobedience the court ordered Apple to publish the correct statement, without any modifications or additions on its site, and awarded costs against the firm on an indemnity basis. This is higher than the normal, standard basis in order to show the "mark of the court's disapproval of a party's conduct".
+
+When Apple published a new statement on the front page of its website at the end of last week, it added some JavaScript to essentially hide the message, forcing visitors to scroll below the apparent bottom of the page in order to see it. This coding was quietly removed today, although it’s not clear if it was done voluntarily, or at the court’s request. However, the statement is still largely invisible, as it can only be seen directly on a rather large display (it’s still completely out of sight on my 1920x1080 screen).
+
+Is this the end of the matter now? Who knows. It depends whether the court feels Apple’s JavaScript stunt warrants a further order, and demands the notice be placed where it can actually be seen. Samsung will no doubt have issued a complaint, so don’t be surprised if this whole soap opera rumbles on for a while yet.

@@ -1,0 +1,50 @@
+Richard Metzger isn't very happy with Mark Zuckerberg. 
+
+The founder of Dangerous Minds, an outsider arts and culture blog, Metzger has cultivated more than 50,000 fans on his Facebook page over the last three years. But ever since Facebook went public in May, changes to the social networking giant's content algorithm have made Dangerous Minds' content an increasingly infrequent part of fans' daily Facebook timeline.
+
+When you click "like" on something, you may think that means your timeline will get all the updates from that brand. And it used to. But in an attempt to improve the usefulness of data it shows you on your timeline — which can mean removing content you don't interact with — Facebook has also confused what users and publishers can expect "liking" something to mean. In an attempt to clear up that confusion, Facebook has added new "like" options, such as "Get Notifications" and "Show in News Feed," which ask users to micromanage the properties that they already "liked."
+
+In a fiery public complaint, Metzger accused Facebook of "the biggest bait 'n' switch in history" with the introduction of "Promoted Posts." Essentially, Facebook started asking Dangerous Minds to pay to promote posts to its willing followers, a charge that Metzger estimated could amount to $672,000 a year or more — for something that was once freely distributed to the same audience. 
+
+Metzger broke down his calculations:
+
+At Dangerous Minds, we post anywhere from 10 to 16 items per day, fewer on the weekends. To reach 100 percent of of our 50k+ Facebook fans [on fans' timelines] they’d charge us $200 per post. That would cost us between $2,000 and $3,200 per day — but let’s go with the lower, easier to multiply number. We post seven days a week, that would be about $14,000 per week, $56,000 per month… a grand total of $672,000 for what we got for free before Facebook started turning the traffic spigot down in spring of this year — wouldn’t you know it — right around the time of their badly managed IPO.
+
+According to Metzger, traffic from Facebook back to Dangerous Minds has dropped by half to two-thirds from its previous levels, with the only apparent recourse being paying Facebook to promote posts to fans.
+
+A Facebook spokesperson told NBC News that Metzger has misinterpreted the idea behind promoted posts: According to Facebook, they're going for quality, not quantity.
+
+"We’re continuing to optimize (the) news feed to show the posts that people are most likely to engage with, ensuring they see the most interesting stories," said the spokesperson. "This aligns with our vision that all content should be as engaging as the posts you see from friends and family." 
+
+Facebook's advertising is designed —  and priced —  so that "the most engaging content" is promoted, but not in the way you might think: The most "organic engagement" a piece of content has —  natural momentum from people viewing the content, commenting on it, or clicking "Like" —  the less Facebook charges an advertiser to promote it. 
+
+
+Facebook
+"Like" options now include "Get Notifications" and "Show in News Feed"
+Just because a Facebook user has clicked "Like" on a fan page doesn't mean that person, publication, organization or brand will have unfettered access to push updates into a Facebook user's timeline  (even though, not that long ago, that's more or less how Facebook worked).
+
+This can be confusing for some users and publishers, who had grown used to previous iterations of Facebook that operated more like Twitter or feed readers such as Google Reader, which show every bit of content from "liked" brands or publications in personal timelines.
+
+But what does clicking "like" on a fan page mean to a user? As Allen Tingley said to me on Twitter, "Just because I 'like' something does not mean I want your marketing [crap] all day long in my newsfeed. social != free ads." But for other users, clicking "like" may mean they want to be reached by  their "like-ee" as often as possible.
+
+The confusion stems not just from users' varying perception of what clicking "like" means, but also from changes Facebook has made (and continues to make) to the way the algorithm that surfaces content to a user's timeline works over the last year. 
+
+Clicking "like" is only one of "ten portions that count as engagement," according to Facebook. (The only way to count "disengagement," as it were, is to click the button that hides posts on your timeline.) 
+
+Writing a post on a wall, tagging a photo, commenting on a fan page —  all of these things add up behind the scenes to inform Facebook of what it should and shouldn't post on your timeline. As Facebook learns more about you from watching your online behavior, it attempts to present to you the content it thinks you most want to see.
+
+The more you engage with a brand, an organization, or a person on Facebook, the more likely it is you'll see their content in your timeline. (Unfortunately, that's about as much direct control as you have over your timeline; there's no "See Everything From So-And-So" switch.)
+
+Unless, of course, an advertiser — anyone from a big brand to a small publisher like Metzger, or even one of your personal friends — pays Facebook to push content to your timeline. Like Google, Facebook is at heart an advertising company. Or at least it is now that it must begin to pay back its investors.
+
+For a small publisher like Metzger, who spent years investing time and resources into building a Facebook community because of the traffic it sent to his website in return, Facebook's recent monetization of his work feels like deception. "The idea that Facebook's senior management wouldn't have anticipated something like this — a very negative reaction from their most engaged user base — happening just boggles the mind," Metzger told NBC News. To Metzger, those 50,000 people are friends — or at least "friends" —  while Facebook sees them as mutually shared customers.
+
+Yet Facebook can't operate as a free service forever, at least not for everyone. Since it's not likely that individual users will pay for Facebook accounts, that leaves only advertisers. Even if, as in the case of Metzger and Dangerous Minds, the social network didn't think they were an advertiser, but instead another user.
+
+It's a new twist on the old aphorism, "If you're not paying for the merchandise, you are the merchandise." This time around, Dangerous Minds is both the merchandise and the customer: The blog built a community and provided content to Facebook; Facebook built a social network that provided traffic and tools to Dangerous Minds in return for free, until the community that Metzger built became valuable enough to sell to advertisers — including Metzger.
+
+While Facebook is unlikely to roll back changes to its sharing algorithm to "full blast," the company has confirmed that users will now have a way to opt in to receiving full updates from companies, organizations or publications they "like" by clicking a "Get Notifications" toggle on the Like button itself. Of course, this demands followers to go to the company page and specifically adjust settings — something most likely won't do.
+
+Metzger sees it as an improvement, if only just. As he told NBC News, "Obviously, from just about every perspective I can think of, this is a significant change for the better, but if [Facebook's algorithm] was the opt-in feature to begin with, and not an opt-out thing, then Facebook wouldn't have invited the [storm] of toxic public opinion that greeted the roll-out of their promoted posts scheme." Metzger still considers the original implementation "amateur-hour vulture capitalism."
+
+In other Facebook users, Metzger may have struck a nerve, telling NBC News that his rant currently had been "liked" over 20,000 times within 24 hours of its posting — on Facebook.

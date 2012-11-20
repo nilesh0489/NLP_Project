@@ -1,0 +1,43 @@
+Everspin Technologies today announced what it is calling the industry's first Spin-Torque Magnetoresistive RAM (ST-MRAM) chip, which offers an alternative to non-volatile DRAM sub systems.
+
+Everspin said the new memory type is not targeted to replace volatile DRAM in the near future.
+
+An Everspin spokesperson wrote in an email reply to Computerworld that ST-MRAM "gives system designers a new storage class memory tool that complements, not replaces, DRAM or NAND. System designers are excited about the benefit of persistent, high endurance storage or memory and will target the 64Mbit density at buffer and cache memory in storage applications and main memory in many industrial applications. Everspin plans to scale up density and performance while reducing cost in its ST-MRAM roadmap going forward."
+
+The new memory type has about 500 times the speed of NAND flash but the endurance of DRAM. ST-MRAM is seen by industry analysts as complementary technology to NAND flash memory, which is used to make solid-state drives (SSDs).
+
+Everspin sees its ST-MRAM being used as buffer memory in SSDs, for I/O and network cache and as an ultra-fast tier of storage, as some DRAM manufacturers use their products today.
+
+"Everspin is first out with this as far as I know, and we see lots of interest in ST-MRAM to be used in conjunction with NAND in data center storage applications," said Joseph Unsworth, research vice president at Gartner.
+
+The 64Mbit chip is the first in Everspin's ST-MRAM roadmap. The company said it plans to scale to gigabit density memories with faster speeds. Everspin is shipping to system manufacturers samples of its first chip, the EMD3D064M 64Mb DDR3 ST-MRAM. The current dual in-line memory module (DIMM) has 64MB capacity, including error correction code.
+
+
+Everspin's ST-MRAM memory on a dual in-line memory module with 64MB capacity
+Jeff Janukowicz, research director for solid-state storage at IDC, said memory technologies face significant challenges to deliver the right balance of performance, power consumption, and reliability as they scale to smaller process forms.
+
+Everspin's 64Mb ST-MRAM chip is functionally compatible with the industry standard JEDEC specification for the DDR3 interface, which delivers up to 1.6 billion transfers per second per I/O, translating to memory bandwidth of up to 3.2 GB/sec with nanosecond-class latency. The product is offered in an industry standard Window Ball Grid Array (WBGA) package-- the same as the DDR3 standard.
+
+A 1Gbit MRAM chip would use 400 milliwatts of power, compared to a 64Gbit NAND flash chip, which uses 80 milliwatts of power, according to Everspin.
+
+While suggested pricing for the new ST-MRAM chips was not released, Everspin said it is about 50 times more expensive than NAND flash, meaning it's not viable as a mass storage device. However, in terms of performance, ST-MRAM can produce 400,000 random write I/Os per second (IOPS) using 4K blocks compared to NAND flash with 800 random IOPS.
+
+"ST-MRAM pricing per GB is expected to scale from SRAM pricing levels to DRAM pricing levels over the next 5 years," an Everspin spokesperson wrote. "The 64Mb ST-MRAM provides very good value in applications that demand better reliability and need the performance boost of DDR3 speed in a non-volatile memory. Continued, aggressive scaling and volume growth will drive the cost/bit down on future generations."
+
+
+The EMD3D064 64Mb DDR3 ST-MRAM chip
+ST-MRAM joins Phase Change Memory and Memristor as new low-latency, non-volatile memories on the horizon.
+
+Everspin said its 64Mb density MRAM chip provides an "ideal entry point for non-volatile buffer and cache memory in solid state and RAID storage systems as well as storage appliances." The 64Mb device will complement existing low-cost memory technologies, reducing overall system cost and complexity, it said.
+
+"The commercialization of this technology is an important industry milestone that should continue to drive SSD proliferation in data center and in-memory computing architectures," Unsworth said.
+
+One example of potential use for the new ST-MRAM chip is in cloud storage, where faster data access is required as more companies leverage service providers for big data stores.
+
+Everspin's proprietary Spin-Torque technology uses a spin-polarized current for switching. Data is stored as a magnetic state versus an electronic charge, providing a non-volatile memory bit that does not suffer wear-out or data retention issues associated with NAND flash technology.
+
+"We are collaborating with select customers to allow them to evaluate and take advantage of Spin-Torque MRAM technology sooner and to gather feedback that will help us finalize our 64Mb DDR3 ST-MRAM for production," Phil LoPresti, CEO of Everspin Technologies, said in a statement.
+
+Everspin is manufacturing ST-MRAM on its 200 millimeter wafer production line in Chandler, Ariz., and is collaborating with other manufacturers to establish 300mm MRAM tools and additional fab facilities.
+
+The ST- MRAM chip will be generally available to system manufacturers in 2013. In addition, Everspin is offering ST-MRAM non-volatile random access memory modules in industry standard configurations. PCIe FPGA platforms are also available, allowing customers to start designs.

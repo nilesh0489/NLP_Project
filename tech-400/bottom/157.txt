@@ -1,0 +1,33 @@
+The morning that Michael Risch inserted himself into the battle between a Fortune 100 company and the man known as the "father of the iPod" began like any other, with a wake-up call from his six-year-old son. Risch, a professor of intellectual-property law at Villanova University, padded to the kitchen of his suburban Philadelphia home and — in a move that his wife hated — joined his family at the table, laptop in hand.
+
+Of interest this morning was a new message from Article One Partners. For the past three years, Risch had moonlighted as a researcher for the company, which represents clients who are being sued, or are about to be sued, by someone who claims they're infringing on a patent.
+
+Article One posts the disputed patent online for Risch and the rest of its 20,000 researchers to see. What it's hunting for is called "prior art": magazine articles, brochures or other published evidence that could show that the patent is invalid and therefore not worthy of a lawsuit.
+
+What it offers in return are large cash rewards, sometimes as much as $50,000. Which explains why Risch's wife tolerates the way he divides his mornings between his kids and his computer.
+
+"I've probably won enough to pay for a year of college," Risch says. "Though by the time they go, it'll be half a year."
+
+For privacy's sake, Article One doesn't provide the name of the company being sued or the company doing the suing. But from the title of this message — "Controlling an HVAC system from a remote location" — it was clear to Risch that the fight was over that most mundane of household appliances: the thermostat. This was right in his wheelhouse.
+
+The son of an electrical engineer, Risch grew up a tinkerer. At age thirteen, he took apart and rebuilt his first computer, a Commodore CBM. The ability to understand how a machine works, along with his law degree, came in handy in the early '90s, when a booming software industry was suddenly in need of people with just such a skill set. Academic work had moved him from court to classroom, but it hadn't dulled his interest in patents, or in figuring out how things work.
+
+Still in his pajamas, Risch took to Google and joined the hunt.
+
+Not long after breakfast, he submitted five items that suggested that the idea of controlling a thermostat from somewhere other than home wasn't original. At lunchtime, he submitted another. And at 3:59 p.m., moments before his two boys woke from their afternoon nap, he sent in his final submission, the one that would eventually garner him an even split of Article One's $5,000 reward.
+
+Risch might not seem like anything more than a multitasking dad in the digital age. But he actually represents something else: He's a player in what has come to be known as the patent Cold War.
+
+Around the time that the original Cold War was beginning to defrost, a new arms race began. This one involved billion-dollar companies, many of them in the growing tech industry. Rather than real nuclear warheads, the battle involved metaphorical ones, and they came in the form of patents. And instead of producing an unsteady détente, this litigious sequel has seen more than its fair share of mushroom clouds. In just the past year, companies have spent more than $20 billion arming themselves with stockpiles of patents.
+
+Google, Microsoft, Apple: These are the new global superpowers. And depending on the day, one, two or all three of them are firing missiles at their competitors via patent suits or signing promise-we-won't-shoot peace accords — sometimes both at once. And because our economy has become so dependent on computers, smartphones and the software that runs on both, the entire industry is singed by the collateral damage.
+
+To get a sense of why people like Apple CEO Tim Cook think the patent system is "broken," or why Google spent $12.5 billion last August to buy 17,000 patents, take a look inside your pocket. Chances are good that you own a smartphone. But what you might not know is that your phone has 250,000 other owners.
+
+That's how many patents cover the average iPhone, Galaxy or Droid. There are patents on the semiconductors inside, the touch screens outside and even the invisible signals that allow you to check your e-mail. Sometimes hundreds of patents cover the same function.
+
+The problem begins — as it often does — with the federal government. Specifically, the United States Patent and Trademark Office.
+
+The U.S. Patent Office has been a controversial arbiter going all the way back to the 1800s, when it required applicants to submit working models with their inventions, a practice that ended because the office ran out of storage space — and because the attic in which the wood models were stowed kept catching fire.
+
+According to Kara Swanson, a law professor at Northeastern University in Boston, the agency has always been a punching bag. When the pendulum swings too far to one side, applicants claim it's too hard to get a patent, and thus too difficult to protect their inventions. When it swings the other way, these same applicants claim the process is too easy, and thus too hard to protect themselves from others who claim they've invented the same thing.

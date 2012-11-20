@@ -1,0 +1,21 @@
+Apple's conceded that the camera on the new iPhone 5 is causing a purple flare to appear on photos - but says it's the users' fault.
+
+Since the phone's launch last month, many users have been complaining that their photographs are marred by a purple flare near the edge. It shows up when there's a light source just outside the image.
+
+The company's issued a statement that many will find reminiscent of its advice over poor voice reception in the iPhone 4 two years ago. On that occasion, it told users they were holding the phone wrongly; this time, it says they're taking the wrong pictures.
+
+"Most small cameras, including those in every generation of iPhone, may exhibit some form of flare at the edge of the frame when capturing an image with out-of-scene light sources," says the company in the statement.
+
+"This can happen when a light source is positioned at an angle (usually just outside the field of view) so that it causes a reflection off the surfaces inside the camera module and onto the camera sensor."
+
+And the solution, according to Apple?
+
+"Moving the camera slightly to change the position at which the bright light is entering the lens, or shielding the lens with your hand, should minimize or eliminate the effect."
+
+Many users, though, say the problem isn't, as Apple claims, common to all phones - or even to all models of the iPhone. "I do about 600 pics a day between work and personal, both indoor and outdoor.  I gave up and switched back to my 4S.  No issues," says one on the company's support forum.
+
+And others criticize Apple for telling users to angle their photos further away from light sources: "For someone to say this is 'Normal' and to angle away from the light source is ZERO help when you are shooting interiors (Autos) and surrounded by Windows."
+
+In any case, other users say, the effect is showing up with light sources as minor as the glow from a television or computer screen.
+
+The reason for the flare hasn't been revealed, but may be related to the new scratch-resistant Sapphire Crystal lens cover. If this is the case, it's possible that the company could do soething to mitigate it with a software update.

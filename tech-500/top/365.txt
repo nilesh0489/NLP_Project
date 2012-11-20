@@ -1,0 +1,47 @@
+SAN FRANCISCO — I.B.M. scientists are reporting progress in a chip-making technology that is likely to ensure that the basic digital switch at the heart of modern microchips will continue to shrink for more than a decade.
+
+The advance, first described in the journal Nature Nanotechnology on Sunday, is based on carbon nanotubes — exotic molecules that have long held out promise as an alternative to silicon from which to create the tiny logic gates now used by the billions to create microprocessors and memory chips.
+
+The I.B.M. scientists at the T.J. Watson Research Center in Yorktown Heights, N.Y., have been able to pattern an array of carbon nanotubes on the surface of a silicon wafer and use them to build hybrid chips with more than 10,000 working transistors.
+
+Against all expectations, silicon-based chips have continued to improve in speed and capacity for the last five decades. In recent years, however, there has been growing uncertainty about whether the technology would continue to improve.
+
+A failure to increase performance would inevitably stall a growing array of industries that have fed off the falling cost of computer chips.
+
+Chip makers have routinely doubled the number of transistors that can be etched on the surface of silicon wafers by shrinking the size of the tiny switches that store and route the ones and zeros that are processed by digital computers.
+
+The switches are rapidly approaching dimensions that can be measured in terms of the widths of just a few atoms.
+
+The process known as Moore’s Law was named after Gordon Moore, a co-founder of Intel, who in 1965 noted that the industry was doubling the number of transistors it could build on a single chip at routine intervals of about two years.
+
+To maintain that rate of progress, semiconductor engineers have had to consistently perfect a range of related manufacturing systems and materials that continue to perform at evermore Lilliputian scale.
+
+The I.B.M. advance is significant, scientists said, because the chip-making industry has not yet found a way forward beyond the next two or three generations of silicon.
+
+“This is terrific. I’m really excited about this,” said Subhasish Mitra, an electrical engineering professor at Stanford who specializes in carbon nanotube materials.
+
+The promise of the new materials is twofold, he said: carbon nanotubes will allow chip makers to build smaller transistors while also probably increasing the speed at which they can be turned on and off.
+
+In recent years, while chip makers have continued to double the number of transistors on chips, their performance, measured as “clock speed,” has largely stalled.
+
+This has required the computer industry to change its designs and begin building more so-called parallel computers. Today, even smartphone microprocessors come with as many as four processors, or “cores,” which are used to break up tasks so they can be processed simultaneously.
+
+I.B.M. scientists say they believe that once they have perfected the use of carbon nanotubes — sometime after the end of this decade — it will be possible to sharply increase the speed of chips while continuing to sharply increase the number of transistors.
+
+This year, I.B.M. researchers published a separate paper describing the speedup made possible by carbon nanotubes.
+
+“These devices outperformed any other switches made from any other material,” said Supratik Guha, director of physical sciences at I.B.M.’s Yorktown Heights research center. “We had suspected this all along, and our device physicists had simulated this, and they showed that we would see a factor of five or more performance improvement over conventional silicon devices.”
+
+Carbon nanotubes are one of three promising technologies engineers hope will be perfected in time to keep the industry on its Moore’s Law pace. Graphene is another promising material that is being explored, as well as a variant of the standard silicon transistor known as a tunneling field-effect transistor.
+
+Dr. Guha, however, said carbon nanotube materials had more promising performance characteristics and that I.B.M. physicists and chemists had perfected a range of “tricks” to ease the manufacturing process.
+
+Carbon nanotubes are essentially single sheets of carbon rolled into tubes. In the Nature Nanotechnology paper, the I.B.M. researchers described how they were able to place ultrasmall rectangles of the material in regular arrays by placing them in a soapy mixture to make them soluble in water. They used a process they described as “chemical self-assembly” to create patterned arrays in which nanotubes stick in some areas of the surface while leaving other areas untouched.
+
+Perfecting the process will require a more highly purified form of the carbon nanotube material, Dr. Guha said, explaining that less pure forms are metallic and are not good semiconductors.
+
+Dr. Guha said that in the 1940s scientists at Bell Labs had discovered ways to purify germanium, a metal in the carbon group that is chemically similar to silicon, to make the first transistors. He said he was confident that I.B.M. scientists would be able to make 99.99 percent pure carbon nanotubes in the future.
+
+This post has been revised to reflect the following correction:
+
+Because of an editing error, an article on Monday about an I.B.M. breakthrough on chip design defined incorrectly Moore’s Law, an observation on technology advances named for Gordon Moore, a co-founder of Intel. Moore’s Law holds that the chip industry doubles the number of transistors it can build on a single chip at routine intervals of about two years — not intervals of about 12 to 18 months.

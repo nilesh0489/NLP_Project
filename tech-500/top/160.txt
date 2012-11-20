@@ -1,0 +1,27 @@
+Users of news-sharing site Reddit have accused Apple of deliberately hiding the court-ordered Samsung "apology" statement on the U.K. Apple Web site.
+
+No matter how tall their browser window is or how dense their screen resolution, visitors to Apple's U.K. Web site must scroll down the page to view the "apology" to Samsung that a U.K. Court of Appeal recently ordered Apple to display.
+
+First noted by users on news-sharing site Reddit, Apple has within the past few weeks installed JavaScript code that dynamically resizes the central image on the Apple U.K. Web site to take up the maximum amount of space possible.
+
+As a result, the central image -- currently an iPad Mini -- takes up just enough space to push the "apology" statement out of sight, meaning visitors must scroll down the page to view it.
+
+This JavaScript "resize" code (which can be found here) was also uploaded to code-sharing site Pastebin as a "backup" by one Reddit user. The code does not appear on the main Apple U.S. Web site.
+
+The resize code, verified by an independent developer speaking to CNET, forces the central image to take up the proportion of the page, showing only the central image advertisement of the iPad Mini, along with the four separate product advertisements visible at the bottom of the screen, if possible. The code ensures that no matter how large vertically the browser size is, only the central image and subsequent four boxes should be visible without scrolling down.
+
+One Hacker News reader found that the 'resize' code was added just two days before the iPad mini was announced, but also three days after the U.K. Court of Appeal upheld the original verdict. While the reader explained that this was, "far more likely this is just related to new product announcements than any nefarious scheme," one reply suggested it could be, "plausible deniability in action."
+
+On October 18, U.K. High Court Judge Colin Birss ordered Apple to post a statement on its U.K. Web site for one month -- and once in a number of U.K. print publications -- stating that Samsung did not infringe Apple's patents, and therefore did not break U.K. law.
+
+Samsung complained to a U.K. Court of Appeal that Apple's statement was inaccurate. The appeals judges called the embellished statement "untrue" and "incorrect" and Apple was subsequently forced to remove the statement, on Thursday.
+
+Apple's U.K. Web site now admits its previous statement was not compliant with the court's wishes. But visitors to the site are not immediately aware of the new "apology."
+
+It's unclear whether the resize code on Apple's U.K. Web site is a deliberate attempt to skirt the appeal's court ruling, or an ill-timed legitimate marketing technique, one employed by many Web sites in order to display graphics on a variety of devices at the best possible quality.
+
+Many Web sites include similar code to adjust for many screen resolutions to ensure the user receives the best experience. For instance, ZDNet includes code that makes its Web site responsive to a variety of browsers and devices, including PCs, tablets, and mobile gadgets (CNET and ZDNet are both owned by CBS).
+
+We asked Apple to comment and will update this piece if and when we hear back.
+
+Update at 5:45 a.m. to correct the Wayback Machine paragraph, and to update it with findings from Hacker News.

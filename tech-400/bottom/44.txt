@@ -1,0 +1,15 @@
+The mobile app world took to the freemium model with a passion last year, as revenue from freemium iOS apps eclipsed 50 percent mark in the US about a year ago. But in the last year, the momentum behind freemium apps has only grown stronger, according to new data from app analytics firm App Annie.
+
+App Annie Intelligence, which tracks more than 700,000 apps, found that global revenues for freemium apps on iOS have quadrupled over the last 24 months. And for Google Play, worldwide freemium revenues have grown 3.5x in 2012. Now, freemium apps generate 69 percent of the worldwide iOS app revenue and 75 percent of global Android app revenues. Meanwhile, premium app revenue from paid download apps have remained relatively flat over the same periods.
+
+The numbers confirm the trend we’ve been noticing but the fact that there’s been no let up shows just how app developers continue to embrace the freemium model and how those apps continue to bring in more money. We reported two years ago that the 1/3 of the top grossing apps on iOS in the US had moved to the freemium model. By the end of 2011, Distimo reported that about half of the revenue from the 200 top grossing iPhone apps came from freemium app while 65 percent of the revenue from top apps in the Android Market came from freemium apps. Here’s a look at some of the charts worked up by App Annie Intelligence: 
+
+In January, IHS said that in-app purchase in freemium apps brought in $970 million in worldwide sale last year, or 39 percent compared to paid downloads. And freemium app revenue was expected to grow to $5.6 billion by 2015, representing 64 percent of the total market. The App Annie data, which is limited to iOS and Android, suggests we may be on a faster pace than IHS predicted.
+
+It’s not just in the US, where the figures generally mirror the world stats. App Annie said countries like China and Japan have rapidly adopted the freemium model in the last year. Japanese freemium revenues grew by 24x in the last year on Google Play and Chinese freemium revenue grew by nearly 25x on iOS since January 2011.
+
+
+
+Not every app needs to go freemium. As Flurry recently pointed out, some apps are better suited to that model. For example, apps with high intensity of usage in a short window creates an opportunity for developers to make money though in-app purchases that users can binge on. And for users who come back repeatedly over a long period of time, there’s also a chance to keep selling them on more content and add-on functions. Apps that don’t necessarily hold on to users over a long period of time might monetize better through one-time paid downloads, said Flurry.
+
+I suspect we’ll see paid downloads remain as a viable option for some developers. Instapaper’s success, for example, has shown that consumers will pay up front for a good product. But increasingly, the bigger money seems to be found in letting people in for free and then monetizing a smaller group of users over time through in-app purchases, subscriptions and other added features

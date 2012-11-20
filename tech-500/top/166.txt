@@ -1,0 +1,3 @@
+Simply start typing an address, place name or location, to be instantly taken there via Google Street View.
+
+If no Street View exists at the location, or if your search is too broad (e.g. "France"), a map will be shown instead.

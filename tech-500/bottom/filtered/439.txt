@@ -1,0 +1,23 @@
+The office's action, which is non-final, rules that all 20 claims in Apple's rubber-banding patent are invalid. Now let's see what, if anything, Judge Koh has to say.
+
+Apple might have some trouble on its hands.
+
+The U.S. Patent and Trademark Office (USPTO) yesterday ruled that all twenty claims included in Apple's so-called "rubber-banding" patent are invalid, according to Foss Patents' Florian Mueller, who first discovered the rejection. Following that ruling, Samsung quickly filed a motion with Judge Lucy Koh, informing her of the USPTO's decision.
+
+The rubber-banding patent, known on the USPTO site as "List scrolling and document translation, scaling, and rotation on a touch-screen display," is broad in its scope. The patent describes a "rubber band" effect in which a page bounces back when a person scrolls to the bottom. The patent also includes a host of touch-screen actions, including dragging documents.
+
+Apple had brought an infringement claim against Samsung pegged to that patent, and that claim was included in Apple's landmark victory in San Jose, Calif., in late August. A jury at that time found that Samsung did, in fact, violate Apple's rubber band patent in a host of products, including the Galaxy S2 smartphone and Galaxy Tab 10.1 tablet.
+
+The USPTO, however, has reviewed the patent, and determined that some of the claims in Apple's filing are "anticipated." Other claims, the office says, are "obvious."
+
+The issue for Apple is that "anticipated" and "obvious" indicate that the company's technology is a logical step in improvement, and not a true invention that supersedes previous technologies.
+
+It should be noted that the USPTO's rejections are non-final at this point, meaning the office could possibly overturn its evaluation.
+
+According to Mueller, there's no indication that a final determination will be made anytime soon. If the patent is given a final rejection, it can still make its way to the Central Reexamination Division, and then to the Board of Patent Appeals and Interferences. The U.S. Court of Appeals for the Federal Circuit could also eventually get involved if Apple continues to appeal rulings. It could be a very long haul.
+
+Still, Samsung is trying its best to get a favorable ruling from Koh, who has the right to overturn the jury ruling in the event the patent is invalidated. Whether a non-final action of invalidation is enough for her to eliminate one of Apple's victories in the case, however, remains to be seen.
+
+Apple's trial win included several other patents aside from the rubber-banding technology. A jury handed Apple $1.05 billion in damages and paved the way for the company to possibly ban a number of Samsung products in the U.S. Whether Apple will actually get that sum and be able to ban the products remains to be seen.
+
+CNET has contacted both Apple and Samsung for comment on patent. We will update this story when we have more information.
