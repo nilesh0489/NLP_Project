@@ -1,0 +1,31 @@
+Last Thursday, Microsoft held its formal shindig in honor of the arrival of Windows 8 and Surface in New York. Today, it’s another coast, another Microsoft event and another version of Windows — namely Windows Phone 8, which the company launched at a San Francisco press conference this morning.
+
+Over the weekend, I tried an HTC Windows Phone 8X, one of the new Windows Phone 8 handsets. (The new software won’t be available as an upgrade for Windows Phone 7.5 devices, so the only way to get it will be to buy a new phone.) I didn’t have enough time to give the 8X a truly thorough workout, and the review unit supplied by HTC is an international model that doesn’t support LTE in the U.S.; I just used it on wi-fi, and therefore didn’t try making phone calls. So this story isn’t a review.
+
+That said, my early impressions of the phone are positive: It’s got a tapered soft-touch polycarbonate case which feels good in the hand and doesn’t look like a sad iPhone knockoff. At 4.3″, the screen is big enough to feel roomy, and small enough that the phone isn’t a behemoth, and the cameras (including a wide-angle front one) seem solid. Along with its cousin the 8S, this is also the first Windows Phone with Beats audio, which boosts bass during headphone listening in a way that adds a jolt of energy to certain types of music.
+
+Nice though the 8X hardware is, this phone, like all smartphones, is defined by its operating system. While 2010′s Windows Phone 7 was good; last year’s Windows Phone 7.5 was really good. And Windows Phone 8, from my brief time with it, seems to be really, really good.
+
+The new version is a substantial one in terms of new features, but the biggest change is one of fundamental technology: Windows Phone 8 is now based on the same core as Windows 8, rather than Windows Mobile, the aging junior-sized platform that’s been the basis of all previous versions of Windows for phones. Microsoft says that moving on up to full-strength Windows will permit the operating system to do a better job of supporting more powerful hardware, and will allow Windows developers to more easily write apps which run on both Windows 8 and Windows Phone 8.
+
+I’m not going to step through all the new features in Windows Phone, but they’re many and varied, from a new mapping application based on Nokia’s mapping data to “lens” add-ins which add additional features to the camera app to better voice input.
+
+Microsoft is continuing its emphasis on people-centric stuff with even more social-networking capabilities, such as the ability to group people into “Rooms.” It’s added a feature called Kid’s Corner which lets you hand over your phone to your children, content that they’ll only be able to get at the apps and content you permit. And it’s introduced Data Sense, a technology which compresses web pages to help you stay within your data plan’s limits. (Verizon will be the first carrier to support it.) It all adds up to an impressive piece of work.
+
+Normally, the tech industry is a meritocracy: Impressive pieces of work tend to do well. But if there’s one thing we’ve learned from Windows Phone to date, it’s that impressive products sometimes fail to take off.
+
+With mobile phones, the alchemy of success is particularly complex. An operating system such as Windows Phone has four constituencies: consumers, developers, manufacturers and carriers. It’s tough for an operating-system company to come up with something compelling for any one of these groups unless it gets all of them excited, all at once. And with the iPhone and Android so deeply entrenched in their own ways, it hasn’t been entirely clear whether the market has room for a strong number three mobile platform.
+
+So far, Windows Phone is stuck as an also-ran. While Gartner says that Windows Phone shipments grew by more than 130 percent year-over-year in the second quarter, that only got the platform to a measly 2.7 percent of the market share, compared to 64.1 percent for Android and 18.8 percent for iOS.
+
+For Windows Phone to thrive, it needs cool apps — both the major cool apps available elsewhere, and some cool apps which are its alone. It needs dynamite phones. And as much as anything else, it needs the salespeople at phone stores to do a good job of selling the platform’s virtues, even though it’s probably much easier to sell the known quantities that are the iPhone and Android.
+
+Microsoft is making progress on the cool-app front: At this morning’s event, Windows Phone honcho Joe Belfiore says that Windows Phone 8 will get 46 of the top 50 apps, including Pandora, until now the poster child for Windows Phone unavailability. (He didn’t mention the four which aren’t on their way, but Instagram and Flipboard leap to mind as iOS/Android all-stars that remain no-shows on Windows Phone.) The new phones from Nokia, HTC and Samsung look promising, too.
+
+As for whether the carriers will do a good job of getting consumers interested in Windows Phone 8, I chatted with Microsoft Corporate VP Terry Myerson after the event, and he said that the company’s relationship with AT&T, T-Mobile and Verizon has never been better. (Sprint, however, hasn’t announced any plans to release Windows Phone 8 devices.)
+
+Then there’s the great big wild card known as Windows 8. Until now, Microsoft’s Metro Modern interface, as clever as it is, has been an outlier — a radical departure from the one you encounter on all your other computing devices. Now that both Windows 8 and Windows Phone 8 have their own incarnations of the Modern look, Windows Phone could go from feeling a tad foreign to being utterly mainstream.
+
+Or, if consumers don’t buy into Windows 8′s brave new world, Windows Phone 8 could get caught in the backlash. It’s just hard to know.
+
+Me, I’m going to give it a try. As soon as I press Publish on this post, I’m going to take the U.S. version of the 8X phone that I (and everyone else at the event) received and hotfoot it over to the nearest AT&T store. I’ll ask someone there to switch my account over from the Samsung Galaxy Nexus I’ve been using for the past few months to the 8X. For a few weeks, at least, I’ll be a Windows Phone 8 person — and I’ll let you know how it goes.

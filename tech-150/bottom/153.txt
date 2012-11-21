@@ -1,0 +1,21 @@
+I’m proud to launch the Windows Phone 8 Developer Platform. After years of planning and development, today we’re making available the most important advancement of our dev plat to date, including a new SDK and a refreshed Dev Center now open for Windows Phone 8 app submissions.
+
+Here at the //BUILD 2012 conference, developers are seeing firsthand how we’re delivering close alignment with Windows 8 via a common core. Moving to a common Windows core meant that almost every major underlying subsystem had to change. For example, for the .NET Framework, we moved from using .NET CF to Core CLR, two different versions of the Framework that forked from each other over five years ago. This gives developers far more capability. Our colleagues in the Developer Division have two new blog posts that go into more details on new tools and .NET enhancements.
+
+This investment, in turn, allows developers to take advantage of support for native C++ programming, familiar tools, and common APIs to target phones, PCs, and tablets for an estimated combined opportunity of roughly 500 million units next year.
+
+The phone market alone represents a tremendous opportunity. Competition is strong, but people are ready for a phone built around them. With a new Start screen, more customizable Live Tiles, and the innovative new features like Rooms and Kid’s Corner all revealed in yesterday’s launch, Windows Phone 8 is the world’s most personal smartphone. Early industry and customer response has been fantastic, and Windows Phone will be available through 50 of the top mobile operators worldwide starting next month. The expansion of phone hardware options and Windows Phone Store to 191 markets equates to a 90 percent increase in addressable market for your apps in 2012.
+
+And, of course, there’s the developer opportunity. Frankly, this was the easy part: we just delivered what you asked for. You told us you wanted native code, in-app-purchase, and more ways to reuse and port code—done, done, and done.  More than 90 percent of the things you asked for, we added. These capabilities combined with new phone features like better Live Tiles, Lenses, NFC support, and custom app notifications and wallpaper on the lock screen mean that apps do more—and do it in more markets—on Windows Phone.
+
+Today is about giving you what you need to immediately start taking advantage of this opportunity, including dev devices from our friends at Nokia for those attending //BUILD. We wouldn’t be here without the patience, feedback, and support of our dev community and great partners (including the 30-plus announced today) —thank you.
+
+I hope you’ll take this opportunity to learn about the new platform and its capabilities by installing the new SDK. If you’ve already got an app, now is the time to start doing things like adding large tile support (to take advantage of the extra Start screen real estate and show more info on the tile) and experimenting with native code.
+
+New tools: Using the new Windows Phone 8.0 SDK
+
+Visit the Dev Center for guidance on how to get started with the new SDK and to locate a Developer Camp in your area where you can get one-on-one hands-on time with our experts. You can also check out the //BUILD conference technical session recordings on Channel 9 and watch this blog for more posts from my team providing guidance and additional details on the new platform.
+
+Windows Phone 8 is out, the tools are available, and devices are about to be released—it’s time to get coding. As an added incentive, for the next 8 days individual developers can register for a Dev Center account for just $8 (a 92 percent savings). Please note because this is a very limited time offer. You’ll be charged $99 USD or equivalent in your local currency, and we’ll refund the difference in the next 30 to 45 days. Watch for more details on Dev Center soon.
+
+There’s never been a better time to be a developer for Windows Phone. As the lead for the developer experience, I’d love to hear your questions and feedback here or at #wpdev.

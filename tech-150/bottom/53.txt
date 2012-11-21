@@ -1,0 +1,17 @@
+Anthony here. Just wanted to share a personal update now that I have a moment.  
+
+At around 9:00 this morning upon hearing about the fuel situation at Peer1, I decided to head out and see if I could lend a hand. The streets of Manhattan near where I live (Soho – not in the evacuation zones) are in not-so-bad shape right now, but the damage left from the flooding in the evacuation zones is significant and real.
+
+I’m sitting in our datacenter NOC at 75 Broad St. Not that it’s been pointed out to me, but there are beds set up on the tiled floor here from the great team at Peer1 who stayed to monitor the situation overnight. These guys have incredible commitment to keeping everything running, and it’s great to see.
+
+Normally, power loss would not be a major problem for our datacenter – Peer1 stayed online during the major Manhattan power outage in 2003 that lasted for days, and we preemptively shifted to backup power around 4:00pm yesterday predicting that Con Edison would be shutting off power in evacuation zones.  Given the nature of the flooding, this situation escalated greatly, submerging our reserve fuel in the basement, shutting off the elevators, and damaging the pumps required to get this fuel to the generator on the 17th floor.
+
+My reasons for coming to the datacenter were twofold: one was simply to help and do whatever I could to help us (and the whole building) stay online. The other was to send our systems team the absolute final signal to perform a clean shutdown of our infrastructure should we be moments away from total power loss. Generally, clean shutdowns are preferable to abrupt halts, since code halting in a known state is better than code halting in an unknown state.
+
+We had an initial warning that 10:45am was going to be the clean shutdown time. To determine how much time we have remaining, engineers are taking readings at particular time intervals to attempt to determine how quickly we are depleting. The tank readings are behaving somewhat erratically, as there is another mechanism replenishing it from a separate fuel header. Some of our recent readings seem more optimistic, but it is impossible to predict how much fuel remains in this header at this time. As of this writing, we have at least 45 minutes left.
+
+Bridges to the island are open right now, and we currently have a fuel truck en route. We have approval from the building to manually carry fuel up in plastic water bottles, and we have a number of our team on-site to carry fuel up the stairs as needed. I do not know if the manual plan will be successful, but we will certainly try.
+
+Unfortunately, I do not have more information on a final resolution to this issue. You should still expect Squarespace to go offline at some point because of the hurricane’s aftermath, but we will do our best to keep that downtime to a minimum. Once we have a reliable stream of fuel to the building, it will go online independently of any other grid issues related to ConEdison and lower Manhattan in general.
+
+We’ll continue to keep you posted. Thank you for your patience.

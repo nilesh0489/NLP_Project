@@ -1,0 +1,25 @@
+Update: In response to the impact of Hurricane Sandy, Comcast is opening its XFINITY WiFi hotspots to non-Comcast subscribers in PA, NJ, DE, MD, DC, VA, WV, MA, NH and ME until Nov. 7. Users should search for the network "xfinitywifi" and click on "Not a Comcast subscriber?" at the bottom of the sign-in page. Users should select the "Complimentary Trial Session" option from the drop down list. The Open Wireless Movement thanks Comcast for helping out!
+
+In troubled times, it's important to help each other out. Right now, we're witnessing an unprecedented hurricane hitting the Eastern Seaboard of the United States, and the ensuing damage and power outages are crippling rescue efforts, businesses large and small, and personal communications.
+
+Communication is critical in time of crisis, and the Internet allows for the most effective way of getting information in and out. With readily available networks, government officials could use tools like Twitter to quickly spread information, citizen reports could help focus assistance where it is needed most, and social media updates could help reassure friends and loved ones—keeping mobile phone lines open for emergencies.
+
+To take advantage of the Internet, people should not have to attempt to skirt restrictive Terms of Service to attempt to tether their smartphones. And tethering would not be necessary if there were ubiquitous open wireless, so that anyone with a connection and power can share their network with the neigborhood.
+
+Last year, we wrote a post titled "Why We Need An Open Wireless Movement." Today, EFF is proud to announce the launch of the Open Wireless Movement—located at openwireless.org—a coalition effort put forth in conjunction with nine other organizations: Fight for the Future, Free Press, Internet Archive, NYCwireless, the Open Garden Foundation, OpenITP, the Open Spectrum Alliance, the Open Technology Institute, and the Personal Telco Project.
+
+Aimed at residences, businesses, Internet service providers (ISPs), and developers, the Open Wireless Movement helps foster a world where the dozens of wireless networks that criss-cross any urban area are now open for us and our devices to use.
+
+The Open Wireless Movement envisions a world where people readily have access to open wireless Internet connections—a world where sharing one's network in a way that ensures security yet preserves quality is the norm. Much of this vision is attainable now. In fact, many people have routers that already feature "guest networking" capabilities. To make this even easier, we are working with a coalition of volunteer engineers to build technologies that would make it simple for Internet subscribers to portion off their wireless networks for guests and the public while maintaining security, protecting privacy, and preserving quality of access. And we're working with advocates to help change the way people and businesses think about Internet service.
+
+We're also teaching the world about the many benefits of open wireless in order to help society move away from closed networks and to a world in which open access is the default. We are working to debunk myths (and confront truths) about open wireless while creating technologies and legal precedent to ensure it is safe, private, and legal to open your network.
+
+We believe there are many benefits to having a world of open wireless. Two of the big ones for us have to do with privacy and innovation.
+
+Open wireless protects privacy. By using multiple IP addresses as one shifts from wireless network to wireless network, you can make it more difficult for advertisers and marketing companies to track you without cookies. Activists can better protect their anonymous communication by using open wireless (though Tor is still recommended).
+
+Innovations would also thrive: Smarter tablets, watches, clothing, cars—the possibilities are endless. In a future with ubiquitous open Internet, smartphones can take advantage of persistent, higher quality connections to run apps more efficiently without reporting your whereabouts or communications. Inventors and creators would not have to ask permission of cell phone companies to utilize their networks, both freeing up radio spectrum and reducing unnecessary barriers to entry.
+
+This movement is just beginning, but in a sense it has always been around. People, businesses, and communities have already been opening up their wireless networks, sharing with their neighbors, and providing an important public good. We want this movement to grow without unnecessary legal fears or technical restraints.
+
+Join the Open Wireless Movement. Whether you're a household or small business, a technologist or a student, we need your support. Check out openwireless.org for more information, and spread the word.

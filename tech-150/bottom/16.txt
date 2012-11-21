@@ -1,0 +1,75 @@
+A slide taken from an online slideshow by a political targeting firm.
+
+Connect with Facebook to share articles you read on ProPublica. Learn more »
+
+If you're a registered voter and surf the web, one of the sites you visit has almost certainly placed a tiny piece of data on your computer flagging your political preferences. That piece of data, called a cookie, marks you as a Democrat or Republican, when you last voted, and what contributions you've made. It also can include factors like your estimated income, what you do for a living, and what you've bought at the local mall.
+
+Across the country, companies are using cookies to tailor the political ads you see online. One of the firms is CampaignGrid, which boasted in a recent slideshow, "Internet Users are No Longer Anonymous." The slideshow includes an image of the famous New Yorker cartoon from 1993: "On the Internet, nobody knows you're a dog." Next to it, CampaignGrid lists what it can now know about an Internet user: "Lives in Pennsylvania's 13th Congressional District, 19002 zip code, Registered primary voting Republican, High net worth household, Age 50-54, Teenagers in the home, Technology professional, Interested in politics, Shopping for a car, Planning a vacation in Puerto Rico."
+
+The slideshow was online until last week, when the company removed it after we asked for comment. (Here is the full slideshow.) Rich Masterson, CampaignGrid's chairman, wrote in an email that the slideshow was posted in error: "It was an unapproved version of a sales deck that was posted by an intern who no longer works for the company."
+
+CampaignGrid does indeed collect 18 different "attributes" for every voter, Masterson told ProPublica, including age, gender, political donations, and more. Campaigns use this data to tailor the online ads you see.
+
+Online targeting has taken off this campaign season. ProPublica has identified seven companies that advertise the ability to help campaigns target specific voters online. Among them is Experian, the credit reporting company. Datalogix, a company that works with Facebook to track users' buying patterns, is also involved. (Here are marketing materials and comment from the seven companies). CampaignGrid and a few, similar firms have been profiled for their innovative approaches. Yet the scale of the targeting and the number of companies involved has received little notice.
+
+Few of the companies involved in the targeting talk about it publicly. But CampaignGrid, which works with Republicans, and a similar, Democratic firm, Precision Network, told ProPublica they have political information on 150 million American Internet users, or roughly 80 percent of the nation's registered voters.
+
+The information — stripped of your name or address — is connected to your computer via a cookie. Targeting firms say replacing your name with an ID number keeps the process anonymous and protects users' privacy.
+
+But privacy experts say that assembling information about Internet users' political behavior can be problematic even if voters' names aren't attached.
+
+"A lot of people would consider their political identity more private than lots of information," said William McGeveran, a data privacy expert at the University of Minnesota Law School. "We make more rules about medical privacy. We make more rules about financial privacy. So if you think private political beliefs are in that category, maybe you're concerned about having them treated like your favorite brand of toothpaste."
+
+Google has stayed away from this kind of targeting. It classifies political beliefs as "sensitive personal information," in the same category as medical information and religious beliefs.
+
+But other big players have embraced the "political cookie," as one company branded it.
+
+As we reported in June, Yahoo and Microsoft sell access to your registration information for political targeting. That's one way CampaignGrid and other companies find you online. Political targeting firms say they also work with other websites, but would not name them.
+
+While campaigns and the firms working with them can buy reams of data about voters, voters have been left mostly in the dark.
+
+Many online ad companies mark targeted ads with a small blue triangle symbol, or the phrase "Ad Choices," and offer surfers a chance to opt out. But even if web users know what the triangle means, they get no information about how or why they were targeted.
+
+"Consumers don't really understand what's going on and haven't given their permission," says Joseph Turow, a digital marketing and privacy expert at the University of Pennsylvania's Annenberg School for Communication.
+
+There are few legal regulations governing how online targeting works, or what notification consumers must receive.
+
+Online advertising experts point out that individual voting records are public information and have long been used to target voters through direct mail. And targeting companies say they are offering a valuable service. Instead of seeing random ads, users get to see ads from candidates they might actually want to support.
+
+"We empower voters," Jeff Dittus, co-founder of Campaign Grid and now head of Audience Partners, wrote in an email. "We give voters information that is meaningful to them and helps them make choices."
+
+Stuart Ingis, a lawyer for the Digital Advertising Alliance, an industry group, said that voter file targeting is a First Amendment issue, and that targeting should be protected as part of political speech.
+
+"These technologies provide a method for politicians inexpensively to improve our democracy," he said. "I would say that the founding fathers firmly believed in the ability — I think our society very much values the ability — to efficiently reach a desired audience with a political message."
+
+Not everyone seems to agree. A recent study from the University of Pennsylvania's Annenberg School found that 86 percent of surveyed adults did not want "political advertising tailored to your interests," and that 77 percent would not return to a website if they knew it "was sharing information about me with political advertisers."
+
+While targeting firms promise a wealth of individual detail, it's hard to know how much information most campaigns are actually using.
+
+"The more third-party data providers you use, the smaller the universe of people who you can reach becomes," CampaignGrid's Masterson said. "Republican women 25-34 who drive SUVs and have American Express cards, and go to the theater once a month — that might be four people."
+
+One place online voter targeting has been used successfully is in the state senate primary race of Morgan McGarvey, a Kentucky Democrat who faced off against three other Democratic candidates this May.
+
+With four liberal candidates competing for a liberal district, McGarvey told ProPublica, he needed to convince the small number of voters who would turn out in the primary that they should vote for him.
+
+His campaign worked with Precision Network to show online McGarvey ads to local voters under 35, and to female Democrats who had voted in at least three of the past five primary elections. (Two of his challengers were women.)
+
+"When every dollar counts, when literally every vote counts, you have to be more targeted," he said.
+
+"I do think it helped us win."
+
+McGarvey is now running unopposed in the November election.
+
+Have you seen a targeted political ad?
+
+Help us find out how politicians are targeting you online.
+
+1. If you spot a small blue triangle icon on any online political ad, or the words "Ad Choices," take a screenshot of the ad.
+
+2. Then click on the blue triangle or the words "Ad Choices" to find out which company showed you the ad. Take a screenshot of that, too.
+
+3. Email the screenshots to us at targeting2012@propublica.org. Please include the full URL of the page where you saw the ad.
+
+If the ad asks you to "learn more," visit a website, donate, or sign a petition, please send us a screenshot of that site or petition, as well. (The page where the ad sends you may also be targeted to what advertisers know about you.)
+
+Not sure how to take a screenshot? Here are the instructions if you're using a PC, using a Mac, or using a smartphone.

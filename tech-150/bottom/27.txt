@@ -1,0 +1,33 @@
+Microsoft CEO Steve Ballmer cites the strong debut as a selling point to convince developers to create more apps for the company's platforms, primarily Windows 8 and Windows Phone 8.
+
+REDMOND, Wash. -- Microsoft CEO Steve Ballmer said the company has sold 4 million copies of Windows 8 to consumers since the operating system debuted on Friday.
+
+Ballmer made the announcement today at the start of the Build conference, a show Microsoft is hosting on its campus for more than 2,000 developers. Microsoft is hoping to convince developers to create applications for its new operating system and the Windows Phone 8 operating system that debuted yesterday.
+
+"In a sense, what these launches really do is the kick off the golden age of opportunity for you as developers," Ballmer said.
+
+Right now, the Windows Store, the application marketplace on Windows 8, has about 5,000 apps in stock for U.S. customers. ESPN said it will have an app for the store by the end of the year. Dropbox as well as enterprise software maker SAP are also working on apps that will be available soon. And Ballmer said that Twitter is working on a Windows 8 app that will be available "in the months ahead."
+
+"It will be the most important in terms of highlighting and showcasing some of these capabilities we're talking about today," Ballmer said.
+
+Toward the end of his speech, Ballmer became animated, raising his voice to exhort developers to build new applications for the various Microsoft platforms.
+
+"Windows 8 is the best opportunity for software development today," Ballmer said. "Hundreds of millions of people are aching to use your apps, just dying to use your application."
+
+The centerpiece of Ballmer's pitch to developers: Microsoft's huge footprint. Ballmer said that there are currently 670 million PCs running Windows 7, all of which can be upgraded to Windows 8. What's more, analysts expect computer makers to sell 400 million PCs next year, most of which will run Windows.
+
+"I think we're going to see a lot of growth and vitality and explosion in the PC market," Ballmer said. "This is a market in which you can do your best work, your most innovative work.... This is a market in which you can make money."
+
+Ballmer gave a demo of a variety of products running Windows 8, everything from an 82-inch touch screen monitor from Perceptive Pixel, a company Microsoft recently purchased, to Microsoft's new lightweight Surface tablet. He also showed Windows 8 running on Acer's new Aspire S7-191, a trim laptop with a touch-enabled screen.
+
+"You say, 'Do people really want to us touch laptops?'" Ballmer said. "Touch laptops really are cool."
+
+Microsoft also released a new software development kit for Windows Phone 8, giving developers new tools to create application for the company's mobile phone platform. It's a business that's tiny, relative to rivals Google and Apple. But Microsoft believes that it will benefit from from the push behind Windows 8.
+
+"The opportunity there is also excellent," Ballmer said.
+
+To spark more interest, developers were given a few freebies for attending the conference. Each one got a Microsoft Surface RT, 100 gigabytes of storage on Microsoft's SkyDrive Web service, and a Nokia Lumia 920 mobile phone.
+
+Updated at 10:50 a.m. PT with more details and analysis.
+
+Updated to clarify that ESPN's app will be available by the end of the year.

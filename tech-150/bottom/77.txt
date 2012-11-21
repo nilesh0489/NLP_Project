@@ -1,0 +1,27 @@
+The Foreign Intelligence Surveillance Act (FISA), enacted by Congress after the abuses of the 1960s and 70s, regulates the government’s conduct of intelligence surveillance inside the United States. It generally requires the government to seek warrants before monitoring Americans’ communications. In 2001, however, President Bush authorized the National Security Agency to launch a warrantless wiretapping program, and in 2008 Congress ratified and expanded that program, giving the NSA almost unchecked power to monitor Americans’ international phone calls and emails.
+
+On October 29, the Supreme Court will hear arguments on whether plaintiffs represented by the ACLU have the right to challenge the constitutionality of the law.
+
+Less than an hour after President Bush signed the 2008 amendments, the ACLU filed a lawsuit challenging the law’s constitutionality. The case, Amnesty v. Clapper, was filed on behalf of a broad coalition of attorneys and human rights, labor, legal and media organizations whose work requires them to engage in sensitive and sometimes privileged telephone and e-mail communications with individuals located outside the United States.
+
+In 2009, a judge in New York dismissed the suit on the grounds that the ACLU’s clients couldn’t prove that their communications would be monitored under the new law. A federal appeals court reversed that ruling in 2011 and the Obama administration has now asked the Supreme Court to hear the case.
+
+You can view the court filings here.
+
+Learn more about the plaintiffs in the ACLU’s challenge to the 2008 FISA Amendments Act>>
+
+July 2008: The FISA Amendments Act of 2008 is signed into law by President Bush. The ACLU files a lawsuit in the U.S. District Court for the Southern District of New York challenging the constitutionality of the new law.
+
+August 2009: The district court dismisses the lawsuit on "standing" grounds because plaintiffs could not prove with certainty that they had been spied on. The court's legal analysis would have the effect of placing the FAA – and other broad surveillance laws – permanently beyond the scope of judicial review.
+
+October 2009: The ACLU appeals the district court's dismissal of the lawsuit.
+
+December 2009: The ACLU files its principal brief on appeal.  "Friend-of-the-court" briefs in support of the ACLU are filed by the Brennan Center and other civil liberties and privacy groups, Reporters Committee for Freedom of the Press, the Association of the Bar of the City of New York and a coalition of law professors.
+
+March 2011: A federal appeals court reinstates the ACLU’s lawsuit challenging the FAA, ruling that the plaintiffs in the case could indeed challenge the FAA without first showing with certainty that they had been spied on under the statute.
+
+September 2011: The Second Circuit Court of Appeals denies the government's request for rehearing en banc, allowing the ACLU's challenge to the FAA to proceed.
+
+February 17, 2012: The Obama administration appeals the standing issue to the Supreme Court.
+
+May 21, 2012: The Supreme Court agrees to consider whether ACLU plaintiffs have standing in the case. 

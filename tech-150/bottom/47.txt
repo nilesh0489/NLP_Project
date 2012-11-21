@@ -1,0 +1,25 @@
+A core goal for Ubuntu 13.04 is to get Ubuntu running on a Nexus 7 tablet. To be clear, this is not going to be a tablet Unity interface running on the 8/16GB Nexus 7, but instead will focus on getting the current Ubuntu Desktop running on the Nexus so that we can ensure pieces such as the kernel, power management and other related areas are working effectively on a tablet device.
+
+Topics such as battery life, memory footprint, and support for sensors are all areas in which needs and expectations vary widely between a PC and a mobile devices. The 13.04 cycle will very much be focused on this exploration and learning and this is why we want to focus our efforts on getting the existing Ubuntu Desktop running on the Nexus 7. This will mean that some user-facing parts of the experience won’t make a lot of sense on the tablet, but we want to get the foundations optimized before we focus on these higher level challenges.
+
+Naturally we want our community to be involved throughout this exploration and I want to talk more about how you can get involved both as a tester and as a developer.
+
+To help with testing you will need an 8/16GB Nexus 7 tablet and be willing to replace the Android Operating System with Ubuntu (as such, please be sure to back up any valuable data on your tablet).
+
+You can follow instructions of how to install Ubuntu on your device by reading the instructions at https://wiki.ubuntu.com/Nexus7.
+
+If you have any questions about the installation and setup, please post on Ask Ubuntu; we will use the mobile tag to track these questions. The Mobile development team will be regularly monitoring the questions, and we would like you folks to help answer the list of questions too if you have the answers.
+
+When you find bugs, please use to file the bug (more details about using can be found here). Please also tag the bug with so we can find them more easily.
+
+You can also get in touch with our wider testing community in #ubuntu-testing on the Freenode IRC network.
+
+If you are interested in contributing to making Ubuntu work flawlessly and optimizing the Ubuntu Desktop core for the Nexus 7, we would love to have you participate in this work.
+
+You can find details of many of the areas that we would like to focus on over at Victor’s blog; this provides some great food for thought for performance and functionality goals.
+
+Much of this work will be discussed at the upcoming Ubuntu Developer Summit taking place in Copenhagen from 29th Oct – 1st Nov 2012.
+
+If you are unable to participate in person you can join the sessions remotely. For instructions of how to participate remote, see this page for instructions. You are also encouraged to join #ubuntu-arm on Freenode to discuss this work.
+
+The following sessions are scheduled. Please note times may change, so be sure to click the link below to ensure the date/time is up to date. You can also find the appropriate blueprints linked from the links below too:

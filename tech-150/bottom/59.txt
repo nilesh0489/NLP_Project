@@ -1,0 +1,5 @@
+It appears that you have JavaScript disabled or have an old version of the Adobe Flash Player. Download the latest Flash player to view this video.
+
+If you are on a mobile device, you may be able to directly download the video to play.
+
+If your browser allows only "trusted sites" to execute Javascript, you should add the "googleapis.com" domain to your whitelist to allow our Flash detection to work properly.

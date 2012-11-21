@@ -1,0 +1,23 @@
+We've been following the core media apps—Music and Video—since the Windows 8 Consumer Preview. That development hinted Microsoft wanted to become a viable competitor to Apple and Amazon in the multimedia content realm. We found the first glimpse compelling, a signal that perhaps there was a true stake for Redmond to claim.
+
+Now with Windows 8 live, the Preview groundwork has been built upon. As you'll see here, things have changed, but not always as expected. The evolution of Music and Video begins up front, where the apps have shed their Zune branding. Instead, Microsoft chose to reuse the Xbox brand, as the company moves to expand the scope of the Xbox name from gaming to all media and entertainment.
+
+The Music and Video applications are close siblings. Aside from the obvious difference implied by their names, their structure and organization are essentially identical.
+
+In both apps, the first/main screen is dominated by Microsoft's attempts to sell to you. Users are greeted by a mix of promotional areas that highlight "hot" artists or movies, and entryways into the music, movie, and TV stores. Your own media are hidden out of view to the left.
+
+Drill into your media, and you get simple browsing. For videos you get a bunch of thumbnails, and the ability to filter the visible videos according to whether they're films, TV shows, or other. (I don't know what it uses to make this distinction because all my videos appear as "other." There doesn't appear to be a way within the application to change that.)
+
+The layout is also terribly unscalable. The only option is to see some moderately large thumbnails in a list that scrolls left to right. That's OK if you have a few dozen videos; it's practically worthless if you have any more. It's just too hard to find what you want.
+
+In music, you get a spreadsheet-type view with the option to group by song, artist, or album. The most notable bit about this spreadsheet view is just how extraordinarily slow it is. Scroll too fast and you'll just see a blank great space where songs should be listed. A few seconds later it'll manage to populate itself. This slowness, combined with the lack of any apparent "fast scroll" mechanism (such as iOS's ability to scroll down the right edge) makes browsing and selecting files a tedious experience.
+
+Songs and albums can be selected by right clicking them or nudging them sideways, allowing group operations such as adding them to a playlist, to the Now Playing pseudo-playlist, or deleting them. Adding to playlists is a little glitchy. There are actually two buttons to add to playlists; one that adds to a new playlist, and one that adds to the last playlist you modified. This is a good idea, but I found the Music app was slow to notice when I'd changed to modifying a different playlist. For example, if I first edit playlist A and then edit playlist B, the "add" button would still show playlist A's name... and then a few seconds later change to playlist B.
+
+Like Windows Media Player, Music's Now Playing pseudo-playlist is maintained independently of your current view of the song spreadsheet. This is in contrast to iOS, where changing the sort order of the song list while browsing is also prone to changing the playback order. I prefer this approach, but its implementation in Music seems to leave a lot to be desired. Although it is easy to see what the Now Playing list is, I can't find any facility for actually changing it. Decide that you want to get rid of one of the songs you've cued up? Want to swap them around? For the life of me, I couldn't tell you how (if it's even possible to do at all). This feels like such a glaring oversight that I'm sure I must be missing something.
+
+Overall, I feel there's nothing fundamentally wrong with the basic presentation. With a bit of care and attention it could work well, but it's just not there yet.
+
+One smart feature: when Music is playing, the volume popup that appears when you use the hardware volume keys also includes playback controls and album art. It's a nice touch.
+
+One not at all smart feature: the play/pause key on keyboards with media keys doesn't control playback of the Music app. Want to quickly pause playback to take a phone call? You'll have to go into the app to do it.

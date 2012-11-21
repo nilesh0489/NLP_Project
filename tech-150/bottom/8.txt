@@ -1,0 +1,93 @@
+On the way to the Apple Store today to buy AppleCare+ for my wife’s new iPhone 5, we passed the new Microsoft Store, coincidentally in the middle of their Surface with Windows RT launch. (That is actually the product’s name. “Surface with Windows RT”.)
+
+They had set up a table and an Xbox demo in the hallway and were giving away “Microsoft Surface”-branded disposable rain ponchos (this entire mall is indoors, including the parking, and it didn’t rain today) and muffin fragments (much like when you order a soda on a plane, they pour a third of it into a little plastic cup full of hollow ice cylinders, and they don’t let you keep the rest of the can). An employee with a microphone in front of the Xbox kiosk was talking to the audience of nobody as if it were a dance party.
+
+The store is creepy: so many elements are embarrassingly similar to the Apple Store on the next floor. Microsoft even ripped off trivial elements that easily could have been different, such as the employee uniform. There’s a huge elephant in the room, and we can all see it, but Microsoft still implicitly denies it.
+
+There were far more employees than customers, and I was curious, so I thought I’d stop in to take a look at Microsoft’s new tablet. The employees in the store were overly enthusiastic, especially for 3:47 PM, and practically mobbed anyone who entered. “HEY! WELCOME TO THE MICROSOFT STORE! WOULD YOU LIKE TO TRY THE NEW SURFACE?”
+
+The salesman launched into an elaborate pitch. He wasn’t a confident speaker, so the rote was obvious. I wanted to jump right in and start playing with the software, but the salesman kept butting in and driving “my” demo.
+
+The first thing he had me do was detach and reattach the keyboard cover. Click. He sold the keyboard cover hard. “Nobody else has a cover like this.”
+
+The staff loved Adam so much that he later vomited in the Apple Store.
+
+The salesman then showed off the kickstand and started flipping through the applications himself. I wondered if this was how the press got to “use” the Surface before today.
+
+When we finally broke the salesman’s concentration so we could pick it up and start playing with it, Tiff and I both had the same first impression: it’s heavy. On paper, it’s 1.5 pounds (without the half-pound keyboard), like the iPad 1 and a bit heavier than the iPad 3. But it’s not just heavy: it feels dense, like the iPhone 4 and 4S (and notably not like the iPhone 5).
+
+Like the Zune, the Surface might always be competing with the previous-generation iPad. Microsoft has approximately matched the weight of the already-too-heavy iPad 3 right as Apple is releasing the far lighter iPad Mini. (And Microsoft just launched this tablet at $500 as everyone else is moving to much lower pricing.)
+
+I tried rotating the Surface. There was a long enough delay that I thought rotation just wasn’t supported, then it kicked in and the newly laid out screen just popped in. No transition, no animation. I switched to a different app and tried the same thing with the same results. Rotation was always slow and sloppy.
+
+My demo was interrupted as another employee walked through the store, shouting enthusiastically, “WE HAVE WORKSHOPS IN THE BACK!” Nobody followed him there.
+
+The diagonally-oriented camera is strange. In the one orientation it’s optimized for, it’s slightly annoying. In any other orientation, it’s almost intolerable. If I brought home a Surface and didn’t know this was a design decision, I might assume the camera was broken and return it.
+
+The maps app is very sluggish and doesn’t use vector graphics, making it feel old.
+
+iOS is so responsive and so liberal with animations that it has a very tactile feel, and rather than thinking “tap this button to open” or “swipe across this box to share”, conceptually, you just move the things on the screen with your fingers.
+
+The distinction seems subtle, but it’s important. Every action on the Surface feels deliberate. It feels like you’re using a computer.
+
+The standard gestures don’t help, requiring many in-from-the-edge swipes that not only aren’t discoverable but also frequently conflict with scrolling. My gestures often didn’t work, and it wasn’t clear whether there just wasn’t a hidden context menu at that moment or I just screwed up the swipe.
+
+Most of the animations also aren’t helpful, with minimal spatial consistency. Many animations seem arbitrary, not hinting at anything behaviorally useful. Microsoft has applied animations and gestures in Windows 8 about as effectively as they applied color in Windows XP and transparency in Windows Vista: they knew that Apple had been successful with these features, so they made a checklist and just applied them haphazardly. “Apple does animations, so now we do animations! Apple does gestures, so now we have gestures!”
+
+An employee was stationed by these big letters on the floor to instruct people to exit to the left, rather than stepping over them. I’ve never been given instructions on how to exit “other stores”.
+
+The keyboards are both decent but unmemorable. Every Surface had its own Touch Cover (no physical key movement), and the employees were frantically passing around a single Type Cover (traditional slim keys). Since everyone wanted to try the Type Cover, I only got a few seconds with it, but it was comparable to good iPad keyboards like Logitech’s.
+
+The Touch Cover is one of the Surface’s biggest innovations. I thought I would hate it, but I didn’t. It’s not like typing on a completely flat surface: each “key” is raised slightly, so while there isn’t any mechanical feedback, it does feel a bit like a keyboard.
+
+But since it responds to touches rather than mechanical pressure, you can’t rest your fingers on it without triggering key presses. Your fingers must hover over it, which makes it easy to get misaligned from your expected positions and type a bunch of wrong characters. I had a hard time keeping alignment when I needed to stretch for the boundary keys, including Shift. Every time I typed a capital letter, I mistyped the next few letters.
+
+I couldn’t type on the Touch Cover significantly faster than with the on-screen keyboard, so I question its purpose. Moreover, since the Touch Cover and Type Cover are so close in price and nearly indistinguishable in size and weight, I’m not sure why the Touch Cover exists at all other than to be different from “other tablets”. I don’t know why someone would get it instead of the Type Cover.
+
+I went to another Surface and was greeted by another salesman. He also aggressively demoed the tablet for me, not letting me take over for more than three seconds at a time. It was obvious that they had all had the same training and were instructed to hard-sell the same talking points. The pitches were aggressive, fast-paced, and competitively defensive: they often mentioned “other tablets” and didn’t let me forget which features were “not available on any other tablet”.
+
+He kept showing me the home screen and how to rearrange my icons, even though I kept wanting to explore the apps.
+
+He showed me Office, which was almost unusable: it was extremely sluggish, and touch targets were tiny and difficult to hit. He said this was the only tablet that could run Office, and if you used Office at work, this was therefore the only tablet that you could use at work. I played dumb.
+
+He asked what kind of computer I had at home. I told him the truth: that I used to have PCs, but now I had an old Mac and wanted to see the newer options out there.
+
+He showed me the L-shaped magnetic power connector, which can be plugged in either way, and showed how the magnet safely disconnects when the cable is pulled. It was vaguely familiar, but I continued to play dumb.
+
+I asked about 3G options, which the Surface doesn’t have. He said it would restrict me from being able to use it anywhere (?), so I pushed a little further, and he said nobody wants two bills and you can just use tethering and why mess with the pesky 3G connection?
+
+He started selling me on the screen quality, saying it had a better screen than any other tablet. I asked, “What do you mean? Which other tablets?”
+
+I couldn’t get him to say “iPad”, but he did say it was better than “Retina screens”.
+
+I broke character slightly. “I don’t know, I saw the Retina iPad upstairs and I can’t see the pixels at all on it. On here, I can see the pixels clearly.”
+
+“No you can’t. Where can you see the individual pixels?”
+
+“Right there. See, the left stroke on that capital ‘D’ has one solid pixel on the left and a half-shaded pixel on the right.”
+
+He scaled the icon up to “zoom in”, which, of course, changes what the physical pixels display. “I can’t see any pixels!”
+
+I gave up. It was like arguing with a Tea Partier. But I figured, now that I had broken character a little, I’d risk a bit more.
+
+An Apple Store employee had stopped by after his shift, with the original blue shirt over his shoulder, to check out the Surface across from us. We smiled at him. I asked my salesman, “Did you apply to work at the Apple Store upstairs first, or did you always want to work here?”
+
+“No, I went right here. Always been a PC guy. I like being able to customize things, like upgrading my sound card—”
+
+I couldn’t resist. “Oh, can you upgrade the sound card in the Surface?”
+
+“No, but… I started working here before the Surface came out.” (This Microsoft Store opened 28 days ago.) “But you can add more RAM to this, right over here, this is an SDXC slot, which means Extra Capacity.”
+
+Like John Moltz, I’m left to ask the question: why buy a Surface instead of an iPad? For the price, you can almost buy two baseline iPad Minis. Or you can buy a 32 GB iPad Mini with LTE and a Smart Cover.
+
+But I don’t think many Surface buyers are going to comparison-shop with the iPad, or vice versa. It’s very clear who the Surface is for, and it’s not us.
+
+The Surface is partially for Microsoft’s world of denial: the world in which this store contains no elephants and Microsoft invented the silver store with the glass front and the glowing logo and blue shirts and white lanyards and these table layouts and the modern tablet and its magnetic power cable. In that world, this is a groundbreaking new tablet that you can finally use at work and leave your big creaky plastic Dell laptop behind when you go to the conference room to have a conference call on the starfish phone with all of the wires and dysfunctional communication.
+
+But it’s also for people like that salesman who don’t agree with Apple’s choices: people who want to have more hardware options, more customization, more hackability, and fewer people saying “no” to what they can do on their devices.
+
+Apple’s products say, “You can’t do that because we think it would suck.” Microsoft’s products say, “We’ll let you try to do anything on anything if you really want to, even if it sucks.”
+
+People who dislike Apple’s approach or whose requirements are incompatible with it will always exist in great numbers, and the Surface is for them. It’ll probably sell well, especially if Microsoft can expand their retail presence quickly.
+
+But it’s not for me at all. Not even for testing, experimenting, or curiosity. It feels too much like using a Windows PC, which was exactly Microsoft’s intention, and it will appeal to people who want that. But that’s a world I fled 8 years ago with no intention of returning.

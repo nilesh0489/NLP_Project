@@ -1,0 +1,9 @@
+A new class of electronics that are biocompatible and can dissolve completely in liquid mean that implantable medical treatments are closer to reality for on-the-go warfighters.
+
+DARPA researchers have created electronic systems and components using ultrathin sheets of silicon and magnesium encapsulated in silk, a biocompatible material. The thickness and crystallinity of the silk determines how long the electronics take to dissolve: days, hours, or even minutes. Silicon and magnesium are naturally occurring at low levels in the human body, and since the amount of material used in these devices is below physiological levels these electronics are biocompatible and eco-friendly.
+
+A paper appearing in the September 28, 2012 issue of Science explains how DARPA researchers were able to use this technology to create an implantable device that acts as a non-antibiotic, programmable bactericide that can dissolve harmlessly into the body to prevent surgical site infection. This is one driving example of biodegradable medical treatments for remote patient care that does not require extraction surgery while warfighters are deployed.
+
+“Transient electronics applied to localized antimicrobial therapy would be a major advance,” said Alicia Jackson, DARPA program manager for this effort. “A limitation of current implanted devices such as pacemakers and artificial joints is localized infection. Applying thin film appliqués to implant devices for localized surface heating and sterilization may help counter these infections, even when antibiotic resistant bacteria are present. Having means of eradicating infections could enhance the efficacy of many implant devices and ultimately reduce patient morbidity and mortality.”
+
+This work was funded by a study in the DARPA Microsystems Technology Office (MTO).

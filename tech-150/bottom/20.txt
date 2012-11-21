@@ -1,0 +1,57 @@
+What they’re doing on Marsden Farm isn’t organic. It’s not industrial, either. It’s a hybrid of the two, an alternative version of agriculture for the 21st century: smart, green and powerful.
+
+On this farm in Boone County, Iowa, in the heart of corn country, researchers have borrowed from both approaches, using traditional techniques and modern chemicals to get industrial yields — but without industrial consequences.
+
+If the approach works at commercial scales, and there’s good reason to think it will, it might just be an answer to modern farming’s considerable problems.
+
+“We wanted to show that small amounts of synthetic inputs are very powerful tools, but they’re tools with which you tune the system, not drive it,” said Adam Davis, a researcher with the United States Department of Agriculture.
+
+The Marsden Farm experiment, which is described in a study published Oct. 10 in Public Library of Science One, started in 2003, when Davis was a graduate student under agronomist Matt Liebman of Iowa State University. Liebman’s specialty is integrated pest management, or strategies that use nature to accomplish what’s typically done with pesticides, herbicides and synthetic fertilizer.
+
+It’s not a new idea, but it’s one that’s been generally neglected for the last several decades, as large-scale farming came to rely on simplified, chemically intensive and ultimately unsustainable approaches. For a while, these worked, but with high yields came big problems: the threat of catastrophic disease outbreaks in monocultures, an insatiable demand for nitrogen fertilizer, pesticide-resistant bugs and herbicide-resistant superweeds, and a new generation of crops designed to be drenched in toxic chemicals.
+
+“We have two choices now,” said Liebman. “We can double down, load more chemicals into the system, and get another decade of increasingly ineffective control — or we can choose the path towards integrated management.”
+
+Liebman, inspired in part by a pioneering Iowa farmer named Dick Thompson, wanted to bring integrated pest management back, but augmented with technology’s new tools. On 22 acres at Marsden Farm, his team planted three plots with different rotations of crops. The first followed a two-year rotation, alternating between corn and soybeans, as is customary in the region. It was managed the usual way, with lots of chemicals.
+
+For the second plot, the researchers rotated over three years between corn, soy and oats, with red clover planted in winter. The clover, which absorbs atmospheric nitrogen, was planted between crop rows and plowed under as soil-replenishing “green manure” in spring. On another plot, instead of red clover the researchers planted a fourth-year crop of alfalfa, which can be used to feed livestock. The animals’ manure came back as fertilizer.
+
+On these fields, the researchers still used herbicides and pesticides, but not the usual way. Rather than spraying them routinely over large areas, Liebman’s team applied them only when necessary. “We use low-dose products in the smallest quantities possible,” he said. “We’re not against their use. What we’re arguing for is using them as carefully deployed tactical options.”
+
+Liebman called these applications “therapeutic measures.” Therapy wasn’t often needed. Having different crops with different life cycles made it harder for weeds to grow. What might flourish among corn and soy, for example, was disrupted by oats. When red clover and alfalfa were mowed, weeds were chewed up before they flowered. As for insect problems, low pesticide use, along with habitat provided by cover crops, allowed pest-eating bugs and birds to flourish.
+
+After eight years, Liebman and Davis used eight times less herbicide in the three- and four-year rotations than in the conventional plot, they report in the new study. Ecotoxicity in surrounding water was two orders of magnitude lower. Thanks to clover and alfalfa, the experimental plots also used 86 percent less synthetic fertilizer.
+
+Most important of all, the experimental plots were as productive as the conventional. They produced just as much total crop biomass. When the researchers calculated the value of their environmentally friendly harvest, it was every bit as profitable.
+
+“We exceeded those goals — not by pumping chemicals in, but by maximizing ecosystem services,” Davis said. “We’re not throwing away those tools. They’re very important. But you use a strong cropping system as the foundation for your agriculture. Then, when you need it, you tweak it a little bit with the inputs.”
+
+Liebman and Davis said the system can be scaled up and applied to other crops. While the new study’s details were local, the essential underlying principle, of building a crop system around the ecological services it provides, is universal.
+
+“This is a great study,” said John Reganold, a soil scientist at Washington State University who was not involved in the research. “We’ve been pushing the envelope on yields, and not paying as much attention to the environmental and social and economic consequences. This shows that these integrated systems can be profitable, produce high yields, and offer more environmental benefit.”
+
+In a paper published last year in Science, Reganold called for a transformation of U.S. agriculture along the lines seen at Marsden Farm. “They’re almost like a blend of conventional and organic, using the best of both worlds,” he said. “It’s these kinds of systems we need.”
+
+“Their ideas point to the way that agriculture has to be in the future,” said agronomist Nicholas Jordan of the University of Minnesota. “There’s wide consensus that we have to figure out this fusion of ‘organic’ and ‘industrial.’ They’ve illustrated what that fusion looks like. It’s power and efficiency.”
+
+Jordan stressed that the Marsden Farm data was sound: No fudged numbers, no apples-and-oranges comparisons or subtle statistical slip-ups. Asked if the methods could scale commercially, Jordan said “the answer is a resounding yes.”
+
+His enthusiasm was, however, tempered with caveats about challenges. Integrated pest management is much more complicated than industrial farming, requiring more day-to-day decisions and local knowledge. “We’ve become very, very used to a system that’s straightforward,” said crop scientist Germán Bollero of the University of Illinois. “Implementing this at a large scale is not going to be easy.”
+
+Integrated pest management also requires more work. In the new study, the conventional method demanded one-third less labor than Liebman and Davis’s fusion. “It takes an energetic farmer, someone who’s investing a lot more of their own time, or potentially hiring added labor,” said agricultural economist Greg Graff of Colorado State University.
+
+These challenges should not be insurmountable. Locale-specific research will help with complexity. As for the additional labor, money that would have gone to chemicals can be used to hire workers. “I would argue that needing more labor in these systems means more jobs,” Reganold said. “It will be good for the well-being of rural communities.”
+
+There are other advantages to the Marsden Farm method. As corn and soy production intensified in the midwest, field farmers often stopped raising livestock. These are now grown in concentrated animal feeding operations, which both incubate new disease and generate immense amounts of waste. If livestock again became part of local farming, as was required to consume the Marsden Farm’s alfalfa, that waste would be fertilizer.
+
+Diverse, year-round crop rotations are also more resilient to climate stress. Weather patterns in the the midwestern United States are becoming more extreme, veering between the catastrophic floods of 2008 and 2010 and this summer’s epic drought. Complex root systems prevent soil from washing away during spring rains, and store extra water against dry spells.
+
+“These more diversified systems, the three- and four-year systems in the study, are less vulnerable to resource scarcities, climate change and market volatility,” said Reganold. “These systems use less fertilizer and pesticides than the typical conventional system. Yes, this is environmentally beneficial, but it also has economic benefits because the price of fertilizers and pesticides will likely increase in the future.”
+
+If transforming agriculture seems an imposing task, Liebman said it can start small, with something as simple as weaving conservation strips into fields. It also doesn’t need to happen immediately, in one radical step.
+
+“The concept could be introduced by encouraging farmers to continue farming in the traditional way, but little by little introduce diversity. There could be tax benefit or subsidy for introducing things like cover crops,” Bollero said. “If those signals are there, you’ll see a lot of farmers adopting this.”
+
+Graff noted that farm subsidies currently favor intensive soy and corn production, and that industry lobbying groups have actively resisted subsidy reform that rewards other types of crop production. Ultimately, however, this is an issue that citizens can decide.
+
+“A very large amount of taxpayer money is channeled through the federal government into the farming sector. In Iowa, it’s something like $1 billion of your money,” Liebman said. “If you can get cleaner water, less exposure to pesticide, and more wildlife habitat, if farmers can maintain their revenue streams and work in a healthier world — why wouldn’t you do that?”

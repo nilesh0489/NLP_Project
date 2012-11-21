@@ -1,0 +1,37 @@
+Windows 8 is finally here, and if you're used to previous versions of Windows then you're going to notice that quite a bit has changed. In fact, Windows has seen the biggest changes since the jump from Windows 3.1 to Windows 95.
+
+Out goes the Start menu, in comes the new touch-oriented Start screen, new apps, new interface conventions - even experienced PC users may be left feeling a little lost.
+
+Don't despair, though, help is at hand. We've been investigating every part of Windows 8, uncovering many of its most important tips and tricks, so read our guide and you'll soon be equipped to get the most out of Microsoft's latest release.
+
+Windows 8 opens on its lock screen, which looks pretty but unfortunately displays no clues about what to do next.
+
+It's all very straightforward, though. Just tap the space bar, spin the mouse wheel or swipe upwards on a touch screen to reveal a regular login screen with the user name you created during installation. Enter your password to begin.
+
+Windows 8 launches with its new interface, all colourful tiles and touch-friendly apps. And if you're using a tablet then it'll all be very straightforward: just swipe left or right to scroll the screen, and tap any tile of interest.
+
+On a regular desktop, though, you might alternatively spin the mouse wheel to scroll backwards and forwards.
+
+And you can also use the keyboard. Press the Home or End keys to jump from one end of your Start screen to the other, for instance, then use the cursor keys to select a particular tile, tapping Enter to select it. Press the Windows key to return to the Start screen; right-click (or swipe down on) apps you don't need and select Unpin to remove them; and drag and drop the other tiles around to organise them as you like.
+
+The Start screen apps are initially displayed in a fairly random order, but if you'd prefer a more organised life then it's easy to sort them into custom groups.
+
+You might drag People, Mail, Messaging and Calendar over to the left-hand side, for instance, to form a separate 'People' group. Click the 'minus' icon in the bottom right corner of the screen to zoom out and you'll now find you can drag and drop the new group (or any of the others) around as a block.
+
+Right-click within the block (while still zoomed out) and you'll also be able to give the group a name, which - if you go on to add another 20 or 30 apps to your Start screen - will make it much easier to find the tools you need.
+
+Right-click in the bottom left corner (or hold down the Windows key and press X) for a text-based menu that provides easy access to lots of useful applets and features: Device Manager, Control Panel, Explorer, the Search dialog and more.
+
+The Win+X menu is useful, but no substitute for the old Start menu as it doesn't provide access to your applications. To find this, hold down the Windows key and press Q or either right-click an empty part of the Start screen or swipe your finger up from the bottom of the screen and select 'All Apps' to reveal a scrolling list of all your installed applications. Browse the various tiles to find what you need and click the relevant app to launch it.
+
+If there's an application you use all the time then you don't have to access it via the search system. Pin it to the Start screen and it'll be available at a click.
+
+Start by typing part of the name of your application. To access Control Panel, for instance, type 'Control'. Right-click the 'Control Panel' tile on the Apps Search screen, and click 'Pin to Start'. If you're using a touchscreen, press and hold the icon, then flick down and select 'Pin to Start'.
+
+Now press the Windows key, scroll to the right and you'll see the Control Panel tile at the far end. Drag and drop this over to the left somewhere if you'd like it more easily accessible, then click the tile to open the desktop along with the Control Panel window, and press the Windows key to return you to the Start screen when you're done.
+
+To shut Windows 8 down, just move the mouse cursor to the bottom right corner of the screen, click the Settings icon - or just hold down the Windows key and press I - and you'll see a power button. Click this and choose 'Shut Down' or 'Restart'.
+
+Some of the tricks available in previous versions of Windows still apply. Press Ctrl+Alt+Del, for instance, click the power button in the bottom right-hand corner and you'll be presented with the same 'Shut Down' and 'Restart' options.
+
+And if you're on the desktop, press Alt+F4 and you'll be able to choose 'Shut Down', 'Restart', 'Sign Out' or 'Switch User' options.

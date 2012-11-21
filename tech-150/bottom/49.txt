@@ -1,0 +1,21 @@
+Microsoft's biggest desire is to get you using Windows 8, and fast. Here's how to use that $40 upgrade to flip older versions of Windows to Windows 8.
+
+The Windows 8 eagle has landed, which means that Microsoft's $39.99 in-place upgrade is now available. They've made it extremely easy to upgrade your computer from a Windows 7, Vista, or XP computer to Windows 8. Here's how it's done.
+
+First, check out our CNET guide on how to prepare your computer for Windows 8. There's also instructions on how to restore your old system, which is important in case something unexpectedly goes awry, or you decide you don't like Windows 8, you can restore what you had before.
+
+If you're upgrading a laptop, you must take note of your Wi-Fi passwords. Windows 8 will keep your settings, personal files, and programs if you upgrade from Windows 7. Vista and XP upgraders will have to re-install programs and reconfigure settings.
+
+Next, go to Microsoft's Windows 8 site. Scroll down to the offer and click "Get the details." It's $39.99 for the downloadable installer, or $69.99 to have them mail you a disc.
+
+When you click on the Download Pro link, it will give to your computer a small "stub" installer. It's a 5 MB file that will run a compatibility check on your computer, tell you which programs will and won't work in Windows 8, and let you know if you have to uninstall any of them.
+
+Until Windows 8 begins its installation, there's some babysitting required. After running the stub, it'll tell you how much of your current computer is compatible, and if there's anything you'll have to review. On the Toshiba Satellite running Windows 7 that I tested this on, I learned that Windows 8 is about as fond of bloatware as the rest of us: the upgrade process requested that I uninstall several Toshiba-branded programs.
+
+You don't have to stop everything to take care of them, though, because the Windows 8 installer will walk you through that process. After letting you know whether there are details that will require your attention, it asks Windows 7 upgraders what they'd like to keep of their settings, apps, and personal files.
+
+After that, it asks you to buy the upgrade. The ordering process happens in the installer, too. Once you've paid by either credit card or PayPal, it will start downloading the 2 GB installer. You get a choice of installing immediately, installing later, or creating a USB key or disc from which to run the installer.
+
+After that, it prompts you to remove any programs that cause conflicts on Windows 8, such as the aforementioned Toshiba-built software. It's clearly a nuanced process, though, as I wasn't required to uninstall all of it -- just four programs out of 11 conflicts. If you have to restart your computer, just double-click on the Windows 8 installation icon on your desktop and it will quickly find where it left off.
+
+Once any conflicts are eliminated, Windows 8 will install. It's a surprisingly fast process, as long as you remember to babysit it at the beginning.

@@ -1,0 +1,15 @@
+Connection woes hit popular services across the Internet. So far, though, it's unclear if they are related.
+
+A mysterious rash of outages struck the Internet today, crippling major services for hours at a time. It isn't clear whether they're related.
+
+Google Apps Engine. Google said that at about 7:30 a.m., an unnamed component of App Engine "began experiencing slow performance and dropped connections." Users began seeing slow response times and had trouble connecting to services. At the moment, most App Engine users and services are being affected. "Google engineering teams are investigating a number of options for restoring service as quickly as possible, and we will provide another update as information changes, or within 60 minutes," Google's Max Ross said.
+
+Tumblr. Around the same time Google Apps Engine began having problems, Tumblr tweeted it was having problems of its own.
+
+Dropbox. The Next Web and other sites also reported having issues with Dropbox, though the service was working fine when we checked.
+
+Meanwhile, there's evidence that the outages have affected the wider Web. The Internet Traffic Report showed a sharp decline in traffic today:
+
+It also showed an increase in packet loss, which is a measurement of a connection's reliability.
+
+Update, 1:10 p.m. Tumblr and Google App Engine have been restored.
