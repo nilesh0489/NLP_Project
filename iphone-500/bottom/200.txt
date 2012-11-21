@@ -1,1 +1,11 @@
+Skype may be announcing an application for the iPhone next week at the CTIA tradeshow in Las Vegas, claims tech blogger Om Malik of GigaOM. A few months ago, Om Malik asked Skype CEO Josh Silverman when the company was going to launch an iPhone version of the P2P voice and IM service that is available for other platforms. Silverman simply responded by saying, “Stay tuned.” At CES in January, Scott Durchslag, Skype’s chief operating officer, also confirmed an iPhone version of the software client would be coming to the App store, but said Skype would wait to release the software until it was perfect.
 
+Although Skype hasn’t commented on the rumors and is keeping mum on any upcoming announcements, the company is holding a press conference on Tuesday afternoon before the show kicks off. This would clearly be the perfect time for Skype to announce an iPhone client.
+
+Skype views mobile as the next major growth area for its business. The company expects that many of its 405 million registered users will take their Skype experience on the go. The company also believes it will be able to reach new users via mobile devices.
+
+Skype’s peer-to-peer service uses the Internet to carry voice traffic. While many cell phone plans in the U.S. include domestic long-distance calling for free, subscribers calling outside the U.S. can experience rates as high as $2 per minute unless they have a special monthly plan for placing international calls. This latter market segment is where Skype becomes appealing: The Skype mobile client would enable users to make inexpensive international calls on their cell phone rather than being tied to a computer.
+
+Skype is already available for Windows Mobile phones. Nokia plans to embed some of its phones with Skype clients as well. A Skype-lite version of the client is also available for some Java phones.
+
+If the rumors are true, iPhone users could soon be taking advantage of their phone’s Internet capabilities to place international calls. There’s likely to be a catch, however: The new Skype app for the iPhone may be limited to Wi-Fi networks only. Apple has limited other third-party services such as Fring in the past, so we wouldn’t be too surprised if Apple limits Skype as well.

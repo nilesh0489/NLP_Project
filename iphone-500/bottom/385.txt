@@ -1,1 +1,33 @@
+This morning Apple surprised everyone by approving the Opera Mini web browser for the iPhone and iPod touch, bringing one of the most popular mobile browsers to the most popular smartphone. So how does it stack up?
 
+First of all, it's worth pointing out that Opera Mini has one big roadblock for iPhone and iPod touch users: Apple doesn't allow you to set any other application as the default for web browsing, so if you're opening links from other applications, like Mail, you'll still launch Mobile Safari when you click that link. (To use Opera Mini, you'd have to copy the link, close Mail, open Opera Mini, and paste the link.) That's a pretty big hurdle, but it's not the end of the world, especially since more and more apps display links in-app unless you explicitly choose to open a link in Safari. All that aside, you probably still open Safari directly when you want to do a lot of basic web browsing, so nothing's standing in the way of just launching Opera Mini in those instances instead.
+
+So let's talk speed and performance. I don't have all the same options for testing these as we have when we do our normal browser performance tests (most notably, memory use is missing, but since multitasking isn't on the iPhone yet anyway, that doesn't much matter), but we'll try to tackle as many of the same tests as we can. (Also like our other performance tests, these aren't exactly scientific, but we do follow our own set of guidelines to get as accurate of results as we can on limited equipment. For these tests, I'm using my iPhone 3G.)
+
+Browser Boot Up/Load Time; Split Decision... Probably Mobile Safari
+This is a little bit of a tricky category. What I found when pitting the two against each other in launch time is that, while the Mobile Safari took significantly longer to launch from a cold start—that is, after having rebooted my iPhone entirely—it apparently resides in the iPhone's system memory from that point forward, meaning subsequent launches are nearly instantaneous. Opera, on the other hand, had a better cold startup time, but it doesn't have the benefit of sitting in the system memory, so every launch for Opera Mini is a "cold" launch.
+
+
+
+Page Load Time; Winner: Opera Mini
+To measure page load times, I timed five or so page loads on several popular sites over Wi-Fi, threw out the highest and lowest for each site, and then averaged them all out. In this category, Opera Mini absolutely pummeled Mobile Safari, especially on full versions of web sites like the New York Times front page (which partially rendered in Mobile Safari before it finished loading, but continued loading for over 40 seconds time and again).
+
+
+
+JavaScript, DOM, CSS Speed; Winner: Mobile Safari
+We used Mozilla's very cool Dramaeo browser performance testing tool to pit Mobile Safari's JavaScript, DOM, and CSS chops against Opera Mini's. Unfortunately, we learned pretty quickly that, while Mobile Safari slowly chugged through the test (slowly compared to desktop browsers, that is), Opera Mini failed to run with any of them.
+
+That's not necessarily a huge black mark against the speed of Opera Mini, per se, since we couldn't actually pit the two against each other, but it speaks pretty loudly about which browser is currently capable of offering a more desktop-like experience, and that's Mobile Safari.
+
+Keep in mind that we're not saying that a more desktop-like experience is necessarily preferable; you're on a mobile device, after all, and that desktop performance does seem to come with some trade-offs—like the page load times mentioned above.
+
+Takeaway
+It's pretty clear that, while Opera Mini features seriously impressive page load times, it's still behind Mobile Safari on several levels—some of its disadvantages are due to Safari's advantaged position as the system default, some of them probably have more to do with the youth of Opera Mini on the iPhone platform. You will, however, notice the considerably faster page loads when you're using Opera Mini, and with the web, speed is everything. If Opera could keep the speed and fix some of the rough edges, it could be really impressive.
+
+Speed aside, use Opera Mini for a while and you'll quickly miss the smooth zooming of Mobile Safari and the nice font rendering. (When you're looking at a desktop version of a site zoomed all the way out on Opera Mini, the type renders as big blocks of color and is generally unreadable.)
+
+(Click the image above for a closer look.)
+
+Still, I'm holding out hope for Opera Mini. The speedy page loads alone make it an ideal browser for a quick lookup, and its tabbed browsing interface is, in my opinion, superior to Mobile Safari's.
+
+If you've been kicking the tires on Opera Mini since its release this morning, let's hear how its measuring up for you in the comments.

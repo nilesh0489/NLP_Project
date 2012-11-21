@@ -1,0 +1,27 @@
+Earlier today, it was revealed that the Federal Trade Commission had subpoenaed Apple as a part of its ongoing Google antitrust case. The news is fresh, so the ramifications of it are tough to grasp fully, but there is a good chance that one result of this request might be to give users more choice in the default search engine used by iPhones.
+
+The request for information reportedly centers on what agreement Google cut to be the search engine of choice on Apple’s devices, primarily the iPhone. If you follow this Google news, you might recall the issue coming up before. In fact, it was a topic for discussion in the Senate antitrust hearings back in September of 2011.
+
+At that time, Google lawyer Susan Creighton was asked specifically if Google paid money to be the default search engine on the iPhone. Creighton replied that “Google and Bing, and I’m not sure whether or not Yahoo, all competed with Apple to be the—to be the search provider on the I-Phone and the I-Pad…Google prevailed in that contract.” [sic]
+
+Senator Al Franken then pushed Creighton to give the panel a straight answer about whether Google paid money into that deal. Creighton said that she did not know but that it would not surprise her if it did. What happened next might have a lot to do with why the FTC is going after more information.
+
+In response to further questioning about how Google landed what Franken referred to as ‘an exclusive’, Creighton replied, ”Senator, what I was—first, it was a default, not an exclusive. So if you go on your I-Phone, I think it’ll probably take you about 20 seconds to download another app or a different search engine.”
+
+Now, if you’ve used an iPhone, you know that this answer is a more than a little disingenuous. Sure, there are other search apps available on the iPhone, but they certainly don’t offer the convenience and accessibility of the search box in Mobile Safari.
+
+It looks like the FTC agreed that it needs more information, and its going to get it from Apple this time around.
+
+And you can bet that the request likely had some impetus. If I was Microsoft , I would be pushing hard for questions to get asked about how Google got its position as the default and how it retains it. The Redmond giant has had its own run-in with litigations over default web technology, with the epic case over Internet Explorer being the default web browser in Windows.
+
+Mobile search and mobile web have become an immense part of the market over the past few years. Google has managed to stake out a significant portion of the market with Android, and its position as the default engine on Apple devices gives it the top 90% of the mobile search market easily. I’m sure that Microsoft wants to see this domination examined closely.
+
+It’s too early to say how this will play out, but the end results could very well mean a change for the way that Apple handles the default search engine on the iPhone.
+
+Currently, users can visit Settings>Safari>Search Engine to change the default away from Google to Bing or Yahoo. But if Google is found to be getting an unfair advantage from being the default, this might get more explicit. New users of the iPhone and iPad might have a choice presented to them on first launch of Safari for iPhone that would allow them to make an explicit choice of search engines. Much in the way that a choice of providers is offered when adding a Mail account.
+
+
+
+In the Senate hearing, Creighton made the case that consumers want search engine providers to be competing to be the default, because it will result in a better product, even arguing (with shades of Col. Jessup) that “Bing and Yahoo are going to compete that much harder the next time… Apple is not going to take the worst search engine.”
+
+But this argument gets thin if Google simply paid more money to Apple, or used its Maps products as leverage to gain the default spot. In the case of services like search, consumers are better served with the ability to choose between Bing, Google, DuckDuckGo or whatever other provider Apple might add support for. Sure, you might just end up tapping the ‘Google’ option, but the choice is yours. And hey, Bing on the iPhone actually isn’t that bad.

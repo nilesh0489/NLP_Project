@@ -1,0 +1,36 @@
+Who'd of thunk it, but your old, first generation, non-3G, iPhone is actually worth big bucks. A quick glance at eBay and Craigslist show that 8GB iPhones--many advertised as "unlocked," "jailbroken," "unlockable," and "use on any GSM network"--are selling for between roughly $200 and $400. Not everyone is comfortable with using eBay or with the responsibilities that come with selling goods to other consumers. For this crowd, and for those who are looking to make a quick buck without the time-consuming hassles of conducting an eBay auction or sale, a new site has just popped up that claims it can put cash in your hands quickly for used iPhones--and the phones don't even have to be in working condition. 
+
+The new site is CashForIphones.com, and if the name seems somewhat familiar that is because CashForIphones.com is run by the same company that has been buying used laptops from CashForLaptops.com for the last six years. Using CashForIphones appears to be a fairly easy prospect: You fill out a quick questionnaire about the condition of your iPhone and receive an instant quote. If you accept the quote, you next fill out the shipping information form and accept the site's terms and conditions. You will receive an e-mail confirming the details, to which you need to reply. At that point, the company sends you a box and pre-paid shipping label for shipping the phone to them. Once they receive the phone and confirm that its condition matches what you originally stated, they erase the phone's data and reformat it, and send you a check "within one business day." In the Terms and Conditions, CashForIphones states that if the phone's condition differs from what you stated during the Instant Quote process, they "reserve the right to contact you and to renegotiate the payment amount."
+
+Another tidbit from the Terms and Conditions states, "by agreeing to these terms and conditions, you certify that you are the legal owner of the iphone that you send to us." By this, we assume that the company is not doing any due diligence to actually confirm that the seller is the real owner--although doing so might be an impossible task for any U.S. company other than Apple or AT&T.
+
+  
+
+The site's Instant Quote section first asks you to identify your iPhone model from either of the three first-generation iPhone models (4GB, 8GB, or 16GB) or the two current iPhone 3G models (8GB or 16GB). The next step is to provide details on the phone's condition. The options are:
+
+Wont Power On
+Water Damage
+No AC Adapter
+No or Bad Battery
+No Software CD
+No Manuals
+No Cables
+Cracked Screen
+
+We ran a few sample quotes to get an idea of what CashForIphones would pay for a used, first-generation 8GB iPhone:
+
+iPhone 8GB with no issues: $255
+iPhone 8GB with missing software CD, manuals, and cables: $252
+iPhone 8GB with a cracked screen: $205
+iPhone 8GB with water damage: $115
+iPhone 8GB that won't power on: $100
+
+As a point of comparison, an iPhone 16GB with no issues pays $315, and an iPhone 3G 16GB with no issues pays $425. These prices are obviously less than what you could probably get selling the phone yourself, but some may not find the extra hassle of trying to find a buyer worth it.
+
+As to the reliability of the company itself (CashForLaptops), we don't have any first-hand experience with it, but this is what the Better Business Bureau (BBB) has to say: 
+
+"Based on BBB files, this company has an unsatisfactory record with BBB due to failure to respond to two or more complaints. However the business has resolved most complaints presented to BBB."
+ 
+An unscientific and cursory Web search on CashForLaptops indicates that the company appears to be legitimate, is sometimes slow to process checks, sometimes disputes the quoted price once they receive the units, and are bad about responding to e-mails and phone calls. However, most of the folks online who have posted comments about using CashForLaptops, appear to be satisfied with the service and claim to have been paid. CashForIphones is the same company, so users should expect the same level of service.
+ 
+So why are used, first-generation iPhones such a hot commodity? For the simple reason that they can be easily "jailbroken" and used on virtually any provider's GSM network. For anyone who wants to use an iPhone in the U.S. on any GSM network other than AT&T, this is the only viable option. The same goes for countries where the iPhone is not currently sold. For some, a "jailbroken" iPhone is a better option than no iPhone at all.

@@ -1,0 +1,37 @@
+The new, high-octane iPhone 3GS is loaded with features that could light up your life -- but its battery isn't one of them.
+
+Buyers are finding that the device, introduced two weeks ago, has trouble making it through a workday without a rest stop at the electrical outlet. It's proving to be something of an Achilles' heel on Apple Inc.'s flagship device, more than 1 million of which were sold in the first weekend.
+
+Even the company suggests on its website that users disable some of the phone's most vaunted features, including the faster 3G network itself, to keep it from shutting down during the day.
+
+Industry officials and outside experts sketched a complex picture of the technical and bureaucratic limits that might explain why, after two years and three generations of the device, the newest iPhone has less stamina than the first.
+
+"There's trouble in the battery field in that there's only so much energy you can squeeze in a certain space," said Allen Nogee, a wireless technology analyst at research firm In-Stat. Try to pack in too much juice, he said, and the battery could overheat or even melt.
+
+"There's not really a solution in sight," he said.
+
+Repair company IFixit.com, which specializes in Apple products, and other online gadget surgeons dismantled the 3GS on the day it was released and found that the phone's battery was about 15% smaller than the one in the original iPhone.
+
+The new model is smaller and sleeker, however, and Apple may have sacrificed some battery capacity in favor of a lighter phone, analysts said. The phone's battery performance has disappointed customers, many of whom waited in lines for hours to buy the latest device. But the battery life is only marginally better than the handset it replaced, and lags well behind the original.
+
+Buyers such as Gary Ng, 27, are wondering where their money is going.
+
+"If people are committing $1,000 a year for two years to use a 3GS, I would definitely expect my battery to last a lot longer," said Ng, a loyal Apple fan who runs an iPhone blog from his home in Vancouver, Canada.
+
+A cellphone's battery life varies depending on how people use their phones. Power drainers include the number and length of calls, the volume of e-mails and text messages and the amount of Internet surfing. So average battery time is difficult to determine, but few see much improvement in the latest iPhone's longevity.
+
+If used only to make calls, the latest iPhone lasts only an hour less than the first model, according to Consumer Reports magazine. The latest model tips in at just over seven hours. But people aren't buying iPhones just to talk.
+
+The magazine's measure doesn't include any of the networking functions that can drain the battery most quickly, said Consumer Reports' electronics editor Paul Reynolds. And the iPhone has more functions and programs than any other handset.
+
+Other so-called smart phones, such as Palm Inc.'s new Pre, face similar battery problems as the appetite for power grows increasingly ravenous. The Pre typically offers about five hours of talk time on a charge, but, unlike the iPhone, its battery can be swapped out easily for a spare, Reynolds said.
+
+"Battery consumption is highly dependent on what applications are used and therefore varies considerably," Apple spokeswoman Natalie Harrison said in an e-mail.
+
+Despite its distinctive name, the iPhone is less a telephone than a high-performance pocket computer with telephony among its many functions. Besides using its built-in video recorder, global positioning system and e-mail capability, customers can now download more than 50,000 "apps" -- iPhone programs developed by third parties. Many of those applications, such as video games, make heavy use of the device's computer processor and its touch-sensitive screen.
+
+"The screen is actually the biggest battery suck in the device," said wireless analyst Charles Golvin of Forrester Research Inc. "The fact that people are using their 3G iPhones to do a lot more stuff . . . means that the screen is on more."
+
+But what goes on inside the phone is only part of the picture.
+
+Cellphones are constantly communicating with signal towers, sending their whereabouts, and sending and receiving data for such power-hungry functions as so-called push e-mail, which instantly conveys messages to recipients.

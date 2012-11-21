@@ -1,0 +1,67 @@
+Jason asked me to riff on his iPad fear-and-loathing article from a political and government perspective. I agreed, because this is an important issue, and, as a plus, it's always fun baiting the Apple fans.
+
+Since everybody and their brother is writing about health care, I also wanted to write something that wasn't about the GOP trying to sentence 30 million Americans to a slow death without health care and the Democrats sentencing themselves to a quick death at the polls in November.
+
+Before I get started, a moment of disclosure. I am a registered iPhone and iPad developer. I've written and published 40 iPhone applications. And while I don't expect to be writing anything for the iPad anytime soon, I could get a wild hair up my butt and suddenly decide I need to program for the iPhone again.
+
+That's not particularly likely, because programming for the iPhone or iPad requires using Objective C, which is an extremely unpleasant experience. If you're a real programmer and suddenly have to program in Objective C, it's like you're Alice and you've just been dropped down a hole where everything's more Bizarro World than normal. Ugh. It gives me shivers.
+
+Worse, to program the iPhone and iPad, you actually have to use a Mac, which is another wholly painful experience I'm just not ready to subject myself to again any time soon.
+
+I mean, seriously, it's 2010 and you can still only resize a window from one little corner. Hello, Apple? Yeah, it's 1986 calling. They'd like their UI back.
+
+But, I digress.
+
+Regional content restrictions
+
+Jason's premise was that Apple is imposing "regional content restrictions," which they intend to use to determine what content you can and can't download to your iPad. Maxim and Penthouse bad. The Bible good.
+
+There are two schools of thought here. The first is that it's Apple's store and they have a right to sell whatever they want (and not sell whatever they don't want). The second is that it's censorship and consumers should be allowed to read whatever they wish.
+
+Both of these approaches are valid. Let's look at the "it's my party and I'll cry if I want to" theory of Apple sales first.
+
+Real-world bookstores determine what sells on their shelves. I remember meeting the head buyer for Borders back in the days before Amazon, when Borders controlled a massive percentage of the books sold in America. I realized that this one woman quite literally decided what books would be seen by most Americans and what books wouldn't.
+
+Today, of course, there are so many more channels for books and information to reach the public. But bookstore owners still have the right to pick and choose what they offer. Brick-and-mortar stores have to -- they only have a certain amount of physical space to display their wares.
+
+And some bookstores specialize. Christian bookstores, presumably (never been in one), sell Bible-related books and other values-based materials. Adult bookstores, presumably (nope, never been in one either -- yeah, that's the ticket), sell prurient fare designed to sell to the pervert set.
+
+The Christian bookstore has the right not to sell sex magazines. And while you'd be surprised at how religious some porn stars are (don't ask, I was single for a long time and dated a lot), most adult bookstores might have a single Bible, but probably wouldn't have a whole section on coming to Jesus.
+
+This brings us back to Apple. Apple, through their iTunes store, has the right to decide what they wish to resell. They have that right. Whether it's stupid or not is another issue, but it's their store, so they can pick and choose. If they choose to not stock so-called lads magazines (Maxim, etc), they can make that choice.
+
+The censorship argument
+
+Let's take the other issue: censorship. In the real-world sense, if I don't want to buy something from a Christian bookstore, I don't have to walk inside. If you don't want to buy something from an adult bookstore, you don't have to walk inside.
+
+But if you want to use an app on your iPhone or your iPad, and now, if you want to read something, anything on your iPhone or your iPad, you have to use the iTunes store.
+
+This, of course, is markedly different from the Mac. As much as it pains me to consider using one because, well, I don't live in the 1990s anymore, you can sell anything you want for use on a Mac and Apple doesn't control your ability to do so.
+
+Apple does control, with an iron fist, anything that's sold for the iPhone and iPad. Originally, it made some sense, because -- as the argument went -- Apple needed to make sure the phone network wasn't damaged by unstable add-on applications. Given how bad the AT&T network is, this argument might even still have some validity.
+
+But there's no analog for the iPad. The iPad is not a phone and while there is a 3G option, most iPad users will content themselves with connecting over WiFi.
+
+And still, there's totalitarian control over what you can read.
+
+What if the iPad catches on? What if Apple decides that they want to restrict more than girly parts? What if they decide they want to block certain books because the books don't agree with the politics of Apple's management? Or what if they decide they're going to block medical textbooks because they show pictures of reproductive organs? What if some manager at Apple decides discussion of so-called "intelligent design" should be allowed in textbooks, but not evolution (or the reverse)?
+
+You can see where this is going. Since Apple wants content approval rights on everything, what you need or want to read might be modified to meet Apple's content standards.
+
+Is this even good for Apple?
+
+There is also a liability issue. In the communications world, there's the concept of "common carrier". And while common carrier can be a very broad term, we're concerned about the liability part here. Common carriers are, by definition, not liable for what's carried on their network. That's how privacy is assured.
+
+Back when the RIAA was suing our school children and grandmothers, ISPs invoked the common carrier concept, arguing that they couldn't be sued because their network was used to deliver pirated music.
+
+Online, operators of public forums (particularly Yahoo and Google) have invoked this concept, because they claim they can't be responsible for reviewing every posting by every individual on their network worldwide.
+
+But Apple reviews everything. If something slips past their censors and causes damage, Apple could be considered liable because it goes out of its way to control what's on its devices.
+
+Honestly, I think it's completely bizarre. While I can understand why Apple would want to purge its store of certain applications (they might diminish the presentation), I can't see why they would control what books or other content you read in add-on reader programs.
+
+There's just no upside for Apple here.
+
+Apple has incredibly talented designers, inspired industrial design, trend-setting products, and a track record of delivering hits. But the company often behaves like an extension of Steve Jobs' personality -- inscrutable, secretive, and capricious to the point of craziness.
+
+Will the iPad be hobbled because it reflects its founder's flaws? What do you think? TalkBack below.

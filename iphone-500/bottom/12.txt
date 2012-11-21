@@ -1,1 +1,7 @@
+Jed Stremel, Director of Mobile at Facebook, just announced at our Mobile Web Wars Roundtable that Facebook’s iPhone/iPod app has reached 1 million users.
 
+Facebook is currently ranked as the 6th most popular free application on Apple’s App Store, and has been among the store’s top applications since the store’s launch on July 10. We posted initial download numbers for the apps soon after the store’s launch (Facebook had around 9,000 downloads at the time). Since then, Apple has changed its policy and no longer posts the number of downloads for each app, so we need to rely on developers to report their figures.
+
+We’ve asked MySpace for their corresponding numbers. Off hand, John Faith, GM and VP of Mobile for MySpace was able to tell us that their mobile WAP site sees 1.7 million uniques a day (users can access the MySpace WAP site without using the native application). This is certainly a large figure, but it doesn’t provide a direct comparison. We’ll update the post when we can get more comparable numbers.
+
+At Facebook’s f8 conference this week, the company announced that it would soon be open sourcing its iPhone application, so we can expect to see a number of copy cats in the near future.

@@ -1,1 +1,62 @@
+The iPhone and iPod touch are almost indistinguishable devices except for one major difference—you can make calls from your iPhone, and you can't from your iPod touch. For the privilege of making phone calls with your iPhone, you have to pay $100 more upfront to Apple for the device itself, plus a minimum of $60/month to AT&T for the next two years. Let's say you didn't need that kind of firepower from your iPod touch, but that you would like to use it make a phone call every now and then. You can, and today I'm going to show you how to make VoIP phone calls from your iPod touch or iPhone using a freeware application called SIP-VoIP.
 
+What You'll Need
+1.) A jailbroken iPod touch or iPhone. If you haven't already jailbroken your device, don't worry—it'll just take 45 seconds.
+
+2.) iPhone headphones with mics don't work with the iPod touch, so if you're using an iPod touch you'll need a Touchmod mic. The Touchmod mics come in a variety of flavors, from the simple dongle that plugs into the syncing port to the headphone-and-mic combo that works much like the iPhone headphones. The hardware will set you back somewhere between $50 and $60.
+
+3.) The freeware SIP-VoIP application. Read on for details for installing SIP-VoIP below.
+
+UPDATE: Just today (4/15) it looks like another VoIP app for the iPhone has emerged called Fring. Fring promises to work with both Skype and SIP accounts, but like SIP-VoIP it's still young and not entirely perfect. I haven't tried it yet, but it might be a viable alternative to SIP-VoIP, and can be installed just as easily.
+
+Install SIP-VoIP
+Assuming you've got the hardware you need and you've prepared your device, now it's time to install the VoIP application. If you don't yet have a mic, you can test that SIP-VoIP is successfully making calls before you purchase it.
+
+I'm going to cover two different ways of installing SIP-VoIP. The first and easiest method is with Installer.app, the program that is automatically installed when you jailbreak your iPod. The second method is more difficult, but it's good to have around in case you run into errors (which I did).
+
+Full size
+Method 1 - Install SIP-VoIP with Installer.app: First, since SIP-VoIP isn't found in Installer.app by default, you need to add the Touchmods repository to Installer. To do so, launch Installer and head to the Sources tab. Now tap Edit -> Add, and type http://touchmods.net/rep.xml into the Add Source dialog. Hit OK, and Installer will refresh your sources, this time including your new Touchmods repository.
+
+Full size
+Now go to the Install tab and find the entry labeled Touchmods. Inside you'll see an app called Touchmods SIP-VoIP. Go ahead and install SIP-VoIP by tapping the entry, tapping the install button, and then verifying that you want to install this application from an "untrusted" source.
+
+This is by far the easiest method for installing SIP-VoIP, but I had trouble with the latest version of SIP-VoIP (version 1.2) on my iPod touch, so I had to install a previous version (1.1). Since you can only install the latest with Installer, I'll also demonstrate how to install older versions of SIP-VoIP. I'd recommend trying it the easy way first, then moving to the following method if you have trouble. If you're taking the easy route the first time around, skip to the Set Up an SIP Account section below.
+
+Method 2 - Install SIP-VoIP over SSH: To install previous versions of SIP-VoIP, you'll need to first install OpenSSH through Installer.app (you can find it under Install -> System). Now you'll need to connect to your iPod using a desktop FTP client that supports SFTP connections (like FileZilla for Windows or Cyberduck for OS X). This will allow you to browse and copy files to your iPod like you would if you could access the disk as an external hard drive on your computer.
+
+Full size
+To connect to your device from your computer, you'll need to know your iPod touch's or iPhone's IP address. You can find this by opening the Settings app, tapping Wi-Fi, and then tapping the blue arrow next to the network you're connected to.
+
+Full size
+Now that you've got that, start up your FTP client of choice, enter the IP address as you server, and use root for your username and alpine as your password. Once connected, navigate to the Applications folder (just above the root folder). That's where your iPhone and iPod touch keep all of their applications. From here it's a simple matter of dragging and dropping the appropriate SIP-VoIP app to the applications folder.
+
+For this article, I'm using the 1.1 version of SIP-VoIP, which you can download here. Once downloaded, unzip the file and then drag and drop the SIP-VoIP.app file to your Applications folder. Finally, restart your iPod or iPhone and the new app should show up on your home screen.
+
+Set Up an SIP Account
+Full size
+Unfortunately the SIP-VoIP app doesn't work with the most popular VoIP app Skype (it uses the SIP protocol), which means you'll have to set up an account with another service to use the app. Luckily there are tons of options out there that can work with SIP-VoIP. I used a service called FreeCall, so that's what I'll highlight in my examples, but the Touchmods blog lists a handful of alternatives.
+
+If you want to follow along exactly with my settings, head to the FreeCall signup page and register for an account. After you register, you'll need to buy some minutes for your call time. FreeCall is an international service, so when it asks for your cell phone (to which it sends an SMS confirmation), you'll need to include your country code; for example, it would look something like 0015555551234 if you're in the US. The minimum purchase with FreeCall is 10 euros, which amounts to around $16. Once you've purchased some calling time with FreeCall, it's time to enter your setup configuration in SIP-VoIP and start making calls.
+
+NOTE: If you don't want to spend money off the bat, you might want to try signing up with a service like Gizmo5 (formerly Gizmo Project), which offers a small amount of trial credit.
+
+Set Up SIP-VoIP to Make Calls
+Full size
+Finally, we're ready to set up SIP-VoIP with the SIP provider you registered with above. Launch the app from your iPod touch or iPhone's home screen, then tap on Settings in the bottom right corner. You'll see a very rudimentary form where you'll enter the settings for the SIP account you set up above.
+
+Full size
+If you used FreeCall like I did, enter your FreeCall username and password in the first two fields (other services will use the number they've assigned you as the username), then sip.voiparound.com in the field labeled SIP-Server (see screenshot). There are more fields, but for FreeCall that should be all you need. Hit Save to save your settings—you may have to hit return on the iPod's keyboard to dismiss it and see the Save button—and then tap the dial tab to head to the dialpad.
+
+Before you make your first call, you have to connect the application to the SIP server, so click the button labeled "connect to sip server" in the lower left. If all goes well, it'll connect without a hitch. (This is where I ran into some problems with version 1.2 on the iPod touch. 1.2 connected without issue from my iPhone, but I kept getting connection error messages with 1.2 on my iPod touch. If you're having similar problems, installing version 1.1 may help.) If it connected successfully, all you've got to do is dial your number (country code included, depending on which service you go with) and hit the call button.
+
+I actually stumbled onto a video on YouTube of a precocious kid using a Touchmods mic with SIP-VoIP and FreeCall. There are several of these videos on YouTube—I particularly like this speaker phone setup. Check out his video below to get a better look at what the final result is.
+
+
+Set up Inbound number
+Your FreeCall account only handles outbound calls, but you're not out of luck if you want to add inbound functionality to your iPod touch. You can register your FreeCall SIP account with other services, like IPKall, to get a free phone number that will ring your iPod touch. (The only catch is that you're limited to a state of Washington area code). I won't go into details on setting up an inbound number, but you can find more details from this post at the Touchmods blog.
+
+The SIP-VoIP app has been in development for a while, and though it's still not much to look at, it seems to be improving over time. The iPhone and iPod touch 2.0 firmware will officially hit the streets sometime in June with support for third party apps through Apple, so who knows what kind of VoIP apps we'll see when that time comes.
+
+Whether or not we'll ever see Skype or another VoIP app officially supported for the iPhone (Apple says they'll allow VoIP over Wi-Fi), SIP-VoIP is already there. My experience with it has been hit-or-miss, and it's got miles to go before it's the friendliest app around, but whether you'd like to make international calls for cheap or you just want to want to reach out and touch someone from your iPod touch, the folks at Touchmods and SIP-VoIP are already providing the tools to do just that.
+
+No, you don't get visual voicemail, text messaging, or a built-in camera, but you do get to make and receive phone calls from your iPod touch—which in itself shows a lot of promise.

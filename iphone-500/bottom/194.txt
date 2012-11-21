@@ -1,0 +1,5 @@
+The number of people gunning for some Apple/AT&T cash keeps increasing, with three new class action lawsuits filed over the past 8 days alone. In all three suits, the primary complaint is the same: that AT&T Mobility’s 3G network isn’t robust enough to deliver the type of experience promised by iPhone marketing.
+From the suit filed in Texas:
+Due to the overloaded 3G network, it is quite common for iPhone users to only be on the 3G network for a few minutes before being bumped to the slower EDGE network despite being in geographical areas allegedly rich with 3G network coverage.
+In addition to 3G complaints, two of the suits state that the iPhone hardware is prone to early wear-and-tear, and the third suit alleges that Apple’s firmware updates haven’t solved usability problems as promised.
+You iPhone owners out there—is 3G still a problem? The last we heard, AT&T was (allegedly) yanking power from the EDGE network and turning its back on old-school data users like me in order to bulk up the 3G access.

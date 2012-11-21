@@ -1,0 +1,19 @@
+Watch Señor Bill Gates describing the future of computing, with Apple CEO Steve Jobs next to him: An iPad-like device being used alongside an iPhone-like device. Then watch Jobs saying that, actually, the future was the PC.
+
+First, Bill Gates' idea of the future of computing:
+
+I don't think you'll have one device. I think you'll have a full-screen device that you can carry around and you'll do dramatically more reading off of that... yeah, I mean, I believe in the tablet form factor [...] You'll have some way of having a hardware keyboard and some settings for that. And then you'll have the device that fits in your pocket, which the whole notion of how much function should you combine in there, you know, there's navigation computers, there's media, there's phone.
+
+Nowadays, Steve Jobs agrees with this vision. He thinks that the iPad is the future and the traditional PC is dying. Like he told Ryan Tate: "The times are a changin', and some traditional PC folks feel like their world is slipping away."
+
+Back in 2007, however, he believed otherwise:
+
+It will be the PC, maybe used a little more tightly coupled with some back-end Internet services and some things like that. And, of course, PCs are going mobile in an ever greater degree. So I think the PC is going to continue. This general purpose device is going to continue to be with us and morph with us, whether it's a tablet or a notebook or, you know, a big curved desktop that you have at your house or whatever it might be. So I think that'll be something that most people have, at least in this society. In others, maybe not, but certainly in this one. But then there's an explosion that's starting to happen in what you call post-PC devices, right? You can call the iPod one of them. There's a lot of things that are not. … I think there's just a category of devices that aren't as general purpose, that are really more focused on specific functions, whether they're phones or iPods or Zunes or what have you. And I think that category of devices is going to continue to be very innovative and we're going to see lots of them.
+
+In a way, you can argue that the iPad and the iPhone are personal computers. PCs evolved into different form factors, with different UI paradigms. But that's not what Steve Jobs meant back then. To the question about what device will be the future of computing, Jobs clearly answers "it will be the PC, maybe used a little more tightly coupled with some back-end Internet services and some things like that." It's not surprising. Back then, he was always repeating the same message: The PC as the digital hub, the center of our digital lives, with specialized devices like the iPod orbiting around it. That was Apple's marketing message at the time.
+
+Only a few months later, the iPhone changed that vision. And the iPhone or the iPad are anything but specialized devices around the PC. They have a life on their own. They are general purpose computing devices in a phone and tablet format. Jobs later pointed this out:
+
+We're getting to the point where everything's a computer in a different form factor. So what, right? So what if it's built with a computer inside it? It doesn't matter. It's, what is it? How do you use it? You know, how does the consumer approach it? And so who cares what's inside it anymore
+
+That's true. But it's funny to see that, back then, Bill Gates was the one truly believing in a future beyond the PC, while Jobs was still playing the "PC as the digital hub" tune. I wonder if the latter ever anticipated the iPhone effect. If only I had a time machine. I could go back to 2007 and send him an email asking him about it.

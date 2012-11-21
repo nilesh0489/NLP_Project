@@ -1,1 +1,24 @@
-
+A judge at the US International Trade Commission said Micorosoft infringed four patents related to Wifi and video format standards. It should have paid licensing fees to Motorola Mobility, according to the decision.
+Apple was meanwhile found guilty on Tuesday of infringing one Wifi patent,
+Following the announcement in their case, both Microsoft and Motorola Mobility said they remained confident of ultimate victory.
+While the pair and their teams of lawyers prepare to battle over the minutiae of wireless networking and data compression for months to come, the technology industry is groaning under the sheer weight of patent disputes making their way through legal systems around the world. Meanwhile portfolios of technological intellectual property, much of it of questionable merit, are changing hands for vast sums as a fear of litigation grips Silicon Valley.
+Microsoft itself is a major player in this hot market. On Monday it sold a mixed bag of 650 technology patents to Facebook for $550m, covering web, mobile and instant messaging functions.
+RELATED ARTICLES
+Facebook buys $550m patent defence from Microsoft 23 Apr 2012
+'Reckless' Google in court over Android 24 Dec 2011
+BT joins patent attack on Google Android 19 Dec 2011
+Given it had acquired them only two weeks earlier as part of an even bigger deal with the faded dotcom star AOL, it was a sharp turnaround by Microsoft. It bought 925 patents for $1bn and kept the ones it considered most valuable, related to web search.
+Facebook was no patsy, however. It has its own patent battles to fight in this most litigious of technological ages. It is being sued by Yahoo!, another dotcom-era giant struggling to keep up with rivals focused on social media and mobile technology.
+Yahoo! claims that Facebook infringes a host of its patents, including many related to online advertising.
+“This is another significant step in our ongoing process of building an intellectual property portfolio to protect Facebook’s interests over the long term,” said general counsel Ted Ullyot following the Microsoft deal.
+Facebook aims to show investors it is fortifying the ramparts ahead of its initial public offering, expected next month. As well as the 650 patents from Microsoft, in March it bought 750 software and networking patents from IBM for an undisclosed sum. It means that the dominant social network around 20 times more patents than it did at the end of 2011.
+“Facebook is still a relatively a young company,” said Mark Kenrick, a partner at Marks & Clerk. “With patents typically providing 20 years of protection, Facebook seems keen to acquire patents from its rivals to place it in a competitive position relative to older more established players in its field.”
+The threat is real. Facebook has already warned in regulatory filings that “we expect the number of patent and other intellectual property claims against us to grow” and that the Yahoo! case alone could have a material impact on “our business, financial condition, or results of operations”.
+“It seems to be a quantitative rather than a qualitative issue,” said Adam Cooke, a patent litigation partner at Hogan Lovells. “There is clearly a bit of a scramble to accumulate as many patents as possible.”
+The most striking example of this hunger is Google’s acquisition of Motorola Mobility. The $12.5bn deal for Microsoft’s foe, and its pile of 17,000 patents, is in the final stages of regulatory scrutiny.
+According to Mr Cooke, the current “phenomenon” began with the rise of so-called “trolls” in the last few years. These are firms set up with the sole aim of exploiting an existing patent portfolio: they do not make anything, sell anything or do any new research. They do demand licensing fees and sue those who refuse in sympathetic jurisdictions.
+But, said Mr Cooke, “the contagion has spread”, to the real technology industry with the smartphone revolution. As well as building their own defences, the major firms are using their patents to try to gain competitive advantage. Bitter battles are being fought between Apple, Microsoft and Google, or their various proxies, particularly handset manufacturers.
+Apple in particular has a large axe to grind on behalf of its late founder, Steve Jobs. He considered Android, Google’s popular mobile operating system, a rip-off of his own iOS, the iPhone operating system. He vowed to spend “every penny” of Apple’s massive cash reserve if necessary to “destroy Android”.
+It may not have to. Oracle, best known for selling database software to large corporations and governments, is already in court with a claim that Google unlawfully copied its software to create Android.
+“There’s no sign of an end to all this and the stakes are very high,” said Mr Cooke. “If you’re sued the costs and the risks are enormous.”
+Undeniably. According to Microsoft, if it met all Motorola Mobility’s demands in the Xbox 360 case, it would face an annual bill of $4bn in licensing fees. Last year the Xbox business unit made a profit of $1.3bn.

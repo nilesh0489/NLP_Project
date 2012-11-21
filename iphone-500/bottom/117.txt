@@ -1,1 +1,11 @@
+Have you tried Google’s new voice-enabled search application for the iPhone yet? No, and neither have we. Amidst the big launch on Friday, and the corresponding ballyhoo in The New York Times, one thing was forgotten: the application itself. Apple didn’t get around to actually putting it in the App Store.
 
+As of now (Monday morning in Europe), only the old, non-voice version is available at the store. According to Michael Arrington at Tech Crunch, Google is subject to the same arbitrary application approval scheme as everyone else. The search company fully expected Google Mobile App to go live on Friday, but nothing showed up. The only indication of the app’s status was the message displayed in the iPhone Developer Tools which read "In Review".
+
+Arrington paints Google as the wounded party in his piece. Here’s what he says about Google launching first on the iPhone, and not on its own Android platform:
+
+ 
+
+The fact that they decided to launch first on the iPhone shows a willingness to embrace what’s right for the user.
+
+We doubt it. The fact is that next to nobody has the T-Mobile G1, and more than 10 million people have an iPhone. Still, Apple needs to sort out the App Store, and quick. It’s clearly a broken model, and the only person hurt is the iPhone user.

@@ -1,0 +1,43 @@
+The Verizon iPhone 4 has a problem that could cause the phone to drop calls, or be unable to place calls, in weak signal conditions, Consumer Reports engineers have found in lab tests.
+
+The problem is similar to the one we confirmed in July with the AT&T version of Apple's newest smart phone. It can occur when you hold either version of the phone in a specific but quite natural way in which a gap in the phone's external casing is covered. The phone performs superbly in most other respects, and using the iPhone 4 with a case can alleviate the problem.
+
+Here's a rundown of what we did and what we found in our tests: We subjected the Verizon iPhone 4 to a full complement of regular tests in order to add it to our smart-phone Ratings, available to subscribers. We also put it through the special tests we carried out last year on the AT&T iPhone 4 after a rash of consumer complaints about signal reception with that model. There has been no such outpouring of complaints about the Verizon version of the phone.
+
+In addition, to provide a comparison to some alternative models available from Verizon, we also tested five other Verizon smart phones that we rate highly: the Samsung Fascinate; Motorola Droid 2 Global; HTC Droid Incredible; LG Ally; and Motorola Droid X.
+
+ 
+Holding the Verizon iPhone 4 in a specific but quite natural
+way can cause dropped calls in
+weak signal conditions, our tests found (click to enlarge).
+Photo: ALK Technologies
+The special tests were all carried out in the controlled environment of CU's radio-frequency isolation chamber at our National Research and Testing Center in Yonkers, NY. In this room, which blocks interference from outside signals, our test engineers mounted each phone on a stand and established a continuous signal connection to our base-station emulator, a device that simulates the signals phones receive in the field. We then placed a finger to each phone in a range of locations around its edge, and monitored any changes to the phone's performance at each position.
+
+The only phones in which the finger contact caused any meaningful decline in performance was the iPhone 4, the sides of which comprise a metal band broken by several thin gaps. As with our tests of the AT&T iPhone 4, putting a finger across one particular gap—the one on the lower left side—caused performance to decline. Bridging this gap is easy to do inadvertently, especially when the phone is in your palm, which might readily and continuously cover the gap during a call.
+
+We also carried out tests in which we used the phones with "live" network signals. We captured these via antennas mounted atop our Testing Center and piped them into the chamber, where we used test equipment to vary their strength.
+
+We made voice calls from each phone to a corded phone in the test chamber, in a series of declining signal strengths. At each level, if the call went through, we made contact with the phone with our hands and noted any changes in performance. With all phones except the iPhone, we gripped the phone's sides to further verify that contact would not result in a dropped call. In all such cases, no calls were dropped.
+
+
+The gap on the lower-left-hand side
+of the Verizon iPhone 4's
+external casing (click to enlarge).
+Photo: Consumer Reports
+With the iPhone 4, we placed a finger in contact with the lower-left-side gap. Reception typically dropped notably within 15 seconds or so of the gap being bridged. The iPhone eventually dropped calls when touched at very low signal strength—that is, at levels of around one bar in the phone's signal-strength meter.
+
+At each level at which calls were dropped, we subsequently tried to place calls from the iPhone with our finger covering the gap. In all such cases, we couldn't initiate a call.
+
+We also carried out a number of supplementary tests using "live" network signals of low strength, in both the lab and the field. Holding the iPhone normally in our hand, and allowing the gap to be covered, we placed and received calls. These tests, too, yielded dropped calls and an inability to place calls.
+
+When we placed the Verizon iPhone 4 into the Apple iPhone 4 Bumper, a $29 frame-like cover sold by the company, the problem was essentially eliminated, as it was in our original tests of the AT&T iPhone, when it was placed into a Bumper. Based on past tests of the AT&T iPhone with cases of other designs, we also expect other cases sold for the Verizon iPhone 4 will alleviate the problem.
+
+Our regular tests confirmed, among other findings, that the new Verizon phone performs differently from the AT&T one in voice quality. With the Verizon version, calls placed to other phones sounded better than they did from the AT&T phone. For calls received, however, the AT&T phone had an edge in quality.
+
+Our tests also confirmed a widely-noted ease-of-use drawback to the Verizon phone: Unlike the AT&T version, you cannot place a voice call and surf the Web at the same time. That limitation stems from the CDMA technology used by Verizon's network, however, rather than from some feature of the iPhone 4.
+
+Bottom line: The Verizon iPhone 4 closely resembles the original AT&T iPhone 4 in many positive respects, including offering great multimedia functionality, a sharp screen, and the best MP3 player we've seen on a phone. Unfortunately, it also shares with its sibling the possibility of compromised performance in low-signal conditions when used without a bumper or case.
+
+As noted earlier, there have not been widespread reports of reception difficulties with the Verizon iPhone 4, and Verizon's network, unlike AT&T's, has received above-average scores from our readers for the reliability of its voice service in the past. (Those scores reflect data gathered before the launch of the Verizon iPhone 4.) But given our findings, we believe the possibility exists for individual users to experience the problem since low signal conditions are unavoidable when using any cell-phone network.
+
+For that reason, we are not including the Verizon iPhone 4 in our list of recommended smart phones, despite its high ranking in our Ratings. Although Apple no longer offers a free case to buyers of the iPhone 4, as it did for a time after the problem was first discovered on the AT&T version, the company has said in the past that it will consider requests for a free case from customers who buy the phone and subsequently experience reception problems.

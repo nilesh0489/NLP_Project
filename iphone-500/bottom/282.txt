@@ -1,1 +1,8 @@
+Ahead of a contract trial due to happen next week, Apple has declared that it’s willing to pay Motorola for a license to its wireless patents. It is, however, only prepared to stump up $1 per iPhone.
+FOSS Patents reports that Apple’s lawyers made the declaration, which covers essential wireless patents used for cellular and Wi-Fi standards, yesterday. From the court filing:
 
+“Apple’s actions in both licensing and litigation have matched its words in public. Because of that, Apple is willing to pay the FRAND [(fair, reasonable, and non-discriminatory)] rate this Court sets going forward if that rate is less than or equal to $1 per unit for its worldwide sales of covered products… This is the rate that Apple believes is appropriate in these circumstances, a rate that flows from Apple’s articulated FRAND framework, and the only rate that can be supported by experts at this trial. To the extent the Court sets the rate higher than $1 per unit, Apple reserves the right to exhaust all appeals and also reserves the right available to any party offered a license: the right to refuse and proceed to further infringement litigation.”
+
+According to FOSS patents, Apple’s position is strong - especially given that Motorola’s one expert witness is no longer able to “testify about a particular rate at trial” because the court held that he “did not offer any opinion about what particular rate or range or rates would constitute a FRAND royalty”. Dang.
+
+Apple’s no-more-than-$1 position stands a fair chance of sticking then, which could prove a massive kick in the teeth to Moto. Let’s wait and see. [FOSS Patents]

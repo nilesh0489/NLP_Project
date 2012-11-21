@@ -1,0 +1,30 @@
+One of the earliest complaints about the iPhone--even before it was a shipping product--was that it could only use Web-based applications, which couldn't offer the same functionality as native applications. Today's announcement of the iPhone software developer's kit (SDK) fixes that limitation--and by doing so, sets the stage for the iPhone as the phone to beat. Period.
+
+Apple's SDK blows open the process of creating native apps for the iPhone by letting most any would-be coder get started. Developers can sign up and download the SDK for free, which in turn allows Apple to reach out to a wider cross-section of would-be coders than they might have otherwise.
+
+According to iPhoneDevCamp co-founder Raven Zachary, "The fear [in the development community] today was that Apple was going to constrain the ability for third-party developers to distribute apps, in the same way they did with the iPod games market." There, Zachary notes, Apple made it very difficult for small developers to create and release a game: "You have to get Apple's approval, have them approve the source code, and then they take a large percentage of the profits for the distribution of that app.
+
+"What we've seen instead is Apple opening up the marketplace in the same way they've opened up the podcast directory in iTunes Music Store. They will be far more open about letting developers list their apps," says Zachary.
+
+Developers will need to do so in a Mac environment, though. And that leaves an open question as to how well these apps will be able to tie into the PC universe. So far, even Apple's own synchronization with Windows-based content has been limited, at best--and what the iPhone/iPod Touch can do, they do through the existing Windows iTunes framework. What will happen when hundreds of developers try to create apps that tap into content on a PC? Will all scenarios be supported?
+
+Those questions remain big question marks for now. But many in the industry appear bullish on the prospects for third-party iPhone/iPod Touch software. Venture capitalist firm Kleiner Perkins Caufield & Byers announced it was creating the $100 million iFund to help new developers for the Apple handheld platform. This move marks the latest effort by a VC firm to back software development; already, Facebook and Google's Android are among the available vertical funds, although neither of those has the same resources as the newly announced iFund.
+
+Ultimately, Zachary remains optimistic that Apple's strategy will be good for developers in the long-run. There's huge opportunity for commercialization and revenue generation, he says. The fees, he adds, are not too outrageous, either: To publish apps, you have to do so through the iTunes App Store for a fee of $99 (Apple will receive 30 percent of the revenues earned on any apps sold through the App Store).
+
+Some have questioned that number as being a high piece of the action, but Zachary thinks it's right on target. "I think it's fair. That number will drive thousands of developers to the platform. Apple will be absorbing all of the costs associated with bandwidth, distribution, and marketing. The net benefit probably outweighs the costs."
+
+Which Apps to Make the Cut?
+
+One big unknown is where Apple will draw the line on which apps they'll allow and which they won't. So far, they've stated outright that pornography and illegal apps will not be tolerated (natch). But beyond that, Apple appears to fostering innovation, encouraging developers to stretch their collective imaginations--right down to allowing developers to offer free apps as well as for-pay apps.
+
+Steve Jobs has confirmed that developers will be able to tie apps into the phone's Wi-Fi connectivity (including for VoIP over Wi-Fi), as well as the camera; it's not known yet to what degree, if any, developers will be able to tie into the dock. If they can, expect a whole new cottage industry of accessories to crop up around the iPhone/iPod Touch.
+
+The biggest catch to Apple's approach, though, is that the company is forcing everything to be distributed through the iTunes App Store, be it via the mobile device itself or the iTunes desktop client. This benefits Apple: The company retains a modicum of control over what gets installed on its devices. But without a third-party download source and a bonafide application installation/deinstallation manager, Apple will have the ability to constrain the needs of its consumers if and when it so chooses.
+
+All of the attention on the iPhone SDK has to be making Apple's competing handset manufacturers nervous. And rightly so. When the new iPhone 2.0 software update (which includes legitimate support for third-party apps) ships in June, it will transform the iPhone into the mobile phone to beat, for consumers and for enterprise users.
+
+Never before has this kind of excitement--and accessibility--occurred around a mobile platform. At one time, Palm had a thriving community of active developers, but the oomph has long left the Palm. Neither Research in Motion's BlackBerry nor Microsoft's Windows Mobile platforms ever really generated the attention, let alone comparative accessibility, that the Apple's iPhone has.
+
+Since the iPhone juggernaut was unleashed in the summer of 2007, it's been clear that Apple has had an indelible impact on mobile consumers. Now, the iPhone's SDK--coupled with the announcements of other enterprise support through Microsoft's ActiveSync and Exchange--means that traditional corporate handset makers are on notice, too: They need to shape up and compete head-to-head with the iPhone. If they can.
+
