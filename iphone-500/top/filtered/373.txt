@@ -1,0 +1,11 @@
+On the heels of AT&T's disastrous attempts to fight back against Verizon's clever "there's a map for that" ad campaign (Luke Wilson? Is that all you got?) comes more bad news for those who've hitched their smartphones to Ma Bell's wagon.
+
+In a speech to a tech conference this week, AT&T suit Ralph de la Vega hinted that his employer is considering plans to bring home more bacon by slaughtering its data hogs -- making its wireless subscribers (i.e., iPhone owners) pay by the megabyte or live with bandwidth caps.
+
+[ See which products make Cringely's list of "The biggest tech turkeys of 2009." | And stay up to date on all Robert X. Cringely's musings and observations with InfoWorld's Notes from the Underground newsletter. ]
+
+The first thing we need to do is educate customers about what represents a megabyte of data and...we're improving systems to give them real-time information about their data usage. Longer term, there's got to be some sort of pricing scheme that addresses the [heavy] users.... We are going to make sure incentives are in place to reduce or modify [data] uses so they don't crowd out others in the same cell sites.
+
+So, to recap: The only reason to pick AT&T as your wireless provider is the iPhone. In virtually every consumer survey, it lands at the bottom of the heap. It already charges an arm, a leg, and other vital bodily parts for a mandatory "unlimited" data plan. Now it wants to charge by the megabyte and/or put in bandwidth caps.
+
+Why is the world's largest telecom being such a total asshat? Apparently it's doing everything it can to win the Worst Company Ever award.

@@ -1,0 +1,7 @@
+Remember that smart German iPhone-controlled car that used cameras, GPS, and lasers to perfectly run through the streets of Berlin? Well, screw German efficient engineering. That's not how we do things in America.
+
+Here we modify battered, crappy cars—like this 1988 Oldsmobile Delta—in just four weeks using "a few motors, potentiometers, a Compact RIO embedded controller, and LabVIEW," which get connected to the iPhone using Wi-Fi. And then we strip out the doors for fun. And we ride it on top of its roof. Hopefully to an In-n-Out drive-in. Would you like to do it yourself? Your lucky day, Mad Max. Here's a video tutorial:
+
+
+
+And if that wasn't enough, you can also drive it using a modded Power Wheels truck. America, I salute you. [Engineer Awesome via LikeCool]

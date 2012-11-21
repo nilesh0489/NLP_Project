@@ -1,0 +1,7 @@
+Google used Optical Character Recognition (OCR) technology to transform the scanned book pages into screen-friendly text for iPhones and G1s. To access Google Mobile Book Search, just point your mobile phone browser to http://books.google.com/m.
+
+Book Search for PCs displays scanned images of pages and Google openly admits the OCR technology used to make these pages small screen-friendly can have drawbacks. "Smudges on the physical books' pages, fancy fonts, old fonts, torn pages, etc. can all lead to errors in the extracted text," reads the blog post announcing Mobile Book Search.
+
+Google is constantly updating its library of public domain books, currerntly 1.5 million strong, so you should expect an ever-increasing number of books available to read both on both PCs and on your phone. Amazon is also reportedly working on making Kindle ebooks available for a variety of mobile phones, recognizing the future of reading on small-screen devices.
+
+Meanwhile, if mobile e-books are your thing, a few other nifty apps are available for the iPhone that do a good job -- Stanza, eReader or BookShelfLT are all free.

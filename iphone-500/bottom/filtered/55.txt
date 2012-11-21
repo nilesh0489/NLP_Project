@@ -1,0 +1,5 @@
+AT&T has issued a press release today announcing that MMS will become active for iPhone users on September 25.
+
+We've been working for the past several months to prepare our systems and network to ensure the best possible experience with MMS when it launches - and that launch date is: September 25 for iPhone 3G and 3GS customers. MMS will be enabled through a software update on that day.
+
+AT&T points to the need for the company to build out its network infrastructure to handle the demands of heavy MMS messaging volumes as the primary reason for the delay in launching the service compared to carriers in other countries that have offered MMS since the launch of iPhone OS 3.0 in June. As announced in June, MMS messaging will be included at no additional cost to users with an iPhone text messaging plan. There has been much speculation on the availability of MMS from AT&T, some with dubious origins . Next week's Apple media event had been the subject of some speculation as a possible venue for AT&T to launch MMS, which was first promised at Apple's Worldwide Developer Conference in June, though today's news has put all such rumors to bed.

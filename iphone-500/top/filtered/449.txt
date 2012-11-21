@@ -1,0 +1,37 @@
+You might think that the remote vehicle "start" capabilities offered through some car companies, like OnStar via General Motors, for example, is a "cool" thing to have. If so, realize this: A company that can remotely start your vehicle and unlock your door can also remotely shut you out of it or shut it down completely, especially if forced to do so by authorities (who may or may not have a court order to do so). That kind of technology works both ways, so to speak.
+
+Reuters Apple (Nasdaq: AAPL), the world's most valuable technology company, introduced its iPhone 5, the successor to the best-selling iPhone 4S, on all three major U.S. carriers, AT&T Inc. (NYSE: T), the Verizon Wireless unit of Verizon Communications (NYSE: VZ) and Sprint-Nextel (NYSE: S).
+
+That's an important thing to consider, given the fact that Apple, Inc., was recently granted a patent enabling the company to wirelessly disable the camera function on specific iPhones in certain locations, "sparking fears that such techniques could be used to prevent citizens from communicating with each other or taking video during protests or events such as political conventions and gatherings," PrisonPlanet.com reported.
+
+In this electronic day and age, just about all of us are aware that cellphone-generated video is easy to take and easy to upload to an audience of millions within moments. Most of us have seen the cellphone video of a fight or a confrontation or another impactful incident involving civilians and authorities. It's a powerful medium that very often offers a point of view not available to the mainstream media - but carried by them, nonetheless.
+
+That may all be about to change.
+
+Freedom is not a given
+
+Theoretically, according to U.S. Patent No. 8,254,902, published recently, "apparatus and methods of enforcement of policies upon a wireless device" could be implemented with the flick of an electronic switch.
+
+According to the patent:
+
+Apparatus and methods for changing one or more functional or operational aspects of a wireless device, such as upon the occurrence of a certain event. In one embodiment, the event comprises detecting that the wireless device is within range of one or more other devices. In another variant, the event comprises the wireless device associating with a certain access point. In this manner, various aspects of device functionality may be enabled or restricted (device "policies"). This policy enforcement capability is useful for a variety of reasons, including for example to disable noise and/or light emanating from wireless devices (such as at a movie theater), for preventing wireless devices from communicating with other wireless devices (such as in academic settings), and for forcing certain electronic devices to enter "sleep mode" when entering a sensitive area.
+
+What that means is, an encoded signal could possibly be transmitted to all wireless devices entering "a sensitive area" (and who defines what that is?) which would command them to disable all recording functions.
+
+The fear, obviously, is that this capability can and will be used by authorities at given times to control what you can and cannot document on your personal device, based on their whims and needs.
+
+Not a good development for those who love freedom.
+
+Just when technology was set to make more of the world instantly accessible...
+
+This development comes on top of an innovation by technology companies to make wireless connectivity a major component of the latest cameras; this would not bode well for photographers and citizen journalists who are already having their first and fourth amendment rights trampled.
+
+Says Michael Zhang at the tech site Peta Pixel:
+
+"If this type of technology became widely adopted and baked into cameras, photography could be prevented by simply setting a 'geofence' around a particular location, whether it's a movie theater, celebrity hangout spot, protest site, or the top secret rooms at 1 Infinite Loop, Cupertino, California."
+
+The same site offers some soothing advice as well:
+
+"Companies often file patents for all kinds of random technologies that never end up seeing the light of day, so you shouldn't be too concerned about this latest document. It's just a warning of what the future could potentially hold."
+
+Knowledge is power. We'll be keeping an eye on this development for our readers.

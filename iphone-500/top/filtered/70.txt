@@ -1,0 +1,33 @@
+NEW YORK (CNNMoney) -- Scores of iPhone 5 users hit Apple's support forums over the past week to exchange anecdotal reports on a scary bug: Their phones appeared to be sucking down cellular data even when they were connected to a Wi-Fi network, resulting in big overages as they blew through their monthly data caps.
+
+Apple hasn't publicly commented on how widespread the bug is, but the company confirmed its existence on Sunday when it pushed out a software update aimed at fixing it for customers on Verizon's network.
+
+The software update "resolves an issue in which, under certain circumstances, iPhone 5 may use Verizon cellular data while the phone is connected to a Wi-Fi network," Apple wrote in a posting on its support website.
+
+Verizon Wireless customers "will not be charged for any unwarranted cellular data usage," a company spokesman told CNNMoney on Monday. The company declined to comment further on the issue.
+
+It's unclear if carriers beyond Verizon (VZ, Fortune 500) are also affected. Some on Apple's discussion board have reported similar problems on AT&T's network.
+
+Apple (AAPL, Fortune 500) and AT&T (T, Fortune 500) did not reply to requests for comment on the issue. A Sprint (S, Fortune 500) spokeswoman said CNNMoney's call late Friday was the first time the company had heard of the issue.
+
+Sporadic reports of slow, inconsistent and buggy Wi-Fi connections have plagued Apple's iOS 6 -- the operating system that powers the iPhone 5 -- since its release 12 days ago, but the cell-data problem adds a nasty new twist to the issue. Carriers are using carrots and sticks to move customers away from unlimited data and toward metered billing plans that cap customers' data use and charge them for overages. Any bugs in how data use is charged will hit customers hard on their monthly bills.
+
+As one customer on Apple's board put it: "When I first noticed the issue, I actually felt sick."
+
+Two CNNMoney readers said their problems appear to be with the iOS 6 software, not the iPhone hardware -- and they indicated that it's a problem on AT&T's network, too.
+
+Gary Milkis said his daughter's iPhone 4 (which had been upgraded to iOS 6) experienced the data glitch, and that he was forced to shut off cellular data to avoid overage charges. AT&T retroactively increased the data limit for last month to make up for the overage, he said.
+
+Another reader, Frank Passalacqua, said AT&T recently informed him that he had gone over his 200 MB monthly data limit.
+
+"This comes as a shock to me because in the two years I had my plan, I never once went over. The funny thing is, I got this message from them the day after I downloaded iOS 6," he wrote in an email. "I just don't think it's right that I'm being charged an extra $15 for going over when I know for a fact I didn't."
+
+A long trail of iPhone 5 users have posted messages on Apple's website expressing surprise at how quickly they seem to be hitting their caps.
+
+"I somehow managed to burn up 1.8gb of data over 5 days on my iphone 5," user Malc Mitch wrote last week on one Apple discussion board. "This had never happened in my past 4 years of owning an iPhone ... I can't believe I'm about to hit my full months data limit in 6 days when I connected to wifi 75% of the day."
+
+Commenters on many other threads reported similar problems.
+
+"My son's phone used 161 MB of data in one setting while he was in class and on the Wi-Fi network," Apple customer Curtis Sandberg wrote in an email to CNNMoney on Friday. "I'm hoping that Apple will acknowledge and respond to the issue."
+
+Apple has already issued one mea culpa about the iPhone 5. CEO Tim Cook released a public apology on Friday in response to widespread complaints about Apple's new Maps app, which "fell short" of Apple's commitment to "make world-class products," Cook said.

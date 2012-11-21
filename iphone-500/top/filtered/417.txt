@@ -1,0 +1,11 @@
+Sakhr Mobile develops an iPhone app for troops and diplomats that translates Arabic speech into English, and visa versa--and there's video of it, in action.
+
+Fast Company just got a tip about one of the first products of that effort, an iPhone and Blackberry app, created by Sakhr Software and Dial Directions, that does natural language translation. Check out the video of the app, translating sinister-sounding--but all-too-real--phrases like "The prime minister will form a new government":
+
+
+
+This is the first product from Sakhr, which has just announced its acquisition of Dial Directions. Sakhr works on devices that scan Arabic words and then offer machine translations, and its customers already include the U.S. Department of Defense, U.S. Department of Homeland Security, and the U.S. Department of Justice. Dial Directions, for its part, creates voice-entry applications.
+
+Creating the app you see above was a matter of combining those technologies--first, the speech recognition part, which transcribes what's being said, and then applying Sakhr's know-how in translating the text that's produced. Zoinks! The future, apparently, is now. And while the military applications are obvious, we can't help but think the commercial applications are far more vast. How cool would it be to have something like this working for you while hiking in the wilds of India, or China, or any other Federation planet?
+
+Of course, who knows how this device might fare in the field--machine language translators are faced with a daunting test, when posed with the sloppiness of real-life language. Just witness how bad Google's translation still is. The field has made tremendous strides in recent years. Will the pace continue? 

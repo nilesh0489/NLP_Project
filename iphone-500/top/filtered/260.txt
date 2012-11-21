@@ -1,0 +1,25 @@
+For many iPhone 4 and 4S owners, iOS 6 has been a mixed blessing. The features are terrific, but many users are reporting huge amounts of battery drainage that never was the case before the system upgrade.
+
+As an iPhone 4S owner, I can tell you from first hand knowledge that my iPhone loses about ten percent of its charge per hour without doing anything but sitting in my pocket. I noticed that with the lock screen set to two minutes, and the screen turned off, the iPhone feels quite warm, as if it's doing something.
+
+Many have blamed this on the Maps app, but I haven't even run the Maps app, so for me, that isn't the problem.
+
+An Apple Discussion board thread has more than 200 entries discussing this problem and some solutions that may provide a fix in rare cases, but it is no panacea for the great majority of users.
+
+Here are a few comments from the Apple Support Boards:
+
+Only1jb: "Used my 4S the same as every other work day. Usually come home with about 60 percent. Came home today with 17 percent."
+
+John Smith 1882: "100 percent at 8am this morning when I took it off the charger. 0 percent within four hours. No calls. No GPS, no Internet use, but battery was dropping one percent every few minutes. I turned off location services, no change."
+
+LocalBus: "Thinking of switching back to 5.1.1 now!! 9am to 10:30am the battery drain is 100 percent to 52 percent!!!!! Something is very wrong."
+
+There are scores of other  complaints.
+
+Suggestions have been offered, such as turning off location services, Maps, Passbook etc. Nothing seems to work for more than one person.
+
+The problem is not limited to those on the Support Discussion. This problem is not just being reported on the Support Site. On MacRumors forums, a user with the handle of DArsenault reported that "Battery life on the 4 is terrible. Since I've upgraded my phone drains rapidly when it's not even in use. My phone dropped from 63 percent to 30 percent in about an hour of just sitting on my desk unused."
+
+Others have reported no excessive battery drain, but enough have to make this a salient issue that needs to be addressed and quickly. I've gotten used to carrying my two battery back-up cases to just get through the day.
+
+We'll keep you posted as more information becomes available, but it seems like a software fix is in order.

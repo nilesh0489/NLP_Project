@@ -1,0 +1,19 @@
+Skype has launched its video-calling service for the Apple iPhone, a week earlier than many expected – with more announcements from the VoIP specialist due at CES 2011 in Las Vegas early next month.
+
+So if you have an iPhone 4 and want to make Skype-to-Skype video calls with others (either on their iPhones or PCs/Macs) then you can grab the latest version of Skype's iOS app from iTunes today.
+
+The video calling app will work over Wi-Fi or 3G, although initial tests show that the video quality and stuttering on 3G video calls are somewhat compromised when compared with the smooth flowing moving images on Wi-Fi.
+
+"Video calling significantly enhances the user experience of Skype for iPhone, which is one of the top five free iPhone apps in 2010 according to Apple," said the company.
+
+"Now, users can make and receive free Skype-to-Skype calls, call mobiles and landlines around the world at very low rates, and now share more moments together with video on Skype for iPhone,"
+
+The new Skype for iPhone app will also work with the with the iPhone 3GS, and iPod touch 4th generation with iOS 4.0 or above – although obviously only allowing the caller to send video from the single camera on the back of the phone or iPod in those cases.
+
+iPod touch 3rd generation and iPad will both be able to receive video calls, but not send them, due to the lack of video-shooting capabilities on those devices.
+
+Most excitingly, for many Skype users, video calls can now be made between your PC or Mac laptop or desktop and your iOS device.
+
+Your desktop client will need to be Skype for Windows 4.2 or above (or Skype for Mac 2.8 and above) – plus the app will also work with other desktop clients and devices such as Skype for Linux and the Asus-manufactured standalone Skype Videophone.
+
+The Skype for iPhone application is freely available to download from the Apple App Store – for more head to www.skype.com/go/iphone
