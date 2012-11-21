@@ -1,0 +1,37 @@
+The curtain has been pulled back on iPhone 4, and the list of new features is massive: There's multitasking (finally!), a refreshed interface, and literally hundreds of other changes, all coming this summer. Here's the rundown.
+
+The new OS will ship in June (Fall for iPad, and a developer preview is available today, so we can expect to have plenty of apps updated and ready for launch.
+
+• Multitasking: It's here, finally. It's handled with a simple task switcher: double click your home button, and you get a list of running apps. Select, switch, done. Multitasking is limited to audio streaming, VoIP and GPS apps, as well as a few other allowances: they can finish specific, important tasks in the background, for example. As far as non-music/nav/VoIP apps, those can be suspended in the background, but not left running. (See below.) Full details here.
+
+• Fast app switching: With iPhone 4's multitasking, most apps aren't actually running in the background—just certain functions of the app, like an audio stream or a GPS lock. But! All apps can now be frozen, in full, so that when you reopen them, they're restored to exactly the state they were in when they were closed.
+
+• Local notifications: Notifications can be sent between apps on the phone, not just from remote servers. In other words, if something important happens in an app you've opened and moved away from, a notification will pop up in whatever app you're using at the time, effectively saying "switch back to me!" It's a fairly clever way to keep track of multiple apps without the need for a start bar or dock-type interface. From Apple's dev guidelines:
+
+And some more technical details, again from Apple's developer guidelines:
+
+• App folders: Now you can sort your apps into folders! That's homescreen clutter solved, just like that. Apple's description:
+
+• A new Mail app: Unified inboxes, multiple Exchange accounts, fast inbox switching, threaded messages: These new features are actually a huge deal, since the iPhone's mail client has barely changed since 2007, and Apple doesn't allow alternative mail apps. Apple's pitch:
+
+• iBooks: Oh hey, that iBooks ebook reader app and accompanying ebook store we first met on the iPad has ambled on down to the iPhone. Nice, since you can now take your books with you wherever you go, as oppose to wherever you go with your iPad.
+
+• Custom backgrounds: Jailbreakers have them. Hell, the iPad has them. Now you can choose a persistent background for your iPhone—and not just for the lockscreen.
+
+• Game Center: Apple's going to roll out a centralized gaming service—a multiplayer network like PSN or Xbox Live—to help connect games to one another, by the end on the year. There are 3rd-party services that already do this, like OpenFeint. They will probably die. Full details here.
+
+• iAd advertising: It looks like Apple's finally making use of Quattro, that mobile ad company it gobbled up a few months ago, by rolling out its own advertising platform, a turnkey ad plugin for app developers called iAd. The theory here is that instead of relying on links to external websites, which pull users out of apps whenever they tap on an ad, developers can use Apple's new tools to keep people in the app while still showing them advertising—sort of like popover browser windows. You can watch videos, play games, and even buy apps from within these ads. This is in the iPhone OS 4 developer tools, but it's not explicitly a part of OS 4, so you won't see apps with iAds until later this year. Full details here.
+
+• 5x digital zoom: Could this hint at a higher quality camera in the next hardware? 3.2 megapixels seems a bit low for 5x digital zoom.
+
+• Bluetooth keyboards: Another carryover from the iPad, Bluetooth keyboard support will finally come to iPhone 4.
+
+• A bevy of other new developer features, including 1500 new APIs to play with: See here for more details.
+
+Now that we've had a few days to use the OS, we've compiled a huge list of features not covered in the keynote.
+
+When the software ships in the summer, iPhone 3GSes and iPod Touch 3rd-gens devices will get all of the new features. The iPhone 3G and Touch 2G will get "many things," which doesn't include multitasking. I repeat: the iPhone 3G won't get multitasking, ever. iPhone 2Gs will be left on a hillside somewhere to die of exposure, or something.
+
+Apple didn't drop any clues about the next iPhone's hardware, but it's a fair bet that we'll see some changes come June.
+
+The iPad won't get the 4.0 upgrade until Fall of this year, a few months after the iPhone does. So, you'll be able to multitask on your dinky little iPhone before you'll be even be able to listen to Pandora and check your email at the same time on your giant iPad.

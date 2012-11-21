@@ -1,0 +1,49 @@
+The situation has now been resolved. Read more in my later blog entry.
+
+If you’re wondering why Eucalyptus is not yet available, it’s currently in the state of being ‘rejected’ for distribution on the iPhone App Store. This is due to the fact that it’s possible, after explicitly searching for them, to find, download from the Internet, and then read texts that Apple deems ‘objectionable’. The example they have given me is a Victorian text-only translation of the Kama Sutra of Vatsyayana. For the full background, a log of my communications with Apple is below.
+
+To give a bit of background about Eucalyptus itself, it doesn’t ‘contain’ books any more than a newly bought iPod ‘contains’ songs. It provides an easy-to-use way to find and download classic books, then presents them a beautiful, readable (I would say the most beautiful, and most readable, but I’m biased of course) way. Check out the videos at eucalyptusapp.com if you haven’t seen them. The books are all text-only, and are directly downloaded from the archives of the well-respected Project Gutenberg.
+
+The exact book (the Kama Sutra) that Apple considers the ability to read ‘objectionable’ is freely available on the iPhone in many ways already. You can find it through Safari or the Google app of course, but it is also easily available via other book reading apps. You can get it easily via eReader, though the search process is handled by launching a third-party site in Safari, with the download and viewing taking place in eReader. Stanza offers up multiple versions, some with illustrated covers. Amazon’s Kindle app, the latest version of which was approved by Apple this week, offers multiple versions too - although it does charge from 80¢ to $10 per book - and you again purchase via Safari before Kindle downloads the book.
+
+I am at a loss to explain why Eucalyptus is being treated differently than these applications by Apple. I’m also frankly amazed that they would suggest I should be manually censoring content that is being downloaded from the public Internet - classic, even ancient, books, no less.
+
+To digress a little for a moment, it especially amazes me that this is happening to Eucalyptus - a $9.99 app that allows you to download text-only classic books - given the huge volume of what is arguably soft-core porn imagery that’s now available in apps on the store. Just search for “sex” to see what I mean (or even “Kama Sutra” - you’ll find “SlideHer Tera Patrick”, the description of which features the classy line, “Almost X rated, it’s not porn.”) I do, however, accept that this could be seen as a consistent policy - even if it does seem morally dubious to me. Honestly though, is a 14 year old looking for something illicit more likely to download a free bikini girls app, or pay $9.99 for a book reading app, search explicitly for the Kama Sutra, then wade through Victorian prose trying to find the ‘good bits’?
+
+Anyway - back to the issue directly at hand. For all I know, it could just be that I was unlucky enough to have Euclyptus assigned to an over-zealous reviewer. If Apple responded to attempts at communication, it’s possible we could have resolved this quickly, even if it took a call-center style “can I please speak to your manager”, but they do not.
+
+I’m going to talk a bit about my personal frustrations here - you can skip this part if you’re not interested in emotional impact, or would class further complaints as whining.
+
+I suspect that no-one at Apple knows how genuinely torturous the app store approval process is for developers personally after a rejection. When they hold the key to the only distribution pipe for something you’ve spent a lot of your time on - in my case a year - something you’re hoping could provide you with a livelihood - and polite email enquiries are not replied to - not even with an autoresponder, it is extremely frustrating. I don’t think I’ve ever felt as powerless in my life (and I’ve had to deal with US immigration authorities…). I think anyone that knows me would confirm that I’m a very level-headed person, but this is the only thing in my adult life I can recall losing sleep over (although perhaps that’s also a consequence of being otherwise lucky in life so far).
+
+I can certainly appreciate that Apple probably has to deal with some very difficult and unreasonable developers, but that’s not a reason to lock all others out of any form of conversation. I am sure they could do a lot to improve developers’ view of the process if they were just a little more outwardly friendly. There’s a lot they could do without even spending significant money - how much would an estimate of time remaining until review cost to implement? Or a policy of responding to at least one email after a rejection?
+
+If it wasn’t for their dominant market share, I suspect that they would have to be a lot more friendly to attract developers to the platform. As it is, I guess I just have to hope that they realise the emotional distress they’re causing (and I haven’t even mentioned the other flaws of the process, like the inability to specify when your application will go on sale if you want it to appear in the ‘new’ application lists).
+
+Below, identifying details (email addresses and reference numbers) have been removed from the emails originating from Apple.
+
+Eucalyptus was first submitted to Apple on the 27th of April. On the the 3rd of May, I received the first rejection - for misusing the ‘Contacts’ and ‘Bookmarks’ icons to represent ‘Authors’ and ‘Books’. I don’t really have complaints about this - Apple’s been fairly (though not entirely) consistent about enforcing the use of standard icons for their narrowly defined purposes, and I really should have known better. I resubmitted with new icons - the ones now on display in the tab bar in the videos at eucalyptusapp.com, and expected smooth sailing.
+
+A week later, on the 10th of May, I got this email:
+
+It was accompanied by this image:
+
+I also re-submitted Eucalyptus to Apple, on the advice of another developer who had previously been advised by Apple to resubmit an app when it was erroneously rejected because after a binary is in the ‘rejected’ state it ‘cannot’ be accepted. If this was the case, it seemed wiser to do it sooner rather than later if a place in the queue was at stake.
+
+I received no reply at all to my email, so on the 13th of May (three business days later), I sent another email:
+
+The next day (14th of May), I received this - to me it looks like an automated email, but I guess it could have been sent by a human:
+
+On the 18th of May, I sent:
+
+This was shortly followed by another email (note that there is still no reference to the points I brought up in my original reply):
+
+And have not received a reply.
+
+I’m afraid I’ve currently decided to sell my soul, or at least rent it out for a while, and manually block the Kama Sutra from appearing in Eucalyptus. It may become accessible again in a later version of Eucalyptus when Parental Controls become available. If someone at Apple would like to contact me to let me know that this is unnecessary, and that Eucalyptus will now be treated the same way as other iPhone apps, I would be very happy to hear from them.
+
+What can you do? I suspect not much. At the risk of introducing crass commercially into an otherwise honorable blog post, you could perhaps go to eucalyptusapp.com and sign up to be notified by email when Eucalyptus is released (with or without access to ‘objectionable’ texts) - or follow @eucalyptusapp on Twitter for updates - and buy it when it’s available. You will, of course, be supporting the very company whose actions (and inactions) inspired this blog post by doing so, but you’ll also be supporting me, and Project Gutenberg (20% of the gross profits from Eucalyptus go them, as their license dictates).
+
+Thanks for reading. It feels good to get this off my chest after keeping quiet for so long.
+
+I’ve now received another email from Apple (an hour and a half after posting the entry above). I’m not sure whether it’s more polite to post it here or not, so I’ve erred on the side of being transparent. I hope this doesn’t turn into a soap opera of updates.

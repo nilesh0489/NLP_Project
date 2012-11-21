@@ -1,0 +1,45 @@
+Three years ago, I was really excited. Though the magic of serendipity, I had purchased an original iPhone while driving from L.A. to Seattle, and I was just beginning to discover the seemingly limitless possibilities of having a web-connected personal computer in my pocket.
+
+Sure, there were problems here and there, but, at first, the iPhone was new, it was transformative, and most of all, it was a helluva lot of fun to own. Apple had done amazing stuff in the past, but this felt like the pinnacle of their work. The iPhone combined everything great about Apple into a single beautiful device.
+
+Fast-forward three years, and all that joy is gone. Kaput. My iPhone 3G is used as an iPod at work, to check traffic while driving, and (occasionally) make phone calls. It’s gone from being a fun device to something that is kind of a drag to own. And I blame Apple.
+
+The Lord giveth and the Lord taketh away.
+
+On Twitter, there is a hashtag for complaints like this: #21stcenturyproblems, which adds a level of irony to the tweet by acknowledging that a few years ago, noone could have complained about this, and — by the way — most people probably don’t give a shit in the first place. Fair enough, and yet because the iPhone permanently established the smart phone as a must-have device, it’s weird that we’ve gotten to this point in such a short period of time.
+
+So how did we get to this point? That’s a good question. Like I said earlier, there were always problems with the iPhone, but how did those problems get to the point where I can’t wait to get out of my contract? For me, the tipping point was the recent release of iPhone 4 and iOS4, but it started long before that. In my head, it’s been a history of the reality not quite matching the promise, and that history started with AT&T.
+
+Shortly after I got the first iPhone, I realized that AT&T’s Edge network was — how to put this gently? — utter shite. The Edge made things like web-surfing, or getting traffic in real-time utterly excruciating. Of all of the things ever named “Edge,” AT&T’s network was most certainly the worst, and the shaving cream & U2?s guitarist should sue for defamation of character.
+
+And while the 3G phone that I eventually purchased in January 2009 was a definite upgrade, AT&T’s 3G service was spotty at best, and non-existent at worst, nullifying some of that upgrade. Even worse, it locked us in for two more years with AT&T.
+
+And while AT&T’s problems were only Apple’s fault to the extent that Apple didn’t open up iPhone to other carriers, as those problems continued over the years, they became Apple’s problem. Let’s put it this way: being the carrier for the iPhone didn’t raise AT&T to Apple’s level, but slowly dragged Apple down to AT&T’s level.
+
+And no amount of commercials could convince me that the holes I saw in their service — especially the one that saw me dropping calls while sitting still on my couch — didn’t exist. Instead, those commercials just branded everybody involved as disingenuous at best, and liars at worst.
+
+And in fact, the fact that we’re stuck with AT&T is one of the reasons that I wasn’t going to automatically upgrade to iPhone 4. Even if it is a magical device that lets me multitask — or “multitask,” — and video chat! And as much as I’d love to do video chatting w/ Rox on my drive home, that would mean that our household would have spent over $2000 on iPhones in three years. Even for early adopters, that seems like too fucking much money.
+
+iPhone 4 was a magical device that only worked properly if you held it correctly. Last week’s press conference was a masterpiece in sullenness. Not only did Apple blame the entire smartphone category for their dropped call problem, their solution was essentially a hack. A cynical hack that does nothing to address the underlying problem.
+
+It’s as if BP called a press conference to announce that they were going to give away free hazmat suits to all Gulf Coast residents.
+
+Still for all of the cynicism, I probably wouldn’t have even cared about the whole “death grip” problem had not I been simultaneously dealing with a 3G iPhone that seemed like it was on smack. Despite everything, I was mostly happy with my iPhone 3G. That is, until I made the mistake of installing iOS4, and it all but crippled my 3G.
+
+But, the point is not that I can downgrade, it’s that Apple — who can tell what kind of iPhone I have when I plug it in — shouldn’t have let me upgrade in the first place.
+
+After installing iOS4, apps that had previously zipped open took an excruciating amount of time to load. After installing iOS4, typing on the iPhone — never the most pleasant of things to do in the first place — became reminiscent of typing via telnet over a 14.4 modem. After installing iOS4, I wondered why Apple didn’t just not make it available to 3G users.
+
+At the very least, why didn’t tell us that this new OS was really too powerful for the older phones? Instead, they left it up to the tech blogs to discover that fact. Too late for a lot of us, who knew it was coming and downloaded it the second we could.
+
+Of course, I could downgrade the OS back to a previous version. That is, if I wanted to go through a long, involved, and potentially brickifying process. But I shouldn’t have to do that. Like the bumpers, it’s essentially a hack.
+
+The whole thing reminds me of when I upgraded to Windows 95 and it killed my first computer. I basically rebuilt that computer from scratch trying to get Win 95 to work, and eventually just bought a new computer.
+
+In fact, upgrading to iOS4 is in some ways worse than upgrading to Windows 95, because Apple has a full lock on both the hardware and the software, and either 1) they didn’t test it, or 2) they didn’t give a rats ass, cynically figuring that a bad experience would just drive more people to buy an iPhone 4 earlier than they planned. Either way, that’s bad, and combined with the “death grip” press conference, I don’t really feel basked in the love that Steve Jobs professed for all of their users.
+
+That’s where we are: a contract that doesn’t end until next year; a cellular network that’s unreliable; and the choice between a new device that requires an ugly hack or my current phone which is being paper cut to death by an OS which should never have been installed.
+
+And that’s how Apple took the fun out of owning an iPhone for me.
+
+Back when I had my Windows 95 woes, the Apple fanboys would inevitably diss me for being so stupid for running Windows in the first place. “That’s what you get,” they would say. And they were right. They were right then, and they are right now. That’s what I got for trusting Microsoft in 1995, and apparently that’s what I get for trusting Apple in 2010.

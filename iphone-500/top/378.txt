@@ -1,0 +1,31 @@
+Apple appears to have blocked iPhone applications related to the Dalai Lama in its China App Store, making it the latest U.S. technology company to censor its services in China.
+
+Those apps, which appear in most countries' versions of the App Store, do not currently appear in the Chinese version. Another app related to Rebiya Kadeer, who like the Dalai Lama is an exiled minority leader reviled by China's authorities, is unavailable in the China App Store as well. The apparent censorship comes after carrier China Unicom launched iPhone sales two months ago, making regulatory approval of the phone's contents in the country necessary for the first time.
+
+"We continue to comply with local laws," Apple spokeswoman Trudy Muller said in an e-mail when asked about the missing apps. "Not all apps are available in every country"
+
+At least five iPhone apps related to the Dalai Lama are unavailable in the China store. Some of those apps -- named Dalai Quotes, Dalai Lama Quotes and Dalai Lama Prayerwheel -- display inspirational quotes from the Tibetan spiritual leader. Another, Paging Dalai Lama, tells users where he is currently teaching. A fifth app, Nobel Laureates, contains information about Nobel Prize winners including the Dalai Lama.
+
+Test searches done on four out of five iPhones displayed at the Apple Store in Beijing this month returned no results for the term "Dalai." The apps also did not appear for searches done with a computer on iTunes after switching the country selection in the program to China. One of the iPhones at the Apple Store did display the Dalai Lama apps, though it was unclear why.
+
+Chinese officials condemn the Dalai Lama as a dangerous "splittist" seeking to separate Tibet from China, and have called him a "devil with a human face." The Dalai Lama fled Tibet in 1959 after Chinese troops crushed an uprising in the capital city of Lhasa, solidifying Chinese control there. The religious figure remains widely revered by Tibetans.
+
+Kadeer, an exiled leader of China's Uighur minority group, gets similar treatment by Chinese officials and state media. An iPhone app named 10 Conditions, based on a documentary about her life, also did not appear in test searches of the App Store in China.
+
+Apple lets developers choose in which countries' versions of the App Store to sell their products, but it is unlikely that the Kadeer and Dalai Lama apps are unavailable in China by the choice of their makers. The app about Kadeer was submitted to the App Stores in all countries, James Boldiston, the app's developer, said in an e-mail. Other developers said they could not recall if they had excluded China, but most had other apps for sale in the China store, showing that in other cases they had included the country.
+
+"Given that Apple has cooperated with China before (by not distributing games), it's of course very likely that it's Apple, not the developers, that are preventing certain apps from appearing," said one China-based app developer, who asked not to be named, in an e-mail. Games were not sold in the China App Store before recent months.
+
+Boldiston and other developers of the missing items said Apple had not told them their apps were unavailable in China.
+
+"I didn't know the app had been pulled, and wasn't informed," said James Sugrue, who designed the Dalai Quotes app. "Apple reserve[s] the right to do this sort of thing, and while from a censorship point of view I disagree with this, I can understand why they did," he said.
+
+Apple joins other U.S. technology giants including Yahoo and Google that have come under fire for complying with Chinese government demands on sensitive political issues. Human rights advocates criticized Yahoo when Shi Tao, a Chinese journalist, landed a 10-year prison sentence in 2005 partly because of e-mail evidence gained from his private Yahoo account. Yahoo said it was obeying Chinese law by handing the evidence to authorities.
+
+Google has been criticized for offering a censored version of its search engine for China at Google.cn, which blocks pornographic and some politically sensitive search results. Google has similarly said it must follow local laws and regulations.
+
+Chinese authorities previously took aim at Apple last year during the Beijing Olympics, when the U.S. iTunes Music Store was blocked in China after it started selling a new collection of songs about Tibet. The U.S. iTunes Music Store and App Store are both currently accessible from Beijing.
+
+The Chinese iPhone also appears to be subject to the country's set of Internet controls known by critics as the "Great Firewall." Searching the App Store for "Falun Gong," the name of a spiritual sect banned in China as a cult, caused iPhones in the Beijing Apple Store to display a results loading screen indefinitely, though no Falun Gong apps appear to be offered in any countries. In contrast, searches for other terms quickly returned a results page.
+
+Other iPhone apps that might be seen as sensitive by Chinese authorities are still offered in the China App Store. Apps that, for instance, show YouTube videos or let users update their Twitter accounts remain available even though YouTube and Twitter are blocked on the Internet in China.

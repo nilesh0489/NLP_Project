@@ -1,0 +1,41 @@
+The head-to-head battle between Apple Inc. and Google Inc. in mobile maps is drawing nearer.
+
+Google has distributed a test version of its new mapping app that will work on Apple's iPhones to some individuals outside the company, said a person with direct knowledge of the matter. Google has been putting the finishing touches on the app before submitting it for approval to the Apple iTunes store, this person said, though it's unclear exactly when that will happen.
+
+If Google's new mapping app is accepted into the iTunes store, it will directly compete against Apple's new mapping software that is preinstalled on its mobile devices.
+
+An Apple spokesman said the company doesn't comment on apps that haven't been submitted for approval. Apple has recently approved some new or updated Google apps.
+
+A Google spokesman said, "We believe Google Maps are the most comprehensive, accurate and easy-to-use maps in the world. Our goal is to make Google Maps available to everyone who wants to use it, regardless of device, browser, or operating system."
+
+Google's new mapping app for Apple devices is the latest in a maps-software fracas between the companies, which are increasingly competing in everything from mobile devices to digital-media sales. Maps are considered one of the most important elements in the future of computing because they will power the next-generation mobile apps that help people find places to visit and where to shop, among other things.
+
+In mid-September, Apple released its latest iPhone and iPad software called iOS 6 that automatically replaced a Google Maps app that was preinstalled on its mobile devices with Apple's own mapping software. Apple also removed Google's YouTube video app, which similarly had been preinstalled on all of the devices. Both preinstalled Google apps had been built by Apple with Google data.
+
+But Apple's move to boot Google Maps backfired, as numerous consumers complained Apple's version was riddled with inaccurate data. The controversy prompted a public apology from Apple Chief Executive Tim Cook. IPhone software chief Scott Forstall refused to apologize publicly for the embarrassment. The incident exacerbated longstanding tension between him and other Apple managers, contributing to Mr. Cook's decision to push him out of the company last month.
+
+Apple has continued to work to fix the bugs in its mapping software. The maps team is now under senior vice president for Internet software and services, Eddy Cue, who also oversees products like iTunes and iCloud. Mr. Cue has been hands-on with the maps team and participates in regular meetings to fix the product, according to a person familiar with the matter.
+
+The forthcoming Google Maps app for the iPhone is expected to contain turn-by-turn navigation that would allow people to use it like a GPS device while driving, said the person familiar with the matter. The turn-by-turn navigation feature didn't exist in the previous Apple-device version, partly because of various disagreements between the companies over other aspects of the Apple-controlled app.
+
+Navigation is among the most popular features on Google Maps for mobile devices powered by Google's Android software, which come preinstalled with that app as well as other Google services, such as the search engine, Gmail and YouTube.
+
+In addition, Google could generate more revenue from the new iPhone app because it will be able to include more ads from local businesses or tie it to other revenue-generating Google services.
+
+Among some Apple-device owners who were frustrated with the current state of Apple Maps, Google could win new affection by swooping in with a more reliable mapping service.
+
+Similarly, Apple's decision to kick out YouTube as a preinstalled app is expected to give Google a big revenue boost.
+
+Even before Apple offered its latest software update for iPhones and iPads, Google in September released a downloadable YouTube app for the iPhone, and it is currently developing a version for the iPad. Since Apple approved the app, the new YouTube app for the iPhone has been among the most popular free apps downloaded from the iTunes store.
+
+Unlike the old YouTube apps that were controlled by Apple, the new ones contain lucrative video ads that have propelled YouTube into a multibillion-dollar business for Google.
+
+One of the last remaining vestiges of Apple's partnership with Google—the Google Web-search engine as the default search feature for Apple devices—remains in tact for now.
+
+Some Google employees have said they expect Apple to boot Google search in the future as it looks to get more people to use its Siri voice-activated assistant feature, which relies on non-Google sources of data.
+
+But people close to Apple say the company wants to use Siri to make Google's search engine less relevant. Siri pulls data from Google but also relies on other data sources for movie times, restaurant information and sports scores.
+
+Write to Amir Efrati at amir.efrati@wsj.com and Jessica E. Lessin at jessica.lessin@wsj.com
+
+A version of this article appeared November 16, 2012, on page B3 in the U.S. edition of The Wall Street Journal, with the headline: Google Preps Maps App for Apple iPhones.

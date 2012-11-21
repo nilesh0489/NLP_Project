@@ -1,0 +1,33 @@
+With the tech world focused on the launch of the second-generation iPhone and Apple’s App Store, which will allow iPhone users to download and install applications for the first time without jailbreaking their phone (cracking it so that unauthorized apps can be installed), Pandora has unleashed an iPhone version of their interactive internet radio service that moves beyond what has previously been possible in the portable radio arena.
+
+As soon as Pandora heard that Apple would be launching the App Store, its designers and engineers began working on an iPhone version of Pandora that ran on jaikbroken iPhones, then rebuilt it using Apple’s apparently excellent SDK. Having witnessed Pandora in action on an iPhone (screenshots below), we can say that it works great. It could be the best version of Pandora yet, given that it requires neither a computer, the way the web version does, nor a paid subscription, the way previous mobile implementations of Pandora have done.
+
+Pandora chief technology officer and former Apple employee Tom Conrad told Listening Post that Pandora’s developers have loved working with Apple’s iPhone SDK; they say it’s even better than their web development tools.
+
+"We’ve got Pandora running on maybe 50 different cellphones right now (on the Sprint and AT&T networks), and there’s no question that this implementation is the best one that we’ve done," said Conrad. "It’s also the first version of Pandora that will be available ad-supported (and) free, off of the PC."
+
+Conrad also likes the iPhone’s big screen, keyboard (which most phonesdon’t have), regular headphone jack (aside from the 1G iPhone’srecessed jack) and a battery management system that’s optimized forstreaming.
+
+The resulting Pandora App is a pleasure to use. Navigation iseffortless, and feels nearly exactly like using the iPhone’s nativeiPod application, with album covers that slide from left to right asone song switches to the next and the same stations and 500,000-song catalog available on Pandora via the web. Songs stream in mono 64 Kbps MP3; the iPhone doesn’t support high-quality streaming codecs such as AACPlus, an omission Conrad calls "sort of disappointing." However, the Pandora App sounded fine when I heard it on a 1G iPhone connected via the Edge network.
+
+If you hear a song you like, you can rate it thumbs up or thumbs down, view the album art or find out why Pandora chose the song for you, as with the web version. All ratings count in your general Pandora profile for each station.
+
+You can bookmark any currently-playing song or artist to your Pandora profile page, or if you hear something you really like, another click brings up the song for purchase in the iTunes music store. And yes, it’s possible to create new Pandora stations from within the Pandora iPhone App.
+
+One quibble we have with the iPhone version of Pandora, though, is that there’sa brief pause in between the playback of each track, as it buffers. Conrad said this is currently unavoidable, since each station iscustomized to each user on a one-to-one basis, so songs can’t bepre-mixed from one to the next. However, he said that 3G networks arefast enough to allow Pandora to cache the next song in the background. If they add that feature, though, it wouldn’t work on the 1G iPhone, since itcan only access the Edge cellular network.
+
+Another minor issue is that you can’t listen to Pandora stations while you checkyour calender, compose an e-mail, or do anything else with your iPhone. If you make or takea call, Pandora will pause, which is convenient, but it would have been nicerif Apple allowed Pandora to play in the background while you did other stuff. Conrad said Apple decided to only let iPhone Apps run whenthey’re in the foreground or when the phone is put to sleep becauseotherwise, people would leave multiple applications running in thebackground, depleting their batteries far too fast. This seems like a necessarysafeguard, but most power users would probably prefer an option to disable it.
+
+However, we love that it costs nothing to listen to up to a hundred orso totally customizable Pandora stations on the iPhone – the samestations that you normally access via your Pandora web account. This isthe first free non-computer version of Pandora; on the cellphonesmentioned above and the Sonos and Logitech Squeezebox implementations, users have beenrequired to pay $36 per year for Pandora access.
+
+"The App itself will be free, listening will be free, it will besupported through audio advertising like radio has been for timeimmemorial," said Conrad. However, don’t expect thunderous ads for monster truckshows and other usual terrestrial radio ad staples. "They’ll beNPR-style — ‘This station brought to you by (the sponsor)… on theorder of six an hour, two in a row every 20 minutes.’"
+
+That doesn’t sound too bad: Ads will only play 0.88 percent of thetime, which Conrad correctly describes as "dramatically less thanterrestrial radio" and "somewhat less than NPR." Besides, you can pay the $36/year subscription and have all ads removed from Pandora.
+
+Pandora’s free iPhone App is sure to become one of the most popularmusic applications and applications in general in Apple’s App Store, judging from what we’ve seen so far. It’savailable as a free download from the App Store and within iTunes.
+
+The following screenshots show the Pandora iPhone App in action.
+
+You can buy any song that’s playing from iTunes immediately, if the iPhone is connected via WiFi:
+
+If you ask Pandora why it’s DJing a particular song, it’ll tell you:

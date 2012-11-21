@@ -1,0 +1,85 @@
+The iPhone, like the Mac, is extremely simple and intuitive to use. Odds are that you’ve never even cracked open the user manual since the way just about everything works is pretty obvious.
+
+But its simplicity can be a double-edged sword… there are many small “convenience features” that are often hidden away. If Apple exposed them in a more obvious way, it’d take away from the elegance of the device. And its elegance is one of its strongest points.
+
+I’m sure that many of you are “power users” and probably know most of these tips and tricks. But I suspect that a lot of you are more casual iPhone users and will find this list useful. Even our team members that I showed the draft of this post to (people I consider iPhone experts), all picked up at least a tip or two that they weren’t already aware of. So I’ll bet there’s something for everyone here…
+
+Tapping the status bar (the bar at the top with the clock) will make scrollable content scroll to the top. It comes in handy in situations like when you’ve scrolled down a long web page or mail message and you quickly need to get back to the top.
+
+This may be the most convenient, yet hidden feature on the iPhone. I had my phone for months before stumbling upon it (and I didn’t even stumble upon it by playing around with the phone, but by reading the programming documentation on scroll views).
+
+As far as I know, there’s no corresponding way to scroll to the bottom, though.
+
+Simultaneously press the Home and Sleep/Wake buttons to take a screenshot of your current screen. You’ll hear a camera shutter sound, your screen will flash white, then the screenshot will appear in the “Saved Photos” library of the Photos app.
+
+Touching an image in Safari or Mail for a couple of seconds will present you with an action sheet which will enable you to save the image. As with taking screenshots, the image will get stored in the “Saved Photos” library of the Photos app.
+
+Double-tap the Shift key to lock it.
+
+This one’s actually somewhat intuitive but I was surprised by how many people aren’t aware of it.
+
+Along somewhat similar lines, a handy way of saving a tap when you need to type a capital letter is to touch the Shift key then slide over to the desired key. This behavior also works for the Number key.
+
+Do you need to type an umlauted-u (ü) but you’re not using the German keyboard? Touch and hold the U key and you get a set of additional keys to choose from.
+
+This works for several of the alphabetic keys, enabling you access to letters such as éîçåß, etc.
+
+In addition, there are several punctuation keys that behave similarly, so that you can type curly-quotes, etc.
+
+And furthermore, when the keyboard is in “URL-mode”, where the “.com” key is available, touching and holding it pops-up additional options for quickly entering .net, .edu, and .org domains.
+
+You’d be surprised to know how many people don’t know how to turn their phone completely off. I’m not talking about “locking” the phone where you simply press the Sleep/Wake button on the top of your phone.
+
+For a while, I was under the false impression that locking the phone was equivalent to putting your Mac to sleep. But when your phone is locked, the screen turns off but the app that’s running at the time continues to run. For instance a relaxation app is able to continue playing sound but save battery power with the screen off. So, locking your phone is actually more like “display sleep” on your Mac (??? or Control-Shift-Eject for those of you who can’t read Macroglyphics).
+
+So to ensure that your phone is using as little battery as possible, you’re best off always pressing the Home button before locking so that no app remains running.
+
+To turn your phone completely off, press the Sleep/Wake button for a few seconds then drag the red slider that appears.
+
+When should you turn your phone completely off? The two situation that I usually do this is when I’m almost out of battery and when my phone is acting kind of wonky.
+
+If your battery’s almost dead and you’re nowhere near some way of charging it your best bet is to turn it off if you’re going to need it to make a call or check something on the ‘net (assuming you can forego and incoming calls/SMSs).
+
+And if your phone’s been acting flaky, where apps are starting to get really slow or behave unexpectedly, turning your phone off then back on usually gets things back to normal.
+
+Have you ever been using an app and it’s become very unresponsive or completely frozen? You can force quit it by pressing the Home button for at least six seconds.
+
+And finally, if your phone seems to be completely frozen where attempting to turn it off or force quit the current app does nothing, you can force a reset of your phone by pressing both the Sleep/Wake and Home buttons for at least ten seconds. Note that while Apple technically calls this a “reset”, it’s actually more like a “reboot” and none of your settings will be changed.
+
+A very underused, yet convenient feature is that you’re able to set the function for double-clicking the Home button. By default, this just brings you to the Home screen, meaning no different function than clicking the Home button once.
+
+But if you go to the Settings app then navigate to General then Home Button, you’ll find a few handy options. I have mine set to go to my Phone Favorites but you can also set it to open the iPod app, or just show the iPod controls when music is playing.
+
+And something I recently noticed after updgrading to the newest iPhone OS is that when you now click the Home button while already on the Home screen, it’ll quickly take you to the first page of apps. This is a great feature if you have your phone filled with apps… and who doesn’t these days?
+
+In the Mail app and many others that use lists of items, you’re able to quickly delete an item by swiping your finger across the item… sort of emulating crossing something off a list. Doing so exposes a Delete button so that you’re able to confirm your action.
+
+Skyhook WPS is the service that, via Wi-Fi, enables your iPhone and iPod touch to locate where you are if GPS isn’t available. It generally gets you more accuracy than the cell tower triangulation method. The big issue with this method, though is that if the router that you’re currently connected to isn’t in the Skyhook database, you’re out of luck.
+
+But after a ton of digging I was able to find the web page where you can add your router to its database:
+
+After a few simple steps and an “up to 7 days” waiting period, the router should be available to help you and others get improved location positioning. This helps us all so do your part and register your router, especially if you live outside a major metropolitan area (since Skyhook usually has the big metro areas covered already).
+
+If you’re like me, you find the AIM app for the iPhone to be pretty useless. AIM (iChat on the Mac) is my main form of communication these days but if I’m not actually online, I don’t want to be seen as being “online”. One thing I find pretty annoying is IMing someone then not getting a response until like half an hour later. This is the nature of the AIM app on the iPhone so I don’t subject others to behavior I don’t like myself.
+
+There’s a much better way of being “connected” to AIM without having to appear as if you’re there. With AIM (the service, not the app), you’re able to setup your account with a service called AIM Mobile Forwarding so that IMs to you when you’re offline get forwarded to your phone as SMS messages. This isn’t something specific to the iPhone but I found it to be most useful once I got my iPhone because of the iChat-like way that the SMS app works.
+
+AIM Mobile Forwarding can be invaluable in emergency situations if someone has your AIM screenname but doesn’t have your phone number. This actually happened to me recently where the macheist.com domain accidentally expired and I was immediately notified while I was on the road… thanks, Cindy! (In my defense, there’s a long story involving a stolen credit card, defunct phone numbers, and some weirdness with an email address.)
+
+When you have AIM Mobile Forwarding setup and you’re offline, here’s how you appear to others in their buddy lists:
+
+If you’d like to set a custom staus, simply change your status to what you desire before you go offline and it’ll remain while you’re offline:
+
+The beauty of this is that it instantly conveys, “don’t bug me unless it’s really important”.
+
+So how do you setup AIM Mobile Forwarding? Simple… if you use iChat, open Preferences and just click the Configure AIM Mobile Forwarding… button in the Accounts tab. This will open a web page where you can enter your info and get it rolling. For those of you who don’t use iChat, the web page is here (warning: will foolishly resize your browser window).
+
+Similar to AIM Mobile Forwarding, you’re also able to send SMS messages to other’s phones right from iChat (or any AIM client). Just use the Send SMS… item from the File menu.
+
+And you can also setup “mobile buddies” so that your buddies who haven’t setup AIM Mobile Forwarding function as if they have. All you have to do is add their mobile phone number as an AIM account, beginning with a “+1”.
+
+And while you’re at it, you may as well add yourself to your buddy list like this. This is very handy for when you’re about to hit the road and you need to send yourself a quick note. It’s definitely one of the easiest ways to to send yourself a note and is a few less steps than sending yourself a note via email.
+
+Hopefully you’ve found many of these tips useful. Feel free to post your “score” for the ones you knew in the comments below. And if you know of any others, or if you can expand on the ones I’ve listed here, please also add them in the comments.
+
+For more cool iPhone-related stuff, be sure to subscribe to us or follow us on Twitter.

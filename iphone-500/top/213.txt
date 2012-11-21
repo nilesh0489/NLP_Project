@@ -1,0 +1,31 @@
+Starting tomorrow, some of the world’s most tenacious hackers will begin the tricky task of jailbreaking the iPhone 5. To date, every single iPhone has been cracked wide open by hackers, blazing the trail for tethered and eventually untethered jailbreaks. Every year, Apple releases new products with increasingly complex security measures — and yet, without fail, they fall to the increasingly tenacious attacks of Apple hackers.
+
+How does a hacker jailbreak an iPhone or iPad, though? Well, I’m glad you asked, because the answer is rather interesting.
+
+To begin with, hackers aren’t interested in hacking the iPhone 5 itself — they’re actually looking for a flaw in iOS 6 and the A6 SoC, both of which are brand new and relatively unknown. In the iPhone 4S’s case, it withstood hacking attempts for months — much longer than any other Apple device — before it finally fell.
+
+To create an untethered jailbreak for the iPhone 5, hackers will first have to find an exploit in the iOS 6 kernel, and then they’ll have to work out a way of circumventing the hardware-level security provided by the SoC so that they can inject arbitrary, unsigned code into the boot ROM — the first code that is executed when an iDevice is powered on. This custom code will disable the iDevice’s security features, allowing you to install non-App Store programs, such as Cydia. Voila, one jailbroken iPhone.
+
+On something like a Linux PC, where you have full access to the source code and the ports on the back of the computer, finding a kernel exploit is relatively easy — it’s just a case of painstaking analysis, leaving no stone unturned. iOS’s source code is closed, however (though XNU, which it is based on, is open source), and the hardware is relatively locked down.
+
+In the case of iOS 4 and 5, both of which have been jailbroken, the kernel has a built-in debugger — a tool that spits out a lot of information about the kernel’s behavior, so that Apple’s internal software team can find and squash bugs. This debugger is only accessible via serial connection, however — and obviously, the iPhone doesn’t have a serial connector on the bottom. Or does it?
+
+It turns out that the old 30-pin Apple connector actually has two pins set aside for serial communications — and to use them, all you have to do is solder together a few simple components that can be bought for around $30.
+
+With the home-brew cable made, an Apple hacker can open a serial connection with the iDevice, gaining access to the kernel debugger. Once you have access to the kernel debugger, it’s a matter of finding an exploit — a flaw in the kernel that can be used to gain root access to the device. This step is incredibly complicated, requiring a vast amount of software expertise. For more info, hit up Stefan Esser’s excellent Black Hat and CanSecWest [PDF] presentations on iOS kernel exploitation.
+
+Once you’ve found a kernel exploit and gained root access, you have achieved a tethered jailbreak. If the hacker can also find a vulnerability in the device’s hardware-level security (as Limera1n did with A4-based iDevices), then the exploit can be loaded into the boot ROM and executed every time the device is powered on — an untethered jailbreak.
+
+In the case of Apple’s A5 SoC, which debuted in the iPad 2 in March 2011, it took ten months to find an exploit that would allow an untethered jailbreak. In the words of a Chronic Dev Team spokesperson: “I don’t know if any iOS hacker anticipated how much the A5 chip would completely change the game & up the stakes. The endless war we fight to jailbreak has become more & more difficult with each new device released, and our recent battle against A5 only proved this further.”
+
+The iPad 2 and iPhone 4S, powered by the A5 SoC, were by far the hardest iDevices to crack — previous devices usually only lasted a few days or weeks. This was partly because Apple is continually working to thwart would-be hackers — and also because Apple hired Nicholas Allegra (aka Comex), one of the key members of the iDevice hacking community. Not only did this slow down the jailbreaking of the A5, but more importantly Comex will have spent the last year hardening the A6 SoC against as many attack vectors as possible.
+
+There’s the matter of the new Lightning connector, too. I suspect it doesn’t have dedicated serial pins, which will add another layer of complexity that will need to be reverse engineered by the iDevice hackers. The is one possible glimmer of hope in that iOS 6 has already been jailbroken — but only on antiquated A4-based devices (iPhone 3GS/4), and it’s still only a tethered jailbreak.
+
+Will the A6 fall? Will the iPhone 5 be jailbroken? If history has taught us anything it’s that nothing is truly secure. Given enough man hours, an exploit will be found.
+
+Apple doesn’t need to make the iPhone 5 completely secure, though — it just needs to last a couple of generations, until the next upgrade cycle. Given Apple’s continued investment in security and the news that the A6 SoC features a highly customized in-house design, I wouldn’t be surprised if the iPhone 5 remains unjailbroken for a long time to come.
+
+Now read: Black hat down: What happened to the world’s most famous hackers?
+
+Updated: This story has been updated slightly to more accurately reflect some nuances of iOS hacking.

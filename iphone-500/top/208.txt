@@ -1,0 +1,27 @@
+I have loved the iPhone, but now I am quitting the iPhone.
+
+This is not an easy decision.
+
+I was there in January 2007 when it was announced and I bought the first iPhone as soon as it was available. I happily bought the iPhone 3G a year later. I’ve proudly yelled “I Am A Member Of The Cult Of iPhone.” I’ve been an unabashed cheerleader for the device to all who’ll listen. And I’ve scoffed at developers who said they’d abandon the platform.
+
+But I’m not going to upgrade to the iPhone 3GS. Instead, I’m abandoning the iPhone and AT&T. I will grudgingly pay the $175 AT&T termination fee and then I will move on to another device.
+
+What finally put me over the edge? It wasn’t the routinely dropped calls, something you can only truly understand once you have owned an iPhone (and which drove my friend Om Malik to bail). I’ve lived with that for two years. It’s not the lack of AT&T coverage at home. I’ve lived with that for two years, too. It certainly isn’t the lack of a physical keyboard, that has never bothered me. No, what finally put me over the edge is the Google Voice debacle.
+
+Most of you won’t know what I’m talking about, so I’ll explain.
+
+Google Voice is a call management service that lets you determine what calls get through to you based on who’s calling and what time of day it is, among other factors. It has amazing features, like automatically transcribing all your voicemails. And you can forward calls to any other phone easily and automatically. Here’s an overview of the service if you aren’t familiar with it.
+
+I’ve always wanted to use Google Voice but there’s a big switching cost – changing your phone number. Too many people have that phone number and use it to call in great stories. There’s no way I’m giving that up. And there’s another problem with Google Voice. When you make outbound calls from a phone, it (obviously) doesn’t use your Google Voice phone number, so recipients don’t know it’s you calling. Those were two hurdles I wasn’t willing to jump over.
+
+But now Google is planning on rolling out number portability, so I can move my mobile phone number to Google. None of my friends, family or contacts have to store a new number.
+
+That still leaves the problem of outbound calls, though. I can move my mobile number to Google and then get a new iPhone account, but outbound calls won’t be identified because they are on the new number. Google has a solution for that too, though. They are releasing apps for a variety of handsets that effectively take over the native dialer, address book and call log. Problem solved. I can use any phone I like, or a bunch of phones, and just choose the one that makes sense at any time. I never have to be tied to a carrier and their restrictive contracts again.
+
+Or so I thought. Apple and AT&T are now blocking the iPhone version of the Google Voice app. Why? Because they absolutely don’t want people doing exactly what I’m doing – moving their phone number to Google and using the carrier as a dumb pipe.
+
+So I have to choose between the iPhone and Google Voice. It’s not an easy decision. Except, it sort of is. Google isn’t forcing the decision on me, Apple and AT&T are. So I choose to work with the company that isn’t forcing me to do things their way. And in this case, that’s Google.
+
+So what phone will I use next? Well, that decision is easy, too. I’d move to the Palm Pre because I believe it is the best phone out there other than the iPhone 3GS. But Google hasn’t created an app for the Palm Pre yet, just Android and Blackberry phones. So for now I’m going to use the new Android myTouch 3G along with the Google Voice App. As soon as something better comes out, or Google makes an app for the Pre, I’ll switch. And keep the same phone number. No long term contracts for me.
+
+And Apple, if you ever decide to put the hammer down on AT&T and do the right thing for your loyal users, I’ll consider switching back. In the meantime, I’ll just use one of many iPod Touches laying around our office to test out new apps.

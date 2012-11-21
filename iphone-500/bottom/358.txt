@@ -1,0 +1,45 @@
+Will the new Apple iPhone 4's antenna design contribute to lower signal reception? According to one antenna consultant and PCMag.com tests, it's all in how you hold the phone ? or don't.
+
+Customers who received the Apple iPhone 4 early have begun complaining that simply picking up the iPhone 4 and holding it can send the phone's signal indicator plunging, by several bars. Gizmodo also assembled a number of reader responses that apparently confirmed the signal loss.
+
+The issue, according to industry executives, is that the iPhone 4 places its antenna on the outside of the case, where merely touching it can theoretically limit its ability to pick up a signal. "Antennas are very sensitive; that's just a fact with all antennas," said Michael Rogers, chief engineer at Wi-EX, a maker of cell-phone signal booster equipment, an industry which would stand to benefit from issues with the iPhone 4's antenna.
+
+A slight drop in signal, say from four bars to three, wouldn't be enough to affect a cell-phone call or data coverage, Rogers said. But a sharp drop to a single bar of coverage could be enough to lose the signal altogether. Enough margin is built in with data coverage that users may not see a dramatic effect in an area with a strong signal. "But if you're in a fringe area, anything like this means you'll drop more calls," Rogers said.
+
+At this point, the problem is that most "information" out there is anecdotal, industry sources agreed; the iPhone 4 has just begun shipping, and few if any reviews have examined the specific problem of the external antenna.
+
+Michael Gartenberg, a mobile analyst with The Altimeter Group, said that he believed that the reports were part of an Internet-driven network effect where users blamed poor signal reception on the external antenna. "We have to assume what we're seeing is anecdotal," he said.
+
+"You would be seeing far more reports if you were seeing a major design flaw out there," Gartenberg added.
+
+However, in an experiment conducted by PCMag.com Thursday, the iPhone 4 reception problem could indeed be replicated, with the so-called "death grip" ? where the iPhone 4 was held with fingers touching the three antenna "lines" circling the device ? causing the signal to drop.
+
+In our testing, we discovered that the iPhone 4 "death grip" is definitely real. Using the Speedtest.net speed testing software, we started a test with the phone sitting on a tabletop. If we picked up the phone with a slightly sweaty hand and purposefully put one finger on each of the three "lines" around the edge of the device, with the corner tucked into the pad of the hand, the speed dropped dramatically and sometimes stalled out. Returning it to the tabletop caused things to speed up again. Adding one of Apple's rubber "bumpers" to the phone negated the death grip, so it clearly has something to do with conductivity.
+
+The "death grip" did not cause us to drop short calls within an area with a strong signal, but it did appear to make it harder to connect calls in very weak signal conditions. To Apple's credit, all phones have weaker signal strength when you cover their antennas. The iPhone seems to have become a cause celebre because the three points showing where you can touch to reduce signal strength are so visually clear.
+
+That hearkens back to the design of the original iPhone, and then the iPad, said Spencer Webb, president of AntennaSys, an independent antenna consultant and designer for mobile and other products.
+
+When the first iPhone came out, Apple placed the antenna in an obvious location, on the back of the device, Webb said. If a user covered with a hand, the cell-phone signal dropped, Webb said, in a phone interview that he said was being conducted on the iPhone. "I'm talking to you now with a well-trained hand," he said.
+
+Webb said that he had recently designed a broadband GSM antenna, which he surrounded with an air gap to minimize interference from the GPS chip and other components, to increase performance. But the design of the iPhone 4 is so compact, and thin, that there wasn't room to include any sort of an air gap, he said.
+
+Part of the reason was that the enlarged battery of the iPhone 4 likely pushed the antenna outside the case, Wi-Ex's Rogers said, based on teardowns of the phone from iFixit.
+
+Over time, cell phone antennas have migrated to the bottom of the phone, to minimize the SAR (specific absorption rate) of radiation that a phone produces, and is absorbed by the head. No study has ever conclusively found ? or ruled out ? that SAR and cancers are not connected, and the Federal Communications Commission requires phones to be tested and the results published. San Francisco recently became the first city in the nation to propose that SAR data be published alongside the phone.
+
+The Apple iPhone 4 produces a maximum of 1.17 mW/g of SAR radiation at the ear, more than the iPhone 3GS and original iPhone, but less than the 3G, at 1.38 mW/g. Moving the antenna closer to the ear was "unfortunate," Webb said. "And that's the best I can say."
+
+Papool Chaudhari of Reyes Bartolomei Browne, a lawyer representing an inventor of a technology designed to minimize cell-phone radiation, went further. "I think Apple chose to sacrifice safety for better call reception," Chaudhari said in a statement. "By placing the antenna outside the housing, Apple hopes to solve the dropped-calls problem, but at what cost?"
+
+When Apple announced the iPhone 4, Webb said he closely examined the images of the new phone as Apple chief executive Steve Jobs projected them on the screen. (Webb said he had ordered an iPhone 4, but it had yet to arrive.)
+
+Webb said that he arrived at a choice between two conclusions: either the gaps in the band were not really involved with the antenna and the RF current, or that they were. "And if they are?that's one's of the dumbest things I've ever seen," he said. "You can't pick up the iPhone and not interfere with the antenna. It's even harder to pick up the phone and not interfere with the antenna than the first-generation iPhone."
+
+If that's the case, people are probably correctly observing that they're killing that antenna, Webb said.
+
+The problem, Webb said, is that the FCC tests don't include or simulate the presence of a hand, which means that what the FCC tested isn't indicative of real-world use, especially in the case of an iPhone 4 held by a user. "I'm certain that the test worked awesomely well without the presence of a hand," Webb said.
+
+If there is a problem with the iPhone 4 and interference by the user's body, could the problem be solved by placing the phone in a pocket, and using Bluetooth? Webb said he wasn't totally sure, but "would venture to say yes," although placing it in a pocket would still effectively create body contact, he said. Placing it in something like a fanny pack would be more effective, Webb said.
+
+Apple representatives could not be reached for comment.

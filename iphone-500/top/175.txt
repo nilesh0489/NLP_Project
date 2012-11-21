@@ -1,0 +1,37 @@
+For a little $1 iPhone app, Line2 sure has the potential to shake up an entire industry.
+
+It can save you money. It can make calls where AT&T’s signal is weak, like indoors. It can turn an iPod Touch into a full-blown cellphone.
+
+And it can ruin the sleep of cellphone executives everywhere.
+
+Line2 gives your iPhone a second phone number — a second phone line, complete with its own contacts list, voice mail, and so on. The company behind it, Toktumi (get it?), imagines that you’ll distribute the Line2 number to business contacts, and your regular iPhone number to friends and family. Your second line can be an 800 number, if you wish, or you can transfer an existing number.
+
+To that end, Toktumi offers, on its Web site, a raft of Google Voice-ish features that are intended to help a small businesses look bigger: call screening, Do Not Disturb hours and voice mail messages sent to you as e-mail. You can create an “automated attendant” —“Press 1 for sales,” “Press 2 for accounting,” and so on — that routes incoming calls to other phone numbers. Or, if you’re pretending to be a bigger business than you are, route them all to yourself.
+
+The Line2 app is a carbon copy, a visual clone, of the iPhone’s own phone software. The dialing pad, your iPhone Contacts list, your recent calls list and visual voice mail all look just like the iPhone’s.
+
+(Let’s pause for a moment here to blink, dumbfounded, at that point. Apple’s rules prohibit App Store programs that look or work too much like the iPhone’s own built-in apps. For example, Apple rejected the Google Voice app because, as Apple explained to the Federal Communications Commission, it works “by replacing the iPhone’s core mobile telephone functionality and Apple user interface with its own user interface for telephone calls.” That is exactly what Line2 does. Oh well—the Jobs works in mysterious ways.)
+
+So you have a second line on your iPhone. But that’s not the best part.
+
+Line2 also turns the iPhone into a dual-mode phone. That is, it can make and receive calls using either the AT&T airwaves as usual, or — now this is the best part — over the Internet. Any time you’re in a wireless hot spot, Line2 places its calls over Wi-Fi instead of AT&T’s network.
+
+That’s a game-changer. Where, after all, is cellphone reception generally the worst? Right — indoors. In your house or your office building, precisely where you have Wi-Fi. Line2 in Wi-Fi means rock-solid, confident reception indoors.
+
+Line2 also runs on the iPod Touch. When you’re in a Wi-Fi hot spot, your Touch is now a full-blown cellphone, and you don’t owe AT&T a penny.
+
+But wait, there’s more.
+
+Turns out Wi-Fi calls don’t use up any AT&T minutes. You can talk all day long, without ever worrying about going over your monthly allotment of minutes. Wi-Fi calls are free forever.
+
+Well, not quite free; Line2 service costs $15 a month (after a 30-day free trial).
+
+But here’s one of those cases where spending more could save you money. If you’re in a Wi-Fi hot spot most of the time (at work, for example), that’s an awful lot of calling you can do in Wi-Fi — probably enough to downgrade your AT&T plan to one that gives you fewer minutes. If you’re on the 900-minute or unlimited plan ($90 or $100 a month), for example, you might be able to get away with the 450-minute plan ($70). Even with Line2’s fee, you’re saving $5 or $15 a month.
+
+Line2 also lets you call overseas phone numbers for Skype-like rates: 2 to 5 cents a minute to most countries. (A full table of rates is available at toktumi.com.) As a handy globetrotters’ bonus, calls home to numbers in the United States from overseas hot spots are free.
+
+All of these benefits come to you when you’re in a Wi-Fi hot spot, because your calls are carried by the Internet instead of by AT&T. Interestingly enough, though, Line2 can also make Internet calls even when you’re not in a hot spot.
+
+It can, at your option, place calls over AT&T’s 3G data network, where it’s available. Every iPhone plan includes unlimited use of this 3G network — it’s how your iPhone sends e-mail and surfs the Web. So once again, Line2 calls don’t use up any of your monthly voice minutes.
+
+Unfortunately, voice connections on the 3G network aren’t as strong and reliable as the voice or Wi-Fi methods. Cellular data networks aren’t made for seamless handoffs from cell tower to tower as you drive, for example — there’s not much need for it if you’re just doing e-mail and Web — so dropped calls are more likely. Fortunately, if you’re on a 3G data-network call and you walk into a hot spot, Line2 switches to the more reliable Wi-Fi network seamlessly, in midcall.

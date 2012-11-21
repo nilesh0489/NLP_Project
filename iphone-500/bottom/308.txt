@@ -1,0 +1,29 @@
+If you're a cop with a mobile phone to search, here's how you can force Apple and Google to let you bypass those pesky lock screens.
+
+Internal police documents reveal the legal processes that law enforcement agencies use to require Apple and Google to bypass the lock screens on seized mobile phones.
+
+Training materials prepared by the Sacramento sheriff's office include a fill-in-the-blanks court order that, with a judge's signature, requires Apple to "assist law enforcement agents" with "bypassing the cell phone user's passcode so that the agents may search the iPhone."
+
+It's more difficult to gain access to a locked Android phone. The document (PDF page 25) says that according to T-Mobile and Google, the only way to "unlock the phone is to have the Gmail user name and password." But Google employs good security -- presumably a so-called cryptographic hash for passwords -- and does "not have access to particular e-mail account passwords, as they are encrypted."
+
+The solution is for police, with a judge's approval, to require that Google "resets the password and further provides the reset password to law enforcement." That will work -- but will also have the undesirable side effect, from law enforcement's perspective, of tipping off the account holder that his or her phone has been compromised by the cops.
+
+Because these are court orders, when Apple and Google receive them, they typically have no choice but to comply. Neither company immediately responded to questions from CNET on Monday.
+
+A law enforcement source in the San Francisco Bay Area has confirmed to CNET that Apple has for at least three years helped police to bypass the lock code, typically four digits long, on iPhones seized during criminal investigations.
+
+The disclosure provides more details about the increasingly common police practice of searching mobile phones, which are often seized during an arrest. Last year's news that iOS stored logs of a user's approximate whereabouts -- something that Apple called a "bug" and soon fixed -- also highlighted how interested law enforcement has become in accessing mobile devices.
+
+Over the weekend, the ACLU posted thousands of pages of documents about cell phone tracking its affiliates obtained through state freedom of information laws. Many police departments engage in "at least some cell phone tracking" without obtaining a search warrant from a judge, which the ACLU says violates Americans' Fourth Amendment privacy rights. (The undated iPhone-Android document was prepared by the Sacramento Valley High Technology Crimes Task Force, part of the sheriff's office, which did not respond to a request for comment.)
+
+Police searches of seized mobile phones also can raise Fourth Amendment issues when done without a search warrant signed by a judge. Whether warrantless searches are legal is still an unresolved question: the U.S. Supreme Court has not ruled on the topic, but in 2007, the Fifth Circuit concluded that police were permitted to conduct a warrantless search for call records and text messages during an arrest.
+
+The Obama administration and many local prosecutors argue that warrantless searches are perfectly constitutional during arrests, likening it to looking through an suspect's wallet or appointment book. Civil libertarians and privacy advocates have responded by saying that because our gadgets today store so much information about us, including correspondence and personal photos and videos, a search warrant should be required -- and some other courts have agreed.
+
+It is possible for police to bypass iPhone and Android lock codes even without the help of the manufacturers.
+
+A video from Swedish firm Micro Systemation that garnered some attention last week says their XRY forensics software will bypass "four digit pass codes" on many iOS devices. But it doesn't handle the iPhone 4S, the iPad 2, or the new iPad.
+
+XRY will also perform "automatic rooting for 90 percent of supported Androids," Micro Systemation says. And "pattern lock decoding," as long as USB debugging is on.
+
+Disclosure: McCullagh is married to a Google employee not involved with Android who is on leave from the company.

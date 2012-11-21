@@ -1,0 +1,13 @@
+Google's Motorola division claims Apple is infringing on seven of its patents and wants to block iPhone, iPad, and Mac computers from being imported to the U.S.
+
+Since Google’s acquisition of Motorola back in February, the Droid expert has stayed quiet about its previous grievances with Apple. But now, according to Bloomberg, Google’s Motorola division has filed a new patent lawsuit against Apple (following Samsung’s lead), opening some old wounds leftover from Motorola and Apple’s long-standing legal disputes. The complaint, submitted to the U.S. International Trade Commission (ITC), names features like location reminders, email notifications, along phone and video players as possible infringements.
+
+The complaints target Apple features used extensively in its product line up and given Google’s desire to block U.S. imports of Apple products (Apple manufactures its product line in Asia), a win would strike a major blow. Google seems to have its sights set on Apple destruction. The original patent dispute between Motorola Mobility and Apple was eventually dismissed in court, but Google’s Motorola division isn’t willing to lay it to rest.
+
+“We would like to settle these patent matters, but Apple’s unwillingness to work out a license leaves us little choice but to defend ourselves and our engineers’ innovations,” wrote Motorola Mobility in an emailed statement.
+
+The official document pertaining to this specific case won’t be available until Monday, so we will have to wait until the weekend’s over to learn the full details. The inevitable battle between Apple and Google may be a whole lot closer than we thought. And it’s nice to know we’ll have more legal battles to obsess over since Apple and Samsung’s recent disputes will soon reach a verdict.
+
+FOSS Patent’s Florian Mueller notes that an ITC judge already made a preliminary judgement in the previous Motorola vs. Apple case, arguing that Apple did infringe on one of Motorola’s patent. The final ruling in the original case is expected to be released sometime next week. It’s also important to recognize, as Mueller points out, that if Motorola does achieve a ban on Apple products in the previous lawsuit, the iPad 4G and iPhone 4S would be exempt. Both use a Qualcomm chipset falling outside Motorola’s patent claims.
+
+For mobile fans, Monday can’t come soon enough. Do you think Google and Motorola stand a chance against Apple?

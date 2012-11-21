@@ -1,0 +1,43 @@
+A 21-year-old Australian man has admitted creating what is thought to be the first virus to infect Apple iPhones.
+
+The virus, which can spread from phone to phone, changes the iPhone's wallpaper to a photograph of 1980s singer Rick Astley - best known for his hit Never Gonna Give You Up.
+
+The wallpaper features the words "Ikee is never gonna give you up".
+
+However, the virus can only infect phones which have been jailbroken by their owners. Jailbreaking allows the owners to run non-Apple approved applications on their phones.
+
+Ashley Towns, a 21-year-old TAFE student who lives with his family in Wollongong, south of Sydney, told ABC News Online he created the virus to raise the issue of security.
+
+"When people jailbreak their phone, it allows them to install a service on their phone called SSH," he said.
+
+"Generally you should always change your password after setting up on the iPhone as all iPhones use the same password.
+
+"This virus pretty much exploits people's laziness to change their password."
+
+He says his efforts prove that anyone could easily hack into an iPhone.
+
+"I think to raise awareness for one, somebody with more malicious intent could have done anything - read your SMSs, go through your emails, view your contacts, photos - anything," he said.
+
+Mr Towns says he is unaware if he is breaking any law by starting the virus.
+
+"I've been informed that I may have broken some, but not being a lawyer I do not know," he said.
+
+"The virus itself is not malicious and is not out to hurt people. It's just poking fun and hoping waking people up a little."
+
+He says it is the first virus of its kind.
+
+"Yes, especially the first that spreads from phone to phone," he said.
+
+Mr Towns says he does not know how many people the virus could affect.
+
+"Due to the nature of it, it's kind of hard to tell, I know my phone hit about 100 alone but from there I have no idea," he said.
+
+But he says apart from changing the wallpaper on a user's phone, the virus is not harmful and quite easy to get rid of.
+
+"[It does] nothing malicious at all, it basically only changes their wallpaper to Rick Astley," he said.
+
+He says it takes a couple of minutes to remove by simply changing the phone's password and deleting a few files from the phone.
+
+Mr Towns says he can prove that he created the virus by postings on Twitter made by him under the same name that was in the source code.
+
+He says the original source code also had his email in it, but Google code removed it.

@@ -1,0 +1,31 @@
+[UPDATE July 16, 2010: Apple held a press conference today addressing the issue of the iPhone 4’s antenna and signal loss. Read our latest blog: Apple to provide free cases to iPhone 4 owners —Ed.]
+
+[UPDATE JULY 13, 2010: We’ve received many comments and questions regarding this issue. See our latest post: Why Apple—and not its customers—should fix the iPhone 4. —Ed.]
+
+[UPDATE JULY 3, 2010: Since posting this report, Mike Gikas has also experienced the 'dropped call' issue which many of our readers have been attesting to in our Blog readers' comments section. For a recount on Mike's latest iPhone experience, see: iPhone 4 signal debate rages; we experience signal loss in some calls. —Ed.]
+
+The debate over the iPhone 4's supposed reception problems continues, including a new class-action suit. Underplayed in the discussion is the fact that all phones are subject to interference from the human who is using them. And even if the alleged signal loss is real, there's an absence of hard evidence that iPhone 4 reception is problematic compared to past iPhones; indeed, there's evidence of just the opposite.
+
+For its part, Apple recently suggested that any iPhone 4 signal loss results from little more than faulty software that incorrectly displays signal strengths.
+
+The software may, indeed be faulty, but the signal loss can be real. Holding the iPhone 4 in certain ways does cause signal loss. But that's the case with all cell phones. Indeed, all cell phones, from the mightiest smart phones to the most-basic flip models, must consistently overcome a major communication obstacle: you.
+
+Your hand, your head, or any other part of your body that comes between the phone's antenna and the nearest cell tower will interfere with reception, and devilishly well. That's in part because humans are mostly made of water, and water is very good at blocking phone signals. Other confounding factors include nearby buildings, cell-tower location, and even the weather.
+
+That interference is exacerbated if the phone's antenna is not insulated from human contact. And that seems to be the case with the iPhone's external antenna, which doubles as the phone's stylish metal outer band; your hand contacts the band as you cradle the phone.
+
+Most of the Web sites reporting dropped signals and even dropped calls have demonstrated several techniques, or "death grips" for recreating the problem (which we've yet been able to reproduce in a meaningful way). But those almost always require squeezing the phone hard, in an unnatural way. Those grips may also produce sweaty palms from exertion, with the sweat increasing conductivity—and possibly the degree of signal loss.
+
+Case closed, right? Well, no.
+
+Even with that supposed handicap of an exposed antenna, iPhone 4 reception is actually better than on the 3GS according to many to some highly respectable and thorough testers, including AnandTech.com:
+
+From my day of testing, I've determined that the iPhone 4 performs much better than the 3GS in situations where signal is very low, at -113 dBm (1 bar). Previously, dropping this low all but guaranteed that calls would drop, fail to be placed, and data would no longer be transacted at all. I can honestly say that I've never held onto so many calls and data simultaneously on 1 bar at -113 dBm as I have with the iPhone 4, so it's readily apparent that the new baseband hardware is much more sensitive compared to what was in the 3GS.
+
+The authors did admit, however, that using a bumper, or some kind of insulating case allowed them to get even better performance:
+
+With my bumper case on, I made it further into dead zones than ever before, and into marginal areas that would always drop calls without any problems at all. It's amazing really to experience the difference in sensitivity the iPhone 4 brings compared to the 3GS, and issues from holding the phone aside, reception is absolutely definitely improved. I felt like I was going places no iPhone had ever gone before. There's no doubt in my mind this iPhone gets the best cellular reception yet, even though measured signal is lower than the 3GS.
+
+Bottom line: There's no reason, at least yet, to forgo buying an iPhone 4 over its reception concerns. And even if those do materialize, Apple's Steve Jobs helpfully reminds new iPhone buyers that "you can return your undamaged iPhone to any Apple Retail Store or the online Apple Store within 30 days of purchase for a full refund."
+
+Editor's note: Sorry for the earlier typo regarding AnandTech.com. It seems iPhone 4 is interfering with MY signals.

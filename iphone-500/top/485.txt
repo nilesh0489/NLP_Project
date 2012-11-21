@@ -1,0 +1,35 @@
+"This is the phone that has changed phones forever," Mr. Jobs said.
+
+We agree. A snake oil salesman not satisfied with his business of pushing proprietary software and Digital Restrictions Management (DRM) technology into your home, Jobs has set his sights on getting DRM and proprietary software into your pocket as well.
+
+There is a reason so much emphasis was put on the visual design of the iPhone. There is a reason that Apple is so concerned about unsightly seams that they won't even let you change the battery in your own phone.
+
+Apple, through its marketing and visual design techniques, is manufacturing an illusion that merely buying an Apple makes you part of an alternative community. But the technology they use is explicitly chosen to divide people into separate digital cells, and to position Apple as sole warden. When your business depends on people paying for the privilege of being locked up, the prison better look and feel luxurious, and the bars better not be too visible.
+
+Unfortunately, we are not. The extreme here is represented by Jobs and Apple. The iPhone is an attack on very old and fundamental values -- the value of people having control over their stuff rather than their stuff having control over them, the right to freely communicate and share with others, and the importance of privacy.
+
+The iPhone does make phone calls, but it is not just a phone. It is a general-purpose computer, more powerful in terms of hardware than the ones we might have had sitting on our desks just a few years ago. It's also a tracking device, and like other proprietary GPS-enabled phones, can transmit your location without your knowledge.
+
+As of November 2007, 3.3 billion people in the world had mobile telephones, and the number continues to rise rapidly. For many of these people, phones are becoming the most important computers they own. They are vital to their communications and they are with them all the time. Of all the technology people use that could be turned against them, this is one of the most frightening possibilities.
+
+But there is an important difference between the iPhone and prior general-purpose computers: The iPhone is broken, on purpose. It is in theory capable of running many different kinds of programs, but software applications and media will be limited via Apple's ironically named Digital Restrictions Management technology -- "FairPlay".
+
+Apple's DRM system monitors your activities and tells you what you are and are not allowed to do. What you are not allowed to do is install any software that Apple doesn't like. This restriction prevents you from installing free software -- software whose authors want you to freely share, copy and modify their work.
+
+Free software has given us many exciting things on the desktop -- the GNU/Linux operating system, the Firefox web browser, the OpenOffice.org suite, the Apache webserver that runs most of the web sites on the internet. Why would we want to buy a computer that goes out of its way to obstruct the freedom of such creators?
+
+This system is not Apple's only FoulPlay. iPhones can now also only be activated in stores -- despite the fact that in the U.S., the Register of Copyrights ruled that consumers have the right to unlock their phones and switch to a different carrier.
+
+Jobs would have us believe that all of these restrictions are necessary. He nods and agrees when we complain about them, and says that he doesn't like them either. He claims that Apple is forced to include them for our own good -- for the safety of the whole telephone network, and to allow access to all the movies and music we want.
+
+But it's been a year and a half since Jobs, under pressure from the public, spoke out strongly against DRM and in favor of freedom. With great hesitation, he allowed a handful of files to go DRM-free on iTunes, but kept in place the requirement that they be purchased using the proprietary, DRM-infected iTunes software. Since then, he has done absolutely nothing to act on those words. In his movie and video ventures, he has continued to push DRM. And now he's bringing it to mobile software applications as well. It's become clear that those words were a ploy to defuse opposition.
+
+The truth is that there are thousands of software, music, and media creators who want to share their work more freely. It's funny -- as in reprehensible -- because Apple's OS X operating system was in fact largely built on software written by people who voluntarily made their work free to others for further copying, modification and improvement. When people have the freedom to tinker, create, and innovate, they make exciting and useful creations. People have already been writing their own free software to run mobile platforms. The telephone network is still standing.
+
+We know Jobs is afraid of competition, and is manufacturing threats and excuses. This is simply a business decision, and it's a kind of business we shouldn't support. Jobs wants the iPhone to restrict you because he wants your money and increased control is a means to that -- he wants to take as much from you as possible, give you back as little as possible, and keep his costs at the absolute minimum. He's trying to make sure that nobody writes software for the iPhone to do things that he doesn't want the iPhone to be able to do -- such software might make FoulPlay less foul, play alternative media formats, show the user exactly what's being communicated from the phone to the people monitoring it, or even disable transmission of that information.
+
+Fortunately, we will soon be able to have all the convenience of a mobile computer that also makes phone calls without selling our freedom to Apple, Microsoft, BlackBerry, or anyone else. The Neo FreeRunner is a promising free-software phone, being developed in cooperation with the same worldwide community responsible for the GNU/Linux operating system. These are creators who want to share their work and who want you and others to be able to do what they did -- build on the work of people who came before them to make new, empowering devices.
+
+Jobs built on the work of people before him too, only his answer is to kick away the ladder and try to prevent anyone else from doing what he did. His customers are fighting back -- according to Apple in October 2007, over 250,000 of the 1.4 million iPhones sold were unlocked by their users. Rather than embracing this, Jobs thinks it should be stopped.
+
+We have a choice. The FreeRunner doesn't yet do as much as the iPhone and it's certainly not as pretty. But in terms of potential, the fact that it's supported by a worldwide community of people rather than a single greedy, dishonest and secretive entity puts it light-years ahead. We can trade our freedom and our money to get something flashy on the surface, or we can spend a little more money, keep our freedom, and support a better kind of business. If we want businesses to be ethical, we have to reward the ones that are. By not enriching companies that want to take away our freedom and by rewarding those that respect us, we will be helping to bring about a better future.

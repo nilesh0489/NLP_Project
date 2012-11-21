@@ -1,0 +1,57 @@
+Steve Jobs personally asked Gizmodo to return the 4G prototype, but the blog refused unless Apple provided "confirmation" it was real, according to documents made public Friday.
+
+REDWOOD CITY, Calif.--Apple pressed local police to investigate the loss of a next-generation iPhone a day after Gizmodo published photographs, telling investigators that the prototype was so valuable, a price could not be placed on it, according to court documents made public Friday.
+
+In response to arguments made by CNET and other media organizations, a San Mateo judge unsealed documents (PDF) that provide a glimpse into an April 20 meeting between law enforcement and Apple lawyers and executives. They also highlight a madcap dash for evidence that evening that led a police detective to a gas station, a church, and a bush in Redwood City where a thumb drive and a 1GB Lexar Media compact flash card were allegedly hidden.
+
+During the meeting with law enforcement, Apple attorney George Riley told detectives that the publication of evidence of the device by Gizmodo--part of Gawker Media--was immensely damaging. "People that would have otherwise purchased a currently existing Apple product would wait for the next item to be released, thereby hurting overall sales and negatively effecting Apple's earnings," Riley said, according to an affidavit prepared by a police detective and made public on Friday.
+
+Katie Cotton, Apple's public relations chief, told CNET on Friday afternoon: "We reported what we believe is a crime and the district attorney from San Mateo County is taking it from there."
+
+Apple CEO Steve Jobs personally contacted Gizmodo editor Brian Lam to request the 4G phone's return on April 19, the day the story was published, but Lam refused to do so, unless the company provided "confirmation that it is real, from Apple, officially," according to an e-mail message that was also made public.
+
+"Right now, we have nothing to lose," Lam wrote. "The thing is, Apple PR has been cold to us lately. It affected my ability to do my job right at iPad launch. So we had to go outside and find our stories like this one, very aggressively." (Gawker Media has offered to pay up to $100,000 for Apple prototypes.)
+
+Brian Hogan, a 21-year-old Redwood City, Calif., resident, found the phone in a bar. But the affidavit prepared by detective Matthew Broad in the San Mateo County Sheriff's Office reveals that an important tip came when Hogan's roommate, Katherine Martinson, called Apple on April 21 to let them know that he had examined it and sent photographs to back up her claim.
+
+Hogan told her that Gizmodo had offered him $10,000 for the phone, and showed her a camera box containing $5,000 in $100 bills, according to the affidavit. It says: "Martinson said Hogan also told her that he will receive a cash bonus from Gizmodo.com in July, if and when Apple makes an official product announcement regarding the new iPhone."
+
+Broad, the San Mateo County detective, began to prepare a request to search the apartment on Farm Hill Boulevard the following day when, he said, he received an urgent phone call just before midnight from Martinson, saying Hogan and their roommate Thomas Warner were removing any evidence about the iPhone from the apartment and leaving in two separate cars. Broad said he tracked Hogan down at his father's house, also in Redwood City, and learned that Hogan's computer had been discarded at a nearby church.
+
+Warner showed up the house at 1 a.m. and was arrested on two outstanding misdemeanor warrants. Warner claimed that a prototype sticker from the iPhone fell out of his wallet at a Chevron station, and later said a 512MB thumb drive and 1GB Lexar compact flash card were under a bush on Harding Avenue, the affidavit says. Police say they recovered all the discarded hardware, including the HP computer left at the Sequoia Christian Church.
+
+When reached on the phone on Friday, Martinson declined to comment.
+
+On April 28, Broad convinced San Mateo County Judge Clifford Cretan to sign an order sealing the affidavit, which would normally have been made public a few days later.
+
+In a response to a motion from a group of media companies made up of CNET (published by CBS Interactive), the Associated Press, Bloomberg, the Los Angeles Times, Wired.com, the California Newspaper Publishers Association, and the First Amendment Coalition, Cretan reversed his earlier ruling and said on Friday that circumstances had changed, and secrecy was no longer necessary.
+
+"It appears appropriate to me at this time to unseal the affidavit," Cretan said. "I can no longer say there is an overriding interest in sealing."
+
+During a hearing on Friday morning, San Mateo County Deputy District Attorney Chris Feasel told the judge that there is no precedent that gives "the court the authority to unseal the search warrant at this time." Feasel had argued that until charges were filed and there was a criminal defendant, news organizations had no right to access the documents.
+
+Cretan ordered that the affidavit to search Gizmodo editor Jason Chen's home and his April 28 order sealing the affidavit be made available to the public no later than 2 p.m. PDT Friday.
+
+"It's gratifying that the judge was willing to reconsider his decision and recognize that circumstances have changed," Roger Myers, the San Francisco attorney who represented the media coalition, said after the ruling.
+
+In what seems to be a mistake, the San Mateo court clerk's office on Friday released a copy of a sealed affidavit prepared to search the items that police found under a bush and at the church.
+
+CNET has obtained a copy of that 16-page document, which shows that Judge Craig Parsons signed a search warrant for the HP computer and other items on April 23. Forensic copies were made by the REACT high-tech crimes task force over the next few days, and the court was formally notified on April 28 that the process was complete.
+
+The story began in March, when Gray Powell, a 27-year-old Apple computer engineer, forgot what may be a 4G iPhone phone at a German beer garden in Redwood City, Calif., after a night of drinking. With the help of friends, Hogan allegedly approached multiple tech news sites before finally selling the handset to Gizmodo for $5,000.
+
+Prosecutors in the case say they are conducting a felony theft investigation, but no charges have been filed. Feasel, the deputy district attorney, told reporters on Friday that police are "still investigating," and that media organizations that commit crimes should not expect to be immune from criminal laws.
+
+On April 23, just hours after CNET reported that Apple had contacted law enforcement officials about the phone and an investigation was under way, police showed up at Chen's home in Fremont, Calif., across the bay from San Francisco. After breaking down his door, they confiscated three Apple laptops, a Samsung digital camera, a 32GB Apple iPad, a 16GB iPhone, and other electronic gear, according to documents Gizmodo posted.
+
+Apple ranks among the most security-conscious companies, and it has gone to great lengths to prevent leaks about its products. To secure trade secrets, the company has not shied away from high-profile courtroom fights. It filed a lawsuit against Mac enthusiast Web site Think Secret, for example, to unearth information about a leak. A state appeals court ruled in favor of the Web site.
+
+In that case, Apple argued that information published about unreleased products causes it significant harm. "If these trade secrets are revealed, competitors can anticipate and counter Apple's business strategy, and Apple loses control over the timing and publicity for its product launches," Apple wrote in a brief.
+
+Under a California law dating back to 1872, any person who finds lost property and knows who the owner is likely to be--but "appropriates such property to his own use"--is guilty of theft. There are no exceptions for journalists. In addition, a second state law says any person who knowingly receives property that has been obtained illegally can be imprisoned for up to one year.
+
+Knowing that an item probably belonged to someone else has previously led to convictions. "It is not necessary that the defendant be told directly that the property was stolen. Knowledge may be circumstantial and deductive," a California appeals court has previously ruled. "Possession of stolen property, accompanied by an unsatisfactory explanation of the possession or by suspicious circumstances, will justify an inference that the property was received with knowledge it had been stolen." A California law says lost property valued at $100 or more must be turned over to police.
+
+Last updated at 5:36 p.m. PDT: With details about the other sealed search warrant.
+
+Also see highlights from the affidavit, a look at the iPhone finder's reaction, Gizmodo's e-mail to Steve Jobs, and other related stories.

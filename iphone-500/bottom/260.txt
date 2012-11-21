@@ -1,0 +1,15 @@
+In an effort to get around Apple's ban on rival browsers for its iPhone, Mozilla plans to offer a Firefox application that will give users access to their browser bookmarks and history. The app will also let users open tabs from their most recent Firefox sessions.
+
+The Firefox Home app is a spin-off of the bookmark and tab synchronization technology Mozilla currently offers as an add-on for the Firefox desktop browser. Mozilla will submit the free application to the App Store within the next three weeks. Sadly, Mozilla has no way to know when or if the app will be approved and available to users, so it's hard to say when we'll be able to get our hands on this app.
+
+
+
+Firefox Home Coming Soon to the iPhone
+
+We have been working on an application for the iPhone based on the Firefox Sync (formerly Weave Sync) technology. The app is called Firefox Home, and it gives iPhone users instant access to their Firefox browsing history, bookmarks and the set of tabs from their most recent browser session. What’s more, it provides Firefox “Awesome Bar” capability that enables people to get to their favorite web sites with minimal typing.
+
+Firefox Home provides an amazing “get up and go” experience. It’s encrypted end-to-end. It’s your home on the Web, wherever you are. And, of course, it’s free.
+
+Firefox Home for iPhone is part of a broader Mozilla effort to provide a more personal Web experience with more user control. For devices or platforms where we’re unable to provide the “full” Firefox browser (either technically or due to policy), we aim to provide users with “on the go” instant access to their personal Firefox history, bookmarks and open tabs on their iPhones, giving them another reason to keep loving Firefox on their desktops.
+
+Why is this useful?

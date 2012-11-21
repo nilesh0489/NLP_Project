@@ -1,0 +1,9 @@
+Free whitepaper – Forrester: Prepare For Anywhere, Anytime, Any-Device Engagement with a Stateless Mobile Architecture
+
+iPhone users expecting their Passcode Lock to prevent thieves running up their bill will be disappointed, as it emerges that the "Emergency Call" button actually allows any number to be dialled.
+
+While most users are happy to keylock their iPhone with the sliding finger, some opt to configure a passcode to lock the device more effectively - suffering the inconvenience of entering their PIN every time they use the phone. But while that process will protect data on the device (unlike last time) it won't stop a pickpocket running up your phone bill by making calls to any number.
+
+But it neglects to define what numbers constitute an emergency, and it turns out that, in the UK at least, the user is permitted to call anyone they wish.
+
+This could be described as a feature - one man's emergency is another's routine call - but we can't help wondering if the typical user is really aware of this particular feature, or if the manual could have been a bit more explicit in stating that someone experiencing an emergency is free to call on support from anywhere. ®

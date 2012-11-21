@@ -1,0 +1,15 @@
+Until Gizmodo publicly apologizes to Gray Powell, this is going to be in my /etc/hosts and in all of the DNS servers under my control:
+
+The person at fault is the shithead who stole the phone, not some overworked engineer drinking beer.
+
+Please vote with your attention and do the same. Thanks!
+
+(Thanks to @sebastianlewis for the idea.)
+
+Update: I can’t believe there are some people defending Gizmodo’s actions. Let’s put the shoe on your foot:
+
+How do you feel now?
+
+Update: If you’re the kind of person who forgets that you edited your hosts file, use Marco Arment’s IP address of 66.135.33.106 instead of 127.0.0.1.
+
+Update: For those of you who don’t feel comfortable with the Terminal, here’s a Cocoa application that runs an AppleScript to block Gizmodo. Thanks @digdog!

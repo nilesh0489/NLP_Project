@@ -1,0 +1,33 @@
+I LOVE my iPhone. I just wish it were matched with Verizon Wireless, the carrier with the most envied reputation as fast, ubiquitous, reliable, nigh perfect.
+
+Consumer Reports has just released its annual survey of cellphone service, and its respondents collectively agree with me about the rankings: AT&T occupies the bottom and Verizon, the top.
+
+My sense of Verizon’s superiority is confirmed every time I see a “there’s a map for that” Verizon commercial, graphically showing how far more extensive Verizon’s 3G network coverage is in less populated areas. And it is reinforced when AT&T executives publicly confess ? as Ralph de la Vega, the chief executive and president of AT&T mobility and consumer markets, did last week at an industry conference ? that the company’s wireless service in New York and San Francisco was “below our standards.”
+
+When I set about looking for independent data, however, to confirm the superior performance of Verizon’s network, I was astonished to discover that I had managed to get things exactly wrong. Despite the well-publicized problems in New York and San Francisco, AT&T seems to have the superior network nationwide.
+
+And the iPhone itself may not be so great after all. Its design is contributing to performance problems.
+
+Roger Entner, senior vice president for telecommunications research at Nielsen, said the iPhone’s “air interface,” the electronics in the phone that connect it to the cell towers, had shortcomings that “affect both voice and data.” He said that in the eyes of the consumer, “the iPhone has the nimbus of infallibility, ergo, it’s AT&T’s fault.” AT&T does not publicly defend itself because it will not criticize Apple under any circumstances, he said. AT&T and Apple both declined to comment on Mr. Entner’s assessments.
+
+Neither AT&T nor Verizon was willing to reveal its internal data on performance. But Global Wireless Solutions, one of the third-party services that run network tests for the major carriers, shared some of its current findings. The service dispatches drivers across the country with phones and laptops equipped with data cards. They have covered more than three million miles of roads this year, while running almost two million wireless data sessions and placing more than three million voice calls, said Paul Carter, the president.
+
+The results place AT&T’s data network not just on top, but well ahead of everyone else. “AT&T’s data throughput is 40 to 50 percent higher than the competition, including Verizon,” Mr. Carter said. AT&T is a client and Verizon is not, he added.
+
+More evidence that AT&T’s data network is head-and-shoulders above Verizon’s comes from Root Wireless, a start-up in Bellevue, Wash., that is developing software for consumers to install on their smartphones to do continuous network tests. This generates empirical data for consumers who “today are buried under opinions and advertising slogans,” said Paul Griff, the chief executive. Root Wireless has no business relationship with any carrier.
+
+This year, Root Wireless ran 4.7 million tests on smartphones for each of the four major carriers, spread across seven metropolitan areas: Chicago, Dallas, Los Angeles/Orange County, New York, Seattle/Tacoma, the San Francisco Bay Area, and Washington. In every market, AT&T had faster average download speeds and had signal strength of 75 percent or better more frequently than did Verizon. (A Verizon spokesman declined to comment about these test results or those of Global Wireless Solutions.)
+
+I asked Ron Dicklin, chief technology officer at Root Wireless, how these results, showing AT&T as the clear leader, could be reconciled with the negative appraisal of Consumer Reports’ respondents. He explained that his company’s tests of AT&T’s data network were done with handsets other than the iPhone, which does not allow non-Apple programs like his to run in the background.
+
+AT&T’s besting of Verizon in these tests is all the more remarkable considering the sudden jump in the volume of mobile data that its network has had to handle with the introduction of the iPhone 3G in 2008: approximately 4,000 percent.
+
+Chetan Sharma, a telecommunications consultant whose clients have included AT&T and Verizon, said that when the network and the handset were improved, customers “just used it all the more.” AT&T didn’t anticipate the rate of growth and didn’t upgrade fast enough in some markets, he said. “Other operators have the luxury of watching and learning from AT&T,” he said, “which has the most number of next-generation smartphones, with full browsers and built-in video players.”
+
+The data seem incontrovertible: AT&T, while meeting 4,000 percent growth in data use, has acquitted itself quite nicely. But the company is saddled with an awful public image as the perennial laggard.
+
+AT&T and Apple could both gain by swapping talent.
+
+Apple, send your marketing wizards to lend your partner a hand. It sorely needs help.
+
+AT&T, send some engineers to redesign the iPhone to make better use of the country’s fastest wireless network.

@@ -1,0 +1,35 @@
+In this era of file sharing and remote access, companies like Apple have been working overtime to get ahead of the competition, putting the functionality of a desktop onto a phone. Now with the release of the App Store, this vision is even closer to reality than ever before: now we have iPhone VoIP apps, games, office tools, location-aware services and much more on the horizon. True to the concept of working on the go, phones like the iPhone provide easy access to data and files stored on remote computers. How is this done?
+
+VNC applications (Virtual Network Computing), also known as graphical desktop sharing programs, give iPhone users the ability to transmit keyboard and mouse events to a remote system and view the results graphically on their phones. While VNC apps can run on any operating system, the iPhone has a few apps that are especially designed for its users.
+
+So if you’re often on the road but would like access to your home setup from your iPhone, check out one of these VNCs for the iPhone!
+
+WebEx PCNow Getting access to files and programs on your Mac or Windows desktop computer with WebEx PCNow is easy and fast, even from your iPhone. One of the things that I like most about this iPhone VNC is that it’s supported by a large company who have a proven record of stability,
+
+The list of features is exhaustive: supports for multiple monitors, data protection with multi-layered data protection, temporary remote screen sharing, remote webcam access and printing documents on a local computer. Other notable features offered by WebEx PCNow extend to file transfer and synchronization, remote sounds (which opens the door to using free VoIP services on your local computer) and more. This huge feature list makes WebEx ideal for road warriors, frequent travellers and business users.
+
+Jaadu VNC Arguably the best screen sharing application for the Apple iPhone, the Jaadu VNC, once known as Teleport, developed by Jugaari, offers numerous easy-to-use features. With Jaadu VNC, any local VNC servers are automatically listed. Tunneling features are also available through the website, enabling users to work with 3G, Edge, and WiFi without the need for a local connection. The visual interface is bright and appealing as the program teleports to the target computer, making it a hot favorite with graphics lovers.
+
+The Jaadu VNC screen is uncluttered, offering a neat row of tabbed buttons that works with each of the iPhone’s control conventions, including pinching, spreading, and dragging. The interface becomes much more user-friendly and familiar when set to display in landscape mode.
+
+Meanwhile the Jaadu VNC mouse works by touch screen technology. Users simply drag their finger across the screen to move the mouse anywhere, including the screen edges and corners. This is particularly useful for accessing Mac OS X’s Dock. Remaining at a constant size on the screen keeps it easily visible and accessible.
+
+Other touch gestures are also incorporated into Jaadu VNC, including various gestures for dragging, scrolling, right clicking, and PowerPoint navigation. Instructions for each of these are given in detail on the VNC’s website.
+
+The keyboard makes use of the native iPhone keyboard, tending to darken the screen slightly in order to show the user what is being typed above the keyboard. All the regular command keys, such as Shift, Ctrl, Cmd, and Alt, are also available on this popular VNC. A complete numeric pad and shortcuts to cut, copy, and paste are incorporated into the program.
+
+With Jaadu VNC, users can lock the rotation of the screen, toggle controls and cursor momentum, and even hide the screen. The latter is handy when connecting to media center PCs where screen updates could waste the iPhone battery.
+
+The limitations of the Jaadu VNC have to do with memory capacity, wherein applications may need to be shut down before new applications can be opened. Although the program is costlier than others on the market, the full package tends to pack a better punch, giving users their money’s worth.
+
+Mocha VNC Lite Installing Mocha VNC Lite on your iPhone opens a world of VNC possibilities. For a start, Mocha VNC Lite lets you connect to your Windows PC or Mac to browse files, use programs and other desktop functions from your iPhone.
+
+Mocha VNC Lite offers a raft of features including local mouse support, landscape viewing mode, 8 and 32 bit colours and has been tested with more VNCs than you can shake a big stick at including Apple Remote Management, RealVNC and TightVNC.
+
+VNsea Another great VNC application for the iPhone is the VNsea application, based on the massively popular Chicken of the VNC client. Supporting multi-touch functionality and landscape and portrait modes, this iPhone VNC comes with all the features of a great app in the making.
+
+Because VNSea also uses the iPhone’s EDGE connectivity you can even use it when you aren’t connected to the internet via WiFi or 3G. Updates have been coming fast and furious to resolve early issues with the display and operation, so it’s worth keeping an eye on this one.
+
+RealVNC RealVNC was first released in beta, providing access to Mac, Windows, and Unix operating systems. Using this particular iPhone VNC, system administrators have the option of managing a corporation’s phones in addition to its computers through the VNC link. RealVNC is also compatible with numerous types of phones beyond the Apple iPhone.
+
+WinAdmin Loved for its low-cost full-service package, WinAdmin often comes up as a winner among VNCs. It runs on Windows Remote Desktop Protocol, giving iPhone users the much-needed ability to connect with remote computers any time they need in a familiar, user-friendly setting. It should be noted that WinAdmin is designed to connect to computers running Microsoft Windows only.

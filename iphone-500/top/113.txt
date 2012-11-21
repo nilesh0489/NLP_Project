@@ -1,0 +1,25 @@
+Note: I'm not the owner of the car, I'm writing on behalf of them.. I immediately told the owner this was impossible, but in the face of having to pay for it, I needed someone to back me up (happened while the car was in my possession).
+
+I've used my iPhone and iPod many times before in the car with an auxiliary cord. We have Sirius satellite radio, which is accessible by pressing [AUX] three times (as you cycle through the three satellites). If you press it once more, the "Line In" mode comes on. I left it on Line In for about a week or so without touching the satellite radio, and then found that when I pressed [AUX], it would not leave Line In, and nothing would happen. The dealership asked me if I had used an iPod with pirated music, and said that the pirated music likely contained a virus which had corrupted my car's computer for audio, disabling satellite radio. How is it possible to transmit anything other than audio via an auxiliary cord? The system needed to be taken apart and 'cleaned and reprogrammed'.
+
+Edit: They are clearly screwing with us, taking advantage of older, even less tech savvy people than I.
+
+-I've told them to put the diagnosis of the problem and their summary of their work in writing.
+
+-I'm considering reporting them to the BBB.
+
+Anyone with a relevant background have any idea what could be wrong? It is just the satellite radio that is having a problem, and Sirius has been contacted but they need us to set it to a certain channel in order to resend the signal, and the satellite options won't even appear. The only abnormal thing which occurred recently was that the battery died in the cold overnight last week..
+
+Spoke to a manager over the phone (with the owner present in the room with him) (who knew nothing of the technical sort, and insisted for a short time that I did in fact transmit the virus from my iPhone via aux..) He got a little bit soft-voiced and told me that the original technician (who had provided him the information) had gone home, and that I could speak to him tomorrow if I liked.
+
+He backtracked and stated that I could have transferred the virus via USB...I told him that a USB connection wouldn't allow me to play my iPod, and wasn't relevant anyway because I had used an auxiliary cord.. I'm going in tomorrow to talk to the original technician.
+
+I've now been told that the original estimate was $150, and the invoice we received was for $282..Not impressed. The write-up said that a virus was transmitted via USB, and in person they've indicated the area to the rear of the gear shift which houses the AUX plug-in and stated that it was from an iPod.
+
+The manager (whom I was told was in charge of putting the job in writing and pricing everything) was not in. I spoke to the original technician who said that what he says goes straight into the report on the invoice, but when I showed him mine, he said it was not what he had found. Service summary reads (sic) (will post picture when I get home): Report cause of satellite inop
+
+The technician stated that Fords run on Microsoft, and the antivirus is programmed to freeze when it detects a virus in a foreign object (ie song or picture on my phone), and that it detected this through the Aux cord when it "communicated with and read my phone". He claims there was no virus in the system but that I "could imagine how bad it would be had it not frozen and let the virus in". Also told me this is very common and in fact he had two in today. I asked him for a print of the test he ran when he plugged into the system and for a copy of the error code/statement and he said there was none because the aound system didnt communicate with him at all. I asked him how he knew what was wrong and he simply stated because he does it all the time, and he knows.
+
+When I asked him what was done, he told me that he had "disconnected and reset the APM and then reprogrammed". I found it weird that the OS's antivirus would only deactivate the satellite radio and not the line-in capabilities, after it supposedly had detected a virus via the aux input.
+
+I've been told to return on Monday and speak to the manager. Sorry for typos, I'm writing this from my phone. Anyone familiar with microsoft embedded? Does this make sense?

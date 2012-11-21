@@ -1,0 +1,37 @@
+Despite Apple’s reputation for being a notorious gatekeeper with its iPhone App Store, there’s a way to sneak in content such as porn, profanity or potentially malicious code, with no hacking required: Easter eggs.
+
+Apple initially rejected Jelle Prins’ iPhone app Lyrics, which displays lyrics for the songs in your music library, including the profanity contained in some song lyrics. Apple cited that fact as the reason for turning Prins down. So Prins installed a profanity filter and Lyrics got approved.
+
+But he also secretly planted an Easter egg (programmer parlance for a secret feature) into the app for users to unlock the dirty words if they so pleased. All users have to do to unlock the filth is go to the About page, swipe downward three times and select the option to turn off the filter.
+
+“It’s almost impossible for Apple to see if there’s an Easter egg because they can’t really see the source code,” Prins said. “In theory a developer could make a simple Easter egg in their app and provide a user with whatever content they want.”
+
+The Lyrics app’s Easter egg points out the inconsistency and incompleteness of Apple’s approval process. When Steve Jobs introduced the App Store on June 9, 2008, he laid out a simple set of rules: No porn or malicious apps that invade your privacy. But Apple has kept the details of its approval process shrouded in secrecy, and as a result, little is known about how it works.
+
+Apple declined to comment on this story.
+
+Many iPhone developers do, however, agree on one thing: Apple’s approval policy is inconsistent. Here’s an example: The novelty fart app Pull My Finger was initially rejected from the App Store, and then later approved, but the game Baby Shaker, which involved shaking a baby to death, was initially approved before it was pulled down amid parental outrage.
+
+Part of the problem may be that Apple lacks the manpower to review every app carefully, which is not surprising. The App Store has published 46,000 apps since it opened in July 2008, according to iPhone analytics company Medialets.
+
+According to Prins, his server logs show that a single Apple employee tested his app prior to its approval. (His application works in conjunction with an online database, which logs activity from the app.) All Apple did during that testing, Prins says, was perform a search on profane words, which went undetected thanks to the Easter egg, and to check if the app worked when connected to the internet. A few days later, Lyrics appeared in the App Store, Prins said.
+
+Prins said it would be technically possible for Apple to discover a hidden Easter egg, but it would require intense inspection and perhaps asking developers to hand over their source code, which Apple doesn’t currently do.
+
+Secret features could adversely affect the iPhone and iPod Touch platform, says Nullriver CEO Adam Dann.
+
+“If people start putting in naked pictures of their ex-girlfriend as an Easter egg to get revenge, or something like that, that isn’t quite right,” Dann said. “It has the potential to really mess things up for everybody.”
+
+Dann has had his own run-in with App Store inconsistency: He developed the iPhone tethering app NetShare, which was approved and then banned after Apple discovered the app violated AT&T’s terms of service.
+
+Speaking on security matters, Jonathan Zdziarski, author of the bookiPhone Forensics: Recovering Evidence, Personal Data, and Corporate Assets,said the iPhone’s API is mostly secure and that it would be difficult to harm a user through an Easter egg unknown to Apple. He noted, however, a few areas where users’ privacy could be violated: audio, the camera and the address book.
+
+For example, an audio app with a malicious Easter egg, Zdziarski explained, could potentially allow a developer to record a user’s conversations without him or her knowing about it. And a harmful photo app could snap photos with your camera even when a user is not pressing the shutter button. Third, a malicious app could steal your address book contacts.
+
+“It’s not impossible to write code that looks innocent and acts innocent until you throw some kind of switch,” Zdziarski said. “It’s not hard to get that sort of thing past Apple…. It’s the equivalent of a doctor using a magnifying glass to try and find germs.”
+
+However, Zdziarski said just because an application is approved doesn’t mean Apple won’t revisit it and pull it down later. That means a developer might only get away with shenanigans or harmful activities temporarily, only to be caught and banned by Apple later.
+
+Prins said he was aware this was a possibility, and that if Apple pulled down Lyrics, he would install a better profanity filter.
+
+Until then, Lyrics has slipped in a quiet “Screw you” to Apple’s App Store gatekeepers — albeit one mumbled behind their backs. Update: Lyrics is no longer in the App Store. The developer removed the app temporarily because of licensing issues.

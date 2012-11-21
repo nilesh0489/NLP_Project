@@ -1,0 +1,57 @@
+Apple says a fault on its new iPhone 4 is causing it to incorrectly display the phone's signal.
+
+Users who gripped the phone - which went on sale on 24 June - on the lower left-hand side noticed the signal strength and reception fell away.
+
+Apple says the problem relates to an error on how the signal bars are displayed, rather than the signal.
+
+However, some industry experts say that there may be a deeper signal problem than a cosmetic design flaw.
+
+Apple is promising a patch fix "within a few weeks". Users may also choose to get a full refund within 30 days of purchase, the firm has said.
+
+In a statement, Apple said the iPhone 4 had been "the most successful product launch in Apple's history" and that all phones gripped in "certain ways will reduce its reception by one or more bars".
+
+"We have discovered the cause of this dramatic drop in bars, and it is both simple and surprising," the statement read.
+
+"Upon investigation, we were stunned to find that the formula we use to calculate how many bars of signal strength to display is totally wrong.
+
+"Our formula, in many instances, mistakenly displays two more bars than it should for a given signal strength. For example, we sometimes display four bars when we should be displaying as few as two bars.
+
+"Users observing a drop of several bars when they grip their iPhone in a certain way are most likely in an area with very weak signal strength, but they don't know it because we are erroneously displaying four or five bars.
+
+"Their big drop in bars is because their high bars were never real in the first place."
+
+Apple said it was going to adopt AT&T's formula for calculating how many bars to display for a given signal strength.
+
+The theory now is that, once the patch update has been applied, iPhone's bars will report signal strength "far more accurately" providing users a better indication of the reception in a given area.
+
+But Stuart Miles, editor of technology site Pocket Lint, was sceptical.
+
+Speaking to BBC News, Mr Miles said the news raised a few questions.
+
+"Why, for the first time, has Apple released a bumper for their phone, and why does no one else have this problem," he asked.
+
+"HTC makes metal phones, but they seem to work just fine.
+
+"Changing the display may make some people feel better, but it doesn't really fix the problem," he added.
+
+Apple said the new software to fix this would be released in a few weeks, claiming that as the problem also existed in the original iPhone, it would also be available for the iPhone 3GS and iPhone 3G.
+
+However, there have been few - if any - complaints about older iPhones losing signal strength when held in a certain way.
+
+Apple's previous advice for iPhone 4 owners to overcome the problem of the device losing signal was to not place your hand on the lower left corner.
+
+Apple chief executive Steve Jobs said: "Just avoid holding it in that way."
+
+This latest approach is an unusual admission from the company, which has apologised for "any anxiety we may have caused".
+
+The iPhone 4 went on sale on in June, with hundreds of people queuing Apple's flagship stores across the globe.
+
+Many new owners reported that signal strength dropped when the phone was held.
+
+The casing of Apple's latest phone is made of stainless steel, and also serves as its antenna.
+
+The problem is thought to be particularly acute for left-handed owners who naturally touch the phone in the sensitive area.
+
+Apple sells a rubber "bumper" that shields the sensitive area, as do many other firms.
+
+When Mr Jobs introduced the iPhone 4 at Apple Worldwide Developers Conference, he described the integrated antenna as "really cool engineering".

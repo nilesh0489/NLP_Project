@@ -1,0 +1,25 @@
+The Motorola Droid and Apple iPhone may be different on the outside, but inside there are some distinct similarities.
+
+Though the Motorola Droid and Apple iPhone have different chassis, their high-octane engines are similar.
+
+The internal similarities begin with performance: both devices are fast. The iPhone 3GS is already distinguished for its speed. And the Droid is quickly garnering similar accolades.
+
+"The Droid makes a big leap in internal performance. Compared with its rather sluggish Android predecessors," CNET Reviews said, citing the speed at which the Droid opens applications and menus and scrolls through lists and switches display screens.
+
+"We're really pumped to see all the industry excitement it's created," said Jeff Dougan, the OMAP 3 product marketing manager at Texas Instruments, which supplies the OMAP 3430 processor that powers the Droid. "This is the first handset that truly realizes the full potential of Android," he said, referring to Google's Android 2.0 operating system that runs on the Droid phone.
+
+The TI processor, like the one in the iPhone, is based on an a new architecture called Cortex-A8 from U.K.-based chip design house ARM, whose wide variety of chips populate most of the world's cell phones. Dougan says most smartphones currently on the market use an older, lower-performance ARM architecture than the Cortex-A8--with the exception of the Palm Pre, which opted for the newer TI chip. The Cortex-A8 provides a "two to three times performance boost" over older architectures, according to Dougan.
+
+Max Baron, an analyst at Microprocessor Report, says the chips in the Droid and the iPhone (see not below) are so alike that differences are more dependent on the operating systems the two chips use and how successfully each phone maker optimizes the OS. "With chips that have near-similar specs, the optimum OS and the look-and-feel of the user interface may make or break the product," Baron said.
+
+"The caveat, however, is that even small differences in chips will surface and become important differentiators as soon as the market forces you to increase the screen size or add more pixels per screen, or execute more power-consuming applications," he added.
+
+The raw MHz ratings on the chips are slightly different. The processor in the iPhone 3GS--which is believed to be based on the Samsung S5PC100 processor--runs at 600MHz, according to most accounts. The Motorola Droid's TI chip is rated at 550MHz though theoretically it can be run as fast as 600MHz, according to TI's Dougan.
+
+Both phones also use PowerVR graphics from Imagination Technologies--a company that both Apple and Intel have invested in, testifying to how hot its ultramobile graphics technology is. The PowerVR SGX is renowned for its ability to process several million triangles-per-second--a key indicator of graphics chip performance--blowing away other phones and the previous version of the iPhone.
+
+Other internal specifications are similar between the two phones, including memory capacity (either 16GB or 32GB) and communications chips that offer 3G, Wi-Fi, and Bluetooth connections.
+
+So, internally the Droid is every bit the iPhone's equal. And future versions of TI OMAP 3 chips that may appear in upcoming Droids will be backed by formidable ecosystems, according to Baron. "Investments in application software may lean more toward the TI components," said Baron, given TI's strong support of the entire chip ecosystem, including auxiliary chips and software development tools.
+
+Note:: Apple's and Samsung's reluctance to release information about the processor used in the iPhone 3GS has made it difficult to determine if the chip is based on the Samsung S5PC100, according to the Microprocessor Report's Baron. Many iPhone 3GS reviews and teardowns, however, state explicitly that the iPhone's processor is essentially the Samsung S5PC100 processor.

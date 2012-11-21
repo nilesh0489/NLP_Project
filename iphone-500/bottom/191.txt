@@ -1,0 +1,31 @@
+The iPhone boasts several apps that help users monitor their sleep habits, from personal coach Lark Up to the upcoming Renew SleepClock.
+
+But a new app created by graduate students at Harvard University and the Massachusetts Institute of Technology attempts to influence how you dream.
+
+Sigmund is a new iPhone app (99 cents) that helps users choose the objects or environments they want to envision during sleep.
+
+"The dream world strikes such a deep human fascination," says Daniel Nadler, a doctoral candidate at Harvard and a member of the Sigmund development team. "It's really one of the three -- in my mind -- great still unknown and unexplored frontiers. You have deep space, the deep sea and the interior psychological world ... of dreams."
+
+Nadler's interest in sleep and dreams stemmed from experiments in sleep-dependent learning -- the role of sleep in learning new tasks -- and how the brain processes outside stimuli during sleep.
+
+Nadler says he reached out to Doug Feigelson, a computer science major at MIT to determine whether these experiments could be conducted in app form.
+
+"The formal challenge was whether we could take these sleep studies and reproduce the essential clinical conditions of those studies on a smartphone," says Nadler.
+
+Here's how Sigmund works: Users select up to five different subjects they want the app to softly repeat during REM sleep. The app is designed to speak at a whisper, so as not to awaken the user.
+
+Sigmund features more than 1,000 recorded words, from locations (New York, beach, palace) and sports (basketball, bicycle) to people (grandmother, wife, brother).
+
+After choosing topics, users move to the alarm to select their wake-up time and when they plan on going to bed.
+
+Most apps use sensors or the iPhone accelerometer to monitor how often a person moves while sleeping. This helps gauge when someone has reached his or her deepest sleep. In the case of Sigmund, it's pure mathematics.
+
+"Sleep cycles are incredibly regular for people who go to sleep and wake up at more or less the same time," says Nadler. "You can mathematically derive -- with an 85% degree of success -- when those cycles will occur based on when they go to sleep and when they wake up."
+
+Nadler is quick to point out that Sigmund won't result in programmed dreams every night. Based on previous studies, the app will plant topics into a user's dream world about a third of the time. Other factors, such as caffeine or alcohol consumption, can affect its success, too.
+
+"You can use this for entertainment -- we welcome you to use this for entertainment -- but this is an attempt to base an app on some serious clinical work," says Nadler. "We're all scholars. The people involved in this are graduate students either in Harvard or MIT. These are people that are pretty serious about being trained in academic scholarship, meaning if you put out a fact, you cite the fact. You don't say anything without saying what the probability of that thing is, and we really try to hold ourselves to that standard."
+
+Don't expect something out of the film Inception, in which users can have full control of their dreams. However, the team behind Sigmund hope it's the start of something bigger in the exploration of dreams.
+
+"It is quite possible that in 20 years, our own dreams will become truly controllable entertainment," reads the vision statement at the official website for Sigmund. "Dreams are the most immersive sensory experiences theoretically possible. Orders of magnitude deeper than the best imaginable virtual reality, they bypass the eyes completely, and while in them, we truly take them for reality. Sigmund is merely the prototype."

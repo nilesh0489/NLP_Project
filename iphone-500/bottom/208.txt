@@ -1,0 +1,41 @@
+An Ars story from earlier this month reported that iPhones expose the unique identifiers of recently accessed wireless routers, which generated no shortage of reader outrage. What possible justification does Apple have for building this leakage capability into its entire line of wireless products when smartphones, laptops, and tablets from competitors don't? And how is it that Google, Wigle.net, and others get away with publishing the MAC addresses of millions of wireless access devices and their precise geographic location?
+
+Some readers wanted more technical detail about the exposure, which applies to three access points the devices have most recently connected to. Some went as far as to challenge the validity of security researcher Mark Wuergler's findings. "Until I see the code running or at least a youtube I don't believe this guy has the goods," one Ars commenter wrote.
+
+According to penetration tester Robert Graham, the findings are legit.
+
+In the service of our readers, and to demonstrate to skeptics that the privacy leak is real, Ars approached Graham and asked him to review the article for accuracy and independently confirm or debunk Wuergler's findings.
+
+"I can confirm all the technical details of this 'hack,'" Graham, who is CEO of Errata Security, told Ars via e-mail. "Apple products do indeed send out three packets that will reveal your home router MAC address. I confirmed this with my latest iPad 3."
+
+He provided the image at the top of this post as proof. It shows a screen from Wireshark, a popular packet-sniffing program, as his iPad connected to a public hotspot at a Starbucks in Atlanta. Milliseconds after it connected to an SSID named "attwifi" (as shown in the section labeled #1), the iPad broadcasted the MAC address of his Linksys home router (shown in the section labeled #2). In section #3, the iPad sent the MAC address of this router a second time, and curiously, the identifier was routed to this access point even though it's not available on the local network. As is clear in section #4, the iPad also exposed the local IP address the iPad used when accessing Graham's home router. All of this information is relatively simple to view by anyone within radio range.
+
+The image is consistent with one provided by Wuergler below. Just as Wuergler first claimed, it shows an iPhone disclosing the last three access points it has connected to.
+
+Graham used Wireshark to monitor the same Starbucks hotspot when he connected with his Windows 7 laptop and Android-based Kindle Fire. Neither device exposed any previously connected MAC addresses. He also reviewed hundreds of other non-Apple devices as they connected to the network, and none of them exposed previously accessed addresses, either.
+
+As the data makes clear, the MAC addresses were exposed in ARP (address resolution protocol) packets immediately after Graham's iPad associated with the access point but prior to it receiving an IP address from the router's DHCP server. Both Graham and Wuergler speculate that Apple engineers intentionally built this behavior into their products as a way of speeding up the process of reconnecting to access points, particularly those in corporate environments. Rather than waiting for a DHCP server to issue an IP address, the exposure of the MAC addresses allows the devices to use the same address it was assigned last time.
+
+"This whole thing is related to DHCP and autoconfiguration (for speed and less traffic on the wire)," Wuergler told Ars. "The Apple devices want to determine if they are on a network that they have previously connected to and they send unicast ARPs out on the network in order to do this."
+
+Indeed, strikingly similar behavior was described in RFC 4436, a 2006 technical memo co-written by developers from Apple, Microsoft, and Sun Microsystems. It discusses a method for detecting network attachment in IPv4-based systems.
+
+"In this case, the host may determine whether it has re-attached to the logical link where this address is valid for use, by sending a unicast ARP Request packet to a router previously known for that link (or, in the case of a link with more than one router, by sending one or more unicast ARP Request packets to one or more of those routers)," the document states at one point. "The ARP Request MUST use the host MAC address as the source, and the test node MAC address as the destination," it says elsewhere.
+
+Of course, only Apple engineers can say for sure if the MAC disclosure is intentional, and representatives with the company have declined to discuss the issue with Ars. What's more, if RFC 4436 is the reason for the behavior, it's unclear why there's no evidence of Windows and Android devices doing the same thing. If detecting previously connected networks is such a good idea, wouldn't Microsoft and Google want to design their devices to do it, too?
+
+In contrast to the findings of Graham and Wuergler were those of Ars writer Peter Bright, who observed different behavior when his iPod touch connected to a wireless network. While the Apple device did expose a MAC address, the unique identifier belonged to the Ethernet interface of his router rather than the MAC address of the router's WiFi interface, which is the identifier cataloged by Google, Skyhook, and similar databases.
+
+Bright speculated that many corporate networks likely behave the same way. And for Apple devices that connect to access points with such configurations, exposure of the MAC address may pose less of a threat. Still, while it's unclear what percentage of wireless routers assign a different MAC address to wired and wireless interfaces, Graham and Wuergler's tests show that at least some wireless routers by default make no such distinction.
+
+Wuergler also debunked a few other misconceptions that some people had about the wireless behavior of Apple devices. Specifically, he said claims that iPhones don't broadcast the SSID they are looking for from Errata Security's Graham are incorrect. Some Ars readers had invoked the 2010 blog post from Graham to cast doubt on Wuergler's findings
+
+"The truth is Apple products do probe for known SSIDs (and no, there is no limit as to how many)," Wuergler wrote in a post published on Friday to the Daily Dave mailing list. He included the following screenshot to document his claim.
+
+What all of this means is that there's good reason to believe that iPhones and other Apple products—at least when compared to devices running Windows or Android—are unique in leaking MAC addresses that can uniquely identify the locations of networks you've connected to recently. When combined with other data often exposed by virtually all wireless devices—specifically the names of wireless networks you've connected to in the past—an attacker in close proximity of you can harvest this information and use it in targeted attacks.
+
+Over the past year or so, Google and Skyhook have taken steps to make it harder for snoops to abuse the GPS information stored in their databases. Google Location Services, for instance, now requires the submission of two MAC addresses in close proximity of each other before it will divulge where they are located. In many cases, this requirement can be satisfied simply by providing one of the other MAC addresses returned by the Apple device. If it's within a few blocks of the first one, Google will readily provide the data. It's also feasible for attackers to use war dialing techniques to map the MAC addresses of wireless devices in a given neighborhood or city.
+
+Since Apple engineers are remaining mum, we can only guess why iDevices behave the way they do. What isn't in dispute is that, unlike hundreds of competing devices that Wuergler and Graham have examined, the Apple products leak connection details many users would prefer to keep private.
+
+A video demonstrating the iPhone's vulnerability to fake access point attacks is here.

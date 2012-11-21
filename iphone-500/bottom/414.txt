@@ -1,0 +1,35 @@
+Jack Wallen has jumped on the Android bandwagon in a big way. Find out which features won him over.
+
+I recently switched from my AT&T iPhone to Sprint’s HTC Hero. Now although the Hero is not a pure Android phone (it’s the HTC Sense, which is a modified form of Android), it gives the same experience that Android gives (only with an HTC “bent” to the package). Through this phone, I have come to once again enjoy my mobile experience. There are so many differences between the iPhone and the Hero, so many aspects of the Hero to really help you get your mobile geek on. But for the purposes of this article, I had to pick just 10. So I have narrowed it down to those aspects that really make the experience different from that of the iPhone.
+
+We all know the iPhone, know how it works (or doesn’t work, in many instances). We know there is an app for just about every possible task on the planet. But an Android phone? You don’t really know an Android phone until you’ve worked with one. That’s when you’ll find how far you can push your mobile experience.
+
+Note: This article is also available as a PDF download.
+
+Let me first say I do like the Safari browser on the iPhone. It’s fast, it’s reliable, it’s stable. But flexible? Flash? Monopolistic? Yes Safari is the only browser for the iPhone, and that browser still does not do Flash. However, the Android browser is one of the best browsers on the mobile market. On my HTC Hero, I have Opera Mini, Dolphin, and the default Browser. I haven’t used Opera Mini since I used it a couple of times upon installation. Dolphin is outstanding, with its use of Tabs and Gestures. But the default Android browser just can’t be beat. It usually loads pages faster than Safari, has Flash support, and simply does everything a browser should do.
+
+Instead of just having icons littering your phone’s desktop (like the iPhone), the Android phone adds widgets to the desktop. These widgets tend to have an actual purpose. For example:
+
+The Android desktop is on a completely different level from the iPhone desktop. To compare them is actually unfair. Apples to Éclairs as it were.
+
+On one of the “pages” of my Hero desktop, I have four buttons:
+
+These buttons let you instantly switch on or off the various connectivity options, which will go a long way toward conserving battery life. There is also an app in the Market called Y5, which will turn off Wi-Fi automatically when no known wireless network is available. To do any of this on the iPhone, you have to go into the Settings screen and navigate your way around the various options.
+
+Unlike the iPhone, you don’t need to have iTunes to manage your phone. Now, I say this with a bit of a chewed-up tongue because Android can’t sync with the Linux desktop yet. That’s okay for now. But Android can mount the SD card so that it is usable (via drag and drop) by any operating system. On this you can add music and files, which will then be usable on the phone. Simple.
+
+One of the issues I’ve always had with the iPhone is its notification system. Basically, it depends upon a single system that not all applications have access too. For instance, if you are a Twitterer, you can find out if you have updates only by opening the Twitter app on the iPhone. With Android, the apps have access to the notification system and can all report. The notification bar on the Android phone can alert you to new voice messages, email messages, Facebook notifications, new Gmail, new text messages, and much more. If an app has a notification, it can let you know quickly, and in the background.
+
+I hesitate to place this on the list because so many readers seem to think user-configuration is worthless. It’s not. The Android phone allows users to configure their mobile to look and behave exactly how they want it. If you’re a social network power user, you can have a screen for Facebook, one for Twitter, one for texting, and one for Flickr. Or if you are a business user, you can have a screen for contacts, for your calendar, for gmail, for email, for RSS, and more. Not only can you configure the desktop the way you want, you can configure the behavior of your phone. Set up default actions for different contacts — even add an entirely different desktop, should you want. The possibilities are endless with the Android phone. With the iPhone, you’re pretty much limited to what Apple says.
+
+Yes, Apple has an app for that. But so does Android. And chances are, the Android app is free and works as well (or better) than the iPhone app. And, believe it or not, there are thousands of apps in the Android Market. Apple does not (at least yet) have a patent on an application for just about everything. Give it time though. And installing applications on your Android phone is actually easier than it is on the iPhone. For free applications, you don’t have to worry about entering a password every time you try to install anything. And you do not have to link to Apple’s iTunes store to purchase applications from the Android Market. For those apps that have a price, you enter your information on the Google Market one time and you’re done.
+
+This one is almost not fair, since Android was built with the intention of integrating with Google. But wow does it integrate well. Want to search Google? Simply click the search button, enter your search string, and you’re off and running. Did I mention Google Voice? Yes, the Android has an app for that.
+
+Why does being open make Android better than iPhone? For the same reason that being open helps Linux: a planet full of developers with the ability to aid Android’s developers. Anyone can get access to the source of Android to better the system. This is also a double-edged sword, in that it allows those will less-than-ideal intentions to discover any weakness of the phone. But that can be seen as an indirect plus because when weaknesses are found in the open source community, they are quickly fixed. I assume that this tradition will extend to the Android phone. iPhone open? You’re kidding right?
+
+This is yet another reason why Android is superior. If you want an iPhone (at least for the time being), you better be open to AT&T. If you don’t like AT&T and you still want an iPhone, you better be open to doing a little jail breaking or move to another country. If you want an Android phone, you can join any number of carriers and have your choice of any number of outstanding phones using Android. No lock down.
+
+What do you think: Are these reasons enough to get you to move from your iPhone to an Android phone? If not, tell us why you prefer the iPhone. And if you aren’t sure, just grab an Android phone and play around with it. You might quickly change your mind.
+
+Get the key facts on a wide range of technologies, techniques, strategies, and skills with the help of the concise need-to-know lists featured in TechRepublic’s 10 Things newsletter, delivered every Friday. Automatically sign up today.

@@ -1,0 +1,37 @@
+Apple's newly awarded patent gives it ownership of the capacitive multitouch interface, spelling big trouble for rival smartphone makers, say patent experts.
+
+Apple has been awarded its long sought-after patent on the iPhone. Intellectual property experts say it's so broad and far-reaching that the iPhone maker may be able to bully other smart phone manufacturers out of the U.S. market entirely.
+
+Update: Other patent experts disagree with this notion. For a roundup of objections to this story, click here.
+
+Some three-and-a-half years after filing for a patent on the iPhone, Apple on Tuesday was awarded U.S. patent number 7,966,578 for "[a] computer-implemented method, for use in conjunction with a portable multifunction device with a touch screen display, [that] comprises displaying a portion of page content, including a frame displaying a portion of frame content and also including other content of the page, on the touch screen display."
+
+That's just the beginning of the abstract for Apple's iPhone patent, which the company filed back in December 2007. It gets quite a bit more technical in its full form, but there's one thing patent experts consulted by PCMag agree on—Apple has been awarded an incredibly broad patent that could prove to be hugely problematic for other makers of capacitive touch-screen smartphones.
+
+Apple's patent essentially gives it ownership of the capacitive multitouch interface the company pioneered with its iPhone, said one source who has been involved in intellectual property litigation on similar matters. That's likely to produce a new round of lawsuits over the now-ubiquitous multitouch interfaces used in smartphones made by the likes of HTC, Samsung, Motorola, Research in Motion, Nokia, and others that run operating systems similar in nature to Apple's iOS, like Google's Android, said the source, who asked not to be named.
+
+What's more, the patent seems broad enough in scope to cover virtually any mobile device with an interface that incorporates the finger movements used to operate Apple's touchscreen devices, the source said.
+
+That means tablets that are similar to Apple's iPad, and media players with iPod Touch-like interfaces could also be targets for Apple's legal team.
+
+Another patent expert said Apple could use its newly awarded patent to "bully" rivals.
+
+"This patent covers a kind of functionality without which it will be hard to build a competitive smartphone," said Florian Mueller, an award-winning intellectual property activist with 25 years of software industry expertise who blogs at Foss Patents.
+
+"Unless this patent becomes invalidated, it would allow Apple to stifle innovation and bully competitors."
+
+Mueller did caution that the courts wouldn't likely take Apple's side if potential legal opponents were able to show that they didn't just ape the iPhone's touchscreen interface finger swipe for finger swipe.
+
+"The way to read a patent claim is that it's only infringed if the accused technology is implemented in its entirety—all of the characteristics must be matched," he said.
+
+"In this case, large parts of the independent claims 1 and 2 describe a smartphone, but there are also specific references to the 'translation' (in terms of relocation) of touchscreen contents with a touch gesture. Only a smartphone providing that functionality could be accused of infringement."
+
+The first source also noted that Apple's intellectual property rights could be construed to cover just the iPhone interface's interaction with Web pages. But that's still a pretty problematic scenario for makers of iPhone-like smartphones, the source added.
+
+"This patent covers smartphones that allow a user to manipulate the display of a Web page with finger gestures using different fingers and/or combinations of fingers, so it appears broad enough to cover all modern touchscreen smartphones because they all allow you to use one finger to move the Web page left or right, and a combination of two fingers to zoom in and zoom out of the Web page," the source said.
+
+There are a few ways the awarding of Apple's iPhone patent could play out in the coming days, said the source.
+
+Apple could conceivably restrict makers of touchscreen smartphones, tablets, and other mobile devices from selling their products in the U.S. More likely is that Apple would reach a settlement with such competitors and start licensing its patented technology for a tidy new income stream.
+
+If Apple does decide to play hardball and squeeze out rivals rather than set up cross-licenses, the source said, it's entirely possible that a court could find it in the public interest to scrap the patent rather than allow a monopoly on what has become a defining interface for an entire category of consumer devices.

@@ -1,0 +1,55 @@
+Company alleges that the rival phone maker infringes on 20 iPhone-related patents. Steve Jobs: "Competitors should create their own original technology, not steal ours."
+
+Apple is suing phone maker HTC and has filed a complaint with the U.S. International Trade Commission, alleging that the Taiwanese company is infringing 20 Apple patents related to the iPhone.
+
+"We can sit by and watch competitors steal our patented inventions, or we can do something about it. We've decided to do something about it," Steve Jobs, Apple's CEO, said in a statement Tuesday. "We think competition is healthy, but competitors should create their own original technology, not steal ours."
+
+The patents that Apple alleges HTC is infringing are related to the iPhone's graphical user interface, and the iPhone's underlying hardware and software design. The company is asking for a permanent injunction, which would prevent HTC from importing and selling infringing devices in the United States. Apple also said it is seeking damages, but it did not specify an amount.
+
+HTC said it was caught off-guard by the legal action. In a statement earlier Tuesday, the company said it had heard of the complaints only through media reports and Apple's press release. The company said it was reviewing the filings. Until it completes its review, a company representative said she is unable to provide "comment on the validity of the claims being made against HTC."
+
+Early posturing "HTC is a mobile-technology innovator and patent holder that has been very focused over the past 13 years on creating many of the most innovative smartphones," the company said in its statement. "HTC values patent rights and their enforcement, but is also committed to defending its own technology innovations. "
+
+Apple has been around the patent infringement block many times with regard to its iPhone, which quickly became both a technological and a cultural touchstone when it debuted in January 2007. But its lawsuit against HTC marks the first time it has aggressively initiated infringement accusations against another phone maker without being prompted.
+
+It's also interesting that Apple has chosen to target HTC in this suit and not other cell phone manufacturers, such as Motorola, Samsung Electronics, or Palm, which have also built phones initially touted as "iPhone killers."
+
+Another interesting point is the fact that Apple did not name software makers Google or Microsoft in its filings. In its complaint to the International Trade Commission, Apple named 12 phones that it claims use technology that infringes its patents. Five of those phones--including the Nexus One, which is sold directly by Google--use Google's Android operating system. And seven of the phones named in the complaint use Microsoft's Windows Mobile software.
+
+Neither Google nor Microsoft were named as co-defendants in the federal patent case or the ITC complaint. This may be because the technology in question is software that HTC layers on top of the operating systems. If through the course of this case, Apple targets software features that are inherent in either the Google Android or the Windows Mobile operating systems, then Google and Microsoft would be forced to defend the technology in their operating-system software.
+
+Typically, when a company licenses its technology to another company for use in a product, there is an indemnity clause that requires the licensor to defend its technology, should it come under legal attack. This is what happened in a patent case that Lucent Technologies filed against PC makers Gateway and Dell in 2003.
+
+Microsoft, which was not named in the original suit, ended up joining the lawsuit because the infringement claims in the lawsuit had to do with MP3 and MPEG video-encoding and compression technologies that were supplied in Windows software running on the Gateway and Dell hardware.
+
+This case has dragged on for years. In 2007, a San Diego jury found for Alcatel-Lucent and against Microsoft. And Alcatel-Lucent was awarded a record-breaking $1.52 billion in damages. Microsoft appealed. Part of the case ended up getting thrown out. But another part of the case continues to this day and is still unresolved.
+
+"The Alcatel-Lucent-versus-Microsoft case is analogous to this one because in each case, Microsoft provides software to hardware vendors, and the hardware vendors are the ones getting sued," said Jason Schultz, director of the Samuelson Law, Technology & Public Policy Clinic at the University of California at Berkeley School of Law. He explained that two main questions need to be answered to know if Google and Microsoft will eventually be pulled into the dispute.
+
+The first is whether Apple's infringement claims include technology in the underlying operating-system software supplied by Google and Microsoft. And the second is whether indemnity is included in the licensing agreements between Google and HTC,k and Microsoft and HTC, respectively.
+
+"Even without specific agreements requiring them to jump in, Google and Microsoft may defend their technology, anyway," Schultz said. "If Apple is successful with its suit, it could have a chilling effect on the promotion of Android and Windows Mobile phones."
+
+Google wouldn't comment specifically on the case, but it said it would defend its technology.
+
+"We are not a party to this lawsuit," a Google representative said in an e-mail. "However, we stand behind our Android operating system and the partners [that] have helped us to develop it."
+
+iPhone's days in court Since the iPhone's arrival, Apple has been the target of several patent infringement lawsuits. The company has been accused of copying multitouch technology, visual-voice mail technology, and digital-camera and imaging technology.
+
+The most bitter battle for Apple so far has been against Nokia, the world's largest maker of mobile phones. In October, Nokia filed a suit against Apple claiming it is infringing on 10 of its patents related to its wireless handsets.
+
+Apple countersued a couple of months later, claiming that Nokia is infringing 13 of its patents.
+
+In December, Nokia lodged yet another complaint against Apple with the U.S. International Trade Commission, alleging that Apple infringes seven Nokia patents "in virtually all of its mobile phones, portable music players, and computers." The alleged patent infringement is connected to key features in Apple products, including user interface, camera, antenna, and power management technologies.
+
+Meanwhile, Kodak recently filed complaints with the International Trade Commission against Apple and Research In Motion related to digital-camera patents. The photo company claims that the camera technology used in Apple's iPhone and RIM's BlackBerry to preview images infringes on a digital-imaging patent owned by Kodak. The lawsuit was filed concurrently with the U.S. International Trade Commission and in U.S. District Court in Delaware.
+
+Technology companies have increasingly been filing patent infringement cases with the ITC because the process there tends to move much more quickly than in the federal court system.
+
+"ITC cases are much faster and can be over in 18 months," said Steven Lieb, a patent lawyer and partner at Frommer Lawrence & Haug, a New York law firm. "You can't get damages, but you can get injunctive relief."
+
+But Schultz said faster isn't necessarily better.
+
+"A lot of mistakes can be made when you're burning through documents as quickly as you do in an ITC case," he said. "Judges and administrative folks in the ITC cases handle things on the fly. So while you get a decision much faster, it's not always a better decision. It's something to be watched."
+
+Update, 3:45 p.m. PDT Added more background information and comments from Google and lawyers. CNET's Jonathan Skillings and Ina Fried contributed to this story.

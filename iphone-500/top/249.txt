@@ -1,0 +1,55 @@
+NEW YORK (CNNMoney) -- The iPhone may be great for consumers, but takes a nasty toll on wireless carriers' bottom line.
+
+The price of Apple's (AAPL, Fortune 500) iconic smartphone is heavily discounted by carriers. Those subsidies almost single-handedly devastate profit margins for Verizon, AT&T and Sprint.
+
+Since Apple's iPhone debuted on Verizon's network in February 2011, Verizon's "EBITDA service margin" -- a closely watched metric that carriers use to measure their core profit as a percentage of their sales -- has tumbled.
+
+Between 2009 and 2010, Verizon (VZ, Fortune 500) averaged EBITDA service margin of 46.4% per quarter. In the first quarter that the iPhone went on sale, that fell to 43.7%. Last quarter, when Verizon sold a record 4.2 million iPhones, its margin plunged to 42.2%.
+
+Verizon had just one "good" stretch this year: The third quarter, when its margin bounced back up to a record 47.8%. That's the same quarter in which iPhone sales stalled, as customers waited for Apple to unveil its heavily anticipated new model.
+
+AT&T (T, Fortune 500) and Sprint suffered an even worse fate. AT&T posted a stunning 28.7% EBITDA service margin last quarter, compared with 37.6% a year earlier. One contributing factor: AT&T sold nearly twice as many iPhones as Verizon last quarter.
+
+After selling nearly 2 million iPhones last quarter, Sprint's adjusted wireless margin fell to 9.5%, down from 16% a year ago. The company said Wednesday morning that its margin was significantly lower than it would have been without the iPhone subsidy.
+
+Those swings are a big problem in an industry where tiny, fractional changes in margin can cause investors to either throw temper tantrums or ticker-tape parades.
+
+"A logical conclusion is that the iPhone is not good for wireless carriers," says Mike McCormack, an analyst at Nomura Securities. "When we look at the direct and indirect economics that Apple has managed to extract from the carriers, the carrier-level value destruction is quite evident."
+
+Other analysts agree. Kevin Smithen of Macquarie Securities said that he expects iPhone sales to continue to grow beyond Wall Street's expectations this year.
+
+"We think the subsidies from these sales will continue to impede margins," Smithen said, who expects AT&T's EBITDA service margins to fall for the fourth straight year.
+
+All smartphones weigh on carriers' margins, since wireless carriers pay a hefty subsidy up front to buy the phones from the handset manufacturers. They make up the difference over the life of a two-year contract.
+
+But the subsidies on the iPhone -- roughly $450 per device -- are the highest in the industry. AT&T's subsidies are even more exacerbated because it gives away the iPhone 3GS for free.
+
+Sprint (S, Fortune 500) revealed in October just how onerous those subsidies can be: The company said it has committed to paying Apple roughly $15.5 billion in up front costs over the next four years, and the carrier does not expect to make money on the deal until 2015.
+
+The cost of adding an iPhone customer is about 40% higher than the cost for the average non-iPhone customer, according to Sprint.
+
+CEO Dan Hesse said he expects that, eventually, the iPhone will be "our most-profitable device."
+
+But Verizon and AT&T's results have shown how tricky that math is.
+
+Carriers' financials were particularly bad last quarter, after Apple had its biggest product launch ever with the iPhone 4S.
+
+So why do carriers insist on selling the iPhone? Verizon, AT&T and Sprint all declined to comment directly on that question for this article, but the companies have said in the past that having the iPhone is a major selling point for their brands.
+
+In an interview with CNNMoney in October, just after Sprint announced it would begin selling the iPhone, Sprint CEO Hesse said the No. 1 reason why customers had left Sprint prior to October was because it had no iPhone.
+
+"It comes down to, 'Do you want to be with them or bet against them?'" he said. "Apple is arguably the best global brand in the tech space."
+
+Apple did not respond to requests for comment on the issue.
+
+Nomura's McCormack said carriers feel the need to have the iPhone to maintain their market share. But to make money on the devices, he thinks they will have to raise rates or get tough with Apple on reducing the subsidy.
+
+The latter is practically impossible. So carriers have been gradually hiking prices. Over the past year, Sprint increased its smartphone rates by $10 a month, Verizon ended its unlimited data offering and New Every Two deal, and AT&T ended its unlimited plan and raised its prices by $5 a month.
+
+Apple isn't the only factor, of course. Carriers are also raising their rates to offset the cost of expanding their network capacity and upgrading to more efficient 4G technologies. But that, too, is tied up with the iPhone boom: Smartphones are data hogs, and they're one of the prime reasons carriers need to sink billions into improving their infrastructure.
+
+It's a delicate balance, but carriers are betting that the iPhone will remain a must-have device -- even if the cost to customers is a cell phone bill that keeps going up.
+
+"The iPhone in the long term will turn out be profitable for carriers once they raise their price points," said Samir Sakpal, analyst at Frost & Sullivan.
+
+"People will be willing to pay if they feel like they're getting a good user experience," he added. "Apple is a brand that carriers and consumers want to have." 

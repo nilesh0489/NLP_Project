@@ -1,0 +1,23 @@
+Update: Since this story ran, Apple has reversed its original decision. Mark Fiore’s iPhone app is now for sale. Full post is uphere.
+
+This week cartoonist Mark Fiore made Internet and journalism history as the first online-only journalist to win a Pulitzer Prize. Fiore took home the editorial cartooning prize for animations he created for SFGate, the website for the San Francisco Chronicle.
+
+I spoke with Fiore about his big win and plans for his business. Fiore is not on staff at the Chronicle, or anywhere else; since 1999, he’s run a syndication business, selling his Flash animations à la carte to TV, newspaper, and magazine websites for about $300 a piece. (The price varies by size of the outlet.) In a typical month, he might have about eight clients. Before 1999, he ran a similar syndication business for his print cartoons, using a lower-price-per-image, higher-volume model.
+
+When I asked about the next phase of his business, curious if it will include a mobile element, Fiore said he’s definitely hopeful about mobile devices. “I think the iPads and anything iPod to iPhone — to maybe a product not made by Apple — will be good or could be good for distributing this kind of thing,” he said.
+
+But there’s just one problem. In December, Apple rejected his iPhone app, NewsToons, because, as Apple put it, his satire “ridicules public figures,” a violation of the iPhone Developer Program License Agreement, which bars any apps whose content in “Apple’s reasonable judgement may be found objectionable, for example, materials that may be considered obscene, pornographic, or defamatory.”
+
+Here’s the email Fiore received from Apple on December 21, 2009:
+
+Thank you for submitting NewsToons to the App Store. We’ve reviewed NewsToons and determined that we cannot post this version of your iPhone application to the App Store because it contains content that ridicules public figures and is in violation of Section 3.3.14 from the iPhone Developer Program License Agreement which states: “Applications may be rejected if they contain content or materials of any kind (text, graphics, images, photographs, sounds, etc.) that in Apple’s reasonable judgement may be found objectionable, for example, materials that may be considered obscene, pornographic, or defamatory.” Examples of such content have been attached for your reference. If you believe that you can make the necessary changes so that NewsToons does not violate the iPhone Developer Program License Agreement, we encourage you to do so and resubmit it for review.
+
+Apple attached screenshots of the offending material, including an image depicting the White House gate crashers interrupting an Obama speech. Two other grabs include images referencing torture, Balloon Boy, and various political issues.
+
+Fiore isn’t the first editorial cartoonist to clash with Apple. Last year, an app called Bobble Rep app, which used political caricatures by Tom Richmond, was initially rejected by Apple. After an online uproar, a few days later Apple changed its position, allowing the app into the store. (Fiore’s rejection landed in his inbox just a month later.) Daryl Cagle, who runs a cartoon syndication site with 900 newspaper subscribers, had a similar battle with Apple last year, waiting around for months before eventually being allowed in. And while Apple eventually ruled in those cartoonists’ favor, the company went on an app-banning spree in February targeting apps with bikini-level sexual content. (Although a few established news brands like Sports Illustrated were allowed to remain.)
+
+It’s also an example of the alarm bells some critics of the app store system were sounding in the lead-up to the release of the iPad. Brian Chen at Wired warned publishers to consider questions of independence, in light of a controversy over Apple’s vague policy on sexual content. And several German news orgs like Bild and Stern have already seen Apple get into the business of banning certain editorial content from the App Store.
+
+Fiore has not resubmitted his app, saying he’d heard about the experiences of others cartoonists and wasn’t in a position to get into a fight with Apple. Still, he has a hunch Apple will eventually change its mind on him, as it has with other cartoon apps. “They seem so much more innovative and smarter than that,” he told me.
+
+Apple did not respond to my request for comment on its satire policy, or Fiore’s case in particular.

@@ -1,0 +1,25 @@
+I'm baffled by WhosHere. And I'm no newbie. I built my first Web page in 1994, wrote my first blog entry in 1999, and sent my first tweet in October 2006. My user number on Yahoo's event site, Upcoming.org: 14. I love tinkering with new gadgets and diving into new applications. But WhosHere had me stumped. It's an iPhone app that knows where you are, shows you other users nearby, and lets you chat with them. Once it was installed and running, I drew a blank. What was I going to do with this thing?
+
+So I asked for some help. I started messaging random people within a mile of my location (37.781641 °N, 122.393835 °W), asking what they used WhosHere for.
+
+My first response came from someone named Bridget, who, according to her profile, at least, was a 25 year-old woman with a proclivity for scarves. "To find sex, asshole," she wrote.
+
+"I'm sorry? You mean it's for finding people to have sex with?" I zapped back.
+
+"Yes, I use it for that," she wrote. "It's my birthday," she added.
+
+"Send me a nude pic for my birthday," she replied.
+
+A friendly offer, but I demurred. Anonymous geoshagging is not what I had in mind when I imagined what the GPS revolution could mean to me.
+
+The location-aware future—good, bad, and sleazy—is here. Thanks to the iPhone 3G and, to a lesser extent, Google's Android phone, millions of people are now walking around with a gizmo in their pocket that not only knows where they are but also plugs into the Internet to share that info, merge it with online databases, and find out what—and who—is in the immediate vicinity. That old saw about how someday you'll walk past a Starbucks and your phone will receive a digital coupon for half off on a Frappuccino? Yeah, that can happen now.
+
+Simply put, location changes everything. This one input—our coordinates—has the potential to change all the outputs. Where we shop, who we talk to, what we read, what we search for, where we go—they all change once we merge location and the Web.
+
+I wanted to know more about this new frontier, so I became a geo-guinea pig. My plan: Load every cool and interesting location-aware program I could find onto my iPhone and use them as often as possible. For a few weeks, whenever I arrived at a new place, I would announce it through multiple social geoapps. When going for a run, bike ride, or drive, I would record my trajectory and publish it online. I would let digital applications help me decide where to work, play, and eat. And I would seek out new people based on nothing but their proximity to me at any given moment. I would be totally open, exposing my location to the world just to see where it took me. I even added an Eye-Fi Wi-Fi card to my PowerShot digital camera so that all my photos could be geotagged and uploaded to the Web. I would become the most location-aware person on the Internets!
+
+The trouble started right away. While my wife and I were sipping stouts at our neighborhood pub in San Francisco (37.770401 °N, 122.445154 °W), I casually mentioned my plan. Her eyes narrowed. "You're not going to announce to everyone that you're leaving town without me, are you? A lot of weirdos follow you online."
+
+Sorry, weirdos—I love you, but she has a point. Because of my work, many people—most of them strangers—track my various Flickr, Twitter, Tumblr, and blog feeds. And it's true; I was going to be gone for a week on business. Did I really want to tell the world that I was out of town? It wasn't just leaving my wife home alone that concerned me. Because the card in my camera automatically added location data to my photos, anyone who cared to look at my Flickr page could see my computers, my spendy bicycle, and my large flatscreen TV all pinpointed on an online photo map. Hell, with a few clicks you could get driving directions right to my place—and with a few more you could get black gloves and a lock pick delivered to your home.
+
+To test whether I was being paranoid, I ran a little experiment. On a sunny Saturday, I spotted a woman in Golden Gate Park taking a photo with a 3G iPhone. Because iPhones embed geodata into photos that users upload to Flickr or Picasa, iPhone shots can be automatically placed on a map. At home I searched the Flickr map, and score—a shot from today. I clicked through to the user's photostream and determined it was the woman I had seen earlier. After adjusting the settings so that only her shots appeared on the map, I saw a cluster of images in one location. Clicking on them revealed photos of an apartment interior—a bedroom, a kitchen, a filthy living room. Now I know where she lives.

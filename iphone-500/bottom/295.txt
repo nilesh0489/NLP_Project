@@ -1,0 +1,39 @@
+When the iPhone first came out, Richard Kasperowski wanted one. But there was a problem. The keypad on the phone's touch screen uses the traditional keyboard configuration, called "qwerty."
+
+"I thought it would hurt my brain using a qwerty," says the 39-year-old technology director in Cambridge, Mass. He wanted something different. He wanted a Dvorak.
+
+The Dvorak keyboard layout, though around for decades, is as little-known among the general typing population as it is passionately embraced by its devotees. It is to the keyboard what Esperanto is to language and Betamax to videotape. Fans say it lets them type at blazing fast speeds, with less strain on their hands and wrists than typing on a conventional keyboard.
+
+Nobody else cares. From the start, Dvorak enthusiasts have had to fight for respect. It took decades before the Dvorak layout was officially recognized by the American National Standards Institute as an alternative to qwerty. Now Dvorak lovers find themselves in a familiar storyline: A new platform has emerged where typing is essential -- the smart phone -- and the Dvorak layout is once again ignored.
+
+Alec Longstreth, a 30-year-old comic artist from White River Junction, Vt., won't buy a smart phone with a standard keyboard. "I wanted to punch my fist through the computer monitor" every time an advertisement for such a phone popped up, he says.
+
+Mr. Longstreth taught himself to type in Dvorak in college. On qwerty, he typed at 40 words a minute. He types 110 on Dvorak. "It is just a tragedy that we are taking qwerty into a new era of devices," he says.
+
+He and a couple of college buddies wrote a comic book extolling the virtues of the layout called "The Dvorak Zine" that they hand out at comic conventions and other places where they think they can convert people. "Someone has to jump in and break this vicious cycle," he says.
+
+When American inventor Christopher Sholes developed the first modern typewriter in the 1860s, the keyboard layout was in alphabetical order. That was problematic: When two neighboring keys were pressed in rapid succession, the machine jammed. Mr. Sholes later rearranged the layout, placing the most commonly used keys away from each other. Like that, "qwerty" was born. The name comes from the first six keys on the upper left row of letters on the keyboard.
+
+August Dvorak, a professor of education at the University of Washington, spent most of his life trying to get the typewriter industry to ditch qwerty. He designed his layout in the 1930s, with speed and efficiency in mind. He placed the most commonly used letters, like vowels, on the home row. Less common letters, like J and K, were moved off that row.
+
+Since most typing takes place on the home row, Dvorak users say they can type faster and more naturally than with a conventional keyboard, though there haven't been many rigorous studies that compare the two.
+
+While a few Dvorak typewriters were manufactured, Mr. Dvorak never got the industry to abandon its conventional keyboards. It wasn't until personal computers became common that Dvorak devotees gained widespread access to the layout. During the 1980s, Microsoft Corp.'s Windows users were able to use third-party programs to get it. In the early 1990s, Dvorak became a standard setting included in the operating system.
+
+Now, every new Windows or Apple Inc. computer comes with a Dvorak setting.
+
+Users don't need a special keyboard; they can just change the setting on their computer. When this is done, the keys no longer match up with what is typed. People could switch the keys to match up with what they type, but many Dvorak users don't bother, since they type from memory.
+
+But so far, most smart phone makers have ignored Dvorak fans begging to compose emails and text messages on the devices with their preferred keyboard layout. That has forced Dvorak users to settle for jerry-rigged solutions.
+
+Ali Mahmoudzadeh, 26, an amateur iPhone developer from Toronto, created an application that lets iPhone users add the Dvorak layout. But it only works on so-called jail-broken iPhones -- those that have been hacked to run unofficial programs. That voids the phone's warranty.
+
+Apple and Palm Inc., maker of the Palm Centro and Pre, declined to comment. Research In Motion Ltd., which makes the BlackBerry, didn't respond to requests for comment. A Microsoft spokeswoman said the company leaves it up to third-party developers to support the Dvorak layout on Windows Mobile phones.
+
+Efforts to bring Dvorak to the iPhone and other devices aren't always well-received. On Macrumors.com, a blog that covers Apple products, a person on the message board tried to galvanize Dvorak users to write to Apple. Others weren't sympathetic. "How's that Betamax tape player working for you?" wrote one.
+
+Linda Lewis, a typing instructor from Seattle who has been teaching both on layouts for 21 years, says Dvorak is easier to learn, and is "especially helpful for dyslexic learners." She says she can teach people to memorize the Dvorak layout in about 20 minutes, on average, as opposed to 45 minutes for the standard. Still, the vast majority of her typing students want to learn the standard layout.
+
+For some, there's a sense of justice. A Dvorak user since the 1980s, Randy Cassingham wrote a book about its history, called "Dvorak Keyboard: The Ergonomically Designed Keyboard, Now an American Standard." The way he sees it, Dvorak users are like left-handed people and deserve the same kind of respect.
+
+"I think it's really sad" that Dvorak isn't on smart phones, he says. But it's something he'll have to live with. "I'm a Dvorak typist in a qwerty world."

@@ -1,0 +1,15 @@
+In a presentation to investors Wednesday, AT&T's head of consumer services, Ralph de la Vega, said that just 3% of iPhone users generate 40% of the data traffic on AT&T's cellphone network.
+
+As such AT&T, the exclusive carrier of the iPhone, is likely to introduce a pricing system that would penalize heavy data users, encouraging them "to either reduce or modify their usage so they don't crowd out the other customers in those same cell sites," he said.
+
+De la Vega did not offer specifics on pricing changes.
+
+By using data-intensive applications such as streaming audio and video services, a small number of iPhone users have been putting a huge burden on AT&T's network, causing lackluster performance in New York City, San Francisco and other major markets.
+
+"We've got to get to those customers and have them recognize that they need to change their patterns or have to face other things," De la Vega told investors at UBS.
+
+In general, smart-phone users pay a fixed monthly rate for unlimited data, but AT&T and other companies have found that the explosion of phone applications that must connect to the Internet has caused a surge in the amount of data users are consuming.
+
+De la Vega said AT&T will have added 2,000 cell sites this year and plans to continue investing heavily to keep its networks fast.
+
+"What we're seeing in the U.S. today, in terms of smart-phone penetration and 3G data," he said, "nobody else is seeing on the rest of the planet."

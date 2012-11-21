@@ -1,0 +1,13 @@
+Services like Ustream and Qik have long offered the promise of live streaming video from your mobile phone to the web — except if you had an iPhone. For those devices, that was only possible if you jailbroke your phone. Not anymore.
+
+The Ustream Live Broadcaster has just gone live in the App Store tonight and yes, it allows you to stream live video from the iPhone to the web. And yes, it even works over a 3G connection. And yes, it’s awesome.
+
+While one of the key features of the iPhone 3GS was video recording capabilities, that was limited to recordings that were captured on your device and could be uploaded to the web after they were done recording. With the Ustream Live Broadcaster, you can easily record videos right to the web, and allow others to watch them as they’re being recorded. These videos can also be archived so that people can watch them later, if they choose.
+
+Settings within the app also make it easy to automatically tweet out when you go live, as well as to do things like share the videos on Facebook and YouTube. The live broadcast can also send out your location, if you’re into that sort of thing. The app also allows for chatting with viewers, and yes/no polling.
+
+Ustream has long promised that it would be the first to allow for live video streaming on the iPhone, and it looks like they’ve finally come through — though almost a year after we first wrote about it. They’ve had an iPhone app out for a while, but it hasn’t had live capabilities until now. Qik has had a live-streaming app, but it was only an ad-hoc app, meaning it wasn’t available in the App Store.
+
+This Ustream app’s approval follows the approval of another live video streaming app, Knocking, after the developers emailed Steve Jobs personally about its rejection. But that app only does one-to-one streaming, this does one-to-many — full-on broadcast.
+
+Find the Ustream Live Broadcaster in the App Store here for free.

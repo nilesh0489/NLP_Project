@@ -1,0 +1,59 @@
+SAN FRANCISCO — Once the best of friends, Google and Apple have become foes, battling in courtrooms and in the consumer marketplace. Last week, the hostilities took a new turn when they spilled right onto smartphone screens.
+
+In the latest version of Apple’s iPhone software, which became available Wednesday, Apple removed two mainstay apps, both Google products — Maps and YouTube.
+
+The disappearing apps show just how far-reaching the companies’ rivalry has become, as well as the importance of mobile users to their businesses.
+
+“It’s the two big kids kicking sand in the sandbox,” said Colin Gillis, an analyst who covers Google and Apple for BGC Partners. “They’re now competing against each other with phones, with maps, with content, with search. They’re going head-to-head.”
+
+Maps are particularly crucial on mobile devices, where location-based services and ads have emerged as the pathway to making money. Google and Apple are not the only warriors in the fight. Amazon, Nokia, Microsoft, AOL and Yahoo are competing, too.
+
+“If you own a mobile ecology, as Google does, the other mobile ecology owners are not going to allow you to own tons of data in their world,” said Scott Rafer, chief executive of Lumatic, which makes city map apps. “And so neither Apple nor Amazon were going to let Google know where every one of their users was at every time.”
+
+Being kicked off the iPhone has potentially significant consequences for Google, whose Maps service earns more than half its traffic from mobile devices, and almost half of that mobile traffic has been from iPhone users. Apple’s move strikes at the heart of Google’s core business, search, because about 40 percent of mobile searches are for local places or things.
+
+“Local is a huge thing for Google in terms of advertising dollars, and search is very tied to that,” said Barry Schwartz, an editor at Search Engine Land, an industry blog. “Knowing where you are, when you search for coffee, it can bring up local coffee shops and ads that are much more relevant for the user.”
+
+Consumers are innocent bystanders of the brawl. IPhone users now have an extra step to download the YouTube app from the App Store and, so far, Google has given no indication that it will offer a maps app. Apple’s maps, meanwhile, are littered with flaws, some laughable, like a bridge that appears to collapse crossing the Tacoma Narrows Strait of Puget Sound.
+
+Some analysts say, however, that Apple’s maps will quickly improve, and that the long-term result of heightened competition will be better maps all around.
+
+“Apple Maps are apparently not ready for prime time, and that’s a loss,” said Peter Krasilovsky, the program director for marketplaces at BIA/Kelsey, a local media research firm. “But a long-term loss? No. With all the incredible technology being developed by everybody, consumers are the winner.”
+
+The war between Google and Apple escalated abruptly before breaking out on the iPhone screen. At the height of their friendship, their chief executives together unveiled the first iPhone, packed with Google services like maps, search and YouTube. But since Google introduced its own mobile operating system, Android, the companies have battled over everything mobile, from patents to ads and apps.
+
+The brawl has played out most publicly in the courtroom, where Apple and phone manufacturers that use Google’s Android software have sued one another. Most recently, on Friday and Saturday, Apple and Samsung each filed papers to amend or overturn a jury verdict that awarded Apple $1 billion in a patent trial with Samsung. Apple wants more money and Samsung wants a new trial. The companies will return to court Dec. 6 to discuss their demands.
+
+Though Apple’s rejection of YouTube is part of its effort to cut ties with its former friend, it is different from the battle over maps because Apple has no competing video service. Google has introduced a new YouTube app in the App Store, which has become the No. 1 free app.
+
+But with maps, Google, which has long been the dominant digital mapmaker, now must adjust to a new rival, along with the loss of valuable iPhone users.
+
+Even though Android phones far outnumber iPhones — 60 percent of smartphones run Android, versus 34 percent for iPhones, according to Canalys, a research firm — iPhone users account for almost half of mobile traffic to Google Maps.
+
+In July, according to comScore Mobile Metrix, 12.6 million iPhone users visited Maps each day, versus 7.6 million on Android phones. And iPhone users spent an hour and a half using Maps during the month, while Android users spent just an hour.
+
+Those users are a valuable source for Google, because it relies on their data to determine things like which businesses or landmarks are most important and whether maps have errors.
+
+Google also risks losing the allegiance of app developers who build apps that tie in to maps.
+
+“Overnight, Apple has really taken out a significant chunk of Google’s market, and it’s much harder for Google to say to developers, ‘We’re the only game in town, come play with us,’ ” said Tony Costa, a senior analyst who studies mobile phones at Forrester. “It will affect the Google ecosystem, putting it back in the same game of their apps lagging behind Apple, and that’s not a good position for them to be in.”
+
+Still, Google is no doubt feeling a bit of satisfaction as Apple is loudly criticized for the errors in its maps.
+
+Apple Maps users have been tallying its blunders. A Tumblr devoted to the topic included a missing lake in Hyderabad, India, misplaced restaurants in Cambridge, Mass., and the placement of Berlin in Antarctica.
+
+Apple responded Thursday with a statement that its map service was a work in progress and would improve as more people used it.
+
+Google, meanwhile, has been reminding people of its seven years of experience in mapping.
+
+But the company would not say whether it was building an iPhone app for users to download. Its only public statement on the matter has been vague: “Our goal is to make Google Maps available to everyone who wants to use it, regardless of device, browser, or operating system.”
+
+Google could decide not to build an app, as a gamble that iPhone users depend on its maps so much that they might switch to Android.
+
+If it does build an app, Apple would have to approve it. Its guidelines for developers are ambiguous, but exclude apps that “appear confusingly similar to an existing Apple product.”
+
+Rejecting Google’s app would most likely set off a brouhaha similar to that over the Google Voice app, which Apple rejected in 2009, prompting an investigation by the Federal Communications Commission, and a year later was approved.
+
+More likely, analysts say, Google is waiting for the right time to swoop in and save the day by offering its own iPhone app. One benefit of making its own app: It could add features and sell ads, which it could not do on the old app because Apple controlled it. The situation with the YouTube app was the same.
+
+In the meantime, Google is encouraging people to use maps on the iPhone’s browser, where it shows instructions to install it on their home screen.

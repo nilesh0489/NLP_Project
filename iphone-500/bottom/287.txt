@@ -1,0 +1,11 @@
+Alright folks, this is the single biggest news in iPhone hacking ever since the jailbreak. iPhone hacker and Dev-Team member Planetbeing apparently just managed to port Google’s Android Mobile OS to the iPhone.
+
+I repeat, he took the Android OS, the system that runs on the Android phones, and installed it on an iPhone. I believe this is the very first time someone managed to install a non-Apple OS on the iPhone and the implications of this are absolutely huge.
+
+It’s still in alpha version for now, but with some improvements, this would allow anybody to use both iPhone and Android OS on their iPhone. Just like you can do Bootcamp on your Mac to access PC apps, you’ll be able to go on Android to try all these apps that don’t exist, or were not allowed on the iPhone. Imagine for a second that Adobe manages to puts flash on there, well, you’ll get to have it too.
+
+Check it out, it’s just sick:
+
+
+
+To get more late breaking news as it happens, download the AppAdvice iPhone/iPad app!

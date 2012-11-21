@@ -1,0 +1,41 @@
+The launch of the iPhone on Verizon adds to the mountain of evidence that you just can’t trust wireless carriers.
+
+On the day that iPhone preorders began last week, Verizon quietly revised its policy on data management: Any smartphone customer who uses an “extraordinary amount of data” will see a slowdown in their data-transfer speeds for the remainder of the month and the next billing cycle.
+
+It’s a bit of a bait-and-switch. One of Verizon’s selling points for its version of the iPhone is that it would come with an unlimited data plan — a marked contrast to AT&T, which eliminated its unlimited data plans last year.
+
+Verizon incidentally announced a plan for “data optimization” for all customers, which may degrade the appearance of videos streamed on smartphones, for example.
+
+Verizon didn’t send out press releases to alert the public of this nationwide change regarding data throttling and so-called “optimization.” The only reason this news hit the wire was because a blogger noticed a PDF explaining the policy on Verizon’s website, which Verizon later confirmed was official. Obviously it’s bad news, so Verizon wanted to keep a lid on it.
+
+And here we thought Verizon’s network technology was better-prepared than AT&T to handle a big crowd of iPhone customers. While our initial tests showed that Verizon was better at making and holding phone calls, its data speeds are slower than AT&T’s. The company must be worried about the effects of an influx of iPhone customers — otherwise, why would it throttle bandwidth like this?
+
+“We’ve been working on this for a very long time,” John Stratton, Verizon’s CEO, said during the Verizon iPhone press conference last month. “We expect unprecedented demand, bigger than anything we’ve ever seen before. We feel good about being able to handle it.”
+
+Working on what for a very long time? A plan to handle a flood of new data-heavy customers by slowing everybody down? Brilliant.
+
+The throttling policy will impact only a small number of users: Verizon claims only the top 5 percent of data hogs will be throttled. (AT&T also previously claimed that a small number of users were hogging a massive amount of network bandwidth before it dropped unlimited data.) But the “optimization” method involves caching less data and resizing video, which “may minimally impact the appearance of the file as displayed on your device” — and that affects every Verizon customer.
+
+That’s an abuse of the word “unlimited,” which is becoming a common practice in the broadband arena. Comcast used to promote unlimited data as well, but customers reported their service was cut off after exceeding an invisible limit; the broadband provider later switched to monthly data caps.
+
+Actions such as data throttling are symptomatic of an ugly truth about the broadband industry. Internet providers would much rather slow everybody down than invest in more hardware to support more customers.
+
+“ISPs have a vested interest in trying to extract as much money as they can and changing the net’s architecture to bring them more profits,” Wired.com’s net neutrality expert Ryan Singel recently wrote. “They would rather do that than add more infrastructure to handle the growing traffic.”
+
+Meanwhile, Verizon is advertising an unlimited data plan for the iPhone — which appears to give it a leg up against AT&T, who discontinued unlimited data in 2010 and transitioned to a tiered pricing structure.
+
+But just like AT&T, Verizon plans to switch to tiered pricing in the future, according to Stratton. Verizon’s unlimited data plan, available for a limited time, is just another example of bait-and-switch.
+
+AT&T gets most of the heat because independent tests have shown that its network is less reliable than Verizon’s with handling phone calls. But at the end of the day, we’re dealing with the same evil.
+
+AT&T increased the early-termination fee last June from $175 to $325. Guess what? Verizon, too, doubled its termination fee, to $350.
+
+Verizon used to have a popular “new phone every two years program,” in which customers would receive juicy discounts on new phones every two years as a reward for staying loyal. Days after the Verizon iPhone was announced, Verizon discontinued the discount program. Tough beans.
+
+But above all, Verizon’s data throttling is shady in areas where even AT&T can’t compete. Even when AT&T had unlimited data, the company did not practice throttling, and an independent test showed its unlimited data was truly unlimited.
+
+Transparency is going to be the key issue with data-throttling. How much data is too much? How will Verizon notify customers when they’ve surpassed the limit? How much will they be slowed down?
+
+If Verizon isn’t transparent on each of these issues, the company could quietly slow down anybody’s transfer rates just to cram as many iPhone and Android customers on its network as possible, to maximize profit without doing what it should do: invest heavily in network expansion to provide the fast, reliable network it promised to everybody.
+
+Given its actions, Verizon may be better at holding phone calls, but as a broadband company it sucks at keeping promises.

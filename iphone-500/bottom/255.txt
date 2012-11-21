@@ -1,0 +1,21 @@
+Several versions of Apple's iPhone, iPad, and iPod Touch have potentially serious security problems, a German government agency said in an official warning Wednesday.
+
+Apple's iOS operating system has "two critical weak points for which no patch exists," the Federal Office for Information Security said.
+
+Opening a manipulated website or a PDF file could allow criminals to spy on passwords, planners, photos, text messages, e-mails and even listen in to phone conversations, the agency said in a statement.
+
+"This allows potential attackers access to the complete system, including administrator rights," it added, urging users not to open PDF files on their mobile devices and only use trustworthy websites until Apple Inc. publishes a software update.
+
+A spokesman for Apple in Germany, Georg Albrecht, told The Associated Press that the company is looking into the matter.
+
+"We know these reports and are investigating them," he said, refusing to elaborate.
+
+Although no attacks have been observed yet they were likely to appear soon, the German agency said.
+
+"It has to be expected that hackers will soon use the weak spots for attacks," it said, noting that the devices' popularity could lead to attacks within the corporate world.
+
+The warning relates to iPhones using iOS versions 3.1.2-4.0.1., iPads using iOS 3.2-3.2.1 and iPods Touch using iOS 3.1.2.-4.0.
+
+The agency said it was possible but not clear whether older iOS or iPhone OS versions could also be affected.
+
+The federal agency, based in Bonn, said it was in contact with Apple on the issue.

@@ -1,0 +1,25 @@
+A new security hole has opened up in Apple Inc.'s iPhone, iPad and iPod Touch devices, raising alarms about the susceptibility of some of the world's hottest tech gadgets to hacker attacks.
+
+Flaws in the software running those devices came to light after a German security agency warned that criminals could use them to steal confidential data off the devices. Apple, the world's largest technology company by market value, said Thursday that it is working on a fix that will be distributed in an upcoming software upgrade.
+
+With the security hole, an attacker can get malicious software onto a device by tricking its owner into clicking an infected PDF file. Germany's Federal Office for Information Security called the flaws "critical weaknesses" in Apple's iOS operating system.
+
+Internet-connected mobile devices are still subject to fewer attacks than personal computer, but they could eventually prove a juicy target for hackers because they are warehouses of confidential banking, e-mail, calendar, contact and other data.
+
+Software vulnerabilities are discovered all the time. What makes the latest discovery alarming is that the weaknesses are already being actively exploited - albeit in a consensual way.
+
+The latest concerns were prompted by the emergence of a new version of a program to allow Apple devices to run any software and circumvent the restrictions that Apple notoriously retains over software distributed through its online store. There are security risks of doing so, but many people find it liberating to install their own software.
+
+Although this program is something people would seek out, the weaknesses that its authors discovered could easily be used for malice, security experts say.
+
+There is an irony in the controversy: The site distributing the program offers a fix for the problem, but to get the fix, a user has to first install the program in question. So a user must defy Apple's restrictions to get the protection until Apple comes up with a fix of its own.
+
+Charlie Miller, a prominent hacker of Apple products, said it likely took months to develop the program to break Apple's restrictions, but a criminal might need only a day or two to modify it for nefarious purposes.
+
+Apple Inc. spokeswoman Bethan Lloyd said Thursday the company is "aware of this reported issue and developing a fix." She would not say when the update will be available.
+
+One reason for gadget owners to take heart: Attacks on smartphones and other Internet gadgets are still relatively rare. One reason is PC-based attacks are still highly lucrative. Still, vulnerabilities such as the ones Apple is confronting show that consumers should take care of securing their mobile devices as they would their home computer.
+
+"These things are computers - they're just small, portable computers that happen to have a phone tacked onto them," said Marc Fossi, manager of research and development for Symantec Security Response. "You've got to treat them more like a computer than a phone. You have to be aware of what's going on with these devices."
+
+©2011 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.

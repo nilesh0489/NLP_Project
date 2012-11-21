@@ -1,0 +1,41 @@
+iPhone users' experience with GPS is so quick, so instant-on, that Apple's Wednesday response about location tracking on iOS might almost seem baffling:
+
+Several minutes? Doesn't my iPhone take just seconds to figure out where I am?
+
+Well, yes… but only when it engages in a set of tricks to avoid a lengthy process that was de rigueur when GPS receivers first appeared. In simplifying matters, Apple’s not being entirely accurate about how this all works and what it's doing. So let me explain where Wi-Fi and cell phone towers fit into the equation.
+
+Early GPS receivers took 12.5 minutes from a cold start to obtain a lock; later locks in the same region could still take minutes. If you turned a GPS receiver off for a few weeks or moved it more than a few hundred miles, a cold start might be required again.
+
+GPS relies on two factors to create a set of accurate coordinates for where you’re standing: time and space. GPS satellites broadcast precise time signals using a built-in atomic clock along with their current location. They also broadcast the location of all other satellites in the sky, called the almanac.
+
+Every 30 seconds, a GPS satellite broadcasts a time stamp, its current location and some less precise location information for other GPS satellites. It takes 25 of these broadcasts (thus, 12.5 minutes) to obtain the full list of satellite locations. This information has to be decoded for a receiver to then properly interpret signals from the satellites that are within range.
+
+If you know the position of four satellites and the time at which each sent their position information, you—or, rather, your GPS receiver—can calculate to within 10 meters the latitude, longitude, and elevation of your current location along with the exact current time. With three satellites, you lose elevation, but a device can still track movement fairly accurately. Standalone GPS receivers can lock in simultaneously on multiple satellites, and track more than four. Other techniques can improve accuracy, too.
+
+But, heck, I don’t have 12.5 minutes. I’m a busy man! Give me that location faster!
+
+So GPS chip and gear makers came up with a host of ways to shorten the wait, called Assisted GPS (AGPS). Instead of relying on live downloads of position data from satellites, future locations can be estimated accurately enough to figure out rough satellite positions, and get a fix at which point even more up-to-date information is retrieved. These estimates can be downloaded via a network connection in seconds or even calculated right on a device.
+
+The current time can also be used as a clue. With a precise current time, fragmentary satellite data can be decoded to gain a faster lock or figure out the appropriate information to use. In CDMA networks, such as that used by Verizon, GPS-synchronized atomic time is required for the network’s basic operations, making it a simple matter to have such information available. (In fact, CDMA cell towers have GPS units built in to maintain better atomic time synchronization.)
+
+This is where Apple’s statement on Wednesday deviates from full accuracy. Apple uses AGPS for native GPS-lock improvements, and Wi-Fi network and cell tower locations are additional factors in providing a fast initial connection along with improving GPS accuracy.
+
+Cellular carriers have extremely precise GPS measurements of the locations of all their towers. With a database of such towers, you can take measurements of the signal strength of those within range—which may be dozens—and trilaterate to find an area that overlaps among them. (Trilateration involves overlapping regions to find an intersecting area; triangulation uses the measurement of angles to find a center point.)
+
+But cell towers are too far away from one another to provide GPS-like precision, and they don’t work well in less-populated areas, even suburbs, where less coverage is necessary than in an urban environment.
+
+Apple, Google, and others turn to Wi-Fi positioning for that. Wi-Fi positioning, originated by Skyhook Wireless, originally required specially equipped trucks with Wi-Fi antennas and highly sensitive GPS receivers that drove around cities to capture network identifiers (the unique hardware address broadcast by Wi-Fi base stations) and relative signal strengths at billions of points. As with cell towers, if you have enough networks and enough signal strength information, you can approximate a position.
+
+It’s trivial for a networked device like a smartphone to take a snapshot of nearby Wi-Fi and cellular sources and pass it to a server that replies with an approximate set of coordinates. According to Apple’s Q&A, the company takes it a step further by caching subsets of data about nearby networks and towers to reduce network activity and speed up such lookups. This also shifts some computation to the phone or tablet and away from location services. And it means if there’s no cell or Wi-Fi connection available, such location information can still be useful. (This explains a mystery I’ve seen in which a Wi-Fi-only iPad or an iPod touch can seemingly calculate a fix when it’s off the network.)
+
+Apple first unveiled Wi-Fi and cell-tower positioning with the original iPhone in an update to iPhone OS in early 2008. This was Apple’s sop to the fact that the original iPhone lacked a GPS receiver, which didn’t debut until the iPhone 3G.
+
+You can see either or both of these in action whenever you bring up the Maps app. Typically, you see a large blue circle appear nearly instantly, a result of what must be a consultation of the local database. The circle becomes smaller as more information is used, still from cellular and Wi-Fi sources, to create a better trilateration. This data is also used to provide more clues into decoding the best GPS satellite information, allowing the use of quite small fragments of data or even raw signals to get a better lock. Finally, the circle becomes a single dot when iOS is confident it has a solid GPS lock.
+
+Apple switched from using Skyhook Wireless as a data supplier starting in iOS 4.0 for the iPhone and iPod touch, and with the iPad-only 3.2 release. There’s a reason for that. When your iOS device uses Wi-Fi positioning, it sends a snapshot of the current signal landscape to Apple, which says in the Q&A that this information is used anonymously to crowdsource better data. But this is incredibly useful market intelligence, too, about how often users are relying on location updates, and where those users are clustered. It can be used for ad targeting and other purposes beyond those in apps that look for location data.
+
+Of course, the Apple Q&A makes it clear that not every Wi-Fi snapshot is sent to Apple; clearly some algorithm drives which are sent to improve the database. By crowdsourcing, Apple avoids having to send trucks around. Google has apparently engaged the same approach, using its Street View trucks to supplement Android-based crowdsourcing. (It’s gotten in trouble two ways about this. First, for apparently accidentally recording unencrypted Wi-Fi network data, which resulted in fines, settlements, and halting such scanning in many countries. Second, for allegedly strongarming two major handset makers into changing their deals to rely on Google’s data.)
+
+GPS is, in fact, rocket science at many levels. But the way in which Apple combines and supplements information from multiple sources to create a fast and accurate lock explains why to us as users it’s all “GPS” and just works.
+
+[Glenn Fleishman is a senior contributor to Macworld, and writes regularly about wireless data. His latest book is Take Control of iPhone and iPod touch Networking & Security for iOS 4 (Take Control books).]

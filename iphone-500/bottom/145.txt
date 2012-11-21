@@ -1,0 +1,21 @@
+Apple has found a new way to get people to agree to online tracking: withhold applications from them if they don't. This week Apple is launching a new iPhone. And with that comes a new operating system and the company's new advertising platform.
+
+According to Apple's new privacy policy, users can opt out if they don't want to be served targeted ads. But if they don't want to share their location information with the company, they also won't have access to new apps from the iTunes store.
+
+The launch of Apple's iAd advertising system this week comes with some new terms and conditions. Apple will be serving targeted advertising. Users can opt out of receiving such ads, but it won't be particularly easy. And the company thinks it would be cooler if people didn't opt out. According to the new T&Cs:
+
+"Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: http://oo.apple.com. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests."
+
+Apple customers who want to opt out of tracking have to use the above URL from an Apple device running iOS 4 to do so. And each of their devices using that operating system must be logged out individually.
+
+In addition, Apple is collecting "precise," "real-time geographic location" of its customers who use its new iOS software that runs on the new iPhone.
+
+Apple's wording assures customers that location data is “collected anonymously in a form that does not personally identify you.” But it also doesn't give people a choice to opt out of location tracking. Users have to agree to the new terms and conditions before downloading new apps or any other data from the iTunes store.
+
+Meanwhile, the new T&Cs are light on details regarding what will happen with this location information. The company's privacy policy states:
+
+"To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services.
+
+Some location-based services offered by Apple, such as the MobileMe “Find My iPhone” feature, require your personal information for the feature to work."
+
+Obviously, applications that rely on location will be among the “partners and licensees” who will access location data. But it would be nice to have details on what location-based services other than Find My iPhonewill utilize the data. Apple also insists that the data will be anonymous, but they are not divulging how long the data will be kept, which could irk privacy advocates.

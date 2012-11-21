@@ -1,0 +1,47 @@
+Editor's note: CNET editor and Crave contributor Dong Ngo is spending the next month in his homeland of Vietnam, and plans to file occasional dispatches chronicling his impressions of how technology has permeated the culture there. Click here for more of Dong's stories from abroad.
+
+HANOI, Vietnam--Every obstacle presents an opportunity. I saw this firsthand in Hanoi.
+
+The obstacle in question: the iPhone 3G. Since its launch, it has proven a much tougher nut to crack than the original iPhone. Without a viable software-based unlock solution, the only way to make the phone work with any GSM carrier has been the use of a proxy SIM. Put this piece of very thin circuitboard in the iPhone 3G atop the carrier's SIM, and you can make calls and text on a new network.
+
+(I did experience some problems using the proxy SIM, including short battery life, instability, and, most seriously, incompatibility with iTunes.)
+
+Unfortunately, the recently released 2.2 software update, for now, has made the iPhone 3G impossible to unlock--unless you happen to be in Hanoi. Here, I met a man who takes the job quite seriously and gets it done the hard way, literally.
+
+His name is Tuan Anh Do, and he's a 29-year-old businessman who owns five cell phone repair shops. A big part of his business is servicing the iPhone and iPhone 3G, and that often involves getting those devices unlocked at the hardware level.
+
+One of his shops is on Nguyen Du street, a relatively small, quiet block in Hanoi. It's located in a typically narrow four-story house, with one floor serving as a reception area, and another holding the accounting department. The top floor is the workshop, where the magic happens.
+
+Here I witnessed a brand new iPhone 3G getting its hardware unlocked and was really impressed. This is how it happened.
+
+First, a technician opened up the phone and stripped it to the motherboard. In his skillful hands, the device seemed much easier to dismantle than I expected.
+
+The technician then extracted the baseband chip, the component that controls the connection between the phone and the mobile network, from the motherboard. (This is a painstaking task as the chip is strongly glued to the phone's motherboard. A mistake during this process could brick the phone completely.)
+
+Once the chip was extracted, it was Tuan Anh's turn. He used a chip reader to read information into a file. He then used a Hex editor to remove the locking data from the file, and after that, the chip got reprogrammed with the newly altered file. Now it was no longer programmed to work with only a specific provider.
+
+The chip then got reassembled into the motherboard, another painstaking process.
+
+As a last step, the technician put the phone back together, and it looked like nothing had been done to it.
+
+However, the phone is now unlocked and can be used with any carrier's SIM. It can also be synced with iTunes and used with the original carrier and it can perform all other functions without any problem. But it's not yet jailbroken, which Tuan Anh will do for free. He'll even add lots of applications and utilities at no additional cost.
+
+Each such unlocking job takes about an hour to complete and costs 1.2 million dong (about $80), a small fortune over here. Tuan Anh said that so far, his business has unlocked hundreds of iPhone 3Gs and thousands of first-generation iPhones.
+
+He also said that if an iPhone has been unlocked under the firmware version 2.1 or earlier, upgrading to version 2.2 will lock it again. This is because the 2.2 update is the first update that alters the baseband chip, a clear move by Apple to counter the software-based unlocking solution. In this case, Tuan Anh is willing to re-unlock it for a discount price of $50.
+
+In case of mishaps, Tuan Anh said he would give clients a new phone. Considering that an iPhone 3G goes for somewhere between $800 and $1,000 in Hanoi, this is a bold statement, but so far, he has yet to brick a customer's iPhone. He did, however, lose two iPhone 3Gs while mastering the unlocking process in the phone's early days, a $2,800 investment at that time.
+
+The demand for the iPhone and iPhone 3G in Vietnam is amazing. Prior to my trip here, a few friends asked me to bring one for them from the States. Some even offered to pay me extra. I didn't have time to take up any offers and obviously missed an opportunity to get my trip partially paid for. Still, I've seen a lot of people here with the iPhone. Tuan Anh said most iPhones 3G in Hanoi come from the States and Australia.
+
+Tuan Anh's shops also take care of repairing other kinds of cell phones from any vendors, especially those without a support office in Hanoi. And the shops are faring well. When I was at the Nguyen Du street business, all of his technicians were busy working on different phones, two of them iPhones. The workshop's atmosphere was professional and quiet; I figure a job like this requires a lot of concentration.
+
+It's striking to witness the amount of work these skillful workers get done, considering how modestly equipped the workshop is. The most sophisticated equipment I could see were a Pintex Oscilloscope and a couple of microscopes. The rest of the tools, such as solderers, tiny screwdrivers, tweezers, alcohol, and towels, are the sorts of things you could find at most hardware stores.
+
+Tuan Anh now has about 30 employees, paying them $300 a month on average. That's a very good salary considering the average income of a Hanoian is just around $100 a month.
+
+Asked why he decided to get into this business, Tuan Anh, who holds bachelor's degrees in history and journalism from Hanoi National University, traces it to a passion for computers and electronics, an interest he shares with many other Vietnamese.
+
+He hopes that what he's been doing with the iPhones wouldn't be considered "illegal" in the States. Oddly enough, his dream is to become an Apple partner officially supporting the company's products in Vietnam.
+
+But illegal or not, Apple's idiosyncratic policy has in a weird way given this bright man an opportunity to do more than just make a living. He's proven that we really can be the master of our tools, not vice versa.
