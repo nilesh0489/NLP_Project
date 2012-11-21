@@ -1,0 +1,11 @@
+The UK's Advertising Standards Authority determined today that an Apple TV ad's claims about its iPhone 3G's relative download speeds is misleading and exaggerative, and must be pulled.
+
+The ASA received 17 complaints from television viewers who believed Apple's "So what's so great about 3G?" ad for the company's latest iPhone inaccurately portrayed the speed of the iPhone 3G. In the ad, Web pages are loaded in a fraction of a second with a voice-over stating (four times) that news, directions, and the Internet are each "really fast."
+
+According to the ASA, this ad violates three sections of the BCAP TV Advertising Code:
+
+5.2.1 "Licensees must obtain adequate objective evidence to support all claims ," (in this case, the accuracy of the portrayal of the 3G iPhone's speed.) 5.2.2 " Descriptions, claims and illustrations must not imply attributes, capabilities or performance beyond those that can be achieved in normal use." 5.4.1: "Advertisements must not use any technique that is likely to give a misleading or unfair impression of the product or service."
+
+Apple's response was that the ad was clearly comparing the 3G's speed against its 2G predecessor, and that the average viewer, as a mobile phone user, would understand the device's performance would vary. It said it reinforced that understanding by including the on-screen fine print, "Network performance will vary by location."
+
+The ASA, however, determined that there was no explicit comparison with the 2G iPhone, and that the visuals in combination with the repeated claim "really fast," was likely to mislead viewers. Therefore, it declared, the ad as seen here must no longer be aired in the UK, and must be altered or retired.

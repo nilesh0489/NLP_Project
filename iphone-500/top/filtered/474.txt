@@ -1,0 +1,5 @@
+Seeing all these password leaks, and how common password reuse is, I've decided I need to protect myself from this type of "hack." I do use multiple passwords but really only about 4 different ones, I'd like a program that created secure passwords for me. It would have to be able to sync across multiple computers (allow me to store my password file on dropbox maybe?)
+
+Pretty much I have a lot of passwords and machines that I access, I use mostly Win 7 and OS X. It would be nice to also be able to access my passwords on my phone (iPhone 4.)
+
+What do you recommend, what works well for you?

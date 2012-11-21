@@ -1,0 +1,9 @@
+Under the radar of this week’s WWDC news is a small but very significant change to the iPhone Developer Program License Agreement. The change is in the oft-controversial section 3.3.2. Here is the last sentence of the old copy:
+
+Here is the new copy:
+
+Unless otherwise approved by Apple in writing, no interpreted code may be downloaded or used in an Application except for code that is interpreted and run by Apple’s Documented APIs and built-in interpreter(s). Notwithstanding the foregoing, with Apple’s prior written consent, an Application may use embedded interpreted code in a limited way if such use is solely for providing minor features or functionality that are consistent with the intended and advertised purpose of the Application.?
+
+I’ve said before that Apple’s aversion to interpreted code and external runtimes is the potential for someone else to take the platform over. That’s not the whole story, though. Games in particular tend to use engines and libraries that leverage interpreted languages such as Lua. Many of these applications pose no threat, neither implicitly nor explicitly.
+
+While explicit approval from Apple is still required, these new terms seem to acknowledge that there’s a difference between an app that happens to have non-compiled code, and a meta-platform. It’s a step that should allow for many new possibilities.

@@ -1,0 +1,13 @@
+Free image-browsing app is intended to show what is possible on the mobile platform, but where is the Windows Mobile version?
+
+Is it possible some at Microsoft find the iPhone a more attractive platform than the software giant's own Windows Mobile?
+
+Engineers in the company's Live Labs have released the company's first application for Apple's popular smartphone--even before making it available on Microsoft's own mobile platform. Seadragon Mobile, which was added to Apple's App Store on Saturday, is a free image-browsing app that allows users to quickly "deep zoom" images while online and is intended to demonstrate what is possible with a mobile platform.
+
+Seadragon is the backbone for Microsoft's Photosynth, which allows users to take a grouping of photographs and stitch them together into a faux 3D environment.
+
+Other iPhone apps are reportedly in development in Redmond; Microsoft's Tellme unit was expected to release the company's first iPhone app in the form of a voice-activated search for a variety of phones, including iPhone and BlackBerry. A Microsoft representative told my colleague Ina Fried in September that a public version of that program would likely be released in a few months.
+
+So where's the Windows Mobile version of Seadragon?
+
+"The iPhone is the most widely distributed phone with a (graphics processing unit)," Alex Daley, group product manager for Microsoft Live Labs, told TechFlash. "Most phones out today don't have accelerated graphics in them. The iPhone does and so it enabled us to do something that has been previously difficult to do."

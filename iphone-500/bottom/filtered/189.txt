@@ -1,0 +1,17 @@
+Computerworld - Hackers can exploit a flaw in Adobe's Flash to compromise nearly every Web site that allows users to upload content, including Google's Gmail, then launch silent attacks on visitors to those sites, security researchers said today.
+
+Adobe did not dispute the researchers' claims, but said that Web designers and administrators have a responsibility to craft their applications and sites to prevent such attacks.
+
+"The magnitude of this is huge," said Mike Murray, the chief information security officer at Orlando, Fla.-based Foreground Security. "Any site that allows user-uploadable content is vulnerable, and most are not configured to prevent this."
+
+The problem lies in the Flash ActionScript same-origin policy, which is designed to limit a Flash object's access to other content only from the domain it originated from, added Mike Bailey, a senior security researcher at Foreground. Unfortunately, said Bailey, if an attacker can deposit a malicious Flash object on a Web site -- through its user-generated content capabilities, which typically allow people to upload files to the site or service -- they can execute malicious scripts in the context of that domain.
+
+"This is a frighteningly bad thing," Bailey said. "How many Web sites allow users to upload files of some sort? How many of those sites serve files back to users from the same domain as the rest of the application? Nearly every one of them is vulnerable."
+
+Bailey, who demonstrated how attackers could compromise a Web site and attack users in a post today on Foreground's blog, outlined how a hacker would leverage the Flash flaw. "It's relatively simple," he maintained. "All they need to do is create a malicious Flash object, and upload it to the [Web] server."
+
+He used the example of a company that lets users upload content to a message forum to explain the process. "If the user forum lets people upload an image for their avatar, someone could upload a malicious Flash file that looks like an avatar image," Bailey said. "Anyone who then views that avatar would be vulnerable to attack."
+
+Adobe has told Foreground that the flaw is "unpatchable," Murray and Bailey said. Instead, Adobe is trying to educate site administrators to close the hole on their end. But they've not had much success.
+
+Brad Arkin, Adobe's director for product security and privacy, agreed that the problem can't be solved with a patch to Flash. "We see this as a generic problem that affects any site that allows active scripting, not just Flash, but things like JavaScript and Silverlight as well. Even if Flash figured out some magical safeguard, this would be true for all active content sites that allow users to upload files."

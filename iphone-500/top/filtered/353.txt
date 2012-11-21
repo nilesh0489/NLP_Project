@@ -1,0 +1,23 @@
+Jonathan "Wolf" Rentzsch cancels his C4 programming conference in the wake of an Apple change he sees as stifling programming innovation.
+
+New restrictions that Apple added to its iPhone software developer kit have led an independent programmer to cancel a conference devoted to Mac programming and computer science.
+
+Jonathan "Wolf" Rentzsch announced Wednesday he canceled the C4 conference after four years organizing it because of new wording in a section of the iPhone OS 4.0 software developer kit.
+
+"With resistance to Section 3.3.1 so scattershot and meek, it's become clear that I haven't made the impact I wanted with C4. It's also clear my interests and the Apple programming community's interests are farther apart than I had hoped," Rentzsch said.
+
+Central to the matter is the battle between Apple and Adobe Systems concerning Flash, an Adobe programming foundation widely used on the Web but banished from the iPhone, iPad, and iPod Touch. Apple further restricted even native applications originally written in Flash with new wording in section 3.3.1 of the iPhone OS 4.0 SDK, leading Adobe to cancel a Flash-for-iPhone programming tool as well. CEO Steve Jobs explained in a rare open letter in April, but his words didn't satisfy Rentzsch.
+
+"By itself Section 3.3.1 wasn't enough to cause me to quit C4. I've weathered Apple lying to me and their never-ending series of autocratic App Store shenanigans. But unlike previous issues such as the senseless iPhone SDK NDA [nondisclosure agreement], the majority of the community isn't riled by 3.3.1. On this issue, Apple apologists have the loudest voice. They offer soothing, distracting yet fundamentally irrelevant counterpoints to Apple's naked power-grab."
+
+Rentzsch said he was motivated to produce C4 because he wanted to marry Mac programmers' "maniacal focus on user experience" with better low-level programming tools.
+
+"I believed the best way to move software forward was to inform Apple programmers about better ways to build software--to infect the best top-downer minds with fertile discontent," he said. "My hope was that developers would care primarily about user experience yet also be passionate about utilizing lingual and tooling advances."
+
+Apple has thwarted that hope, though, with the new SDK license terms. Those read: "Applications must be originally written in Objective-C, C, C++, or JavaScript as executed by the iPhone OS WebKit engine, and only code written in C, C++, and Objective-C may compile and directly link against the Documented APIs (e.g., Applications that link to Documented APIs through an intermediary translation or compatibility layer or tool are prohibited)."
+
+"Section 3.3.1 has broken my spirit," Rentzsch said. "Apple is crazy-innovative in terms of hardware and software design, but I can count the total number of software engineering advances they've made on one hand. Section 3.3.1 makes developers wholly reliant on Apple for software engineering innovation."
+
+Apple, which didn't immediately respond to a request for comment Thursday, has offered an explanation for the change to the programming tools license.
+
+"We know from painful experience that letting a third-party layer of software come between the platform and the developer ultimately results in substandard apps, and hinders the enhancement and progress of the platform. If developers grow dependent on third-party development libraries and tools, they can only take advantage of platform enhancements if and when the third party chooses to adopt the new features," Jobs said in his open letter. "We cannot be at the mercy of a third party deciding if and when they will make our enhancements available to our developers."

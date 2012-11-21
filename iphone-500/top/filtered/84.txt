@@ -1,0 +1,19 @@
+In August 2008, Apple approved an application in the App Store called I Am Rich. The app did nothing beyond show a picture of a red gem. So why was it notable? Because it cost $999.99. Though Apple pulled it relatively quickly, there was some concern that we'd start to see a rush of bogus applications and/or huge prices in the App Store. Luckily, that didn't happen and app prices have remained low (some would say too low). But now we have the return of a $999.99 app.
+
+But there's a big difference with this app; BarMax CA actually does something. And to the people it's aimed towards, it's likely to be very useful. And quite possibly worth the $1,000 price tag.
+
+BarMax CA is an application to help law students preparing for the bar exam. The reason the price is justified is because the company that is synonymous with this type of test prep, BarBri, typically offers it for $3,000 to $4,000. BarMax CA believes it can get away with the lower price because it's just an app, there is no in-class element. Also, there has been some questions about BarBri's pricing structure and anti-competitive behavior, which has been the subject of multiple class action lawsuits (hardly surprising when you're selling these packages to future lawyers).
+
+BarBri also offers an iPhone application, and it's free, but you need to enroll in their program to access it otherwise it's useless.
+
+So what do you get for your $1,000 BarMax CA app? A lot, actually. The app is over 1 gigabyte in size, which is the largest application I've ever seen. It includes thousands of pages of materials as well as hundreds of hours of audio lectures. It's all the information you could ever want for the two-month course. And again, it can be done all on your iPhone. That said, if you do want some more tangible paperwork for certain sections, BarMax will send you that electronically as well.
+
+The bar exam consists of three main parts: Multiple choice, essays, and a performance test. There is also an ethics exam you have to take. As you can probably tell by the name, BarMax CA is meant for the California bar exam. But by the end of 2010, the company expects to have apps available for New York, and the five other most popular states for the exam as well. There will also be a multi-state version since much of the test (the multiple choice part, for example) doesn't vary state to state. Each of these apps would cost the same $999.99 but there is also a plan to make an app with just the multiple choice part for $500.
+
+Mike Ghaffary came up with the idea when he himself was preparing for the bar exam. He could not believe BarBri charged the $4,000 to send him an iPod with audio notes on it, and that there was no real competition in the space. So he got in touch with some successful iPhone app developers in Los Angeles, as well as some fellow Harvard Law graduates to create the app. Ghaffary, who is the director of business development at TrialPay by day, is serving as an advisor now to the team.
+
+How this app sells will be interesting to say the least. Ghaffary confirmed that it is the most expensive app in the App Store, surpassing a home security app that sells for $899. Many iPhone developers have complained about a race to the bottom for app prices, but a few have tried to sell more expensive applications, such as Wolfram Alpha. But that $50 app doesn't really give you anything you can't get on its website, it just dresses the data up to look nicer on the iPhone. BarMax CA, again, is attempting to save law students thousands of dollars. It's a good experiment, if nothing else.
+
+Ghaffary notes that while Apple was extra careful in checking BarExam CA out due to the high price, they had no problems getting it approved, and Apple generally seemed pleased with the idea.
+
+Still, the thought of being able to spend $1,000 with one click on your iPhone remains a little terrifying. Find the app here.

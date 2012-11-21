@@ -1,0 +1,13 @@
+Skype is set to launch its iPhone application Tuesday, bringing its much-anticipated Net-based phone service to Apple's mobile platform. With the Skype iPhone app, users will be able to make free calls using Wi-Fi to other Skype users as well as use their Skype accounts to make reduced price calls to traditional landline phones. Skype announced its iPhone application will be available on Tuesday for free, with a version for the BlackBerry available in May. Mobile versions of Skype are already available for Nokia, Windows Mobile, and Google Android phones.
+
+From what we can tell, the Skype for iPhone looks great; but it has some drawbacks. One disappointment is that users won't be able to place calls over cellular networks, but only via Wi-Fi. Still, for international callers especially, Skype's iPhone app will save callers money by allowing them to avoid AT&T's traditional wireless phone network and adds the convenience of allowing Skype users to use their iPhone handset for Skype calls.
+
+Looking more like a traditional iPhone app rather than the desktop Windows counterpart most of its 400 million users are used to, Skype for iPhone features five tabs at the bottom of the screen, displaying contacts, chats, a calling panel, call history, and your profile (with Facebook-style status).
+
+Skype for iPhone will use phone numbers directly from your phone's address book, so no more nasty duplicated contact lists. It even displays your contacts' photos (if they have one set up on Skype). Conference calling is available, but for the moment you can only take part in one if someone invites you.
+
+You can also chat with your Skype friends, but unfortunately this is the only thing (besides seeing who's online) you can do over a cellular network. Skype for iPhone places calls only via Wi-Fi, not differentiating itself much from the other voice apps in the App Store (Skype for T-Mobile G1 can place calls over 3G).
+
+Skype for iPhone is still a young app and is short on some of the features its desktop counterparthas. SMS, video and proper conference calling, file transfer, and voicemail are missing from this first version, but let's hope they will make their way in future versions.
+
+iPod Touch users will also be able to enjoy Skype, but this would require them to purchase a microphone, or headphones with built-in microphones (like the iPhone's).

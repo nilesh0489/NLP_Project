@@ -1,0 +1,19 @@
+News of a successful attack that almost instantly gives full access to an iPhone's password keychain made its way around the Web on Thursday after Germany's Fraunhofer Institute for Secure Information Technology revealed the exploit to IDG News Service. While the fact that hackers could access a device's keychain in such a short time certainly sounds alarming, the attack isn't entirely new, and is actually a product of Apple's "DRM approach" to security, one iOS security expert told Ars.
+
+Fraunhofer SIT's exploit first relies on physical access to an iPhone, so an attacker has to get your iPhone away from you before digging in. In most cases like this, you would likely want to use Apple's (now free) remote wipe feature in order to protect your data, but remote wipe is easily thwarted by removing the device's SIM card. Any attacker sophisticated enough to decrypt the keychain will know this trick.
+
+Once an attacker has your phone, he could use any of the commonly available jailbreaks to install an SSH server, install a keychain hacking script, and collect the decrypted password information.
+
+Part of what makes the attack relatively trivial is that the cryptographic key used for the keychain is stored on the iPhone. Once a device is jailbroken, hackers can use iOS's built-in APIs to access and decrypt certain passwords—including those for network access and e-mail accounts—stored in the keychain. From there, passwords from VPN access or e-mail accounts can be further used to gain more passwords, or e-mail accounts can be used to request password resets for a number of online services.
+
+But while Fraunhofer SIT's particular methods may be new, accessing the keychain and other encrypted information on a jailbroken iPhone has been possible for some time. iPhone forensics expert Jonathan Zdziarski told Ars that similar exploits have been around since about the time of the introduction of the iPhone 3G.
+
+"Several dev teams have been able to easily deduce Apple's encryption keys for the keychain; it just hasn't been widely advertised," Zdziarski said. The "new" part of Fraunhofer SIT's attack, however, leverages Apple's APIs to access the keychain instead of other methods.
+
+The real problem, according to Zdziarski, is that Apple hasn't yet fully implemented a truly secure environment for iOS. "Apple has—since introducing encryption—been relying on their DRM know-how, and just erasing the label that says 'DRM' and calling it 'security,'" he explained. "The problem with this is that DRM only makes things a little more difficult for hackers."
+
+"Real security relies on the strength of the key, and the secrecy of the key," Zdziarski continued. "And as long as the keys are all stored on the iPhone and don't rely on a user password, they can easily be compromised."
+
+In other words, even while Apple has continually improved the security of information on iPhones and other iDevices, the same types of flaws that enable moderately skilled hackers to access an entire unencrypted disk image of an iPhone still exist. And while Apple offers APIs for developers to add an additional layer of encryption for user data, it's up to developers to implement it independently.
+
+Zdziarski said that he believes Apple is pushing to make the iPhone compliant with security standards set forth in Federal Information Processing Standard 140-2 (FIPS 140-2). When that happens, government and enterprise users can be less wary about iPhone security issues. "But at the end of the day," he said, "Apple will need to abandon their DRM approach if they want true security, as opposed to just some fancy marketing strategies."

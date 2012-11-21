@@ -1,0 +1,13 @@
+As Verizon iPhone speculation heats up ahead of tomorrow's Verizon Wireless press conference, it appears that even rival AT&T can't keep its mouth shut.
+
+Yesterday, AT&T's vice president of communications, Larry Solomon, told Business Insider that "the iPhone is built for speed, but that's not what you get with a CDMA phone. I'm not sure iPhone users are ready for life in the slow lane."
+
+Several publications have taken Solomon's comment as proof positive that Verizon will announce the Apple iPhone tie-up tomorrow.
+
+Verizon hasn't commented on the trash talk, but this morning Verizon's policy blog editor John Czwartacki retweeted an article entitled "Rant: AT&T should shut up about Verizon iPhone."
+
+Does Solomon's claim have merit? If the Verizon iPhone confirms carriage on its legacy 3G network rather than its nascent 4G LTE network as most believe, then the answer is yes.
+
+Big Red may deliver more consistency and capacity than AT&T, especially in San Francisco and New York, but in PCMag's search for the Fastest Mobile Networks 2010 we found that AT&T performed faster than Verizon nationwide. It delivered average download speeds of 1.79Mbits/sec compared to Verizon's 1.01Mbits/sec.
+
+Instead of fighting speed, Verizon appears to be attacking the AT&T iPhone's Achilles' heel: capacity. Over the weekend the Wall Street Journal reported sources saying Verizon was "confident enough in its network" to offer unlimited data plans with the iPhone.
