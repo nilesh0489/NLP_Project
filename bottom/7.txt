@@ -1,1 +1,0 @@
-A walkthrough and review of the just released Xbox SmartGlass app for Android, running on a Asus Google Nexus 7 through side-loading the app.While it's available - here's the APK you can sideload onto your device.https://www.dropbox.com/s/go8ufab7pd9emxs/com.microsoft.smartglass.apk

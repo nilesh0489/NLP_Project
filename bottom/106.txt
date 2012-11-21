@@ -1,9 +1,0 @@
-Hackers penetrated the computer defenses of South Carolina's Department of Revenue and accessed 3.6 million social security numbers and account data for 387,000 payment cards, officials said. The Associated Press reported the intrusion also exposed citizens' tax returns, which typically contain much more sensitive personal information, but that couldn't immediately be confirmed.
-
-The breach, which occurred in mid-September, followed a series of attempted intrusions beginning in August, according to a press release. State officials have known of the data breach since October 16, and suspected an intrusion as early as October 10, but didn't disclose it until Friday, just hours before the start of the weekend. The underlying vulnerability that attackers exploited to access the state network was fixed on October 20.
-
-Officials have retained security firm Mandiant to assist in the investigation of the breach and to help secure the system. The state is also offering one year of credit-monitoring and identity-theft protection from Experian.
-
-"The number of records breached requires an unprecedented, large-scale response by the Department of Revenue, the State of South Carolina and all our citizens," Governor Nikki Haley was quoted as saying in the press release. "We are taking immediate steps to protect the taxpayers of South Carolina, including providing one year of credit monitoring of identity protection to those affected."
-
-Of the 387,000 payment cards exposed, all but 16,000 were encrypted using measures "deemed sufficient" under credit card industry standards, presumably a reference to the Payment Card Industry Data Security Standard, which critics say doesn't go far enough in protecting account data. With a state population of about 4.6 million, the exposure could affect as many as much as three-fourths of South Carolina citizens.

@@ -1,1 +1,0 @@
-This video demonstrates how a Barrett WAM arm uses our mixture of motor primitives (MoMP) algorithm to learn successful hitting movements in table tennis using imitation and reinforcement Learning.

@@ -1,3 +1,0 @@
-Microsoft Windows 8 is shipped without the "Start" menu.
-
-We put the "Start" menu back in Windows 8. We accurately recreated the most used desktop feature billions of users depend on every day and packed it with additional functionality.
