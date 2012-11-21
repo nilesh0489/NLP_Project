@@ -1,1 +1,15 @@
+Now we know why Google Voice apps were only released for BlackBerry and Android. Apple rejected Google's official Google Voice app when it was submitted for approval six weeks ago. What. The. Shit.
 
+Here's the quote from the Google spokesperson to TechCrunch:
+
+"We work hard to bring Google applications to a number of mobile platforms, including the iPhone. Apple did not approve the Google Voice application we submitted six weeks ago to the Apple App Store. We will continue to work to bring our services to iPhone users - for example, by taking advantage of advances in mobile browsers."
+
+This news comes on the heels of Sean Kovacs' GV Mobile Google Voice app being pulled from the store for "duplicating features." Even though, TechCrunch relates, Phil Schiller himself personally approved GV Mobile and called Kovacs to apologize when its initial approval was delayed months ago.
+
+TechCrunch suspects, probably correctly, that apps for Google Voice are being rejected at least in part through AT&T's influence, since Google Voice lets you send free text messages and delivers cut-rate international calls—on top of making phone numbers even more meaningless—making it scary to AT&T in way like Skype VoIP over 3G. Either way, it seems obvious the Google Voice service is being targeted for extinction, at least as a native app on the iPhone.
+
+Google plans to take the same route it was forced to take with Latitude on the iPhone—web app land. It's an interesting switch for Google and Apple on the app front, actually. Google was noted for getting away with using private APIs in its Google Mobile app to make the voice search command work. Now Apple's rejected two of its major apps in a row, in a way validating Google's belief that web apps are the future anyway.
+
+It seems somewhat silly, and a bit of a reach, to insinuate the rejections are signs of brewing hostilities between Apple and Google, but you have to figure if there weren't any behind the rejections, they've at least got to be causing some anxiety by now.
+
+Whatever the reasons, it sucks, and as Jason Kincaid says, what's really troubling about this rejection is that it appears that "Apple is now actively stifling innovation." And the whole black box app approval process doesn't exactly alleviate that sinking feeling either. After all, if Google doesn't stand a chance, how does anybody else?

@@ -1,1 +1,12 @@
+This week, Apple prohibited its app developers from using an iPhone's GPS to determine which ads to show users. From an advertiser standpoint, such a capability could be great: ads targeted by location can be a lot more effective -- and lucrative. From an iPhone owner standpoint, I'm not sure I see the harm. What's Apple's goal in preventing app developers from utilizing device locations?
 
+First, it's easy to see why advertisers would find it so useful to know location. For example, if you sell skis, would you pay more if your ad was shown to a user in Miami or Aspen? Easy answer. It would also allow smaller, local companies to cash in on mobile apps more effectively. If a restaurant chain doesn't have any locations in Texas, why is it paying for its ads to be shown to people living there?
+
+So why won't Apple allow that? Is the company worried about users not wanting advertisers to know their location? Perhaps. But there's also speculation that Apple might just want all that location-based ad revenue for itself. AppleInsider writes: 
+
+Apple's newly publicized policy on GPS data usage has led to some speculation that the company could retain location-aware advertising for its own, giving the iPhone maker a significant advantage over competitors like AdMob and Google. However, Apple has yet to formally roll out its own integrated advertising solutions, so whether location-based targeted ads would be a part of the network is unknown.
+
+
+If this isn't a profit-play by Apple, and the company really does just want to make its customers happy, then I think a different policy would actually serve them better -- why not give iPhone users the option of whether they want to allow ads to know their location? It's already the case that when an application wants to use my GPS, it asks my permission. Do the same if an app wants to use my location for ads. If an app is going to bother showing me ads, I'd actually prefer it display those which I might actually be interested in, and location could help achieve that end. But if someone else doesn't, she can just tap "Don't Allow." 
+
+Since that's clearly the more reasonable strategy from a customer satisfaction standpoint, I wouldn't be surprised if the theory that AppleInsider notes above turns out to be right. If Apple wasn't sure if users would want ads based on location, then it would make a lot more sense to simply ask them, rather than to just deny such ads altogether.

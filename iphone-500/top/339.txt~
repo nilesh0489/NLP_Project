@@ -1,0 +1,9 @@
+An iPhone hacker has successfully ported the open source Linux kernel to Apple's popular mobile device. Although the port is still at a very early stage of development and currently only supports a slim subset of the iPhone's capabilities, it demonstrates the versatility of the Linux kernel and the ingenuity of iPhone modding enthusiasts.
+
+The port was announced in a blog entry last week. The post also includes a link to a video that demonstrates the software booting on an actual iPhone. The lead developer, who writes under the pseudonym "planetbeing", says that the port has a framebuffer driver and support for serial-over-USB, but still lacks critical features such as touchscreen support, sound, baseband and WiFi support, and accelerometer drivers.
+
+The port includes a custom bootloader that enables users to choose whether to boot Linux or the iPhone's own operating system at startup. The code is distributed under GNU's General Public License (GPL) and is available from a GitHub repository. Instructions that describe how to install it from an Ubuntu Linux computer are also available.
+
+Because the port doesn't have full touchscreen drivers yet, the only way to interact with the system is by using a keyboard on a host system that is connected to the iPhone via USB. The port includes BusyBox, a collection of core GNU userspace utilities embedded in a single lightweight executable. It provides the ash command shell and enough basic commands to manage and interact with a mobile Linux platform.
+
+

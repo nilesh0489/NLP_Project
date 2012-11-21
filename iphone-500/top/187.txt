@@ -1,1 +1,11 @@
+Apple has applied for a patent covering various methods for identifying and disabling unauthorized use — including jailbreaking and other hacks — of electronic devices, such as its popular iPhone and iPad products.
 
+Although the U.S. government has legally authorized the jailbreaking (i.e. running code that gives users access to extensions and themes that Apple has not approved, as well as use carriers that are not supported by Apple) of iPhones and other electronic devices for “educational purposes,” it seems that Apple is determined to gain further control over said devices.
+
+Currently, the Cupertino, California-based tech company automatically revokes its warranty on all iPhones that have been subject to jailbreaking and other hacks.
+
+The patent, which was filed in February and published on Thursday, primarily focuses on measures for identifying stolen devices and protecting the kinds of sensitive information, such as credit card numbers and passwords, stored on those devices. Upon learning that a customer’s iPhone has been stolen, for instance, sensitive data stored on that customer’s device could be sent to one of Apple’s remote storage servers and then erased entirely from the phone.
+
+However, the patent also covers methods for identifying devices that have been hacked, jailbroken, unlocked or had their SIM cards removed, such as monitoring sudden increases in memory usage that could “indicate that a hacking program is being run and that an unauthorized user may be using the electronic device.” Theoretically, Apple could then wipe personal data from these devices and then alert AT&T to “shutdown any telephone service to the electronic device, shutdown the electronic device itself, or otherwise suitably extract the functions of the electronic device.”
+
+In other words, the system described in the patent allow Apple to effectively kill jailbroken devices under the guise of protecting customers from theft, since it may not be able to determine whether a device has been stolen or if it is being willingly jailbroken by users.

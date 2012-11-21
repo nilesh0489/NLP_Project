@@ -1,1 +1,34 @@
+The tech buzz about Apple’s new Verizon iPhone misses the point.
+While it would have snuffed the Android a year ago, Dan Lyons reports, Google’s device has become an unstoppable juggernaut.
+Now that Apple will be selling the iPhone on Verizon, is Google’s Android smartphone operating system doomed?
+Verizon, after all, has been a big reason for Android’s success.
+The carrier has spent the past two years promoting the heck out of Android, mostly because Verizon needed something that could compete with iPhone, which was carried exclusively on AT&T.
+Early on, Android phones were pitched as kind of ersatz iPhones, devices that could do most of what an iPhone did—but were available on carriers other than AT&T, a relatively horrible network that was the biggest source of complaints about Apple’s transformative device. Apple’s Chief Operating Officer Tim Cook said at yesterday’s event that the question he’s heard more than any other, over the past few years, has been, “When will the iPhone be available on Verizon?”
 
+There will be huge demand for the Verizon iPhone. And if this event had taken place a year ago, I would have said Android was in trouble. Who wants to buy an ersatz iPhone when you can get the real thing?
+
+But a lot has changed in the past year. For one thing, Android has made big leaps forward in terms of quality. For a second, it’s made big leaps in quantity: It recently began outselling the iPhone in the United States.
+
+Most important, Android still has one huge advantage over iPhone—diversity. Android phones are sold by dozens of hardware makers, the biggest being Samsung, Motorola, and HTC. There are lots of different form factors. Slider phones. Phones with keyboards. Big screens, small screens, midsize screens.
+
+The iPhone, in contrast, is a bit like the situation people once had with Henry Ford’s Model T, where you could have any color you wanted, as long as it was black. With the iPhone you can have whatever Steve Jobs says you can have.
+
+The iPhone is like omakase, the style of sushi where the chef chooses what you’re going to eat, and might even tell you how to eat it—no wasabi allowed on this, no soy sauce allowed on that. Definitely no California rolls.
+That’s fine, once in a while. But sometimes I want a California roll. Sometimes I want what I want, not what Steve Jobs tells me I can have.
+I used to be a pretty hardcore iPhone fan. But over time, I grew more and more frustrated with the lousy service on AT&T. My iPhone simply could not reliably make and hold a phone call. Not just in New York and San Francisco, where I spend a lot of time, and where AT&T’s service has been notoriously bad for years. But also in Boston, where I live. In my house. At my office.
+It got so bad that I bought a cheapo feature phone on Verizon to use for actually making phone calls. At this point I began to feel ridiculous.
+The breaking point came one day when my iPhone rang and it was someone really important, calling me unexpectedly. And… the call dropped. The guy called back. And… the call dropped again. I scrambled to forward calls from the iPhone to the Verizon phone so I could get through. But before I could do that, the iPhone rang again, and by now the guy was too frustrated, and just said something like, Look, we’ll talk again soon.
+
+We did, and everything turned out all right. But that was it for me. As it happens, just then Google was rolling out a new version of Android, and it looked promising. So I made the jump.
+
+Frankly, I didn’t care whether Android could match an iPhone feature-for-feature. All I cared was that I could get a smartphone that ran on Verizon and therefore could successfully make phone calls. But since then I’ve become hooked. I’ve grown used to the Android way of doing things. I’ve built my life around Google programs—Gmail, Google contacts, Google calendar, Google Maps. I love the built-in voice navigation.
+
+So who cares that now Apple will sell its phone on Verizon? For me, it’s too late. Other converts to Team Android tell me they’re feeling the same way. “I’m not going back either,” says Fred Wilson, who runs Union Square Ventures, a venture-capital firm in New York.
+
+Wilson figures Apple’s U.S. sales of iPhones will get a boost thanks to Verizon, but he doesn’t think this will hurt Android’s momentum.
+
+“Android is a global phenomenon,” he says. “The big deal is, Android is free software, and handsets that can run it are getting super cheap. So we are going to see a massive shift from `dumbphones’ to `smartphones’ around the world this year, and iPhone will not be the big beneficiary of that trend.”
+
+Michael Arrington, editor of TechCrunch, a leading tech blog, is another serious Android fanboy. While he believes lots of people who use iPhones on AT&T will switch to Verizon “if only to actually be able to use their iPhone for actual phone calls,” he’s sticking with Android. For one thing, Verizon service isn’t that good where he lives. He uses Sprint instead. More important, Arrington says he’s hooked on Google Voice, and while that application does run on iPhone, that version isn’t as good as the version designed for Android.
+
+Of course, there are just as many Apple fanboys who can give you a million reasons why the iPhone is better than any Android phone. But Apple’s big weakness is its control-freak nature and insistence that there is only one way to make a smartphone. No matter how many carriers sign on to carry the iPhone, in the long run, Apple has again set itself up to be a niche player in smartphones, just as it is in PCs.
