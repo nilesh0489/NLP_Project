@@ -1,9 +1,0 @@
-Nokia has just announced that it has sued Apple in Federal District Court in t
-
-"The patents in question relate to technologies for enhanced speech and data transmission, using positioning data in applications and innovations in antenna configurations that improve performance and save space, allowing smaller and more compact devices," according to a statement from the company.
-
-Although the wording is of course somewhat vague, the suit appears to hit the heart of what has made applications on the iPad and iPhone what they are. Positioning data in applications has become a central feature -- most of the major ones carry some type of location-aware technology.
-
-Nokia's suit surely comes as a surprise to the tech community, as it had not publicly made any indication that it believed its intellectual property rights had been violated. That said, it's not the first suitbetween the two companies: a suit last year involved GSM, UMTS, and Wi-Fi standards. A request for comment has been sent to Apple, however no response has been received as of press time. Also, Apple has sued HTCfor patent infringement. (See also "7 Patent Lawsuits That Affect Your Tech.")
-
-More details to come as we receive them.

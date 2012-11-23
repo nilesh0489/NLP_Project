@@ -1,9 +1,0 @@
-Microsoft's Office for iPad, iPhone, and Android is a reality. Although Office Mobile has been rumored and reportedly spotted in the wild, Microsoft has remained persistently quiet about its plans for the product. The Verge has learned through several sources close to Microsoft's plans that the company will release Office versions for Android and iOS in early 2013.
-
-Office Mobile will debut in the form of free apps that allow Android and iOS users to view Microsoft Office documents on the move. Like the existing SkyDrive and OneNote apps, Office Mobile will require a Microsoft account. On first launch, a Microsoft account will provide access to the basic viewing functionality in the apps. Word, PowerPoint, and Excel documents will all be supported, and edit functionality can be enabled with an Office 365 subscription.
-
-Microsoft will allow iOS users to purchase an Office 365 subscription within the app, or let organizations distribute codes to enable Office Mobile editing for users. The apps will allow for basic editing, but we're told this won't go very far in attempting to replace regular full use of a desktop Office version.
-
-A recent Microsoft press release from the company's Czech Republic subsidiary revealed that Office Mobile apps for Android and iOS would be made available from March 2013. We understand that Office Mobile for iOS will arrive first in late February or early March, with an Android version due in May.
-
-We reached out to Microsoft for comment on this story and a company spokesperson says "Office will work across Windows Phone, iOS and Android."

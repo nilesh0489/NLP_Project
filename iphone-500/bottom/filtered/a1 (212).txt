@@ -1,0 +1,21 @@
+Don't expect to see this in stores anytime soon, but evidently technology from two mobile phone rivals can be made to cooperate.
+
+There are matches made in heaven, and on the other side of the spectrum, there is David Wang's accomplishment: booting Google's Android operating system on Apple's iPhone
+
+Wang, the "planetbeing" member of the a group called the iPhone Dev Team devoted to hacking iPhones, on Wednesday posted a video demonstrating Android on an iPhone.
+
+The demo shows the boot process--complete with the Tux Linux mascot--and Wang using Android for browsing, receiving a text message, answering a phone call, and playing music. The phone is set up with a dual-boot configuration and indeed the video begins with the device running iPhone OS.
+
+"It's not really production-quality yet," Wang said on the video. "I'd say it's alpha quality. But pretty much everything works."
+
+The Android-on-iPhone hack is a notable technical accomplishment, but it's not likely to transform the industry or alter what mainstream users do. It does indicate, though, that the hacking ethos is alive and well despite Apple's attempts to keep its mobile phone locked down.
+
+Wang has been working since at least 2008 to boot Linux on the iPhone, according to his blog. The demonstration uses a first-generation iPhone, but newer models should be supported at some point.
+
+"It should be pretty simple to port forward to the iPhone 3G. The 3GS will take more work," Wang said on the blog. "Hopefully with all this groundwork laid out, we can make Android a real alternative or supplement for iPhone users. Maybe we can finally get Flash. ;)"
+
+As you might expect, there are problems with Android on the iPhone. "It's slightly buggy because I didn't bother to implement all the Android-specific driver extensions," he said in the video demonstration. And it's slow, since Wang is using Android in debug mode.
+
+He can type using a virtual keyboard, but the iPhone's one-button interface doesn't mesh well with Android, which runs on phones typically with five or more buttons.
+
+"There's a little bit of a button shortage on the iPhone," Wang said.

@@ -1,0 +1,21 @@
+When you see people flipping through e-books on iPads or iPhones, there is a good chance they bought the books through Amazon.com, not Apple.
+
+Now, Apple wants to change that.
+
+Apple confirmed Tuesday that it would require app developers that sell e-books outside of their iPad and iPhone apps — through a Web site, for example — to also sell the books inside those apps. And purchases that originate in the app must be made through Apple, which keeps a 30 percent cut.
+
+Apple said it was newly enforcing an existing rule, one that will force Amazon, Sony, Google and other e-book sellers to change the way their apps work.
+
+“We are now requiring that if an app offers customers the ability to purchase books outside of the app, that the same option is also available to customers from within the app,” Trudy Muller, an Apple spokeswoman, said in a statement.
+
+Amazon makes Kindle reading apps for the iPad and iPhone, and those apps now send readers to a Web browser window to make book purchases from Amazon, dodging the Apple fee. Sony said on Monday that Apple had rejected its reading app, which worked the same way.
+
+The move is surprising because Apple has benefited from the wealth of content available for its devices, said Mike Shatzkin, chief executive of the Idea Logical Company, a consultant to book publishers.
+
+“Most of the people reading on the iPad are buying their books from these other people, and that’s a great thing for Apple,” Mr. Shatzkin said. “It’s selling tons of devices for Apple and tons of content for everybody else.”
+
+It is highly unlikely that Amazon, Sony or others will be willing to share e-book revenue or customer information with its competitor, Apple, which sells its own e-books in its iBookstore.
+
+Steve Haber, president of Sony’s digital reading business, said that Sony was working on “different ways to bring content to Apple devices,” though he declined to elaborate on what those are.
+
+For now, Apple has said only that it is applying the rule to e-books. But other apps give customers the ability to make outside purchases, so it could potentially apply to apps that sell movies, magazines, music or virtual goods in games as well. Apple declined to comment on whether the rule applied to apps other than e-readers.

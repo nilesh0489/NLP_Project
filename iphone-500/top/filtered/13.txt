@@ -1,9 +1,0 @@
-Oh, Nick Lee, you clever boy you. See, Nick here tricked Apple with a very simple iPhone application: Handy Light. On the surface it looked just like any other $0.99 flashlight application. But, secretly, it was a lot more useful.
-
-Handy Light allowed you to make your iPhone's screen go blank with a color of your choice. You opened it, clicked a swatch from a simple palette, and that was it: Life in technicolor. Another stupid flashlight application like a hundred others. Or so the App Store team thought.
-
-Inside, the app contained hidden code that made it a full tethering application—a program that allows you to use your iPhone as a 3G modem. Using this ability you can surf the web from your computer, using the iPhone as a bridge to the internet. You can do this using your iPhone's preferences too, but that way you will have to pay the additional $20 per month that AT&T wants you to pay for this kind of service. That is $20 extra on top of whatever you are paying for your iPhone data plan. With Handy Light, the tethering service was completely free.
-
-It worked beautifully: You just needed to set up a Wi-Fi network in your laptop, connect your iPhone to it, change a few parameters in your computer's Wi-Fi settings, and that was it. Within seconds, your notebook was able to surf the web. And yes, I say was. Unfortunately, it didn't last long. The app was pulled from iTunes as soon as news of its true nature appeared online. Those who downloaded it, however, can keep enjoying its benefits.
-
-Click to viewA great story with a sad ending. Hopefully, they will keep republishing similar apps as they take them down. Developers: Let's try this again. [App Shopper, MacRumors, Forbes, AppStore HQ]

@@ -1,0 +1,23 @@
+The iPhone 4?s screen may be the best mobile display yet, but its resolution does not exceed the human retina, as Steve Jobs claims.
+
+The math just doesn’t add up, said Raymond Soneira, president of DisplayMate Technologies, who explained that the iPhone 4?s purported “retina display” was a misleading marketing term.
+
+“It is reasonably close to being a perfect display, but Steve pushed it a little too far,” Soneira said.
+
+During his keynote speech, Jobs said the iPhone 4?s display had a pixel density of 326 pixels per inch. He claimed that this resolution exceeds the limit of the human retina, which Jobs said was 300 pixels per inch for a display about a foot away.
+
+“It turns out there’s a magic number right around 300 pixels per inch, that when you hold something around to 10 to 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels,” Jobs said.
+
+Soneira, who possesses a Ph.D. in theoretical physics from Princeton and has been studying displays for 20 years, said it was inaccurate to measure the resolution of the eye in terms of pixels, because the eye actually has an angular resolution of 50 cycles per degree. Therefore, if we were to compare the resolution limit of the eye with pixels on a screen, we must convert angular resolution to linear resolution. After conversions are made, a more accurate “retina display” would have a pixel resolution of 477 pixels per inch at 12 inches, Soneira calculated.
+
+He noted, however, that he was confident Apple will have the best phone display on the market. Like the iPad’s LCD display, the iPhone 4?s screen features In-Plane Switching technology, in which crystal molecules are oriented so their motion is parallel to the panel rather than perpendicular. For viewers, the result is a very wide viewing angle — up to 180 degrees — with brilliant color. Soneira added that we might not realistically need anything better than 326 ppi.
+
+For comparison, glossy magazines are typically printed at 300 dots per inch.
+
+Soneira said he wanted to highlight that “retina display” is a symptom of a larger problem of market puffery in the display industry. Basically, many manufacturers exaggerate claims about their display specifications — everything from resolution to viewing angle, and from brightness to contrast — and they have to do it because everyone is doing it.
+
+“The marketing puffery is now in control,” Soneira said. “Everything that’s being said now is just this superamplified imaginary nonsense, and the only way to get people’s attention now is making more outlandish statements.”
+
+For example, Soneira discarded Sharp’s Quattron TVs that claimed to display four primary colors (as opposed to the traditional three) as utter nonsense. He explained in an earlier Maximum PC guest article that all television and movie content is produced and color balanced in the traditional RGB color arrangement. Sharp Quattron’s fourth primary color is yellow, and there is nothing for it to do because yellow is already reproduced with mixtures of the red and green primaries, he said.
+
+“[Market puffery] hurts companies that make good products, like Apple, because they can’t really put the specs out because everybody is lying,” Soneira said. “If you and I have the world’s greatest display, and we launched it and put down the real scientific numbers, we’d go bankrupt because our numbers would look like the worst display being made.”

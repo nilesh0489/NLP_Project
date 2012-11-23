@@ -1,7 +1,0 @@
-Deep within the bowels of the iPhone OS are some property list files that describe the capabilities of the various iPhone and iPod touch models. According to a reader with access to the latest iPhone OS 3.0 developer beta, there is a plist file for a new, unknown device.
-
-Our source believes that the new device, referred to as N18AP, may represent updated iPod touch hardware. The plist for the second-generation iPhone (N82AP), for instance, simply includes the plist for the original and lists the updated features—like GPS and 3G capabilities. Likewise, the plist for the second-generation iPod touch (N72AP) includes the plist for the original and lists only the updated features.
-
-That leads us to the new discovery. The plist file for N18AP apparently includes the plist for N72AP, the second-gen iPod touch, leading to the speculation that the device is an updated iPod touch model. The only new capability listed, however, is "encode-aac."
-
-How this capability might relate to new features is not known. It's easy to speculate that it could include a recording feature, but the current iPod touch can already do that. All we can say for certain from this information is that Apple has some device similar to an iPod touch that can encode AAC format audio and is expected to run iPhone OS 3.0. If or when it will appear as a new product, however, is known only to Apple.

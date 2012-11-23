@@ -1,9 +1,0 @@
-It’s supposed to be your "life in your pocket," not Apple’s. But a piece of code discovered in the iPhone operating system might keep you under Apple’s control.
-
-Jonathan Zdrianski, author of the book iPhone Open Application Development, discovered a URL hidden in iPhone’s CoreLocation that he believes the iPhone uses to check whether any apps on your phone match with those listed in a database of blacklisted applications. Presumably, that would allow Apple to remotely de-authorize those apps, or perhaps even delete them.
-
-"This suggests that the iPhone calls home once in a while to find out what applications it should turn off," Zdrianski wrote. "At the moment, no apps have been blacklisted, but by all appearances, this has been added to disable applications that the user has already downloaded and paid for, if Apple so chooses to shut it down."
-
-Hum. So then all of those who got away with NetShare before it disappeared from the App Store aren’t so safe/lucky after all.
-
-Now, if Apple were more organized with regard to what appears and disappears from the App Store, they probably wouldn’t need this emergency procedure. What’s the point of an approval process if the useless, $1,000 "I Am Rich" app is going to make it out the door, only to be yanked immediately afterward? 

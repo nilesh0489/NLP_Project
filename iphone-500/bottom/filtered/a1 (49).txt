@@ -1,0 +1,15 @@
+When Steve Jobs first dreamed up the iPhone with his team at Apple, he didn't want it to run on AT&T's network. He wanted to create his own network.
+
+So says Silicon Valley venture capitalist John Stanton, who spent a good deal of time with the late Apple CEO during the phone's development period. Jobs wanted to replace carriers completely, Stanton says, instead using the unlicensed spectrum that WiFi operates on for his phone.
+
+"He and I spent a lot of time talking about whether synthetically you could create a carrier using WiFi spectrum," Stanton said on Monday at the Law Seminar International Event in Seattle. "That was part of his vision."
+
+Both WiFi and cellular frequencies belong on the ultra-high-frequency level of the radio frequency spectrum. WiFi takes up five channels of the 2.4 GHz band. Other frequency bands are allotted to various purposes and cellular providers by the FCC.
+
+Jobs gave up his plans to create his own network in 2007, ultimately settling on a deal with AT&T.
+
+When Jobs debuted the iPhone, it marked a huge change in the way phone makers and carriers developed a device. Jobs sold AT&T Apple's iPhone sight unseen. Previously, carriers were an integral part of device development, adding tweaks, features and software throughout the process. Not so with the iPhone. Apple orchestrated the entire phone experience, while AT&T was simply afforded the opportunity to sell it. Android and other major mobile phone platforms followed this model with their smartphones later on, though to a lesser degree.
+
+It's not outrageous to think Jobs and Stanton spoke candidly about network matters, given Stanton's long history with wireless carriers. He was the first employee at McCaw Cellular, the national wireless provider that later became AT&T Wireless. He started another firm called Western Wireless, which birthed an operator called Voicestream that was bought out by Deutsche Telekom and became T-Mobile.
+
+I'd be interested to find out what sort of challenges Apple encountered trying to develop and get a phone to work properly just on the WiFi spectrum. The company certainly could have just bought out an existing carrier with its billions in the bank. Either option must have been too costly or provided too little pay-off to make it worthwhile.

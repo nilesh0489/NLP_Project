@@ -1,0 +1,7 @@
+Ever wanted to unlock your iPhone simply by having it look at you and recognize who you are? A jailbreak mod called RecognizeMe will be hitting Cydia soon and promises to bring biometric facial recognition security to the iPhone 4. The mod will allow you to unlock your iPhone by scanning your facial features with the front-facing camera and verifying who you are before giving you access.
+
+The tweak offers settings for dialing up the level of security (facial matching), which we're assuming requires a bit more processing time, but the app definitely appears to deliver on its promise of facial recognition security for the iPhone 4. The mod looks a little slow at the moment, but hopefully the developers are able to optimize the code before an official release.
+
+Check out the video after the jump, and let us know what you think in the comments!
+
+

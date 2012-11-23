@@ -1,0 +1,23 @@
+Although previous versions of Windows Mobile have long supported a clipboard to move content around, the Windows Phone 7 Series devices due out this year won't have that ability.
+
+LAS VEGAS--The new Windows Phones have a lot of things that prior versions of Windows Mobile haven't had, most notably a cool factor.
+
+But one thing that the 7 Series devices won't have--at least not this year's crop--is the ability to broadly copy and paste items. As earlier noted by Engadget, Microsoft confirmed on Tuesday that developers shouldn't expect to have access to a clipboard to allow users to copy and paste. Nor will Microsoft's own Office applications have copy and paste. That's despite the fact that it has been a staple of past versions of Windows Mobile for as long as I can recall.
+
+"We don't enable copy and paste and we do that very intentionally," Windows Phone executive Todd Brix said in an interview.
+
+Brix said many times when a user copies something on a phone, what they really are looking to do is take a specific action, such as calling a phone number or e-mailing an address. For those specific tasks, Microsoft has what it calls "smart linking," which lets a user double click on a phone number and either call it or add it to the phone book. For an address, one can get a map without having to copy and paste the address.
+
+"It's actually an intentional design decision," he said. "We try to anticipate what the user wants so copy and paste isn't necessary."
+
+But, particularly for a device that is going to include Word and other mobile Office applications, the concept of intelligent links doesn't seem sufficient. The BlackBerry for example, offers both intelligent links and a copy-and-paste system, which seems to me to be ideal.
+
+Brix insists that most users won't miss copy and paste and said that it was a matter of focus; Microsoft said it wanted to really do well the tasks that 80 percent of users wanted.
+
+"We tried to focus on what the core use cases were," Brix said. "Certainly there will be some people that wont be happy with some of those decisions."
+
+If this feels like deja vu, a similar limitation hampered the initial iPhone, with Apple later going back and adding the feature.
+
+As my colleague Jessica Dolcourt noted recently, it's not like users don't want copy and paste. We just take it for granted unless some one boldy chooses to omit it.
+
+With the 7 Series taking so many cues from the iPhone, I'm surprised Microsoft didn't learn that lesson.

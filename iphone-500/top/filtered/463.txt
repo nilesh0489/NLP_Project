@@ -1,9 +1,0 @@
-Those who wished for having an easier method to boot Google’s open source mobile OS Android on their iDevice will be happy to know that Bootlace v2.1 has been released and it has the stuff you are looking for – installs Android without having the need to use your computer.
-
-Here is a more official description of the iOS app in question:
-
-Bootlace is an iOS application which allows the installation of iDroid and OpeniBoot as well as configuration of OpeniBoot settings. Also supported is QuickBoot – a way of directly booting into the selected OS without modifying normal OpeniBoot settings. Warning: there is a known issue with Bootlace and Backgrounder. Please disable backgrounder for Bootlace – this should be possible as an individual app preference.
-
-Currently it supports iPhone 2G and iPhone 3G running on the following firmwares
-
-Bootlace can be found from Cydia under the following repo:

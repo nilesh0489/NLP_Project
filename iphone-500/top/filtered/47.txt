@@ -1,9 +1,0 @@
-A major security flaw that has existed in Apple’s (AAPL) iPhone since the device was first released in 2007 has been revealed by a well-known hacker. The iOS security researcher, known publicly only as “pod2g,” on Friday published details about the vulnerability, which affects all versions of iOS through to the latest beta release of iOS 6.
-
-According to pod2g’s report, the reply-to number that is displayed when an iPhone user views an SMS can easily be manipulated to display a number other than the one sending the message. Using a simple procedure, this exploit can be used by malicious attackers to send messages that appear to be from a trusted source — a bank, perhaps — but any replies to the SMS would be routed to a separate phone number without the sender’s knowledge.
-
-Pod2g notes that the iPhone is not the only handset vulnerable to the flaw.
-
-“In the text payload, a section called UDH (User Data Header) is optional but defines lot of advanced features not all mobiles are compatible with,” he explained. “One of these options enables the user to change the reply address of the text. If the destination mobile is compatible with it, and if the receiver tries to answer to the text, he will not respond to the original number, but to the specified one.”
-
-The researcher says this security flaw is severe and he urges users to be wary of any SMS messages asking for sensitive information.

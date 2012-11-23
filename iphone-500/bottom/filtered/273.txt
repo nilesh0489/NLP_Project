@@ -1,5 +1,0 @@
-XBMC is a free media player that began life on the Xbox but has since grown to be a multi-platform solution. The XBMC software, which already runs on the previous Mac OS X-based, Intel x86 Apple TV, has now been released to work on the ARM Architecture A4 chip used in the new iOS version, offering the ability to install apps and play content formats Apple doesn't natively support on its $99 box, according to AppleInsider. Furthermore it will be able to be played on the iPad and iPhone.
-
-With regard to jailbreaking and Apple TV, MacRumors.com says:
-
-The software is not available through the App Store, and requires a jailbroken Apple TV or iOS device. While jailbreaking has been a known way to load third party apps onto the iPad and iPhone, it's not been a very common procedure for the Apple TV. Due to similarities of the underlying iOS firmware on the new Apple TV, it's been widely expected that these unauthorized apps would become available for the device. Apple presently offers no authorized way to install apps on the Apple TV.

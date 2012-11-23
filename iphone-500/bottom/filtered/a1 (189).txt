@@ -1,0 +1,13 @@
+The U.S. Immigration & Customs Enforcement (ICE) office, part of the Department of Homeland Security, recently revealed that it will be adopting iOS devices from a variety of service providers for its 17,676 users. It’s a win for Apple in terms of landing a sizeable government client, but also a significant vote of confidence for the overall security of iOS as a mobile platform, given the nature of the agency in question.
+
+Here’s how a justification filing posted to the official Federal Business Opportunities government website describes the usage of these iPhones:
+
+Part of the justification for the switch (which moves ICE off of BlackBerry devices from the beleaguered RIM, by the way), includes making sure that the product of choice has plenty of market share and “interest by third-party vendors to spur innovation and utility.” It also requires strict OS modification detection standards to allow for the proper identification of potential security threats, and application signatures for custom apps installed by the agency itself.
+
+This also opens the door for iPad use, given the language used in the document. Apple’s been gaining ground among government agencies. Last February for instance, the U.S. General Services Administration began issuing iPhones, as well as Android devices, to some government workers. The National Oceanic and Atmospheric Administration also announced a decision to use iPhone and iPad earlier this year, dropping support for BlackBerry devices after May 12, and the ATF announced a similar move shortly thereafter.
+
+Apple has steadily been improving its mobile platform security features with every iOS release, and it appears that those changes are helping the company continue to attract interest from large organizations with data sensitivity concerns. In fact, one of the core security features introduced in iOS 6, Kernel Address Space Layout Randomization, provides significant advantages for those concerned about potential malware infection. Intego’s Mac security blog explains:
+
+This means it will take a whole lot more skill and effort to come up with a jailbreak that works for iOS 6 (whether you consider that a good or a bad thing), and it also means it’ll be harder for malware authors to sneak onto non-jailbroken machines.
+
+Apple winning away government and enterprise share from incumbent RIM is a great way the company can build up a solid base immune to any changing fortunes between iOS and Android on the consumer side. It’ll be interesting to see how this trend is affected by the introduction of a lower-cost, smaller iOS tablet, if that is indeed something we see at tomorrow’s event.

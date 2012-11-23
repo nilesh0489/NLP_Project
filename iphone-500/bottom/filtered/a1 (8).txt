@@ -1,0 +1,27 @@
+A TV ad for Apple's iPhone has been banned by the UK's advertising watchdog for misleading consumers after it over-hyped the internet capabilities of the smart phone.
+
+The ad showed the internet navigation prowess of the iPhone, with images zooming in on a weather forecast for Cape Town and a map of how to get to Heathrow airport.
+
+"You never know which part of the internet you'll need ... which is why all the parts of the internet are on the iPhone," ran a voiceover.
+
+The Advertising Standards Authority received two complaints that the claim was misleading because the iPhone did not support Flash or Java, which are both integral to many web pages.
+
+Apple said the aim of the ad was to highlight how the iPhone can offer access to all websites, while many other handsets only offer lower-level access to WAP versions of sites or those selected by service providers.
+
+The US technology giant said that Safari, the web browser the iPhone uses, was built to open internet standards.
+
+Flash and Java technology were not open source, said Apple, adding that it could not ensure compatibility with "every third-party technology in the marketplace".
+
+The company said none of the content in the ad was Java or Flash-based and that the line "all parts of the internet" meant website availability, "not every aspect of functionality".
+
+Advertising pre-vetting service Clearcast said the ad had been given the green light for broadcast after a "demonstration and the advertiser's assurances".
+
+However, the Advertising Standards Authority said that claims made by Apple implied that "users would be able to access all websites and see them in their entirety".
+
+Because the ad had not explained the limitations of the iPhone, the ASA concluded that "the ad gave a misleading impression of the internet capabilities of the iPhone".
+
+The ASA ordered that the TV ad must not be broadcast again in the same form.
+
+· To contact the MediaGuardian news desk email editor@mediaguardian.co.uk or phone 020 7239 9857. For all other inquiries please call the main Guardian switchboard on 020 7278 2332.
+
+· If you are writing a comment for publication, please mark clearly "for publication".

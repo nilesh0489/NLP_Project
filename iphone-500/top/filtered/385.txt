@@ -1,5 +1,0 @@
-This one caught us off guard, but Apple just announced the A6 SoC powering the new iPhone 5 features 2x faster CPU and GPU performance compared to the iPhone 4S. Apple reserves major Ax SoC number iterations for architecture changes, combine that with the performance claims as well as some other stuff we've heard offline and there's one conclusion: . Update: It uses a custom Apple core!
-
-Our guess is two cores. No word on the GPU yet.
-
-The A6 is 22% smaller than the A5, although it's not clear if that's a package or die size claim yet. There's a good chance this is built on Samsung's 32nm LP HK+MG process.

@@ -1,5 +1,0 @@
-So I have my Macbook (2008, white, running 10.5.8) set to lock when the lid is shut, prompting me for a password when the computer opens/wakes up. Great. No problem. But occasionally I'll plug my iPhone (3G) into the USB port while the lid is shut to charge overnight. When the phone is plugged in, the computer immediately wakes up - the apple logo glows and the phone begins charging. After a few moments, the light turns off, the comp falls back asleep, and the phone continues charging.
-
-Risk I noticed (and repeated to test) this morning.
-
-Can any of you test this to see if this is more widespread than a fluke in Austin, TX?
