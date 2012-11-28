@@ -1,0 +1,5 @@
+The OpenMoko FreeRunner's out-of-the-box interface is pretty much a trainwreck, with a keyboard so bad all you can do is laugh and shake your head.
+
+I show some comparisons and show some real useof the UI.
+
+This video was created largely in response to the article posted at: fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g

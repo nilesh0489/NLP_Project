@@ -1,0 +1,37 @@
+If you have a friend on Facebook who has used the iPhone app version to access the site, then it's very possible that your private phone numbers - and those of lots of your and their friends - are on the site.
+
+The reason: Facebook's "Contact Sync" feature, which synchronises your friends' Facebook profile pictures with the contacts in your phone.
+
+Except that it doesn't do that on your phone. Oh no. Because that would be wrong, to pull the photos down from Facebook and put them on your phone. That would breach Facebook's terms of service. Update: A more recent version of the app shows that it does download "your friends' profile photos and other info from Facebook" to add to your iPhone address book.
+
+What Facebook's app does it that it imports all the names and phone numbers you have on your (smart)phone, uploads them to Facebook's Phonebook app (got a Facebook account? Here's your Phonebook). (Update: Rhodri Marsden says that you'll now get a big warning sign saying that the numbers are imported into Facebook. That's above.)
+
+Pause for a moment and go and look at it. Did you know those numbers? Did you collect them? Despite the reassuring phrase there - "Facebook Phonebook displays contacts you have imported from your phone, as well as your Facebook friends" - it's absolutely not true. I know because there are numbers there which I don't have. OK, perhaps the people who own them added them; but that's not clear either. So how did they get there? Because it only takes one person to upload another person's number, and the implication is that it's going to be shared around everywhere.
+
+Update: that's the implication of "all contacts from your device... will be sent to Facebook and be subject to Facebook's Privacy Policy". Note, not just your friends - but everyone on your device.
+
+The implications are huge, and extremely worrying. All it takes is for someone's Facebook account to be hacked (perhaps via their phone being stolen) and lots of personal details are revealed. Or, as Craig noted in the comments, you get your phonebook record of "Steve Car" (which was for his garage mechanic) somehow linked to someone called "Steve Carlton" - who he doesn't know.
+
+Update: Facebook says, in a statement: "Facebook never shares personally identifiable information with third parties – advertisers are only given anonymised and aggregated data." It also adds: "Facebook is a free service and something that many people find adds value to their day-to-day lives. As with any service, users do need to invest some time in order to use it properly and we encourage people to use their privacy settings to do this and to access the Help Centre for support."
+
+Kurt von Moos, who first wrote about this earlier this year (since when Facebook has revised its privacy statement, but not altered what goes on in this way) says that there are a number of reasons to be concerned. As he puts it:
+
+Facebook says you can remove your mobile contacts, but it's not clear that that will remove your mobile if someone else uploads it.
+
+He also points to even more egregious problems: (a) can you be sure how Facebook, or its advertisers or partners or whatever it becomes down the line, will use that data? (b) why is it that Facebook takes all your mobile numbers, rather than matching names of contacts with names of friends? (c) sometimes, it gets the matches wrong - and incorrect (or faked) data that people have given to Facebook as their "contact" details (such as hotels or businesses) gets linked as being a "friend", or the lack of an international dialling prefix messes up the match, and means again that someone who you don't know is identified as a "friend" or contact.
+
+von Moos concludes: "There are some contacts and phone numbers who's privacy I simply refuse to risk on the Web. Facebook has taken and continues to take liberties on behalf of their users. Their perception of privacy and their users perception of privacy is often very different. I don't think this is maliciousness on Facebook's part, but it does show me that Facebook is painfully out of touch with the needs and beliefs of their CORE users, who are still wary of the openness that a Web 2.0 lifestyle entails."
+
+It's not clear whether the official Facebook for Android app does the same. We'd be interested to hear from you if you've noticed this with the app. Update: people in the comments seem to be saying that it does.
+
+So - beware: Facebook quite probably has your details. More of them, in fact, than you might have thought.
+
+Update: Actually, it can supply those details all over the place, if you haven't locked down your privacy settings - as Tom Scott has demonstrated with his "EVIL" page. Here's a screenshot:
+
+The numbers are anonymised, but they're real; and they keep changing, just to show that there are loads of people out there who don't know how much they're giving away not just to Facebook, but to the web - via our good friend, Facebook's graph API. Let Scott explain:
+
+"How does it work? There are uncountable numbers of groups on Facebook called "lost my phone!!!!! need ur numbers!!!!!" or something like that. Most of them are marked as 'public', or 'visible to everyone'. A lot of folks don't understand what that means in Facebook's context — to Facebook, 'everyone' means everyone in the world, whether they're a Facebook member or not. That includes automated programs like Evil, as well as search engines."
+
+So "Evil uses the graph API to search for groups about lost phones. It picks them at random, extracts some of the phone numbers, and then shows them here. This site isn't doing anything that you couldn't already do manually."
+
+Of course, you could always just remove your number from Facebook. Then you can feel sure that at least one point of failure hasn't been used.

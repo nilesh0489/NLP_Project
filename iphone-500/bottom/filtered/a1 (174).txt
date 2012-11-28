@@ -1,0 +1,19 @@
+You can make calls, read books, and listen to music on this flexible computer from Canada. But do you really want to keep bending it to make it work?
+
+How many times have you wanted to smash your phone when talking to annoying people? Thanks to research at Queen's University in Canada, you'll soon be able to crush that handset mercilessly. Well, almost.
+
+The e-paper prototype PaperPhone has a 3.75-inch thin-film display and developers call it the world's first flexible smartphone (remember Nokia's patent application for one?). It can do everything a smartphone can, such as make calls, display books, and play music.
+
+"This is the future. Everything is going to look and feel like this within five years," Queen's Human Media Lab Director Roel Vertegaal was quoted as saying in a release.
+
+As seen in the vid below, the prototype is based on e-ink technology and is more like a bendable plastic sheet about the thickness of a conference badge. It can be operated by bending the corners to turn a page, squeezing to make a call, and even written on with a pen.
+
+The lab has also been working on video game screens that are bent as a control input.
+
+Larger versions of the displays could eliminate paper and printers from offices, according to Vertegaal. E-ink displays require no power until the screen is refreshed, but for the time being the PaperPhone display is connected to an external power source.
+
+Vertegaal, who collaborated with researchers Byron Lahey and Win Burleson of the Motivational Environments Research Group at Arizona State University, is set to discuss the prototype at the Computer Human Interaction 2011 conference next week in Vancouver.
+
+So how flexible is it, really? Can it be crumpled up?
+
+"We haven't actually tried that--creasing it," Vertegaal told PC Mag. "It's a $7,000 prototype, so we're pretty careful with it. If you were to put a crease in it, you would break it. But there are engineering solutions for that."

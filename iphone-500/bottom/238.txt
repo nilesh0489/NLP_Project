@@ -1,0 +1,15 @@
+Jailbreaking an iPhone constitutes copyright infringement and a DMCA violation, says Apple in comments filed with the Copyright Office as part of the 2009 DMCA triennial rulemaking. This marks the first formal public statement by Apple about its legal stance on iPhone jailbreaking.
+
+Apple's iPhone, now the best-selling cellular phone in the U.S., has been designed with restrictions that prevent owners from running applications obtained from sources other than Apple's own iTunes App Store. "Jailbreaking" is the term used for removing these restrictions, thereby liberating your phone from Apple's software "jail." Estimates put the number of iPhone owners who have jailbroken their phones in the hundreds of thousands.
+
+As part of the 2009 DMCA rulemaking, EFF has asked the Copyright Office to recognize an exemption to the DMCA to permit jailbreaking in order to allow iPhone owners to use their phones with applications that are not available from Apple's store (e.g., turn-by-turn directions, using the iPhone camera for video, laptop tethering).
+
+Apple's copyright infringement claim starts with the observation that jailbroken iPhones depend on modified versions of Apple's bootloader and operating system software. True enough -- we said as much in our technical white paper describing the jailbreak process. But the courts have long recognized that copying software while reverse engineering is a fair use when done for purposes of fostering interoperability with independently created software, a body of law that Apple conveniently fails to mention.
+
+As for the DMCA violation, Apple casts its lot with the likes of laser printer makers and garage door opener companies who argue that the DMCA entitles them to block interoperability with anything that hasn't been approved in advance. Apple justifies this by claiming that opening the iPhone to independently created applications will compromise safety, security, reliability, and swing the doors wide for those who want to run pirated software.
+
+If this sounds like FUD, that's because it is. One need only transpose Apple's arguments to the world of automobiles to recognize their absurdity. Sure, GM might tell us that, for our own safety, all servicing should be done by an authorized GM dealer using only genuine GM parts. Toyota might say that swapping your engine could reduce the reliability of your car. And Mazda could say that those who throw a supercharger on their Miatas frequently exceed the legal speed limit.
+
+But we'd never accept this corporate paternalism as a justification for welding every car hood shut and imposing legal liability on car buffs tinkering in their garages. After all, the culture of tinkering (or hacking, if you prefer) is an important part of our innovation economy.
+
+Of course, many iPhone owners will be happy to choose solely from the applications that Apple is willing to approve, just like many Ford owners are happy relying exclusively on their local Ford dealer. But if you want to pop the hood, the DMCA surely shouldn't stand in your way.

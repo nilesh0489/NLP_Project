@@ -1,0 +1,9 @@
+
+
+If the future could be somehow wrangled from an abstract concept and transformed into a city, that city would of course be Tokyo. And riding the streets of that future-tropolis would be a cyclist wearing the iPhone ARider Bicycle Navigation System, a helmet mounted display that hooks into the iPhone.
+
+Designed by future-mongers Ubiquitous Entertainment, the ARider consists of a mount on top of the helmet for an iPhone 3GS, which keeps the handset horizontal and lets the compass-guided maps swing freely. The iPhone is connected to a flip-out display which puts the map in front of the cyclist’s eye: a safe, always available HUD.
+
+The display itself is an off-the-shelf unit from the Scalar Corporation, and is small and light enough to simply be Scotch-taped to the helmet. A wire runs video from the iPhone, but as the built-in Maps application offers no video-out signal, the folks at Ubiquitous Entertainment wrote their own application which sends video to the HMD (Helmet Mounted Display). The result is an always visible map that, although not very sharp or of high enough resolution to replace the iPhone’s screen, will give enough directional and distance information to guide the rider along city streets.
+
+I’d love to try this, and maybe we’ll see a real product in the future: Ubiquitous Entertainment is no tiny garage-band of a company. It does business with the likes of NTT DoCoMo and Konami.

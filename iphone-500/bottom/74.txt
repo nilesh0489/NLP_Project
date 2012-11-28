@@ -1,0 +1,45 @@
+Apple Inc. is scaling back how much information its iPhones store about where they have been and said it will stop collecting such data when consumers request it, as the company tries to quell concerns it was tracking iPhone owners.
+
+But Apple's statements, after a week of silence on the growing controversy, raised new questions and criticism about its data-handling practices. Rep. Joe Barton (R., Texas) said Apple apparently "lied" to him and another lawmaker last year when it said its phones don't collect and transmit location-based data when location services such as mapping are turned off.
+
+Apple said Wednesday it would fix software "bugs" that let each phone build a database of locations stretching back months, even when related services are disabled by the user.
+
+Apple Chief Executive Steve Jobs, who is on medical leave, was unapologetic in his defense of his company's actions. "Your precise location is never transmitted to Apple," he said in an interview.
+
+Rather, Mr. Jobs said, Apple gathers information from the phone about nearby cellphone towers and local wireless, or Wi-Fi, networks. Apple uses that information to supplement the Global Positioning System already employed on most phones.
+
+Apple and Google Inc., which makes the key software for Android phones, are facing scrutiny from lawmakers and consumers for the way they gather and handle data on the location of smartphones.
+
+Researchers last week said Apple's iPhones store unencrypted databases containing months of location information. Tests conducted by the Journal and independent researcher Samy Kamkar found these databases were updated—and some information sent to Apple—even when the location services were turned off.
+
+That contradicts what Apple told Rep. Barton in a letter last July. "When a member of Congress asks a straightforward question, reputable members of the business community should give a straightforward answer," Mr. Barton said in an interview. "Apparently, they lied to us."
+
+In the interview, Mr. Jobs said Apple in recent days had discovered software "bugs" in how the phones capture and store data. "We were surprised by them and it took us a few days to figure out what was going on," he said.
+
+Beyond the information stored on the phone, the Journal has reported that iPhones, Android phones and some personal computers regularly transmit information about their locations to Apple and Google. Apple said Wednesday an individual can't be located using the Wi-Fi and tower data and that the data are anonymous. It said it discloses the collection practices in privacy policies.
+
+The company said it would release software in coming weeks that would reduce how much location data are stored on the phone to about seven days. The new software will delete the data when location services are turned off. In the next major release of its mobile operating system, the database would also be encrypted, Apple said.
+
+Mr. Jobs said Apple planned to testify at an upcoming congressional hearing. Google said it would testify at a hearing set for May 10.
+
+Other lawmakers said they weren't satisfied with Apple's response. Sen. Al Franken (D-Minn.) said he still has questions about what Apple was doing and what it told users.
+
+"This has raised larger questions of how the locations of mobile devices are tracked and shared by companies like Apple and Google, and whether federal laws provide adequate protection as technology has advanced," Mr. Franken said.
+
+Senate Judiciary Committee Chairman Patrick Leahy (D-Vt.) expressed concern in a separate letter, saying it was essential to have "full and accurate information about the privacy risks" as Congress considers updates to federal privacy laws.
+
+Among other makers of cellphone software queried by Congress, Nokia Corp. and Microsoft Corp. have said they only enable location services with a user's consent. Officials at Research In Motion Inc. and Hewlett-Packard Co. didn't respond.
+
+A Google spokesman said it collects information anonymously and provides "users with notice and control over the collection, sharing and use of location" on Android phones.
+
+In a press release, Apple said the cellphone towers it uses to establish a phone's location could be more than 100 miles from a user's phone. But tests conducted for the Journal by Mr. Kamkar, the researcher, found the addresses of nearby Wi-Fi networks can easily be used to establish a phone's location within 100 feet.
+
+Apple disclosed Wednesday it is using the information to build a "traffic database" that within a few years will offer traffic-congestion information to iPhone users. Google already uses location data, which Android phones collect every few seconds, to provide such a service.
+
+Other applications routinely use—and share—location data. The Journal reported in December that some of the most popular apps widely share location data and other personal information with outside companies. Twenty-six of 51 popular iPhone apps tested by the Journal shared their location with outsiders.
+
+Scott Forstall, Apple senior vice president of iPhone software, said the company doesn't allow apps, including its own, to use location data without the user's consent.
+
+He said the company allows users to turn location features on and off by app and shows them which ones have used location in the last 24 hours. "We are vigilant about making our location use completely transparent," he said.
+
+Apple acknowledged it was partly responsible for users' concerns because it has not provided enough education about these issues. "We're going to start thinking about that right away and the time to do it is when it's on people's minds," said Mr. Jobs. He added other phone makers needed to make those efforts too.

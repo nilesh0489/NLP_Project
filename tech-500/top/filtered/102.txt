@@ -1,9 +1,0 @@
-Calling all six billion humans who are not yet members of Facebook: should you decide to join the world’s largest social network, the company will now make sure you understand "how sharing works."
-
-While that may sound like a lesson you (should have) learned in kindergarten, Facebook wrote Friday that it new users would be taken through a "more prominent and detailed educational privacy information to new users as soon as they begin the process of signing up for Facebook. These updates to our sign-up process will be visible to most new users around the globe starting today."
-
-The company said in its blog post that these new changes came at the suggestion of the Irish Data Protection Commissioner’s Office, which has found itself in the strange position of being the de facto global data protection authority for non-American and non-Canadian Facebook users. Since 2009, Facebook’s global headquarters have been in Ireland, largely for tax reasons. Under the European privacy principle of "right of access," anyone outside the United States and Canada can compel Facebook to release the data that the company holds about them.
-
-New users, Facebook writes, will now receive "specific education" on various topics, including default settings, access to data, Timeline, how this data interacts with applications and websites, how ads work on the site, how tagging works, and how to find friends on the network.
-
-Ars will have a lengthy story coming soon about the ongoing legal battle involving these Irish authorities, Facebook, and Max Schrems, the Austrian law student who has galvanized thousands of Facebook users to bring complaints of data protection violations against the company.

@@ -1,0 +1,17 @@
+In the wake of the iPad launch, Apple CEO Steven P. Jobs launched into a cross-country media tour.  Even as his much ballyhooed tablet was being picked apart by critics who questioned its ability to serve as a competent eBook reader, Mr. Jobs visited The Wall Street Journal and other major news industry players in an effort to boost the device's public perception.
+
+However, Mr. Jobs found the folks at the WSJ were asking him the same question, a question that had infuriated him time after time -- "Why doesn't the i<device> have Flash?"
+
+Jobs' mobile devices boycott of Flash, one of the most widely used internet formats, is close to extraordinary.  Even Microsoft, who has its own competitive format (Silverlight) has cooperated with Adobe in ensuring Flash runs smoothly on Windows PCs and is ported to Windows smartphones.  Apple, meanwhile, has been almost the only major player to play the role of Flash obstructionist.
+
+Apple has its reasons.  Flash on a base level provides a very real threat to Apple's lucrative App Store, one of the key things that it uses to differentiate the iPod Touch/iPhone/iPad from its competitors.  If Apple adopted Flash, many of its developers could move to Flash which would free them of the restrictions of Apple's App Store approval process.  And that would ultimately ruin the exclusivity of Apple's app catalog and make Apple vulnerable to handsets with superior hardware.  Also, with Flash customers could simply view TV episodes from Hulu for free, rather than buy them from Apple's iTunes store.
+
+To try to obscure this fact, Mr. Jobs has stepped up his attacks on the format.  At the WSJ meeting, he reportedly called Flash a "CPU hog" and a source of "security holes."  And he smartly jabbed, "We don't spend a lot of energy on old technology."
+
+He then claimed that Apple was responsible for getting people to abandon a host of technologies including floppy drives (by lack of inclusion in the iMac), old data ports (including its own), CCFL-backlit LCD screens (Apple now uses LED backlighting), and, most questionably, CDs (he says CDs are dying due to Apple's iPod, iTunes Store, CD-ripping software and the "Rip, Mix, Burn" campaign).  The reality distortion field seems particularly in full blast with the last claim, as there were 300 million CDs sold last year (that's 80 percent of all album sales industry-wide).
+
+He followed those dubious claims with another.  Apple will get people to abandon Flash.
+
+Flash, he argues is simply no good.  It crashes Macs (granted, Macs have had plenty of problems recently with nary a Flash app in sight) and runs too slow for his tastes.  He also claims that Flash would reduce the iPad's battery life from 10 hours to 1.5 hours.
+
+He says it would be "trivial" for online content providers to bow to Apple's will and replace Flash content with H.264 video codecs.  To an extent he may be right on this point -- the H.264+HTML5 movement is gaining momentum.  However, even here Apple is trying to control what is and isn't allowed.  HTML 5 can also be made to support the free Ogg Theora codecs, but Apple has tried to block that, in favor of the expensive, proprietary H.264 format, a source of a growing squabble.  Ultimately, regardless of which format is embraced HTML5, though, seems unlikely to be able to offer as deep user input and particularly the graphics-generation libraries as Flash.

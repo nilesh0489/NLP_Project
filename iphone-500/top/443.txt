@@ -1,0 +1,9 @@
+Despite the best efforts of Apple and AT&T, it appears that the latest version of the iPhone has been unlocked via the same method as used on the original iPhone.
+
+A Brazilian blog, TechGuru, posted the first report of it. Gizmodo checked it out, and said the method involves using a special SIM card adapter. It tricks the phone into thinking it's on an approved network.
+
+"This method forges the International Mobile Subscriber Identity, making the phone believe it's working in the network in which it's supposed to work," Gizmodo writes.
+
+If you speak Portuguese, please enjoy the video demonstrating the working unlocked phone below:
+
+

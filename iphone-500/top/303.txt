@@ -1,0 +1,41 @@
+Apple faced questions on Wednesday about the security of its iPhone and iPad after a report that the devices regularly record their locations in a hidden file.
+
+The report came from a technology conference in San Francisco, where two computer programmers presented research showing that the iPhone and 3G versions of the iPad began logging users’ locations a year ago, when Apple updated its mobile operating system.
+
+After customers upgraded the software, a new hidden file began periodically storing location data, apparently gleaned from nearby cellphone towers and Wi-Fi networks, along with the time.
+
+The data is stored on a person’s phone or iPad, but when the device is synced to a computer, the file is copied over to the hard drive, the programmers said. The data is not normally encrypted; although users can encrypt their information when they sync their devices, few do.
+
+To some privacy advocates, the storing of the data was a clear breach. “The secretive collection of location data crosses the privacy line,” said Marc Rotenberg, executive director of the Electronic Privacy Information Center, a privacy policy organization based in Washington. “Apple should know better than to track iPhone users in this way.”
+
+Others said the discovery of the hidden file was unlikely to have a major practical impact on privacy and security.
+
+“It is more symbolic than anything else,” said Tim O’Reilly, a longtime technology pundit and founder of O’Reilly Media. “It is one more sign of how devices are collecting data about us and potentially sharing it with others. This is the future. We have to figure out how to deal with it.”
+
+Law enforcement officials can already get this type of location information from cellphone companies, Mr. O’Reilly said; there are, however, conflicting rulings in federal courts about whether they need a search warrant.
+
+But sitting on a home computer, the data could now be more vulnerable to access by hackers or others, he said. And information about a person’s locations over time could be accessible to strangers if a phone or iPad was lost or if it was attacked by malware.
+
+The news of what appeared to be a security problem immediately ricocheted across the Internet as bloggers on technology and Apple-centered sites debated the many questions left unanswered by the report.
+
+It is unclear, for example, whether Apple is gaining access to the information in any way. It is also unclear how precise the location data is and why it is being stored at all.
+
+The programmers said they had asked Apple’s product security team about their findings but did not receive a response. Apple also did not respond to a request for comment from The New York Times.
+
+The report even attracted attention from political figures, like Senator Al Franken, Democrat of Minnesota, who sent Apple’s chief executive, Steven P. Jobs, a letter asking why Apple was “secretly compiling” the data and what it would be used for.
+
+Some privacy experts said the issue was not the legality of storing this information but whether Apple was playing fair with its customers.
+
+“Collecting this data is not illegal, but it does matter whether or not this is explicitly spelled out in Apple’s terms of use,” said Christina Gagnier, a lawyer specializing in privacy and copyright. “Apple constantly changes their privacy policy, and it’s questionable whether most users are aware this is happening.”
+
+Apple has an obligation to its customers to allow them to opt out of being tracked, said Ian Glazer of Gartner Research, who is a director in the company’s identity and privacy group. “There is no way to really turn this tracking off,” he said. “It needs to be visually obvious, or in the settings, to see that this is happening on your phone.”
+
+Alasdair Allan and Pete Warden presented the paper at the O’Reilly Where 2.0 conference, a gathering of experts on location technology. Mr. Allan said in a blog post that beyond the issue of storing the information is the question of “how Apple intends to use it — or not.”
+
+Mr. Allan, who has written books that teach people how to program, also said that the data being collected would be transferred to a new product when customers buy a new phone or iPad, and then sync it.
+
+Mr. Warden, a former Apple employee, posted a free downloadable application on his Web site for Mac computers that allows users to see their stored location data on a map.
+
+Whatever the privacy implications, the report was a burst of bad publicity for Apple on a day when it again reported stellar earnings results.
+
+“It doesn’t matter how Apple explains its way out of this, just the fact that consumers know that their phone is being tracked is a very big deal,” said Chenxi Wang, a vice president of Forrester Research who specializes in security and risk.

@@ -1,0 +1,28 @@
+Today, BlackRa1n is LIVE and as we promised, we are among the first ones to publish this tutorial on How to Jailbreak iPhone 3.1.2. Thanks to the geohot, a kid made it possible which took Dev Team to figure out in longer time.
+Update: If you are looking for Unlock follow this guide: Jailbreak, Unlock iPhone 3.1.2
+Update 2: Jailbreak Unlock iPhone 3G 3GS 05.11.07 using blackra1n with blacksn0w
+Update3 : Blackra1n RC2 released. this fixes:
+Fixed all issues that you might had when jailbreaking iPhone 3G with blackra1n RC1.
+Tethered jailbreak for 3.1 OOTB iPod touch 8GB and all the new iPhone 3GS’s.
+Fixed Icy issues.
+Blackra1n  tool can jailbreak (but not unlock) all iPhone’s — iPhone 2G, iPhone 3G and iPhone 3GS and iPod touch 2G , 3G. Blackra1n is currently known to be an universal jailbreak for all firmwares. Curret release is Windows only, a Mac version of this app is expected sometime soon.
+IMPORTANT: iPhone 3G and 3GS: DO NOT upgrade to iPhone 3.1.2 yet. if you want to keep your unlock. Upgrading will result in modification of the baseband which will make it almost impossible for you to unlock. Wait for an Unlock.
+Pre-requisites:
+Download blackra1n for Windows
+iTunes 9 or higher
+Download iPhone OS 3.1.2 for iPhone 2G
+Download iPhone OS 3.1.2 for iPhone 3G
+Download iPhone OS 3.1.2 for iPhone 3GS
+Here we go:
+Step 1:Update/Restore to the firmware 3.1.2 by holding SHIFT + clicking Update/Restore on iTunes, and locate the .ipsw firmware file that you downloaded. Let iTunes complete it’s job.
+Step 2: Run blackra1n.exe. If you are on Windows 7 or Vista, run the app as admin– Right click and selecting Run as Administrator. Also make sure that you run in XP compatibility mode — Right click -> properties “Windows XP Compatibility”. If you don’t do this, you might encounter some iTunes errors.
+Now, Click make it ra1n:
+
+This will take like 30 seconds or max 1 minute, wait for the iPhone to reboot.
+Step 3: Your phone is jailbroken, but there is one more thing.  In your springboard, you would see a new icon “blackra1n”. Open “blackra1n”, Select Cydia, Icy and install them as shown in the screenshot:
+
+
+Now springboard will restart and wohoo, you have fully Jailbroken iPhone 3.1.2. Reboot to make Cydia work properly.
+
+
+Read more: http://geeknizer.com/jailbreak-iphone-3-1-2-firmware-using-blackra1n/#ixzz2Cpjeezqz

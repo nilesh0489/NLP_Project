@@ -1,0 +1,17 @@
+Mozilla is now actively backing a movement that, if successful, would essentially nullify copyright infringement charges against individuals that ‘jailbreak’ their Apple iPhones – a practice that Apple considers illegal.
+
+Mozilla, the makers of the widely popular open source browser project Firefox, said in comments submitted to the U.S. Copyright Office that it supports the Electronic Frontier Foundation (EFF) in its request for an exemption to the Digital Millennium Copyright Act (DMCA). The EFF wants the Copyright Office to let users ‘jailbreak’ their iPhones without fear of copyright infringement issues.
+
+Apple naturally opposes this request claiming that the act of ‘jailbreaking’ an Apple iPhone is in direction violation of copyright laws which protect its software.
+
+ “Jailbreak” is a term given to the processes involved to circumvent the digital rights management (DRM) technology on the Apple iPhone so that users may install third-party applications not authorized by Apple or the mobile carrier. The term ‘jailbreak’ was pioneered by iPhone owners but has since made its way into the entire cellular world for all types of handsets.
+
+Although Mozilla made no direct mention of the iPhone by name in its comments, it is quite obvious who they were targeting, discreetly. Nearly all other handset manufacturers and mobile carriers do not carry the same restrictive measures that Apple imposes on iPhone owners.
+
+Quoting Mozilla CEO John Lilly from a previous interview with another source on Monday :
+
+“This is not us criticizing Apple,  but it’s the principle of the thing. Choice is good for users, and choice shouldn’t be criminalized. The Internet is too important for all of us for that”
+
+"By controlling the software that can be installed on these cellular phones, these companies can limit and control the type of programs and functionality that is available to users of their devices."
+
+Anderson feels as though the usage of DRM as a way to prevent people from installing software to their devices has a ‘chilling effect on users and innovation’, users become afraid to make use of their devices to their potential because it is deemed illegal. Anderson also continued on to argue that smartphones are akin to a desktop computer because they can be used to access the Internet, and users should have free choice to use any software program they choose to access.

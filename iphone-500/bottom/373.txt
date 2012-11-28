@@ -1,0 +1,29 @@
+Physicists find a way to amplify 'spin current,' a significant step in the world of spintronics. Earlier related research made it possible for the solid-state drives found in iPhones and other newer gadgets.
+
+In a new scientific paper, scientists in Germany and the United Kingdom have come up with a new technique to amplify the "spin current" of electrons - and that could pave the way for significant improvements in consumer electronics, possibly including storage devices that no require no electricity at all.
+
+In an article published online in the journal Nature Materials on Sunday, the team from the University of Cambridge and the University of Münster outlined what may be the next step in "spintronics."
+
+This new area physics research is being hailed as the successor of conventional electronics, based on transistor and semiconductor technology. In general, for over the last 50 years, the number of transistors that can be put on an integrated circuit doubles approximately every 18 to 24 months.
+
+However, the number of transistors is now getting so large, on such a small space, that it's beginning to hit its physical limits, and will soon reach the size of individual atoms.
+
+Conventional electronics have been based on harnessing the charge of electrons. When they move, they generate electric current, which can be used to transfer information. But electrons can do more than just travel in a linear direction - one quantum-mechanical characteristic is their intrinsic spin. Just as an ice skater twirls, so too do electrons.
+
+Spintronics makes use of both the intrinsic spin of the electron and its fundamental electronic charge. In theory, scientists say that by harnessing this electronic spin as a way to store data at high-speed and low-power. Conceivably, that could make internal batteries, or even booting up a device, completely unecessary.
+
+Physicists already know that a magnetic field can manipulate the spin of the electron, which in turn, will impact neighboring electrons, causing them to also start spinning, generating a so-called spin wave. The scientists observed that spin waves often interact - just like how ocean waves collide with each other.
+
+"We brought our spin waves into interaction and attempted to see what happens", said Hidekazu Kurebayashi, a physicist the Microelectronics Group at the Cavendish Laboratory at the University of Cambridge, in an e-mail sent to Deutsche Welle. "We observed a significant enhancement of the spin current generation."
+
+One of the spin wave interactions, the researchers found, generates spin current ten times more efficiently than using pre-interacting spin waves. How to amplify spins even further, however, continues to be an unsolved question - for now.
+
+"In normal semiconductor electronics, amplification is possible using an electric field to accumulate charges, e.g. FET (field effect transistors)", Kurebayashi added, but "there is so far no way to accumulate spins in solid state."
+
+Other physicists say that they are intrigued by this new work.
+
+"It's an important step forward in the field of metal- or magneto-based spintronics", noted Wolfram Heimbrodt, a physics professor at Marburg University, who was not part of the study.
+
+Earlier discoveries in spintronics research in the 1980s paved the way for solid-state memory chips, which are used today in smartphones, tablet devices and an increasing number of laptops. With any luck, scientists say, the current research in spintronics could have an equally significant affect on the next generation of consumer electronics.
+
+"The challenge is now to build devices where the electron's spin is combined with the semiconductor technology", Heimbrodt told Deutsche Welle. "It may take another ten years at least before we find out how to combine the electron's spin with the semiconductor technology in electronic devices."

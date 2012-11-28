@@ -1,0 +1,5 @@
+Seems like the iPhone has been constantly recording my GPS location and a datetime stamp. Kind of scary
+
+Here is a map of New England: http://www.youtube.com/watch?v=JrOONh7kHRI
+
+Here is the app that gives you the map of your location: http://petewarden.github.com/iPhoneTracker/

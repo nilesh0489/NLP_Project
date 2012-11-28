@@ -1,0 +1,5 @@
+I'm looking to start to learn how to do some computer programming. It's a skill I've always wanted to have, but never found the time to do so. Fortunately, I will now have the time. I was wondering if there was a language that could expected to be useful for quite sometime? I want to learn C++ but i am having reservations that it will become like COBOL and my time and effort will be wasted. Anybody have some suggestions?
+
+Edit: Someone asked for more specific goals.
+
+I'd like to be able to do Iphone or Android apps, but at the same time have the language be useful for normal personal computer programming.

@@ -1,0 +1,14 @@
+Earlier this year we launched a Google Voice HTML5 web app for iPhone users. Today we’re taking the Google Voice experience on the iPhone to a whole new level with the launch of the official Google Voice for iPhone app.
+
+With this native app, you’ll continue to have access to all the major Google Voice features on your iPhone, like:
+Cheap rates for international calls
+Free text messaging to U.S. numbers
+Voicemail transcription
+Display your Google Voice number as caller ID when making calls
+In addition to these benefits, the app provides some features that make using Google Voice on your iPhone a much better experience:
+With push notifications, the app will alert you instantly when you receive a new voicemail or text message
+Most of your calls will be placed via Direct Access Numbers, making them connect just as quickly as regular phone calls
+
+
+Google Voice for iPhone is available to download from the Apple App Store today. You’ll need an iPhone with iOS 3.1 or later and a valid Google Voice account to use the app. At this time, Google Voice is available in the U.S. only.
+

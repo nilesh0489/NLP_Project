@@ -1,0 +1,27 @@
+Citigroup Inc. said its free U.S. mobile-banking application for Apple Inc.'s iPhone contained a security flaw and advised its customers to upgrade to a newer version that corrects the problem.
+
+In an incident that highlights the growing security challenges around wireless apps, Citi said its iPhone app accidentally saved information—including account numbers, bill payments and security access codes—in a hidden file on users' iPhones. The information may also have been saved to a user's computer if it had been synched with an iPhone.
+
+The issue affected the approximately 117,600 customers who had registered the iPhone app with Citi since its launch in March 2009, a person familiar with the matter said. The bank doesn't believe any personal data was exposed by the flaw.
+
+"We have no reason to believe that our customers' personal information has been accessed or used inappropriately by anyone," Citi said. Apple acknowledged the issue and encouraged users to download the updated app.
+
+Mobile banking is a popular and fast-growing activity on smartphones, as cellphones become more sophisticated and consumers use them to organize their lives. The Citi Mobile app, currently the 11th most-popular offering in the finance category of Apple's App Store, allows customers to check balances, transfer funds and pay bills.
+
+An estimated 18 million adults, or 7% of the adult population, are "active users" of mobile banking, meaning they use it at least once every three months—a small but growing fraction of the 196 million adults, or 84% of the population, who use any kind of banking services, said Red Gillen, a mobile- banking analyst at Celent, a financial-services research firm.
+
+Citibank, with an estimated 800,000 mobile customers, ranks No. 5 in mobile banking, Celent said, behind Bank of America Corp. at No. 1 with an estimated 5 million users. In between are J.P. Morgan Chase & Co. at No. 2 with 2 million, United Services Automobile Association at No. 3 with 1.5 million, and Wells Fargo & Co. with 1.4 million, according to Celent estimates.
+
+Experts worry that security isn't keeping up with the app boom. Among their concerns is the prospect of "leakage" any time a wireless app logs confidential data. The risk of flaws like Citi's, says John Hering, CEO of mobile security provider Lookout, is that a hacker could devise a malicious app to retrieve sensitive information stored on an iPhone.
+
+Citi said its mobile-banking app is the only application authorized to access the hidden data. The upgraded application, released July 19, doesn't store the information and deletes any account data that may have been saved to a user's iPhone or computer.
+
+Citi said the problem was discovered in a routine security review. The bank told customers of the problem in a letter dated July 20. Other Citi mobile apps such as the app for credit-card customers weren't affected, Citi said in a statement.
+
+Citi developed the application with mobile financial-services provider mFoundry . Drew Sievers, CEO of mFoundry, a private company based in Larkspur, Calif., said his company custom-wrote the mobile-banking part of the application and handed it over to Citibank, which then combined it with custom code of its own.
+
+Citi is responsible for distributing and managing the app, Mr. Sievers said. MFoundry, which provides mobile-banking software to 150 banks and credit unions besides Citi, said none of its other customers were affected by the problem.
+
+Citi said it performed security tests before and after releasing the application, but failed to detect the problem. The bank said it is looking into why it didn't find the vulnerability earlier.
+
+Mr. Hering, the CEO of Lookout, said his company is discovering more apps that could inadvertently expose or leak personal data, such as location information and phone numbers. "Most consumers and app developers don't know what is happening in their apps, because it is moving so fast," Mr. Hering said. "Apps are proliferating so quickly. We will see more and more of this."

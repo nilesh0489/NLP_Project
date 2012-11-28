@@ -1,0 +1,19 @@
+In late March, four US Senators banded together and wrote a letter to Apple asking that they remove apps that alert users as to the whereabouts of DUI checkpoints.
+
+“With more than 10,000 Americans dying in drunk-driving crashes every year,” the letter stated, “providing access to iPhone and iPad applications that alert users to DUI checkpoints is harmful to public safety. We know that your company shares our desire to end the scourge of drunk driving and we therefore would ask you to remove these applications from your store.”
+
+While some of these apps make use of information housed in publicly accessible databases, many of them rely on crowdsourcing. Indeed, one app singled out by the letter is alleged to have had approximately 10 million users actively alerting “each other to DUI checkpoints in real time.”
+
+In a separate letter sent concurrently by US Sentator Charles Schumer, Schumer also called out apps like Trapster and PhantomAlert which work to alert users as to the whereabouts of police speed traps and red light cameras.
+
+Well, Apple took those letters to heart, partially.
+
+In revised app store guidelines discovered by Mac Rumors, Apple has updated Section 22.8 to now read:
+
+So one out of two ain’t bad, and in all honesty, Apple made the right decision here.
+
+DUI checkpoint apps do nothing more than tell potentially intoxicated drivers where not to go. They’re still driving drunk, just on the down low. Apps like Trapster, however, might effectively work to cut down on speeding when a police speed trap is noted. Though to be fair, it might encourage speeders to pick their spots more strategically.
+
+Either way, drunk driving is a lot more serious and contentious than speeders which is probably why Apple chose to only address DUI checkpoint apps.
+
+We should note, however, that DUI checkpoint apps already on the iTunes App Store haven’t been kicked out and we’ll have to wait and see if they’re grandfathered in or if they’ll eventually be removed. Take DUI Dodger, for example, which enables users to view and submit checkpoints in their area.

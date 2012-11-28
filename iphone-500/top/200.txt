@@ -1,0 +1,19 @@
+Microsoft and Nokia announced the flagship Windows Phone handset, the Nokia Lumia 920, at a press event in New York City on Wednesday. Just like the lack of grounding that plagued the end of the announcement (no pricing, dates, or availability information), the presenters on the show floor were extremely stingy when it came to letting us get our paws on the device. But we got a few touches in.
+
+The yellow and red Lumia 920 both have glossy plastic bodies, while the black uses a matte finish (not quite as rubberized as the Lumia 900). The screens are curved glass, and the top and bottom edges don't have the same taper as the Lumia 900 did.
+
+The Lumia 920 is a bit larger in both directions, to accommodate the slightly larger 4.5-inch screen. While none of the phones shown were final production models, the screen seemed to have poor viewing angles when rotated top to bottom; side-to-side, we saw very little dimming.
+
+We only saw two demos on the show floor, one of which demonstrated the NFC capabilities of various charging and audio accessories for the Lumia 920. All worked as promised: touch the phone to the surface and it either starts charging or pairs automatically with the set of headphones or speaker for music playback.
+
+A second demo for the camera exhibited the low-light capabilities of the camera, with photos taken with flash, without flash on the Lumia 920's PureView camera, and without flash on a competing smartphone camera. The PureView camera's low-light performance did make it much easier to see the subject of the photo as well as her surroundings.
+
+However, with that feature turned on, it was impossible to tell that the photo was taken at night, which was a bit disorienting to us. It also created phantom light sources, as if there were a floodlight shining a few feet in front of the subject. Likewise, the sky was an apocalyptic white, yet seemed to cast no light on the subject.
+
+(Update: the integrity of several of Nokia's demo photos for the Lumia 920 has been called into question. Youssef Sarhan has pointed out that certain photos purportedly taken with the Lumia 920 have some graphic impossibilities, and GSMArena has claimed the park photos above to be suspect, precisely because of the unusual lighting sources we noted. Nokia has already admitted to and apologized for using a simulated demo video for the Lumia 920's image stabilization, but has yet to address the images. We've reached out for comment on this matter.)
+
+In a real-life demo, a presenter invited us to take a picture in a dark, enclosed space with our own iPhone 4S, to compare to a shot he took with the Lumia 920. The difference in results was very impressive.
+
+Whatever positive notes the Lumia 920 may have, it still seems like little more than a pipe dream to us without pricing, concrete release dates, or availability info. Microsoft has promised to release this info in the fourth quarter of this year.
+
+The first PureView camera in the Nokia PureView 808 clocked in at a whopping 41 megapixels. But Nokia has been insisting that PureView is not about specific camera hardware or megapixel count; it's about using hardware and software to produce the best possible photographs. The camera in the Lumia 920 may disappoint those who were hoping for another 41 megapixels to oversample, but the Lumia 920 arguably makes up for this with impressive low-light photography. As we are now a developed civilization and spend a good deal of our time indoors, a camera that excels at low light has enormous appeal, particularly for night owls, barflies, and party-goers. It may not grab the same headlines, but it could well be more useful.

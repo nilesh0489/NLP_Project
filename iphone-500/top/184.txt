@@ -1,0 +1,27 @@
+The Word is out:  Netshare Sux, iPhone Modem Sux
+
+Our post -  Need a reason to jailbreak your iPhone? Here’s ten of them just got shorter!
+
+You need only one reason to jailbreak your iPhone – PDAnet
+
+PDAnet provides FULL INTERNET on your computer through the iPhone since it acts as Wifi router.
+
+Let’s get started with configuration and install:
+
+1. Install PDAnet via Cydia on your jailbroken iPhone (use these guides if you need help with jailbreak QuickPwnMac, Windows, and Pwnage ToolMac)
+
+2. When you first start PDAnet, you will get the screen that you need to configure your ad-hoc network on your computer and then connect your iPhone to it.
+
+3. Configure your ad-hoc network on your computer
+
+Follow steps 1 and 2 from our Netshare Configuration Guide
+
+Open Wi-Fi Networks settings on your iPhone and pick your ad-hoc network.
+
+You are done, you are tethering, you feel connected to the world.
+
+Can we call it the shortest tethering guide ever?
+
+Some configuration benchmarks from our prior experience:
+
+Note of caution: You may think that you have unlimited bandwidth from your provider. Verify your terms of use since if you go over limit you will be paying extra.  So  use this connection method only when you have no other options.

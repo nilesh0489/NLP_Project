@@ -1,0 +1,49 @@
+The Federal Trade Commission issued a report Thursday warning that smart-phone apps can invade children's privacy, easily capturing their location, phone number, contacts, call logs and more. Then again, the tech headlines of the last week have warned that the same is true of pretty much everyone.
+
+In recent days, researchers and journalists have revealed that popular apps like Path, Twitter, Yelp, Foursquare, Foodspotting, Gowalla and others have been copying contacts, phone numbers or e-mail addresses from iPhone address books to company servers. Several did so without permission and some took few security precautions in the process.
+
+These are just the latest reminders that mobile users - whether teens or adults - aren't being given the transparent information they need to make informed choices about the products they use. It's also another reminder - not that one was needed - that companies can't be trusted to behave.
+
+The address book flap followed what by now has become a well-established path: Researchers or advocates highlight privacy flaws; the press digs up more details or offenders; regulators or legislators demand answers; and companies oh-so-sincerely apologize and promise to be better.
+
+(That is, unless the company is iPhone maker Apple, in which case it just says it will make changes while skipping the contrition.)
+
+It's a path we will walk down again and again, until regulators and legislators step up and lay down some clear and thoughtful privacy rules for the digital age. As we've seen, companies will get away with whatever they can until laws, regulations or public pressure force them to act responsibly.
+
+"Instead of having these daily crises, what's required is a baseline privacy bill of rights," said Jeff Chester, executive director of the Center for Digital Democracy. "We're in the age of big data, without any big data rules of the road."
+
+The FTC report on mobile apps for children surveyed software in Apple's App Store and Google's Android Market and concluded that there aren't adequate disclosures about which ones collect data, what data they collect and what they do with it.
+
+"Companies that operate in the mobile marketplace provide great benefits, but they must step up to the plate and provide easily accessible, basic information, so that parents can make informed decisions about the apps their kids use," FTC Chairman Jon Leibowitz said in a statement.
+
+The FTC is calling on Apple and Google to act as better gatekeepers and ensure that parents have clearer information. It's pushing developers to provide "simple and short disclosures."
+
+But adults need and deserve that same transparency to make choices for themselves. Lifting data from a smart-phone address book has become an "unspoken industry standard," according to the industry blog VentureBeat, which used a traffic-monitoring program to uncover a slew of apps that do this. Many developers now say they're changing their practices.
+
+An address book can be a particularly sensitive chunk of information. It can reveal an attorney's clients, a reporter's sources, a doctor's patients, a patient's psychologist and much more. It can be inserted into a marketing database, allowing a company to spam a user's friends and family. It can be sifted through by law enforcement or divorce lawyers who subpoena the company in question.
+
+"There can be unintended consequences, and it raises substantial privacy concerns," said Marcia Hofmann, senior staff attorney at the Electronic Frontier Foundation.
+
+So it's not OK for a company to take this data without your permission - and it's a bad idea for it to hang onto that information even if it did get one-time permission.
+
+It's also not OK that Apple let this all happen in the first place. The Cupertino company was silent on the matter until shortly after two congressmen raised concerns in a Wednesday letter to Chief Executive Officer Tim Cook.
+
+"Apps that collect or transmit a user's contact data without their prior permission are in violation of our guidelines," a spokesman finally said in a statement. "We're working to make this even better for our customers, and as we have done with location services, any app wishing to access contact data will require explicit user approval in a future software release."
+
+This was a sound decision, but Newsweek technology editor Dan Lyons accurately translated the spin as: "We did nothing wrong, and we promise it won't happen again."
+
+Apple is laying the blame at the feet of app developers, but its guidelines really don't add up to a lot if Apple doesn't enforce them. The company has a famously rigorous process for evaluating and approving apps, so it was clearly turning a blind eye to this particular issue. Put another way: While Apple zealously rejects porn apps, it gives privacy invasion a pass.
+
+Most apps were collecting the address information to suggest friends to connect with within the product. But as technical observers have pointed out, that function doesn't require every detail of an address book. In fact, through a process known as hashing, none of those numbers or addresses actually need be pulled off the phone in their raw and recognizable form.
+
+But companies like data. They can think of all sorts of things they might want to do with it eventually, and it's a harder to just take select bits, so they happily fill up their servers with whatever they can get.
+
+Which would be one thing if they could keep it safe. But no one can make that promise in the face of motivated hackers, as we've seen repeatedly in recent months.
+
+Sony can't keep your credit cards secure. Google can't keep your e-mails secure. City College of San Francisco can't keep its students' personal banking information secure.
+
+As long as the locks on digital safes can be so easily picked, any ultimate privacy policy has to reflect that reality.
+
+The good news is that momentum is building for some set of overarching rules. The White House is expected to come out with broad digital privacy proposals in the days or weeks ahead.
+
+It will be difficult to strike the right balance between privacy on the one hand and free speech and innovation on the other. But at a minimum, people deserve the transparency and choice that companies have repeatedly failed to provide on their own.

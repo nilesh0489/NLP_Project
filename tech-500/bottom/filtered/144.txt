@@ -1,9 +1,0 @@
-If you’ve ever watched Star Trek, you’ll likely be familiar with tractor beams. They’re the devices that are used to tow or repel objects, such as other spacecraft. Wikipedia says: “In Star Trek, tractor beams are imagined to work by placing a target in the focus of a subspace/graviton interference pattern created by two beams from an emitter. When the beams are manipulated correctly the target is drawn along with the interference pattern. The target may be moved toward or away from the emitter by changing the polarity of the beams.”
-
-And it seems that fact may soon mirror fiction. A couple of New York University physicists – David Ruffner and David Grier – have demonstrated a tractor beam that works in a similar(ish) way to the one imagined by Gene Roddenberry and the Star Trek team.
-
-The two Davids used Bessel beams to make their tractor. Bessel beams are non-diffractive and self-healing – in other words, they do not spread out and can reform after being partially obstructed. The team created two beams – one larger, one smaller – by shining a laser onto a device that enabled the phase of the beams to be electronically altered and then focusing them with a lens in order to create an overlap, resulting in alternating light and dark areas along the length of the beams. Tuning the beams cause photons to back-scatter, colliding with an object within the beams and pushing it closer towards the source. You can read more about it on David Grier’s website.
-
-The tractor beam was used to move microscopic silica spheres suspended in water by about 30 micrometres – that’s about half the thickness of a human hair.
-
-While it’s intriguing technology, my question is this: how long before the beams can be scaled up to the point that I’ll be able to reel-in the Big Bling?

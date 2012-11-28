@@ -1,0 +1,17 @@
+Apple is making it more difficult for iPhone 4 owners to perform simple DIY repairs by replacing common Phillps head screws with a rare "pentalobe" screws. While newer iPhone 4s have included the screws from the factory, it is also Apple policy to replace any Phillips head screws with the new pentalobe screws whenever an iPhone 4 is taken in for service.
+
+"This screw head clearly has one purpose," iFixit CEO Kyle Wiens told Ars. "To keep you out."
+
+News of the strange screw first started appearing last November, when users began noticing that serviced iPhone 4s had something other than Phillips head screws on them. 9to5Mac originally speculated that the screws were a form of Torx screw common to many Apple devices, but later noted that they were in fact some else entirely.
+
+iFixit discovered the odd screws much earlier, as iPhone 4s shipped to Japan on launch had the strange new screw. A little investigation revealed that "it is not a standard Torx, and there are no readily available screwdrivers that can remove it," Wiens said.
+
+"[Apple] chose this 'pentalobe' fastener specifically because it was new, guaranteeing repair tools would be both rare and expensive," Wiens explained. He also noted that the screws are only used on the exterior of the device, merely to make it difficult for end users to get inside. "Otherwise," Wiens said, "Apple would use it throughout each device."
+
+Wiens said that Apple had used a similar screw on early unibody MacBook Pros to secure the integrated battery, but later adopted a tri-wing screw for that purpose. The latest MacBook Airs, however, also use pentalobe screws on the outside case, making it difficult to perform what would otherwise be a simple swap of the SSD, for instance.
+
+iFixit is doing what it can to source screwdrivers to work with the new screws, though it notes that there doesn't appear to be a single reputable supplier that carries the same tools Apple technicians use. The company offers a kit for iPhone 4 owners with a small driver than can remove the pentalobe screws along with replacement Phillips screws and #00 Phillips screwdriver. Wiens notes that the pentalobe driver isn't perfect—"the tip is more star-shaped than "flowery"—but it can remove Apple's pesky replacements and "liberate" your iPhone.
+
+For MacBook Air owners, iFixit also offers a "5-point" screwdriver that is also more star-shaped, but can remove the pentalobe screws Apple uses on the exterior case. Wiens told Ars that the larger size of the head means that the driver can also be used to screw the case back together without danger of damage to the screws (unlike the tiny ones used in the iPhone 4).
+
+"This is terrible for consumers," Wiens said. "Apple is taking planned obsolescence to the next level."

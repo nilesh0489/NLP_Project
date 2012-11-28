@@ -1,0 +1,23 @@
+Sometime around the middle of this decade no one is sure exactly when -- executives on the go will begin carrying pocket-sized digital communicating devices. And although nobody is exactly sure what features these personal information gizmos will have, what they will cost, what they will look like or what they will be called, hundreds of computer industry officials and investors at the Mobile '92 conference here last week agreed that the devices could become the foundation of the next great fortunes to be made in the personal computer business.
+
+"We are writing Chapter 2 of the history of personal computers," said Nobuo Mii, vice president and general manager of the International Business Machines Corporation's entry systems division.
+
+How rich is this lode? At one end of the spectrum is John Sculley, the chief executive of Apple Computer Inc., who says these personal communicators could be "the mother of all markets."
+
+At the other end is Andrew Grove, the chairman of the Intel Corporation, the huge chip maker based in Santa Clara, Calif. He says the idea of a wireless personal communicator in every pocket is "a pipe dream driven by greed."
+
+These devices are expected to combine the best features of personal computers, facsimile machines, computer networks, pagers, personal secretaries, appointment books, address books and even paperback books and pocket CD players -- all in a hand-held box operated by pen, or even voice commands.
+
+Stuck in traffic on a business trip, an executive carrying a personal communicator could send and receive electronic mail and facsimile messages from anywhere in the country. She could also call up a local map on a 3-inch by 5-inch screen, draw a line between her current position (confirmed by satellite positioning signals) and her intended destination, and the device would give her specific driving instructions (as well as real-time warnings about traffic jams or accidents). Certainly, these are just predictions for now, but they sure are fun to think about.
+
+Once in the meeting, the executive could take notes on the device, and even order pizza for the group using a combination of custom electronic forms and wireless fax. After updating her schedule electronically and sending notes back to her office computer network, she could check restaurant and movie information, including critics' reviews. Back at the hotel, she could plug in the latest disk-based novel.
+
+A number of demonstrations at the conference, some using real products and some relying on imagination, explored the potential of these machines.
+
+"It's not boiling yet, but we're starting to see bubbles," said Alain Rossmann, president and chief executive of EO, a secretive new high-technology company in Foster City, Calif.
+
+"But it ain't soup yet," responded one skeptic in the crowded room.
+
+Many of the technologies needed to create these personal communicators already exist. Participants at the conference bristled with tiny cellular phones, digital beepers, notebook computers, Sharp Wizards or other simple electronic data books, and the occasional old-fashioned paper pad.
+
+William J. Warwick, president of A.T.& T. Microelectronics, showed how he currently uses some of the technology that will be incorporated in tomorrow's personal digital assistants, and it was not a pretty sight. He started by emptying his overstuffed briefcase: a portable computer (with a fax modem), a backup battery, a battery charger, cellular telephone, a backup battery for the phone, another battery charger, some wires for connecting the modem to a telephone outlet, an external floppy disk drive, a digital pager, an AC power adapter, some power cords and the usual paper notebooks.

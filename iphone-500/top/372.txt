@@ -1,0 +1,27 @@
+Update: I’ve clarified two aspects of this story below. First, Micro Systemation’s XRY tool often requires more than two minutes to crack the iPhone’s password. The two minutes I originally cited were a reference to the time shown in the video (now removed by Micro Systemation) below. Given that, as I originally wrote, the phone in the video used the simplest possible password (0000), the process often takes far longer.
+
+Second, Micro Systemation had told me that XRY can gain access to phones that run the latest version of iOS. But in fact, it can only gain access to older iPhones and iPads running the latest version of the operating system, and can’t access the iPhone 4S or the iPad 2 or later. Apologies for this oversight.
+
+Set your iPhone to require a four-digit passcode, and it may keep your private information safe from the prying eyes of the taxi driver whose cab you forget it in. But if law enforcement is determined to see the data you’ve stored on your smartphone, those four digits will slow down the process of accessing it as little as two minutes.
+
+Here’s a video posted last week by Micro Systemation, a Stockholm, Sweden-based firm that sells law enforcement and military customers the tools to access the devices of criminal suspects or military detainees and siphon off their personal information.
+
+Update: After this post brought widespread attention to Micro Systemation’s video, the company has removed it from YouTube.
+
+As the video showed, a Micro Systemation application the firm calls XRY can quickly crack an iOS or Android phone’s passcode, dump its data to a PC, decrypt it, and display information like the user’s GPS location, files, call logs, contacts, messages, even a log of its keystrokes.
+
+Mike Dickinson, the firm’s marketing director and the voice in its videos, says that the company sells products capable of accessing passcode-protected iOS and Android devices in over 60 countries. It supplies 98% of the U.K.’s police departments, for instance, as well as many American police departments and the FBI. Its largest single customer is the U.S. military.  ”When people aren’t wearing uniforms, looking at mobile phones to identify people is quite helpful,” Dickinson says by way of explanation.
+
+With smartphone adoption rocketing around the world, Dickinson says Micro Systemation’s “business is booming.” The small company has grown close to 25% in revenue year-over-year, earned $18 million in revenue in 2010 up from $12 million the year before, and doubled its employees since 2009.
+
+“It’s a massive boom industry, the growth in evidence from mobile phones,” says Dickinson. “After twenty years or so, people understand they shouldn’t do naughty things on their personal computers, but they still don’t understand that about phones. From an evidential point of view, it’s of tremendous value.”
+
+“If they’ve done something wrong,” he adds.
+
+XRY works much like the jailbreak hacks that allow users to remove the installation restrictions on their devices, Dickinson says, though he wouldn’t say much about the exact security vulnerability that XRY exploits to gain access to the iPhone. He claims that the company doesn’t use backdoor vulnerabilities in the devices created by the manufacturer, but rather seeks out security flaws in the phone’s software just as jailbreakers do, one reason why half the company’s 75 employees are devoted to research and development. “Every week a new phone comes out with a different operating sytems and we have to reverse engineer them,” he says. “We’re constantly chasing the market.”
+
+Update: Mike Dickinson has clarified that Micro Systemation’s XRY tool doesn’t support the iPhone 4S, iPad 2 or iPad 3. It does, however, support the latest version of Apple’s iOS operating system, so he says that older devices that have the latest software installed are still vulnerable.
+
+After bypassing the iPhone’s security restrictions to run its code on the phone, the tool “brute forces” the phone’s password, guessing every possible combination of numbers to find the correct code, as Dickinson describes it. In the video above, the process takes seconds. (Although admittedly, the phone’s example passcode is “0000?, about the most easily-guessed password possible.)
+
+Dicksinson acknowledges that users who set longer passcodes for devices can in fact make the devices far tougher to crack. “The more complex the password, the longer and harder it’s going to be to access the phone,” he says. “In some cases, it takes so long to brute force that it’s not worth doing it.” That may have been the situation, for instance, in one recent case involving the phone of Dante Dears, a paroled convict accused of running a prostitution ring known as “Pimping Hoes Daily” from his Android phone; The FBI, apparently unable or unwilling to crack the phone, asked Google to help in accessing it.

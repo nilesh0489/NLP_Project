@@ -1,0 +1,17 @@
+Apple could be just days away from becoming the subject of an unpleasant antitrust inquiry into a recent decision to restrict software development on the iPhone and iPad. Nevermind Apple’s moral policing which always ignites the heated debate among our readers, this is a much more serious issue than app rejections, the one with potentially far-reaching implications for the Californian firm.
+
+From Apple’s perspective, they are entitled to define user experience on the iPhone platform which is – mind you – neither open-sourced nor open in the Android sense. Apple’s unmatched ability to create gadgets that “just work” stems from their tight control of the entire widget, including software, hardware, apps, services, and user interfaces. Take this control away from Apple and you have just another gadget vendor that builds dull products.
+
+The United States Department of Justice (DoJ) and Federal Trade Commission (FTC) is thinking different about such a closed ecosystem. According to New York Post, Apple could be “in the eye of regulatory storm” and might even face an antitrust probe over its lock out on iPad and iPhone. A source “familiar with the matter” told the publication that:
+
+The inquiry could pave the way for a fully-fledged investigation if the agencies conclude that Apple’s controversial decision to prohibit app development does in fact stifle competition. According to Steve Jobs’ widely publicized rambling titled “Thoughts on Flash,” Apple sees third party cross-development tools as a big no-no because they lead to “sub-standard apps and hinder the enhancement and progress” of the platform. It’s a fight for developers’ resources because programmers must choose between “developing an Apple-exclusive app over one that can be used on Apple and rival devices simultaneously,” New York Post noted.
+
+Developers with limited budgets are hurt the most because their focus on iPhone inevitably comes at the expense of other platforms. Jobs has a point, too, because cross-development tools do enable only the lowest common denominator set of features, as he summed it up nicely:
+
+If developers grow dependent on third party development libraries and tools, they can only take advantage of platform enhancements if and when the third party chooses to adopt the new features. We cannot be at the mercy of a third party deciding if and when they will make our enhancements available to our developers. This becomes even worse if the third party is supplying a cross platform development tool. The third party may not adopt enhancements from one platform unless they are available on all of their supported platforms. Hence developers only have access to the lowest common denominator set of features. Again, we cannot accept an outcome where developers are blocked from using our innovations and enhancements because they are not available on our competitor’s platforms.
+
+Apple’s our-way-or-the-highway approach makes sense from their way of doing things.  By the way, Adobe’s shares dipped two percent the day Apple published that piece. We’ll find out soon if the DoJ and FTC can establish the case against Apple, but we can help but wonder who’s next?
+
+Probe Microsoft because Windows doesn’t run Linux apps? Go after Sony because it only sells Sony Pictures movies on Playstation Network? Bring movie studios to justice because we aren’t allowed to watch FairPlay-DRM’d iTunes movies on non-Apple devices? Hit Adobe because its Flash is killing the prospect of open videos? Meet us in comments.
+
+Read more at New York Post

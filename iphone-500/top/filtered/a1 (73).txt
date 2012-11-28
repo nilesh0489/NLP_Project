@@ -1,0 +1,19 @@
+It might be a cliche, but sometimes, a picture says more than a thousand words. Over the years, I've often talked about how the technology world is iterative, about how products are virtually always built upon that which came before, about how almost always, multiple people independently arrive at the same products since they work within the same constraints of the current state of technology. This elementary aspect of the technology world, which some would rather forget, has been illustrated very, very well in one of Samsung's legal filings against Apple
+
+This is what Samsung was considering putting to market in the summer of 2006, six months before the unveiling of the iPhone.
+
+One of these phones (the bottom-right one) became the Samsung F700 - a product Apple once included as an infringing product, but later withdrew once it learned Samsung created it and brought it to market before the iPhone
+
+It extends to more than just the hardware - Samsung was also working on interfaces that looks remarkably like iOS (actually, that look remarkably like PalmOS) - in the summer and fall of 2006. Again, before the iPhone was released.
+
+The most damning and interesting graphic is one of those 'before-after-the-iPhone'-ones. In it, Samsung quite effectively demonstrates that its phones - like the Galaxy line - are clearly descendant from Samsung's pre-iPhone designs, and not from the iPhone.
+
+Seems like an open and shut case to me. Samsung didn't have to look very far for prior art - it created it itself. Doesn't that just boggle the mind? Samsung is being accused of stealing, even thought the company was clearly working on what it supposedly stole before the iPhone was even released. Samsung's phones bear more resemblance to its own pre-iPhone designs than to the iPhone, yet Apple and its supporters still insist Samsung is a thief.
+
+All this reminds me a lot of the early '80s and the development of the graphical user interface (a process I prefer to divide up into generations). The 'invention' of the GUI was a very long process, which, in my view, started with Ivan Sutherland's Sketchpad (1st generation GUI), and ended with the work done at Xerox (3rd generation GUI). I say 'ended' because even though some people are easily fooled by fancier graphics and swapping a mouse for a finger, every device we own still employs what is essentially Xerox' interface.
+
+Xerox didn't realise they were sitting on a revolution, so other companies swooped in and created the 4th generation of GUIs; Apple, Amiga, and Digital Research (GEM) all developed a fourth generation GUI simultaneously in pretty much the same timespan. However, these days, many people just give all the credit to Apple and be done with it.
+
+Apple acts as if the iPhone was developed in a vacuum, and wants the world to believe that it, and only it, invented the concept of a touchscreen phone. With that nonsensical idea, the company not only ignores the long history of mobile computing (specifically PalmOS which is iOS' and Android's common ancestor), but also the fact that other companies were working on touchscreen phones at the same time (LG Prada, these Samsung images).
+
+Apple wants to rewrite history. As a geek, I find that incredibly offensive.

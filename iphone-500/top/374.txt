@@ -1,0 +1,49 @@
+The Gourmet Haus Staudt. A nice place to enjoy good German lagers. And if you are an Apple Software Engineer named Gray Powell, it's also a nice place to lose the iPhone 4 prototype.
+
+Gray Powell—a North Carolina State University 2006 graduate and talented amateur photographer—is an Apple Software Engineer working on the iPhone Baseband Software, the little program that enables the iPhone to make calls. A dream job for a talented engineer like Powell, an Apple fan who always wanted to meet Steve Jobs.
+
+On the night of March 18, he was enjoying the fine imported ales at Gourmet Haus Staudt, a nice German beer garden in Redwood City, California. He was happy. After all, it was his birthday. He was turning 27 that very same day, and he was celebrating.
+
+The place was great. The beer was excellent. "I underestimated how good German beer is," he typed into the next-generation iPhone 4 he was testing on the field, cleverly disguised as an iPhone 3GS. It was his last Facebook update from the secret iPhone. It was the last time he ever saw the phone, right before he abandoned it on bar stool, leaving to go home.
+
+It a simple mistake in the middle of celebration. Something that anyone, from Steve Jobs to Jonathan Ive, could have done. Knowing how ferocious and ruthless Apple is about product leaks, those beers may have turned out to be the bitterest of his life.
+
+Until now, Apple's legendary security has always worked perfectly. Perhaps there was a blurry factory photo here, or some last-minute information strategically whispered to some friendly media there. But when it comes to the big stuff, everything is airtight. At their Cupertino campus, any gadget or computer that is worth protecting is behind armored doors, with security locks with codes that change every few minutes. Prototypes are bolted to desks. Hidden in these labs, hardware, software and industrial-design elves toil separately on the same devices, without really having the complete picture of the final product.
+
+And hidden in every corner, the Apple secret police, a team of people with a single mission: To make sure nobody speaks. And if there's a leak, hunt down the traitor, and escort him out of the building. Using lockdowns and other fear tactics, these men in black are the last line of defense against any sneaky eyes. The Gran Jefe Steve trusts them to avoid Apple's worst nightmare: The leak of a strategic product that could cost them millions of dollars in free marketing promotion. One that would make them lose control of the product news cycle.
+
+But the fact is that there's no perfect security. Not when humans are involved. Humans that can lose things. You know, like the next generation iPhone 4.
+
+Apple security's mighty walls fell on the midnight of Thursday, March 18. At that time, Powell was at Gourmet Haus Staudt, just 20 miles from the company's Infinite Loop headquarters, having his fun. Around him, other groups of people were sharing the jolly atmosphere, and plenty of the golden liquid.
+
+The person who eventually ended up with the lost iPhone was sitting next to Powell. He was drinking with a friend too. He noticed Powell on the stool next to him but didn't think twice about him at the time. Not until Powell had already left the bar, and a random really drunk guy—who'd been sitting on the other side of Powell—returned from the bathroom to his own stool.
+
+The Random Really Drunk Guy pointed at the disguised iPhone 4 sitting on the stool, the precious prototype left by the young Apple engineer.
+
+"Hey man, is that your iPhone?" asked Random Really Drunk Guy.
+
+"Hmmm, what?" replied the person who ended up with the iPhone. "No, no, it isn't mine."
+
+"Ooooh, I guess it's your friend's then," referring to a friend who at the time was in the bathroom. "Here, take it," said the Random Really Drunk Guy, handing it to him. "You don't want to lose it." After that, the Random Really Drunk Guy also left the bar.
+
+The person who ended up with the iPhone asked around, but nobody claimed it. He thought about that young guy sitting next to him, so he and his friend stayed there for some time, waiting. Powell never came back.
+
+During that time, he played with it. It seemed like a normal iPhone. "I thought it was just an iPhone 3GS," he told me in a telephone interview. "It just looked like one. I tried the camera, but it crashed three times." The iPhone didn't seem to have any special features, just two bar codes stuck on its back: 8800601pex1 and N90_DVT_GE4X_0493. Next to the volume keys there was another sticker: iPhone SWE-L200221. Apart from that, just six pages of applications. One of them was Facebook. And there, on the Facebook screen, was the Apple engineer, Gray Powell.
+
+Thinking about returning the phone the next day, he left. When he woke up after the hazy night, the phone was dead. Bricked remotely, through MobileMe, the service Apple provides to track and wipe out lost iPhones. It was only then that he realized that there was something strange that iPhone. The exterior didn't feel right and there was a camera on the front. After tinkering with it, he managed to open the fake 3GS.
+
+There it was, a shiny thing, completely different from everything that came before.
+
+He reached for a phone and called a lot of Apple numbers and tried to find someone who was at least willing to transfer his call to the right person, but no luck. No one took him seriously and all he got for his troubles was a ticket number.
+
+He thought that eventually the ticket would move up high enough and that he would receive a call back, but his phone never rang. What should he be expected to do then? Walk into an Apple store and give the shiny, new device to a 20-year-old who might just end up selling it on eBay?
+
+Weeks later, Gizmodo got it for $5,000 in cash. At the time, we didn't know if it was the real thing or not. It didn't even get past the Apple logo screen. Once we saw it inside and out, however, there was no doubt about it. It was the real thing, so we started to work on documenting it before returning it to Apple. We had the phone, but we didn't know the owner. Later, we learnt about this story, but we didn't know for sure it was Powell's phone until today, when we contacted him via his phone.
+
+He sounded tired and broken. But at least he's alive, and apparently may still be working at Apple—as he should be. After all, it's just a stupid iPhone and mistakes can happen to everyone—Gray Powell, Phil Schiller, you, me, and Steve Jobs.
+
+The only real mistake would be to fire Gray in the name of Apple's legendary impenetrable security, breached by the power of German beer and one single human error.
+
+Additional reporting by John Herrman; extra thanks to Kyle VanHemert, Matt Buchanan, and Arianna Reiche
+
+Update 2: I have added the bit on the $5,000 (in italics) and how we acquired the iPhone, as Gawker has disclosed to every media outlet that asked.

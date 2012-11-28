@@ -1,0 +1,35 @@
+IT'S BEEN A LONG TIME COMING, but the wait is now over. The much-anticipated hook-up between satnav giant TomTom and Apple's iconic Iphone has finally come to fruition. But was it worth the wait?
+
+If you were one of the droves of people who couldn't bear the tantalising rumours and secrecy and just went ahead and paid for one of the multitude of offerings from lesser known GPS outfits, you might just be kicking yourself, because the beauty and useability of the Iphone's interface, paired with TomTom's undoubted expertise in all things mappy, has borne some tasty fruit indeed.
+
+Anyone who has ever used standalone TomTom hardware will be familiar with the onscreen mapping interface. The slightly overhead view - think of a helicopter hovering about 30 feet above your car and you'll get the idea - is pretty much identical to every other TomTom device on the market.
+
+It's true that GPS devices from other makers have flashier interfaces, with fancy 3D graphics and even satellite photography in some cases, but TomTom is sticking to the principle that less is more, plumping for speed and simplicity rather than gorgeous graphics and distracting bells and whistles.
+
+Time to pop out for a quick test drive, not least because we don't want the screen shots to reveal the location of our secret underground lair. TomTom for Iphone works equally well in landscape or portrait modes, switching slickly between the two with the flick of a wrist. The only problem is that most GPS users will be familiar with the landscape mode, and this works fine, but as soon as you get a call, or want to drop into another App, you might find yourself craning your neck as many other Apps, as well as the Iphone's main user interface, default to portrait view.
+
+The software works just fine in portrait mode so we'd suggest you just get used to it that way.
+
+You want me to go which way?
+
+TomTom insists that the Itunes download contains the very latest mapping, but we have our suspicions. Not least because after just 30 minutes of driving, we came across two unlisted speed cameras that have been in place for more than a year, two roundabouts that according to the software didn't exist, one road that has been a footpath for at least three years - wouldn't like to see what could happen there on a dark night and without the benefit of local knowledge - and at least two instances where we were told to drive the wrong way down a one-way street! We kid you not. All this within a half hour!
+
+Mapping inconsistencies aside, TomTom for Iphone stood up particulary well against its standalone siblings with route replanning taking around five seconds on average and the lag between map position and actual location being accurate to about 10 metres.
+
+Screen redraw is fast, if occassionaly a bit jerky, and the GPS signal pickup seemed stable, although as we tested the setup in a rural location it remains to be seen how it would deal with tall buildings.
+
+Where the App really shines is in the way it integrates with other bits of the Iphone's system and software. Some users of other GPS setups have complained that calls can cause the mapping system to fall over. TomTom seems to beaver away happily in the background while you blether and it picks up where it left off as soon as you drop the line.
+
+Integration with other Apps is also pretty impressive as you can access information from your address book and plan routes based on either full postal address or postcode.
+
+Points of Interest, which at the moment are a little limited but sure to improve - don't bother looking for a restaurant unless you fancy McDonald's, KFC or Burger King - pop up with a full address and other useful details, as well as the option to call direct from within the App.
+
+You want how much?
+
+The software, which is only available as a download from Itunes - if you have an Iphone you'll already be familiar with the process - costs £59 with UK and Ireland maps, or for an extra 20 quid you can have the whole of Western Europe at the tip of your multitouch twiddling fingers.
+
+It's not clear how often updates will be offered, or at what cost, but TomTom is notorious for charging premium prices for essential upgrades so don't be expecting something for nothing.
+
+Download and installation takes forever - the compressed Euro maps are 1.4GB - so make sure you have something productive to do while Itunes takes care of the whole process with no fuss or muss.
+
+And talking of hanging around waiting... don't be tempted, as we were, to try and blow up your TomTom for Iphone up by asking it to calculate a walking route between Bedfordshire and the Vatican. You'll give up before it does. µ

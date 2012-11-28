@@ -1,0 +1,57 @@
+Apple Inc.’s senior antenna expert voiced concern to Chief Executive Officer Steve Jobs in the early design phase of the iPhone 4 that the antenna design could lead to dropped calls, a person familiar with the matter said.
+
+Last year, Ruben Caballero, a senior engineer and antenna expert, informed Apple’s management the device’s design may hurt reception, said the person, who is not authorized to speak on Apple’s behalf and asked not to be identified. A carrier partner also raised concerns about the antenna before the device’s June 24 release, according to another person familiar with the situation.
+
+The latest model of the iPhone carries a metal antenna that surrounds the outside of the device -- a design chosen by Apple executives because it yielded a lighter, thinner handset. It has also resulted in dropped or degraded calls that led Consumer Reports to refrain from endorsing the iPhone 4, weighed on the company’s stock and stepped up pressure on Apple to issue a fix.
+
+Steve Dowling, a spokesman for Apple, declined to comment and said he wouldn’t make Caballero available for an interview. Caballero didn’t respond to a call and an e-mail seeking comment.
+
+Apple plans to hold a press conference tomorrow about the device. Dowling declined to elaborate on what will be discussed. A separate person familiar with the matter said Apple doesn’t plan to announce a recall of the phone.
+
+Apple broke sales records with the iPhone 4, which debuted June 24 in the U.S., the U.K., Japan, France and Germany. The exclusive U.S. carrier is AT&T Inc. Apple’s European partners include Vodafone Group Plc, France Telecom SA and Deutsche Telekom AG. Softbank Corp. carries the iPhone 4 in Japan.
+
+In the first three days, the company sold 1.7 million devices, the most for any iteration of its top-selling product.
+
+Apple’s industrial design team, led by Jonathan Ive, submitted several iPhone designs before Jobs and other executives settled on the bezel antenna, said the person familiar with the company’s design. Caballero, the antenna expert, voiced concern in early planning meetings that it might lead to dropped calls and presented a serious engineering challenge, the person said.
+
+The metal bezel surrounding the handset would need to be separated in sections to create individual antennas capable of handling particular ranges of the radio frequencies for different wireless networks, the person said. If a user covered one of the seams between the sections, their finger would act as a conductive material, interfering with the signal, the person said. Consumer Reports suggests iPhone 4 users cover the antenna with duct tape to help mitigate reception woes.
+
+Tests carried out by one of the phone service providers before the device was released also indicated the antenna might hinder reception, said a person who asked not to be identified because discussions with Apple aren’t public.
+
+Apple, which has built its brand on delivering cool, meticulously crafted designs, may alienate customers as critics continue to point out reception flaws with its device.
+
+U.S. Senator Charles Schumer, a Democrat from New York, issued a public letter to Jobs saying Apple’s efforts to address the matter so far are “insufficient” and asking the company “to address this flaw in a transparent manner.”
+
+Consumer Reports said it isn’t recommending the iPhone 4 following tests confirming the handset has a hardware shortcoming that causes signal quality to degrade. The publication has recommended the three previous iPhone models.
+
+Apple, based in Cupertino, California, fell $1.28 to $251.45 at 4 p.m. New York time on the Nasdaq Stock Market. The shares have risen 19 percent this year.
+
+The company’s stock fell on July 13 on speculation that the Consumer Reports decision may curtail demand among consumers who are on the fence about whether to buy the iPhone 4. Some blogs and a betting company that tracks odds of events said attention to the shortcoming raises the possibility of a product recall -- a development analysts deemed unlikely.
+
+“The stock is being impacted by general concerns about the impact this is having to the brand, and the financial impact, and the uncertainty about what Apple will do about this,” said Andy Hargreaves, an analyst at Pacific Crest Securities in Portland, Oregon. “A product recall is extremely unlikely.”
+
+Soon after Apple released the iPhone 4 in June, some customers complained about losing their signal. Apple last month advised users to buy a case or avoid holding it in the lower- left corner “in a way that covers both sides of the black strip in the metal band.”
+
+“Gripping any mobile phone will result in some attenuation of its antenna performance, with certain places being worse than others depending on the placement of the antennas,” Apple said.
+
+The company also said that a software error, dating to the June 2007 release of the first iPhone, has resulted in overstated signal strength, leading users to believe they had better reception than they did. Apple said on July 2 that a software fix will be released “within a few weeks.”
+
+With the fix, Apple said it’s adopting a new formula to more accurately calculate how many bars to display.
+
+Apple has released an updated version of the iPhone each year since the first model made its debut, including the iPhone 3G in 2008, and the speedier iPhone 3GS in 2009. The iPhone was Apple’s biggest moneymaker last quarter, outselling the Macintosh computer and accounting for 40 percent of sales.
+
+Phone design, from concept to production, can take anywhere from six to 10 months, said Jeff Shamblin, chief technology officer of Ethertronics Inc., a San Diego-based antenna manufacturer whose clients include Samsung Electronics Co.
+
+“The phone keeps changing and it does affect antenna performance,” Shamblin said. “The antenna engineer needs to go back and redesign and retest several times.”
+
+Tests are also conducted by carriers, which help identify potential flaws, he said. The Federal Communications Commission also examines the phone, though its review is typically limited to checking whether the phone functions within the allocated frequency bands. The FCC also checks to make sure the phone doesn’t interfere with other devices.
+
+As phones and smartphones have become more complex, the testing process has become challenging, Shamblin said. In years past, engineers conducted tests on phones held against a person’s head, he said. “Now, you have to test against a cell phone sitting on a desk, in a user’s lap, being used on speakerphone while operated with two hands,” he said.
+
+Apple increased that difficulty by innovating on the antenna design. “There’s always risk when you develop a new antenna technology,” he said.
+
+Consumer Reports tested the iPhone and other phones offered by Dallas-based AT&T in an isolation chamber with a device that simulates a carrier’s cell towers.
+
+“None of those phones had the signal-loss problems of the iPhone 4,” the organization said. “The tests also indicate that AT&T’s network might not be the primary suspect in the iPhone 4’s much-reported signal woes.”
+
+To contact the reporters on this story: Peter Burrows in San Francisco at pburrows@bloomberg.net; Connie Guglielmo in San Francisco at cguglielmo1@bloomberg.net

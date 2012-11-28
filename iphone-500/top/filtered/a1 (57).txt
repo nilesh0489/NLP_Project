@@ -1,0 +1,35 @@
+The iPhone continues to store location data even when location services are disabled, contrary to Apple’s previous claims.
+
+The Wall Street Journal did independent testing on an iPhone and found that even after turning off location services, the device was still collecting information on nearby cell towers and Wi-Fi access points.
+
+This discovery challenges some of Apple’s claims. As Wired.com reported last week, the company explained in a detailed letter last year that it deliberately collects geodata to store in a comprehensive location database to improve location services. In the letter, Apple noted that customers can disable location-data collection by turning off Location Services in the settings menu.
+
+“If customers toggle the switch to ‘Off,’ they may not use location-based services, and no location-based information will be collected,” Apple said in the letter (.pdf).
+
+That doesn’t appear to be the case from WSJ‘s testing, as well as multiple independent reports from customers who had the same results.
+
+The controversy surrounding Apple’s location-tracking stems from a discovery by two data scientists, who found that a file stored on iPhones and iPads (“consolidated.db”) contains a detailed history of geodata accompanied with time stamps.
+
+Apple claimed in its letter last year that the geodata is stored on the device, then anonymized and transmitted back to Apple every 12 hours, using a secure Wi-Fi connection (if one is available).
+
+Although it’s thorough, Apple’s explanation does not address why the stored geodata continues to live on the device permanently after it’s transmitted to Apple, nor does it address why geodata collection appears to persist even when Location Services is turned off.
+
+Google does similar geodata collection for its own location-services database. However, it notifies Android users clearly in a prompt when geodata collection will occur, and it also gives users a way to opt out. Also, Android devices do not permanently store geodata after transmitting it to Google.
+
+Meanwhile, a MacRumors.com reader claims he sent an e-mail to CEO Steve Jobs asking him to explain why Apple tracks geodata, threatening to switch to an Android device.
+
+“Maybe you could shed some light on this for me before I switch to a Droid,” the reader wrote. “They don’t track me.”
+
+The CEO shot back a terse reply, defending his company and attacking his competitor Google, according to the reader: “Oh yes they do. We don’t track anyone. The info circulating around is false.”
+
+Apple has not commented on the authenticity of the e-mail.
+
+The purported e-mail is similar in nature to many e-mails that Jobs has sent to customers in the past: It’s concise and still manages to pull off some word play. Jobs would be accurate to claim that Apple is not tracking customers directly — but instead it is using iPhones to gather information about nearby cell towers and Wi-Fi stations, occasionally combined with GPS data. In other words, Apple is tracking geodata from mobile devices, as Google is also doing.
+
+Apple has not commented on the location-tracking issue since the story broke last week.
+
+While the collected geodata doesn’t reveal specific addresses for locations you’ve visited, it can still leave a pretty rich trail of a user’s movements. Combine this data with other pieces of information on the iPhone, like your messages and photos, and you’ve got a device that knows more about you than you do yourself, says The Atlantic‘s Alexis Madrigal.
+
+Madrigal tested an iPhone forensics program called Lantern, which stitches together contacts, text messages and geodata into a neat interface that reconstructed a timeline of his life.
+
+“Immediately after trying out Lantern, I enabled the iPhone’s passcode and set it to erase all data on the phone,” Madrigal said. “This thing remembers more about where I’ve been and what I’ve said than I do, and I’m damn sure I don’t want it falling into anyone’s hands.”

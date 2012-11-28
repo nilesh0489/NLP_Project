@@ -1,0 +1,15 @@
+Last month, I wrote about two different Reddit applications for the iPhone, neither one actually made by the social voting site. While both were pretty good, Reddit co-founder Alexis Ohanian clearly thought an official one could do a bit better — so they made one.
+
+Due to hit the App Store shortly, iReddit has all the features you’d expect from a Reddit iPhone app: voting, commenting and the ability to switch to different sub-Reddits. It also has some features the other Reddit apps didn’t have, such as the ability to easily switch between “Hot,” “New,” “Top,” and “Controversial” stories in any category — these classifications are a staple of the main Reddit site. This app also features story thumbail pictures (an option that can be toggled off as well).
+
+iReddit also has a unique flair that makes some iPhone apps stand out. For example, while the app is pretty fast, it loads all the stories’ actual websites through the app’s web browser, and it can take a bit of time for some of those page to load. So Ohanian chose to use that load time to me a quirky Reddit alient page load overlay (see the video below).
+
+But better is iReddits “shake for a new story” feature. Ohanian notes that the inspiration from this came form another great iPhone app, UrbanSpoon. That app works by giving your restaurant recommendations when you shake the iPhone thanks to the device’s accelerometer. iReddit has an option to use an iPhone shake to load what’s called “Serendipity” mode. A Star Wars lightsaber-like sound lets you know you’re entering it, and a big red “Serendipity” banner across the top lets you know that you’re in the mode.
+
+While in Serendipity mode, you will keep getting fed random stories to view/vote on every time you hit the “Hit me”  button or shake the iPhone. Clicking “No More!!!” will take you back to regular mode. Much like UrbanSpoon, I could see this Serendipity mode becoming addicting. It’s a bit like a completely random StumbleUpon (a website discovery tool), but again, using the iPhone’s accelerometer.
+
+Such a feature seems perfect for a social voting site, where users are often looking for new and interesting stories. The biggest of these sites, Digg, still does not have a native iPhone app.
+
+iReddit is fast, solid and yet quirky enough to stand above the other third-party Reddit apps. My only complaint is a minor one: that you can’t see the Reddit vote counts without clicking on a story. I’ve also had some issues loading the site’s custom Reddits, but the developers are aware of the issue and are looking into it.
+
+iReddit should be available soon in the App Store for $1.99 — cheaper than Satellite, the better of the twounofficial Reddit apps, which is $4.99, but more expensive than the one previously known as “reddit” but now called “open source reddit,” which is free. But I’m told that a free version of iReddit which is ad-supported will be made available in the next month or two as well.

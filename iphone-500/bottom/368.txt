@@ -1,0 +1,57 @@
+For some time I’ve been meaning to test my small collection of PDA/smartphone gadgets to see which of their methods of input was quickest. The iPhone’s software keyboard? The Newton’s handwriting recognition? Palm’s Graffiti? With the possible imminent arrival of a tablet from Apple that will save the world, it seemed a good time to get round to the test.
+
+I have six input methods to compare:
+
+Although an exhaustive test could have included other devices, these four seem to cover the main types of input. For comparison’s sake I also tested:
+
+To test the speed of input I was going to use the same piece of text for each one. I also wanted to use some text I could memorise, so I didn’t have to pause typing/writing to look up, and the later tests wouldn’t benefit from my increasing knowledge of the text.
+
+So I used a piece of text I memorised a couple of years ago as it didn’t take much effort to retrieve it from my memory and become fluent again. This is the final paragraph of a speech given by Aneurin Bevan to the British Labour Party in 1959, following their general election defeat:
+
+I have enough faith in my fellow creatures in Great Britain to believe that when they have got over the delirium of the television, when they realize that their new homes that they have been put into are mortgaged to the hilt, when they realize that the moneylender has been elevated to the highest position in the land, when they realize that the refinements for which they should look are not there, that it is a vulgar society of which no decent person could be proud, when they realize all those things, when the years go by and they see the challenge of modern society not being met by the Tories who can consolidate their political powers only on the basis of national mediocrity, who are unable to exploit the resources of their scientists because they are prevented by the greed of their capitalism from doing so, when they realize that the flower of our youth goes abroad today because they are not being given opportunities of using their skill and their knowledge properly at home, when they realize that all the tides of history are flowing in our direction, that we are not beaten, that we represent the future: then, when we say it and mean it, then we shall lead our people to where they deserve to be led!
+
+Armed with this not-entirely-appropriate 221-word passage, I set to work in chronological order.
+
+I decided to time my fast handwriting, rather than my neatest; so long as I could read it easily, that was good enough. For those who care about such details, I used a Lamy Safari pen filled with Noodler’s ink on some cheap and unlikeable Ryman’s brand A4 lined paper.
+
+It took me 5 min 33 sec to write the passage. I could probably have gone faster at the expense of legibility, but it seems a good balance.
+
+For the past few months the only keyboard I’ve been using is my MacBook’s, so I used that for the test. I can touch-type, although I tend to make too many mistakes. As with all the tests, I corrected mistakes as I went, which was much easier and quicker on a computer than on some of the more fiddly devices.
+
+Typing the passage out took 3 min 14 sec.
+
+From here on I performed each test twice and used the best time. I figured that despite practising a little before each test, and being surprised how quickly the knack always came back to me, I’d need more time to get into the flow of each input method.
+
+Contrary to its reputation I didn’t have many problems with the Newton’s handwriting recognition. Just as when I used it (and the earlier 120 model) regularly I relied on the printed character recognition, rather than the cursive; my handwriting is only partly joined-up anyway, so this wasn’t much of a problem and, as John Gruber pointed out recently, the printed recognition is much more reliable.
+
+For those unfamiliar, you write with a stylus anywhere on the MessagePad’s large screen and your handwriting appears there as you write. A moment after you finish a word it disappears and reappears as “typed” text wherever the cursor currently is.
+
+This method was easier than I expected and it felt like it was as quick as handwriting recognition could be — there is some delay in translating my scribble into text, but it’s no slower than the speed of my writing, so the device didn’t get behind. Once I got into it, correcting mistakes was also easy: tapping a word brings up alternative spellings and capitalisation, and one further tap away are two ways to manually correct the characters.
+
+The first test took 11 min 30 sec and the second, with fewer mistakes and quicker corrections, took 9 min 17 sec. This is about twice as long as my standard handwriting test, mainly because of the need to write neatly enough for the MessagePad to recognise my writing.
+
+Graffiti is a simplified version of handwriting input. There is a small part of the screen dedicated to accepting input, and you write each specially-stylised letterform in the same place. Unlike the Newton, you don’t see the marks you make with the stylus.
+
+In theory this simpler method is less error-prone than having to interpret normal handwriting, although I remember that even when I was using the Vx every day I found it at least as frustrating. Small mistakes mean letters are mis-interpreted and, then and now, I was forever having my ‘Y’s appear as ‘X’s.
+
+The first time through it took 13 min 24 sec to tap the passage out, improving slightly to 12 min 16 sec on the second pass. Although I could have improved the accuracy a little, it felt like there was a speed limit that wasn’t present with the MessagePad — there’s less “flow” in the input and it feels like a more regular and mechanical means of input, o n e   l e t t e r   a t   a   t i m e.
+
+I was interested to see how the Treo and the iPhone would compare, given how many people dismiss the iPhone’s software keyboard in favour of a “real” keyboard something like the Treo’s.
+
+I had pleasant memories of using the Treo’s keyboard (and the device as a whole) and after a little practise I wasn’t disappointed. I was using the KeyCaps600 extension which makes a few things easier, although I’m not sure it was much of a factor in this test.
+
+I ended up doing this test three times. The first couple I had times of 6 min 18 sec and 6 min 8 sec but it felt like my thumbnails were getting in the way. They weren’t long but were long enough to make me uncertain whether to type with the nails or the pads of my thumbs. So I cut them shorter and tried again, using only my thumbs themselves: 5 min 23 sec.
+
+Finally, the loved and loathed software keyboard. I remember being frustrated with it when I first purchased my iPhone 18 months ago, but after a couple of weeks, and after finding some degree of peace with its auto-correction, I started to like it. I still had no idea how it would compare to the other methods, particularly the Treo’s.
+
+I used the iPhone in the vertical position. I expect the larger horizontal keyboard might be better in general, but I never use it as I get frustrated with the tiny area remaining to view what you’re typing. It’s like using one of those old 1980s “laptops” with a tiny LCD strip display. So I stuck with the orientation with which I’m most familiar.
+
+The first pass at the text took me 6 min 1 sec to tap out, but I must have got into the flow as the second took only 4 min 56 sec.
+
+If it’s not already clear, this isn’t a particularly scientific experiment. If you performed the same tests you’d probably come up with different results depending on your proficiency with the various devices. But here are my results, shorter bars are quicker and better:
+
+I’m surprised by some of this. I thought that typing on a full-size keyboard would be a lot quicker than the iPhone and Treo than it is, although a real touch-typist could have beaten my 68 words per minute.
+
+I’m surprised at how slow Graffiti was for me, particularly when its simplicity was supposed to be a huge benefit over the Newton MessagePad’s ridiculed handwriting recognition.
+
+I had no idea how the iPhone and the Treo’s keyboard would compare but they’re similar; I expect someone who uses a comparable miniature hardware keyboard frequently could beat my iPhone time but I suspect neither is radically, objectively quicker than the other.

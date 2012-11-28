@@ -1,0 +1,29 @@
+Don't hold your breath waiting for the iPhone to support Adobe's Flash software: Apple's terms-of-service agreement prohibits it.
+
+Although Adobe says it is working on a version of its popular Flash player for the iPhone, Apple is unlikely ever to permit it to appear in the handset's App Store, no matter how much customers want it.
+
+"I'm pretty skeptical that Flash could be implemented in a way that doesn't violate the Terms of Service of the developer's agreement," said Bart Decrem, CEO of Tapulous, developer of the popular Tap Tap Revenge iPhone game.
+
+Flash is Adobe's highly popular platform for displaying interactive graphics, animations and multimedia within a browser. According to Adobe, 98 percent of desktop computers currently support Flash, which has led to its widespread use by web developers. Adobe's recent announcement that it is working on a version of Flash for Windows Mobile has prompted speculation that an iPhone version might be coming soon. But the speculators may be waiting in vain, based on Apple's TOS and the company's history of tightly controlling applications for its smartphone platform.
+
+Allowing Flash — which is a development platform of its own — would just be too dangerous for Apple, a company that enjoys exerting total dominance over its hardware and the software that runs on it. Flash has evolved from being a mere animation player into a multimedia platform capable of running applications of its own. That means Flash would open a new door for application developers to get their software onto the iPhone: Just code them in Flash and put them on a web page. In so doing, Flash would divert business from the App Store, as well as enable publishers to distribute music, videos and movies that could compete with the iTunes Store.
+
+Apple's well aware of these problems, which is why the company wrote a clause in its iPhone developers' Terms of Service agreement (.pdf) that prohibits Flash from appearing on the iPhone:
+
+"An Application may not itself install or launch other executable code by any means, including without limitation through the use of a plug-in architecture, calling other frameworks, other APIs or otherwise," reads clause 3.3.2 of the iPhone SDK agreement, which was recently published on WikiLeaks. "No interpreted code may be downloaded and used in an Application except for code that is interpreted and run by Apple's Published APIs and built-in interpreter(s)."
+
+This could come as major disappointment to iPhone owners, as the lack of Flash support has been a paramount complaint about the handset since its release. No Flash means that the iPhone browser is incapable of displaying a large portion of the internet. For example, free Flash games aren't supported, videos can't be streamed from the vastly popular television and movie site Hulu, and websites that use Flash to render content or navigation won't work on the iPhone.
+
+It's no wonder Adobe is expressing reluctance about the prospects of Flash for iPhone. The company on Monday demonstrated a version of Flash for Windows Mobile handsets. And all that product manager Michele Turner could say about iPhone was, "We are working on Flash on the iPhone, but it is really up to Apple."
+
+Adam Dann, CEO of Nullriver, agrees that Flash would take away some of Apple's control. Apple eventually banned Nullriver's application NetShare because it violated AT&T Terms of Service agreement by turning the iPhone into a wireless modem for tethering. If Apple introduced Flash to iPhone, it's possible Nullriver could code a Flash version of NetShare, repeating that violation, Dann said.
+
+Dann added that the only way Flash could ever appear on the iPhone is if Adobe offered an extremely stripped-down version of the software. But even if there is a "Flash Lite" for iPhone, that just reinforces the point that the handset's owners still will not have a true Flash experience.
+
+And aside from taking software control away from Apple, Flash would introduce a slew of other potential headaches as well. Flash apps could hurt battery life, suck up the graphics-processing unit's power, use an inordinate amount of memory, or potentially introduce security risks. Apple has plenty of customer complaints to address about the iPhone; the last thing it needs is to add Adobe and Flash to the pile.
+
+In August, Britain's Advertising Standards Authority pulled an iPhone advertisement because the commercial said, "All the parts of the internet are on the iPhone." The lack of Flash and Java support on iPhone were enough for the ad to be deemed misleading. And it's looking like Apple won't be able to air that ad again.
+
+Apple did not return phone calls for comment.
+
+First appeared in Wired. Thanks to Wired and the author for covering this document. Copyright remains with the aforementioned. Contact wired.com for reprint rights.

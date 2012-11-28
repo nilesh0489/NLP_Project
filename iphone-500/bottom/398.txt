@@ -1,0 +1,33 @@
+Sen. Al Franken is planning to take a hard look Tuesday at the way iPhones, Androids and BlackBerrys — and the apps that run on them — collect and use personal information about their owners, including their locations.
+
+And he said it won't be his last word on the matter.
+
+As the senator's new privacy subcommittee prepares for its first hearing, the Minnesota Democrat told POLITICO in an interview he's particularly concerned that some people "have no knowledge, and no way of knowing, where their information" shared on a smart phone or through an app "is going."
+
+That's why Tuesday's session is "not designed to be the last hearing" on smart phone privacy concerns, Franken said, as the panel explores whether legislation is needed.
+
+"I think there is concern there," Franken said of the smart phone industry and app makers. "And I think somehow we're going to have to have some kind of rules of the road that will give direction [on privacy]." The senator added that those rules may "have to involve apps" too.
+
+The intersection of smart phones and privacy is a top policy priority for Franken.
+
+Franken’s new Privacy, Technology and the Law Subcommittee will hear testimony Tuesday on the issue from a star-studded set of witnesses. The panel includes representatives from two technology stalwarts — Google and Apple — that became the focus of lawmakers’ attentions recently over questions about how smart phones gathered and used location data.
+
+Scheduled to testify are Alan Davidson, a public policy chief at Google, and Guy "Bud" Tribble, software chief at Apple. The two company representatives will be joined on the panel by officials from the Justice Department and FTC, top privacy experts and Jonathan Zuck, president of the Association for Competitive Technology, which represents app makers.
+
+The hearing itself is Capitol Hill's first explicit foray into the burgeoning industry debate over iPhones, Androids and BlackBerrys, and the amount of information those popular devices collect and store about their owners.
+
+To Franken, it isn't just the devices themselves that pose key challenges to consumers — but also third-party applications, like games and other downloadable content, which most consumers aren't aware are collecting their personal details.
+
+"One of my worries is that apps can share information [with] third parties … that you really don't have any control over once you've given that information over to the app," the senator said.
+
+Franken's interest was piqued by news last month that the iOS 4 operating system that runs Apple's iPhones and iPads collected and stored detailed data about its users' locations.
+
+Apple CEO Steve Jobs has since addressed those reports — stressing Apple devices were storing nearby signal towers to boost reception, and never meant to retain the data for as long as the devices did. But the revelation of the data gathering by the Cupertino, Calif.-based company has triggered a groundswell of interest on Capitol Hill about smart phone privacy and the companies that make those devices.
+
+Franken declined to comment on Apple's response to its own location-tracking flap, noting that his thoughts would become clear at the hearing Tuesday. He did meet, though, with representatives from both the iPhone maker and Google earlier Monday.
+
+The senator is the latest in a long line of members of Congress and industry leaders to question whether smart phone apps — which are in part responsible for the popularity of the devices — violate users' privacy. Top manufacturers are set to deliver a series of answers about the data they collect and how it is used Monday.
+
+Earlier this year, the country's four top cellphone providers told Reps. Ed Markey (D-Mass.) and Joe Barton (R-Texas) that those games and other programs often lack privacy policies and present serious challenges to consumers.
+
+This article first appeared on POLITICO Pro at 6:02 p.m. on May 9, 2011.

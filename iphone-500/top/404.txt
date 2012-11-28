@@ -1,0 +1,29 @@
+IT is probably not what the designers of Google Earth had in mind, but for the rebels in the besieged Libyan city of Misrata their software has become a crucial part of the revolutionary armoury: a free battlefield system that helps them to aim mortars and pinpoint Gaddafi tanks.
+
+Other uprisings in the Arab Spring have leant heavily on the organising powers of Facebook and Twitter, but in Libya it is Google Earth that has become an invaluable asset.
+
+"The idea was that of an engineer named Ahmed Eyzert," said Mohammad Bashir al-Ruiyati, 35, who is in charge of artillery on Misrata's southern front.
+
+Mr Eyzert first looked at using the system to help the rebels when they began capturing mortars and artillery pieces from Colonel Gaddafi's troops in March, he said.
+
+The engineer was killed in fighting three weeks later, but not before he had worked out how to drop mortar shells on enemy positions by combining information from a French mortar-ranging table with the images and data available on Google Earth.
+
+The system has since been refined, and rebel scout teams with binoculars and laptops are often sent ahead of the shifting front lines to search for government tanks, mortars and rocket launchers.
+
+"This is a very important tool," said Mohammad Graisi, a lecturer in genetic engineering who organises the mortar teams west of the city.
+
+"They search through binoculars. Let's say there is a treeline with troops in it; the Google map allows us to work out how far and how many degrees of angle it is for our teams."
+
+In a building behind the front lines, Mr al-Ruiyati works from a child's notebook into which he has transcribed dense conversion tables. On his computer screens he points out yellow pin markers showing all the rebel weapons positions, while other markers are used to show the enemy weapons positions. The program shows the distance between any two points, accurate to one metre, and the relevant angle.
+
+The compass application (app) on his iPhone has also proved highly accurate, he said, with the rebels using an eight-metre length of wire run from the mortar barrel, with the iPhone on the end, to line up the weapon.
+
+A further innovation has been to pass locations by global positioning system (GPS) stored on Google Earth direct to NATO's liaison cell in Benghazi for use by NATO aircraft on strike missions. Rebel leaders said that some of the tanks they identified were destroyed inside Misrata using the co-ordinates.
+
+"We use Google Earth both in the frontline and here in the city," said Khalifa Abdullah Zawawi, the leader of the city's resistance council.
+
+They said that three computer experts had been entrusted with helping NATO's targeting by supplying GPS co-ordinates. The only problem they had encountered was that some satellite images of the area on Google Earth were from 2004 and no longer accurate.
+
+The rebels in Misrata say that despite their lack of experience they have been able to innovate their way around every problem that they have faced. In this they have been helped by the high numbers of university students, academics and professionals in their ranks, as well as the popularity of computer games in the city. Many of the rebels cite the sophisticated computer war game Call of Duty as their first resource of tactical military knowledge.
+
+"The secret of Misrata is that from the beginning we were an organisation," said Mr al-Ruiyati.

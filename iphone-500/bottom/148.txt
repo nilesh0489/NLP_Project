@@ -1,0 +1,9 @@
+This week’s funday is today!  Devteam member planetbeing has done a phenomenal job reverse engineering Apple’s hardware drivers and now for the first time ever, linux is available on the iPhone and first-gen iPods.
+
+The official announcement is here. Video, downloads, and instructions….all included.
+
+(P.S. Feel free to digg this to help get the word out!)
+
+Update: Geek Hero gets it.
+
+

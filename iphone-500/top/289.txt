@@ -1,0 +1,41 @@
+She had been talking on it and navigating with a GPS app during a work trip to Los Angeles. Then, without any warning or error message, the phone quit.
+
+Everything was gone — all her contacts, photos and even the phone's ability to make calls.
+
+It was only after she got home to Silicon Valley that she found out that her phone had been killed by her employer, a publishing company.
+
+Someone in the IT department had sent out what's called a "remote wipe," a kind of auto-destruct command that's delivered by e-mail. The wipe was done by mistake, and Stanton wouldn't have been surprised to see this kind of remote control on a company phone.
+
+But this iPhone was hers.
+
+"It was my account, in my name [and] I'd paid all the bills," Stanton says. "It didn't make any sense to me that somehow work could get through AT&T, who I thought controlled my phone, and could completely disable the phone and the account."
+
+It's no surprise to people who know IT. Since 2003, a growing list of smart phones have come loaded with software from Microsoft that makes remote wipes — and many other remote-control commands — possible.
+
+The phone doesn't need to download any new software. All that's necessary is for the phone's user to configure it to receive e-mail from a Microsoft Exchange Server — the kind most big companies use.
+
+Once that's been set up, an IT department has the capability to wipe the phone and turn off functions like Bluetooth, the Web browser and even the phone's camera.
+
+"The reason why you see such a long list of various policies and controls is because different organizations want those controls," says Adam Glick, senior technical product manager for Microsoft Exchange.
+
+He points to the peace of mind the system offers to people whose phones have been stolen, and who can rest assured that all the personal information contained inside can be erased from afar.
+
+Glick says employers sometimes need remote control of other functions, like the camera, to prevent leaks. "If you're having an important meeting about the future finances of the organization and people put that up on a slide, and someone might take out their camera phone and take a picture. And then they might go and, say, post that to the Internet," Glick says.
+
+But when companies exert that kind of control over someone's personal phone, things can get messy. Anthony Davis runs IT for a manufacturing company in Seattle, and he says he makes a point of letting people know that when they opt to get company e-mail on their personal phones, they're signing up for more than just e-mail.
+
+"We actually have a one-page waiver that says, you know, if you're going to connect your personal phone to the corporate e-mail system, that we do have the capabilities if the phone is lost to remote wipe it — and we will — and then have the employee agree [to] and sign that form," Davis says.
+
+But companies often aren't that transparent about the power e-mail gives them over personal phones. And it's not just phones.
+
+IT administrators can send similar commands to iPads and other personal devices that get work e-mail. Lewis Maltby, president of the National Workrights Institute, says he's not sure what a court would say about a company that wipes an employee's phone without permission.
+
+But he says he'd like to find out: "I'm salivating right now at the prospect of this lawsuit."
+
+Maltby says there's now a breakdown of the old paradigm that your company controls work devices and you control yours and "never the twain shall meet."
+
+"Now, you have this gray world in which everything overlaps, and everything that's personal is business and vice versa, and now it's a mess," he says.
+
+Putting work e-mail on a personal device may be convenient, but for Stanton it's no longer worth the risk.
+
+After restoring her iPhone — or, as she calls it, her "precious iPhone" — she says she'll never put work e-mail on it again.

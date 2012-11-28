@@ -1,0 +1,97 @@
+(CNN) -- In 2010, we saw social networking skyrocket in popularity. We embraced a new category of tablet computer. And we rushed to new gaming systems that let us play video games without a controller.
+
+But in the technology world, not all valleys are made of silicon. While the highs were high for the tech winners this year, the low points were equally low.
+
+Even tech titans such as Apple and Google had some rough moments in 2010. And some ambitious ideas that must have made sense behind closed doors just didn't translate well to the real world.
+
+So here are our top "tech fails" of the year: the missteps, misdeeds and mistakes that remind us that no one -- not even Steve Jobs -- is perfect. What did we miss? Let us know in the comments below.
+
+Apple drama -- nothing brings out the diehard fans and Cupertino haters quite like this one.
+
+The newest iteration of the wildly popular smartphone was released in June.
+
+By all standards, it's been a huge success. All standards except one.
+
+Some people couldn't actually use it for phone calls.
+
+OK, maybe that's an overstatement. But the Grip of Death (caused when users covered part of the antenna in a band around the phone's edge) was real -- and a big glitch in the device's rollout.
+
+First Apple said the problem didn't exist. Then they said it was a software issue. Then they kind-of admitted it existed and gave away free cases to help. Then, they said it doesn't really exist anymore and stopped giving away the bumpers.
+
+Months later, the problem is all but forgotten and the phones show no sign of dipping in popularity. So "fail," in this case, is a pretty relative term.
+
+After being all the buzz at the trend-making Consumer Electronics Show in January, 3-D television didn't do much of anything this year.
+
+Three-dimension movies may have taken over your neighborhood multiplex. But how many people do you know who will pay $4,000 or more for a TV that has a limited amount of special content and makes you wear special glasses in the comfort of your own home?
+
+That will likely change as prices fall and the technology gets better. But so far, in a market full of folks who just recently shelled out four figures for high-definition TVs, 3-D television has fallen flat.
+
+We almost don't have the heart to beat up on the Kins anymore.
+
+Having already served up the short-lived, tween-centric phones in our Thanksgiving all-time tech turkey list, we'll just remind you that the Kin One and Kin Two (Born: April 2010. Died: July 2010) aimed to be the fun, social smartphone for kids but ended up as a sort-of iPhone Lite, with a pricier data plan than their limited functions could justify.
+
+Microsoft seemed happy to move on to the Windows Phone 7 system, so we will, too.
+
+Google's Android phone operating system came into its own in 2010, actually outselling phones running Apple's system by the end of the year.
+
+But Google's effort at making their own phone to run it, the Nexus One, fizzled fast.
+
+And here's the thing -- just about everyone who tried out the Nexus One liked it. It had features to rival the iPhone's, and reviewers were kind.
+
+But Google might have gone wrong by originally selling the phone only online. Apparently, folks like to get their hands on their gadgets before paying for them.
+
+Nothing on the internet elicits as much squawking as a change to Facebook.
+
+Any change will do, really.
+
+But this spring, some of the roughly half-billion users on the site got really miffed when a handful of privacy bugs, among other things, made private chat conversations briefly visible to Facebook friends.
+
+And on April 21, Facebook CEO Mark Zuckerberg announced a new Facebook feature called the "Open Graph," which essentially brings Facebook-like functionality to a number of websites.
+
+A few folks actually left on a protester-created "Quit Facebook Day." Most didn't, but the sustained anger led Facebook to eventually simplify its privacy controls and roll out some new ones.
+
+Buzz was supposed to be Google's entry into the world of social networking in much the same way that Google Wave, which Google killed in August, was supposed to revolutionize real-time communication.
+
+But it didn't help that, right out of the gate, Buzz's default settings amounted to a privacy breach. Basically, if users didn't tweak things at set-up, the people they e-mailed and chatted with the most through Gmail automatically became their followers.
+
+So, theoretically, someone only needed to take a quick look at your profile to see who you interacted with the most in forums that most people assume are private.
+
+Google quickly patched the problem. But the tool never really caught on. In Google Land, that might be OK, though -- the latest speculation is that Buzz might have been just the first step toward a networking site called "Google Me."
+
+Two fails here, really.
+
+Fail No. 1: Gawker Media sites were breached in early December, with hackers saying they got access to the user names and passwords for about 1.3 million users of sites such as Gizmodo, Jezebel, Lifehacker and Kotaku.
+
+Fail No. 2: A published list of the most-popular passwords hacked showed that "123456," "password," "12345" and "qwerty" were at or near the top of the list.
+
+Sorry, folks. If those are your passwords, it's awfully tough to feel sorry for you getting hacked.
+
+Creating click-bait junk on the internet didn't start in 2010. But it certainly took off in a big way.
+
+Demand Media, Aol's Seed and Associated Content, bought this year by Yahoo!, operate on a similar "content farm" model: They choose topics people are searching for on the internet, pay a "journalist" a tiny amount to write something -- anything -- about it, then slap it on the Web so people will click on it.
+
+According to a Wired article, industry "leader" Demand Media already was cranking out 4,000 videos a day in late 2009. And they were on pace to publish 1 million items a month by this summer.
+
+The magazine interviewed a videographer who has done 40,000 videos for Demand. Asked about his favorite, he said he couldn't really remember any of them.
+
+Writing to what readers are interested in is one thing. At CNN, we monitor Twitter, Google Trends and other digital listening posts to make sure we're covering what people want to know about in the tech world.
+
+But cranking out by-the-numbers copy, with profit as the only motive, just junks up the Web for everyone. It cynically betrays the promise of what the internet could, and should, be.
+
+And maybe it won't work. The Wall Street Journal has said Demand has never made a profit. And just this week, there were reports that Demand is delaying a public stock offering because of concerns about its accounting practices.
+
+It's impressive that content-sharing sites such as Digg have clung to some degree of relevancy in an era when most people share their favorite digital content on Facebook and Twitter.
+
+But, to be sure, they've struggled. And a revolt by some vocal members of Digg this summer didn't help. The site got a major overhaul to make it easier for users to find content.
+
+But the changes were buggy at first, and some old-school features such as the "Bury" button (which was eventually returned) had regulars claiming they were bolting for Digg competitor Reddit.
+
+The fallout was still clearing by year's end, and the reasoning behind Digg's changes -- to help curate content in a more manageable way -- made sense. But the change brought some headaches that Digg's top brass no doubt would have liked to avoid.
+
+There's a whole social network set up in Apple's iTunes store now.
+
+Didn't know that? Well, there you go.
+
+Not all musical artists are on there. And it doesn't integrate with Facebook. (Although Ping and Twitter just linked up). And, a lot of the time, it simply pushes you to buy music.
+
+Needless to say, Ping hasn't really caught on.

@@ -1,0 +1,13 @@
+The Federal Communications Commission is examining a recent decision by Apple to reject an iPhone application developed by Google. On Friday, the commission sent letters to executives at Apple, Google and AT&T, which is the exclusive carrier for the iPhone in the United States, saying it was “interested in a more complete understanding of this situation.”
+
+In opening the investigation, the F.C.C. cited an article in The New York Times this week describing Google’s frustration in winning approval from Apple to distribute its iPhone applications through Apple’s App Store. Apple recently rejected Google’s effort to bring a service called Google Voice to the iPhone, and the company also rescinded its earlier approval of several applications created by third-party developers that worked with Google Voice.
+
+In its letter to Apple, the F.C.C. asked the company to explain why it rejected the application and removed the related applications from its App Store. A spokesman for Apple declined to comment, saying the company does not typically discuss regulatory issues.
+
+Google Voice, which is already available on BlackBerrys, provides users with free domestic calls, inexpensive international calls, free text messaging, call routing and other services. In a statement, Google said that its application had been rejected but that the company would “continue to work to bring our services to iPhone users, for example by taking advantage of advances in mobile browsers.” The company also said it would supply the information requested by the F.C.C..
+
+As part of its investigation, the F.C.C. focused on whether the decision to reject the Google Voice app was made by Apple alone or in consultation with AT&T. Industry analysts and others say AT&T has been increasingly concerned about the possible loss of revenue that could result from the Google Voice service. In its letter, the commission asked what role, if any, the company played in rejecting the Google Voice application, including whether there were any contractual understandings between the two companies that would have affected Apple’s decision.
+
+In a statement, AT&T said the company “does not manage or approve applications for the App Store.” AT&T also said it would respond to the F.C.C.’s letter, but a company spokesman, Fletcher Cook, declined to comment further.
+
+Google, which powers the world’s most popular search engine, has long had ties to Apple, and the two companies have a history of both competing and cooperating. Google’s chief executive, Eric E. Schmidt, sits on Apple’s board of directors.

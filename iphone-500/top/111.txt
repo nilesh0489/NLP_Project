@@ -1,0 +1,4 @@
+Open default webbrowser, go to http://www.buienradar.mobi (rain radar)
+
+Only a static picture is displayed, whereas my Nokia N95 shows an animated
+GIF consisting of 7 images

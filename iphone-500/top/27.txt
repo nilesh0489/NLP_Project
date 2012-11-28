@@ -1,0 +1,35 @@
+A pricey but stylish MacBook laptop, a variety of iPods and now a wallet-busting iPhone 4 … I've bought them all. So why is Apple now penalising me and thousands of other loyal customers by effectively declaring that our computers are obsolete?
+
+If you go out and buy an iPhone 4 or the latest iPod shuffle, iPod nano or iPod touch, you won't be able to use it unless you have the latest version of iTunes (iTunes 10) on your computer. No problem, you think – it's simply a case of downloading it from Apple's website. But I've just made a rather unpleasant discovery: "older" Mac computers are unable to run the latest version of iTunes. And I'm not alone; it's a problem that has sparked fury among Apple users across the world (see panel right).
+
+Yet my MacBook isn't ancient: it's only about four years old. And it's not as if I'm trying to hook up one of the latest devices to a Sinclair ZX Spectrum. What adds insult to injury is that if I had a 10-year-old Windows PC, I wouldn't be experiencing these problems. I'd be able to happily download the new iTunes. But my four-year-old Mac? 'Fraid not.
+
+You'd think there would be a simple and free solution to this, bearing in mind this is a free download we are talking about and that we are Apple customers who have just shelled out on the latest Apple products – but no.
+
+It seems we have been left with gadgets we can't use, unless we pay more money for a software update. To make matters worse, I and many others have been told we must track down and buy the update, called Leopard, which is not only hard to get hold of (Apple's UK retail stores no longer stock it) but expensive (£120 new on Amazon). I suspect what Apple wants us to do is throw our hands in the air and go out and buy a new computer (one of its own, of course).
+
+We first noticed something was amiss about a fortnight ago when my nine-year-old daughter, Flora, bought a new £39 iPod shuffle with her pocket money, and I treated myself to an iPhone 4. I connected the shuffle to our computer, but a message came up saying the iPod "cannot be used because it requires iTunes version 10.0 or later". So I downloaded iTunes 10, but then another message popped up: "Open Failed … This package type requires Mac OS X 10.5." It was the same story with the iPhone 4. Flora is pretty cheesed off about not being able to listen to the Black Eyed Peas and Rihanna on her new gizmo.
+
+I thought it was just us, but when I went online I found web forums packed with unhappy Apple owners complaining they have been abandoned, and that this is all about "forcing" us to buy new computers.
+
+On the Apple website's support forums, one thread alone is now running to 19 pages of complaints and comments, and has racked up more than 139,000 views. Here's a typical comment: "Just bought a new Nano for my daughter for Christmas, and it is not even compatible with v[ersion]9 iTunes. Since I have Tiger 10.4.11, I cannot update to v10. Thank you Apple. Now my daughter's gift from Santa cannot be used on my iMac, which is only three years old …"
+
+Confused and bemused, I booked an appointment to see one of Apple's in-house "geniuses" at its store on London's Regent Street. She examined my laptop and told me I could solve this by buying Leopard (not its successor Snow Leopard, she said) but that before running it, I would need to "back up manually all the data – put it on to an external hard drive".
+
+I rang Apple's UK 0800 number and asked how I could obtain Leopard. The friendly chap told me he should be able to get it for me, though it would cost £87. I said I'd think about it.
+
+It just doesn't make sense to me that Apple supports Windows XP, made by a rival company, but won't support a slightly older version of its own operating system, and won't offer some kind of free solution to those people who are continuing to swell Steve Jobs's coffers by buying his new products.
+
+Apple was this month named the world's most valuable brand, with an 84% increase in its estimated value to $153bn (£93bn), so maybe it could channel a sliver of that cash into helping its forgotten customers.
+
+It is probably already very apparent that I am not a "techie". Some people will doubtless be quick to respond to my complaint by saying that computers and operating systems have a finite lifetime; that laptops are designed to be replaced after three or four years; that Apple isn't a charity. Some will say it's my fault for failing to check technical specifications before handing over my cash – though many of those affected were given their products as gifts.
+
+With the prices Apple charges for its computers, I don't buy the "disposable" argument. And my MacBook is hardly a pensioner of the computer world. I thought one of Apple's selling points was that its products don't require much technical know-how to set up or use. Why should I have assumed Apple was going to cut me off from iTunes if I got one of the newer devices? My fifth generation iPod classic works perfectly with my Mac, and my iTunes library has all the bells and whistles I could ever need.
+
+Apple's media people didn't want to say much. They told me: "If you are a Mac user both iPhone 4 and the latest iPod shuffle require Mac OS X v10.5.8 or later. This is clearly labelled on the back of the iPhone 4 box … it is also clearly labelled on the back of the iPod shuffle box … if you decide not to upgrade to Snow Leopard [eh?], then you have 14 days from date of purchase of your devices to claim your refund."
+
+When I pressed them, Apple's people suggested yet another possible solution to my woes: the "Mac Box Set", which costs £122. I was told Apple's operating system has simply had more revisions over the past four years than Windows.
+
+I seem to have been told lots of contradictory things, and it all adds up to extra expense and a whole load of hassle.
+
+I see from the Apple website that Snow Leopard will be succeeded by a new operating system, "Mac OS X Lion" (version 10.7), this summer. Does that mean more of us are going to be relegated to the scrapheap?

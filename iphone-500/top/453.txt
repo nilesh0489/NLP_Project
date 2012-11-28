@@ -1,0 +1,47 @@
+If you're anything like me, you usually think of your pics in terms of content: Here's me smiling. Here's me looking tough. Here's me in Hawaii with that wacky turtle. And so on. Today, however, we'll analyze photography from a numerical angle—we'll discuss flash, focus, and aperture instead. We feel like people don't really think about these things when they choose a profile photo, and yet, as we shall see, their misuse can seriously mess you up.
+
+As always, our data comes from dating site OkCupid, one of the largest, and most interesting, datasets on the web. This article aggregates 11.4 million opinions on what makes a great photo.
+
+Here are our findings:
+
+The type and brand of camera you use has a huge effect on how good you look in your pictures. This is a plot of the most popular makes:
+
+As you can see, the general pattern is that more complex cameras take better pictures. Interchangable lens cameras (like digital SLRs) make you look more attractive than your basic point and shoot cameras, and those in turn make you look better than your camera phone. I'm not sure what's going on with Kodak all the way to the right there. They might want to consider making sharing more difficult.
+
+Beyond the advantages or shortcomings of any specific brand, the more-complex-is-better trend bears out at all ages:
+
+And we also found similar numbers looking only at people who uploaded all three types of photos. Putting such a triplet together dramatically illustrates the difference:
+
+File this under "icebreakers, MacWorld '11". Finally, statistical proof that iPhone users aren't just getting fucked by Apple:
+
+The chart pretty much speaks for itself; I'll just say that the numbers for all three brands are for 30 year-olds, so it's not a matter of older, more experienced people preferring one phone to another. We found this data as part of our general camera-efficacy analysis: we crossed all kinds of user behaviors with the camera models and found we had data on the number of sexual partners for 9,785 people with smart phones. We dropped what we found into Excel, and voila. Here's the plot by age:
+
+Just so you know, the names and the actual photos are removed when we do this kind of research; we just see the stats in aggregate. Everything is anonymized. Now let's leave brands and gadgets aside and look at how purely photographic phenomena can affect your precious face.
+
+This is another simple finding that needs little explanation.
+
+Soft light can hide wrinkles, blemishes, devil eyes. The hard light of a flash often brings them out. As I illustrate with the dotted lines below, you can calculate the equivalent "aging" effects of a flash by counting years horizontally between the 'flash' and 'no flash' lines. For example, a 28 year-old who used a flash is as attractive as a 35 year-old who didn't. Trace the dotted lines to see what I'm talking about. Don't piss off Ming.
+
+One thing we observed is that most flash exposures—even from SLR's—appeared to be direct flash. That's where the flash was fired directly at the subject, producing harsh shadows. If you have access to a flash that can bounce off the ceiling or walls, that could work much better.
+
+We found that the best pictures have a very shallow depth of field, meaning that the subject is in crisp focus while the rest of the picture is blurry, like this:
+
+I'll spare you my explanation of the optics behind this and instead let a graphic from the 10,000 word wikipedia page fill you in:
+
+Thanks, hivemind, you genius! Basically, you get this sharp/blurry effect from having a wide-open aperture: low f numbers on your camera, like f/1.8, f/2.2, etc. For two pictures taken at the same distance, the lower f number will give you a shallower depth of field.
+
+The widget below plots the aggregate attractiveness, by f number, of our user photos in a little color-coded array, alongside examples of each type of photo, so you can easily see how the depth of field affects things. For obvious reasons, we restricted this analysis to photos by cameras capable of a wide range of apertures.
+
+It's my opinion that because the photos with the low f numbers feel more intimate and personal, they get a better viewer response.
+
+Below is a minute-by-minute distribution of when people are taking their pictures. This plot also does a good job of showing off the sheer number of photos we analyzed for this piece:
+
+Of course, the most interesting thing isn't when people are taking their photos, but when they are taking their best photos:
+
+It seems that, broadly speaking, late night and late afternoon are optimal. I can't really say why that is, but I can irresponsibly theorize that photos taken in the former bracket tend to be more provocative, those taken in the latter tend to be pleasantly lit.
+
+As noted, the plotted timestamps are adjusted by time zone and for daylight savings, and when you overlay the path of the sun through the sky during our theoretical "day", you see peaks just after sunrise and just before sunset: evidence of the golden hour.
+
+In conclusion, the data strongly suggest that if you're single, you (or someone you know) should learn a little bit about photography. Technique can make or break your photograph, and the right decisions can get you more dates.
+
+It's actually not that hard. Use a decent camera. Go easy on the flash. Own the foreground. Take your picture in the afternoon. Then visit the nearest Apple store. Done.

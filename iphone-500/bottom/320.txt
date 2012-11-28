@@ -1,0 +1,18 @@
+Dutch security researchers hacked an iPhone 4S on Wednesday, showing how a malicious webpage can send all pictures, address book data and browsing history on the phone to a server of the attacker's choice.
+Related Articles
+Apple patches Pwn2Own, Comodo hack bugs
+Black Hat roundup: Let the electric-shock craziness begin
+All eyes on Apple with it set to take security public
+If You Use It, Mobile Malware Will Come
+Untethered jailbreak for iOS 5.1.1 available for download
+As participants in the Mobile Pwn2Own competition they demonstrated the exploit to an audience at the EUSecWest security conference in Amsterdam on Wednesday.
+Their attack works on iOS 5.1.1 and the developer release of iOS 6, and probably also works on the iPhone 5, said Joost Pol and Daan Keuper of Dutch security company Certified Secure. It also works on iPads, they said.
+The WebKit browser exploit was made in "only a few weeks," the researchers said. "And we didn't even work full time," said Keuper, who added that their exploit shows that limited time is needed to come up with a technique to exploit a security vulnerability in iOS.
+When a user visits a website where the code is running; the security mechanisms in Safari are circumvented, Pol explained. "We could embed the code in advertisements on news sites for example," said Pol, adding that if they can embed the code anywhere on a website, it will work.
+The researchers wouldn't reveal how the exploit works exactly. "We don't want anyone to run off with it," said Keuper.
+Both researchers are curious what Apple thinks of the data leak, they said. "Apple will have to come up with an update and then people need to upgrade as fast as possible," said Pol, who still thinks the iPhone is the most secure phone out there.
+Pol and Keuper earned US$30,000 for the exploit, among other prizes.
+"Any browser exploit is significant," said Brian Gorenc, manager of the Zero Day Initiative (ZDI) of HP DVLabs, which organized the competition. But because it is another hole in WebKit he does not think that Apple is to blame. He too, however, stressed that this is a hole that should be fixed. "The guys did a great job," he said, adding that the exploit will be sent to Apple.
+
+
+Read more: http://www.pcadvisor.co.uk/news/mobile-phone/3382159/iphone-4s-exploited-in-mobile-pwn2own-hacking-contest-in-amsterdam/#ixzz2CpktqJmY

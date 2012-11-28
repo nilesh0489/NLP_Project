@@ -1,0 +1,11 @@
+It can be easy to forget in the crush of the launch of an entirely new product like the iPhone 5, but Apple’s quality control process is one of the most stringent in the world. While we gnash our teeth at pre-scratched units, yellow screens and purplish lens flares, it’s worth keeping everything in perspective: minor aberrations in a pursuit of perfection wrought upon such a collossal scale of mass-production that the mind literally reels to think of it.
+Apple doesn’t often lift the curtain, so we haven’t really known what quality control processes it actually uses to get iPhones to our door in as perfect condition as possible. As it turns out, though, the process Apple uses is incredibly thorough and elegant, just what you’d expect.
+
+A reader of AppleInsider wrote in to share with them a picture he found on his brand new iPhone 5 when he took it out of the box for the first time. The image contains a QR code and the Chinese symbol “停” (which means “STOP”):
+At the end of the contiguous character string was an unknown “65%” designation which appears to relate to the “65% Fail/不良” line highlighted in red. Just above the percentage are the characters “LL/A,” most likely referring to the last three identifying digits of the iPhone 5′s MD63XLL/A order number.
+This iPhone 5, then, despite working properly, seems to have had some problem that failed Apple’s quality control process. Despite this, when the recipient of this iPhone 5 contacted Apple, he was escalated to a senior manager at Apple Support who told him to just “delete the picture and don’t worry about it” if the phone was operational.
+I really find this fascinating. It appears that Apple tracks every device’s serial number from production to shipment, recording and stress testing every way that device can fail with quick efficiency. Presumably, that means that if later on, your iPhone develops a problem, they can take a look at the history of the device and see if there was any indication of the problem at the factory. That’s very thorough.
+
+Read more at http://www.cultofmac.com/193155/how-apple-tracks-your-iphone-through-foxconn/#1DRck2bFAwMw5t7M.99 
+
+

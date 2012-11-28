@@ -1,0 +1,29 @@
+With Google's disclosure over the weekend that it would launch its own cellphone, the online giant is staking claim to a piece of the fast-growing mobile marketplace and making a direct challenge to Apple's swift rise in the sector.
+
+Google said in a corporate blog on Saturday that it has developed a phone based on its Android mobile operating system and distributed it to employees to try out. Soon after, pictures of the phone surfaced on the Twitter feeds of employees and outside bloggers with details that the device would be launched next month and sold directly to consumers. The new phone would be capable of operating on any network, according to a source close to the company who was not authorized to comment publicly.
+
+Google's approach would run counter to the current practices of handset makers and carriers that partner up in exclusive deals to market and sell phones, and provide mobile service. AT&T, for instance, has been the sole provider of service for Apple's iPhone since the device was launched in 2007. Sprint tied up with Palm for its Pre smart phone earlier this year, and Verizon exclusively runs several versions of Research in Motion's BlackBerry.
+
+In iPhone's case, the exclusivity agreement goes far beyond the choice of service provider. Apple tightly controls the applications that are available for the phone through its iTunes store, and its decision to block a voice application from Google sparked an inquiry by the Federal Communications Commission.
+
+How Google's phone would connect to wireless networks was not clear Monday, and the company declined to comment on its plans beyond its Saturday blog posting. Apple also declined to comment.
+
+But Google's latest plans appear to be aimed at countering that "closed loop" business model with a product that can run any application on any network -- a tactic that reminds experts of the battles between Microsoft and Apple over computer operating systems in the 1980s.
+
+"This is a replica of the open-versus-closed war of the IBM mainframe versus the Macintosh for the mobile space," said Tim Wu, a professor of law at Columbia University. "And Google is settling in for a long war here."
+
+The diverging approaches of Google and Apple, however, touch upon several regulatory debates playing out at the FCC. The agency is reviewing wireless industry practices, including exclusive handset agreements, and examining roaming deals after rural carriers asked for help in forcing bigger providers to share their networks.
+
+Industry experts say any attempt by a carrier to block Google's phone could raise questions about net neutrality in the wireless industry. The FCC is considering proposed new rules that would prevent Internet service providers from blocking content. Wireless carriers have argued that those rules shouldn't apply as strongly to them and that such rules shouldn't prevent carriers from blocking certain devices.
+
+"It will be interesting to see if Google or other handset manufacturers raise concern that consumers might be blocked from using unlocked handsets," said Jason Oxman, senior vice president the Consumer Electronics Association, an Arlington-based trade group. "Whether that is the case today -- that carriers can block you -- is unclear."
+
+Google's apparent approach is the standard practice in Europe, where customers typically pay higher upfront prices to buy phones but can carry them on any network at lower costs and without contract obligations. It's unclear how Google would price the phone, but industry experts say that if the company decides to charge more upfront for the phone, consumers may balk.
+
+"We're not starting with a clean slate here," said Larry Downes, a non-resident fellow at Stanford University Law School. "The question is, who will pay the subsidy?"
+
+Carriers subsidize a large portion of the cost of a phone to attract customers to buy new gadgets. The iPhone, for example, is estimated to cost AT&T about $350 in subsidies in order to offer the device to consumer for $199. In return, it asks consumers to sign one-to-two-year contracts to ensure it recoups the costs of those subsidies. Such exclusive contracts have come under fire recently, with the FCC asking Verizon to explain why it recently increased its penalty for customers who leave contracts early. Last month, Verizon began charging customers $350 instead of $150 for early-termination fees.
+
+And even with the iPhone, its fastest version was initially priced at $599 in 2007 before AT&T began dropping the price. Thirty-three million iPhones have been sold worldwide.
+
+"So this is a very, very different model, but if anyone can pull it off, it would be a Google, because of its brand awareness and ability to market it," Oxman said.

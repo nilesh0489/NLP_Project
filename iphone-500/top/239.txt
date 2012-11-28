@@ -1,0 +1,3 @@
+You can also drag&drop a consolidated.db file anywhere on here, if you have it.
+
+This should take, at most, a few seconds. If it takes longer than that, it didn't work for some reason or another. Check out the issues on github and see if it's a known problem with your osx/browser/technique.

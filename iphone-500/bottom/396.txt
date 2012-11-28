@@ -1,0 +1,131 @@
+At Tuesday’s event, Apple managed to get new software for it’s acclaimed iPhone/iPod touch into the hands of ecstatic owners everywhere.
+
+
+
+
+Apple aficionados told us it was unlikely to get new software at this event, but, fortunately for us, they were proven wrong. Apple was forced to release this version to support the genius feature in iTunes 8, and, altough many rightfully believed this was going to be buggy just like 2.0.2, they actually fixed a lot of the issues and improved some key features.
+
+How did we test?
+
+We’re using a an up-to-date Windows Vista 36-bit machine with a 2,2Ghz AMD Turion and 1GB DDR2 with DEP(Data Execution Prevention) activated for all processes. The graphics were provided by the ATi X200M chip with 32MB on chip memory.
+
+
+
+
+We uninstalled iTunes 7, QuickTime and Apple Mobile Device Driver from the Control Panel then restarted and run Disk Cleanup. The iTunes 8 installation ran smoothly and prompted UAC twice, after which it required a restart.
+
+We based this review on a jailbroken first generation 8GB iPod Touch, which was restored for the purpose of this review. We haven’t experienced any BSOD or crashes.  Also, tested with iPhone 3G and 2G.
+
+Note: We are testing (not in any particular order) these updates from Apple.
+
+Decrease in call set-up failures and dropped calls (Done)
+Significantly better battery life for most users (Inconclusive)
+Dramatically reduced time to backup to iTunes (Done)
+Improved email reliability, notably fetching email from POP and Exchange accounts (Done)
+Faster installation of 3rd party applications (Done)
+Fixed bugs causing hangs and crashes for users with lots of third party applications (Done)
+Improved performance in text messaging (Inconclusive)
+Faster loading and searching of contacts (Done)
+Improved accuracy of the 3G signal strength display (Done)
+Repeat alert up to two additional times for incoming text messages (Done)
+Option to wipe data after ten failed passcode attempts (Done)
+Genius playlist creation (Done)
+Test Results:
+
+Genius playlist creation
+While the genius feature on iTunes works by recommending you related songs you don’t have from the Store, and is pretty much useless if you haven’t bought all your music from iTunes, genius playlists on the iPod work by recommending you songs from your synced albums.
+
+ 
+   
+   
+
+   
+
+ 
+
+		
+It didn’t work particularly great in our case, recommending Coldplay, the Killers and The Decemberists when we selected Creedence Clearwater Revival song. We imagine having more than 8GB of available music would work better for genius.
+
+
+
+It’s definetly an interesting feature, something that you’re bound to try once in a while, when you’re bored, but not something ‘Steve Jobs keynote’ worthy.
+
+dramatically reduced time to backup to iTunes
+Something we’re really excited about.You can safely say goodbye to waiting 15 minutes for your iPod to backup. We compared backup time for 2.0.1/2.0.2 and 2.1 and we got these results: 3:36, 2:12 and 37 seconds, which is indeed a dramatic improvement.
+
+Did full back-up with 80+ changed applications, took less then 15 minutes.
+
+improved email reliability, notably fetching email from POP and Exchange accounts
+We personally haven’t experienced any reliability isues with any of my multiple IMAP, POP or Exchange(Mail2Web), but hey, they fixed it.
+
+faster installation of 3rd party applications
+We tested installing 3 applications within iTunes (BreakClassic, MobilePhotos and Palringo IM) on 2.0.2 and 2.1: 21 seconds compared to 11. That’s noticeably faster.
+
+We then went to the App Store and installed the same the same 3 apps and were impressed by the time it took and the responsiveness of the interface during the installation – we checked email, played music and checked the weather.
+
+Same results for iPhone, installation of apps is much faster.
+
+fixed bugs causing hangs and crashes if you have lots of 3rd party applications
+It’s too early to tell, but overall the iPod seems more responsive, even after 30 minutes of constant browsing, music and using third party apps. It usually crashed a couple of times, the big culprit being Safari, which, apparently they fixed.
+
+Tested on iPhone same result as on iPod.
+
+faster loading and searching of contacts
+Another great improvement can be seen within the contacts application – such a simple app that took forever to load.
+
+better sound effects control
+Besides controlling whether you like the internal clicker, headphones or turn them off, you can now idividually adjust them for new mail, sent mail, calendar alerts, lock sounds and keyboard clicks.
+
+ 
+   
+   
+
+ 
+
+	
+improvements in music player UI and podcast information
+You can now see the artist and the album of the songs listed in in the Songs view; how many new episodes are synced and bigger album art are the improvements in the podcast section
+
+ 
+   
+   
+
+   
+
+ 
+
+		
+Apple has built in a new security feature into the 2.1 firmware which performs a data wipe after 10 failed passcode attempts.
+
+
+Corrections appear correctly in AIM application (top) [via MacRumors]
+
+
+Photo Cubism Bug – see example below from Flickr, or visit this Flickr group for more example
+We took multiple photos and none of them showed signs of Cubism (we had random Cubism before)
+
+
+
+Call Quality and Drop rates – We drove around dead spots in our neighborhood to check if we get dropped calls in a route where we would typically get at least 3 dropped calls. After 3 loops, there were no dropped calls. Once when the signal was only one bar, there was some audible distortion for a few seconds on the other side of the call.
+Repeat alert up to two additional times for incoming text messages.  Works as expected, looks like there is no way to turn this behavior off.
+Our iPhone Safari always crashed while browsing Digg.com, specificly during shouts to friends. Tested extensive Digg Browsing, shouts to friends do not crash Safari.  We could use Digg.com with out any problems we noted above.
+GPS – Turn-by-Turn is not offered, but our tests show that GPS lock takes less time than with 2.0.2. GPS lock speed is based on multiple conditions; that’s why we tested this function with two iPhones. One was running 2.0.2 and the other was running 2.1. After observing GPS Lock in defferent spots, we concluded that iPhone 2.1 perfromed better than 2.0.2. The real test would be to take both phones for a long mountain bike ride, but it is raining here today.
+Better indication of the type of network you are on – 3G, E, O.  The look of 3G, E, O icon changed.
+
+
+ 
+
+Just started full iPhone restore process.  Firmware restore took less then 7 minutes, bore restore process was about 10-15 minutes. 
+Starting restore from corrupted 2.0.2 back-up from few weeks ago. WOW, restore process took only 10minutes compare to 4-5 hours.  Starting sync process now.
+
+Yes, you can restore from previously corrupted back-up, so if you lost your photos, files, configurations, apps – you cab bring them all back.
+
+Passcode security flaw issue has been fixed in 2.1 update
+Battery life – we can say that battery life improved for us, but since we cannot put a quantitative measure on it we are marking this improvement as inconclusive.
+Keyboard lag during testing – We tried hard to convince ourselves that keyboard lag is 100% fixed.  At times we feel like that keyboard lag still exists and performance can be improved.
+No app crashes on iPhone with over 100 apps.  We can say that app crash issue is fixed but we will be monitoring.
+This is a running list, refresh to see any updates.
+
+Conclusion
+
+The new firmware is a must have for any iPhone/iPod Touch user, and may even convince some of the jailbreak fans to switch, at least till the next ‘fix’ comes out. If you want to get back to the jailbreak 2.0.2, just do a restore using DFU mode.

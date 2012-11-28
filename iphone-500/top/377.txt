@@ -1,0 +1,45 @@
+REDWOOD CITY, California — Police closed in on the man who found and sold a prototype 4G iPhone after his roommate called an Apple security official and turned him in, according to a newly unsealed document in the ongoing police investigation.
+
+The tip sent police racing to the home of 21-year-old Brian Hogan, and began a strange scavenger hunt for evidence that a friend of Hogan’s had scattered around this Silicon Valley community. Police recovered a desktop computer stashed inside a church, a thumb drive hidden in a bush alongside the road, and the iPhone’s serial-number stickers from the parking lot of a gas station.
+
+The 10-page search-warrant affidavit (.pdf)  — unsealed Friday at the request of Wired.com and other news organizations — sheds new light on the events surrounding the sale of the prototype to Gizmodo, the Gawker Media–run gadget-news site that paid Hogan $5,000 for the device.
+
+Gizmodo dropped a bombshell on the gadget world April 19 with a detailed look at the iPhone prototype, which an Apple employee named Robert “Gray” Powell had lost at a bar. Gizmodo has acknowledged paying $5,000 for the phone and returned the phone to Apple after publishing its story about the prototype.
+
+The affidavit confirms that Steve Jobs personally contacted Gizmodo to ask for the phone back, as reported by Newsweek last month.
+
+According to the document, the roommate said Hogan told her he received a total of $8,500 for the phone, but did not indicate if all of the money came from Gizmodo or other sources as well. The roommate also told police Gizmodo promised Hogan a bonus if and when Apple officially announced the product.
+
+Police are investigating Gizmodo editor Jason Chen for possible receipt of stolen property, copying of a trade secret, and destruction of property worth more than $400, according to the affidavit, which was filed in support of a search warrant for Chen’s home. Gizmodo partly disassembled the iPhone, a process that Apple alleges left it damaged.
+
+Apple also told the police that the publication of Gizmodo’s story was “immensely damaging” to the company, because consumers would stop buying current generation iPhones in anticipation of the upcoming product. Asked the value of the phone, Apple told the police “it was invaluable.”
+
+Apple discovered that Hogan was the person who found the iPhone the day Gizmodo’s story broke, after Rick Orloff, director of information security at the company, received a phone call from one of Hogan’s two roommates, Katherine Martinson. She told Apple that Hogan had found the phone and had been offering it to news outlets in exchange for a payment, despite having identified Powell as the rightful owner from a Facebook page visible on the phone’s display when he found it.
+
+“Sucks for him,” Hogan allegedly told Martinson about Powell. “He lost his phone. Shouldn’t have lost his phone.”
+
+Martinson turned Hogan in, because Hogan had plugged the phone into her laptop in an attempt to get it working again after Apple remotely disabled it. She was convinced that Apple would be able to trace her Internet IP address as a result. “Therefore she contacted Apple in order to absolve herself of criminal responsibility,” according to the detective who wrote the affidavit.
+
+An Apple spokeswoman told Threat Level that Apple officials took Martinson’s tip directly to the district attorney’s office, and did not show up at Hogan’s house, as a Wired.com source claimed last month.
+
+“We reported what we believed was a crime and the DA is taking it from there,” said Apple spokeswoman Katie Cotton.
+
+Police were preparing a search warrant affidavit for Hogan’s apartment two days later, when Martinson phoned them to report that Hogan and a second roommate, Thomas Warner, were in the process of removing evidence from their Redwood City apartment: a desktop computer, stickers from the iPhone, a thumb drive and a memory card. Police raced to the apartment, but by the time they arrived, Hogan and Warner had left in separate cars with the evidence.
+
+The police headed to Hogan’s parents’ house, also in Redwood City, and were let in by Hogan’s father. They found Brian Hogan sitting on his bed with his girlfriend. When the cops told Hogan that removing evidence implied “consciousness of guilt,” Hogan agreed to cooperate, and phoned his friend Warner, who had taken the computer gear and the stickers away in his car.
+
+Warner directed the police to the nearby Sequoia Christian Church, where the cops recovered Hogan’s black desktop PC and flatscreen monitor outside an administrative office. Warner initially claimed he didn’t know where the other evidence was, but eventually told police where they could find the thumb drive and memory stick hidden in a bush.
+
+He then offered that he may have accidentally dropped the serial-number sticker from the iPhone at a Chevron gas station. Police found it there, in the parking lot.
+
+Hogan’s attorney, Jeff Bornstein, said Friday he had not yet seen the affidavit, and could not comment on its details. “Hogan cooperated fully with the police in terms of turning over the evidence that they sought,” said Bornstein.
+
+Wired.com was unable to locate Warner or Martinson for comment. The apartment where Hogan and his roommates lived was vacant Friday.
+
+The affidavit supports the story, offered by Gizmodo and Hogan’s attorney, that the phone was found, and not stolen from the Apple employee. The employee, Gray Powell, had been at the Gourmet Haus Staudt in Redwood City with his uncle. The last time he saw the phone was when he put it in his bag on the floor.
+
+The iPhone may have tumbled from the bag when it fell over. It was possible, but unlikely, that it was stolen from the bag, Powell told the police.
+
+However, it’s generally considered theft under California law if one “finds lost property under circumstances that give him knowledge of or means of inquiry as to the true owner” and yet appropriates the property for his own use “without first making reasonable and just efforts to find the owner and to restore the property to him.”
+
+Story was updated at 7pm to include comment from Apple spokeswoman.

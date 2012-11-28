@@ -1,0 +1,11 @@
+This is complete speculation based on the facts we know. Apple gets a share of the profit from AT&T iPhone subscribers. Gene Munster in 2007 suggested that Apple is getting $18/mo per iPhone subscriber from AT&T. BUT, what if that number is based on net profit?
+
+Yesterday (Aug 1) the Washington Post published an article to which AT&T replied that:
+
+BUT.. What if Apple was being paid profit based on usage? So, instead of the $18/mo that was suggested in 2007, what if it was really a percentage? Apps like Skype, Fring, Slingbox, Google Voice, etc. that would cause AT&T to spend more money relative to some baseline usage scenario, would in effect cost Apple money.
+
+Imagine it this way. If you're a normal iPhone user who's paying around $90/mo for service, and you use your phone what AT&T and Apple consider an "Average" amount, Apple is paid 20%, or $18. But, there is an increased cost to AT&T if you use your phone substantially more than Average. Let's say, the cost to provide service to an Average customer is $54, which means the net profit is $36. Apple and AT&T split that amount. (These numbers are made up to show my idea.. just bear with me). But, for a high-usage account, the cost to provide service might be closer to $75. That means there's only $15 net profit for AT&T and Apple to share. Apple suddenly loses $10.50 per subscriber, per month that uses at the higher level. (Again, 50% of $15 = $7.50. $18-$7.50 = $10.50)
+
+If AT&T is correct, and they really didn't have anything to do with the App removal, and Apple IS to blame, this scenario fits. It explains why Apple restricts high bandwidth apps. They want to keep the cost of the service low to maximize their profit.
+
+Again, this is speculation.. But, it's not something I've seen ANYONE else suggest. Am I totally out-to-lunch? Did I just hit the nail on the head? Let me know!

@@ -1,0 +1,33 @@
+Updated 07/24/09, 9 a.m. PDT: Zdziarski taped videos demonstrating iPhone 3GS disk extraction, as well as removal of PIN and backup encryption passcodes. Both are embedded below the jump.
+
+Apple claims that hundreds of thousands of iPhones are being used by corporations and government agencies. What it won’t tell you is that the supposedly enterprise-friendly encryption included with the iPhone 3GS is so weak it can be cracked in two minutes with a few pieces of readily available freeware.
+
+“It is kind of like storing all your secret messages right next to the secret decoder ring,” said Jonathan Zdziarski, an iPhone developer and a hacker who teaches forensics courses on recovering data from iPhones. “I don’t think any of us [developers] have ever seen encryption implemented so poorly before, which is why it’s hard to describe why it’s such a big threat to security.”
+
+With its easy-to-use interface and wealth of applications available for download, the iPhone may be the most attractive smartphone yet for business use. Many companies seem to agree: In Apple’s quarterly earnings conference call Tuesday, Apple chief operating officer Tim Cook said almost 20 percent of Fortune 100 companies have purchased 10,000 or more iPhones apiece; multiple corporations and government organizations have purchased 25,000 iPhones each; and the iPhone has been approved in more than 300 higher education institutions.
+
+But contrary to Apple’s claim that the new iPhone 3GS is more enterprise friendly (for reference, see Apple’s security overview for iPhone in business [pdf]), the new iPhone 3GS’ encryption feature is “broken” when it comes to protecting sensitive information such as credit card numbers and social-security digits, Zdziarski said.
+
+Zdziarski said it’s just as easy to access a user’s private information on an iPhone 3GS as it was on the previous generation iPhone 3G or first generation iPhone, both of which didn’t feature encryption. If a thief got his hands on an iPhone, a little bit of free software is all that’s needed to tap into all of the user’s content. Live data can be extracted in as little as two minutes, and an entire raw disk image can be made in about 45 minutes, Zdziarski said.
+
+Wondering where the encryption comes into play? It doesn’t. Strangely, once one begins extracting data from an iPhone 3GS, the iPhone begins to decrypt the data on its own, he said.
+
+To steal an iPhone’s disk image, hackers can use popular jailbreaking tools such as Red Sn0w and Purple Ra1n to install a custom kernel on the phone. Then, the thief can install a Secure Shell (SSH) client to port the iPhone’s raw disk image across SSH onto a computer.
+
+To demonstrate the technique, Zdziarski established a screenshare with Wired.com, and he was able to tap into an iPhone 3GS’ data with a few easy steps. The encryption did not pose any hindrance.
+
+Nonetheless, professionals using the iPhone for business don’t seem to care, or know, about the device’s encryption weakness.
+
+“We’re seeing growing interest with the release of iPhone 3.0 and the iPhone 3GS due in part to the new hardware encryption and improved security policies,” Cook said during Apple’s earnings call. “The phone is particularly doing well with small businesses and large organizations.” Clearly, the gigantic offering of iPhone applications is luring these business groups. Quickoffice Mobile, for example, enables users to access and edit Microsoft Word or Excel files on their iPhone. For handling transactions, merchants can use apps such as Accept Credit Cards to process a credit card on an iPhone anywhere with a Wi-Fi or cellular connection.
+
+Several employees of Halton Company, an industrial equipment provider, are using iPhones for work, according to Lance Kidd, former chief information officer of the company. He said the large number of applications available for the iPhone make it worthy of risk-taking.
+
+“Your organization has to be culturally ready to accept a certain degree of risk,” Kidd said. “I can say we’ve secured everything as tight as a button, but that won’t be true…. Our culture is such that our general manager is saying, ‘I’m willing to take the risk for the value of the applications.’”
+
+Kidd noted that Halton employees are not using iPhones for holding confidential customer information, but rather for basic tasks such as e-mailing and engaging with clients via social networking sites such as Facebook and Twitter. Halton also plans to code apps strictly for use at the company, Kidd said.
+
+According to Kidd, a security expert performed an evaluation of Halton, and he said it was possible for any hacker to find an infiltration no matter the level of security. Therefore, Halton has measures in place to respond to an information security threat rather than attempt to avoid it.
+
+“It’s like business continuity,” Kidd said. “You prepare for disasters. You prepare for if there’s an earthquake and the building breaks down, and you prepare for if there’s a crack in [information] security.”
+
+But Zdziarski stands firm that the iPhone’s software versatility isn’t worth the risk for use in the workforce. He said sensitive information is bound to appear in e-mails or anything that can be contained on the iPhone’s disk, which can be easily extracted by thieves thanks to the new handset’s shoddy encryption.

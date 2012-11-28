@@ -1,0 +1,17 @@
+In the wake of Apple's decision to relax restrictions on the tools its developers can use, Adobe announced Friday that it would resume development on Flash for the iPhone.
+
+Adobe "will now resume development work" on its Packager for iPhone for future releases, Adobe wrote in a blog post. The feature is part of the Flash Professional CS5 authoring tool.
+
+In April, Adobe announced that it would no longer invest in iPhone-based Flash development after Apple banned private APIs and required apps to be written in Objective-C, C, C++, or JavaScript as executed by the iPhone OS WebKit engine.
+
+"Essentially, this has the effect of restricting applications built with a number of technologies, including Unity, Titanium, MonoTouch, and Flash CS5," Adobe principal product manager Mike Chambers said at the time. "While it appears that Apple may selectively enforce the terms, it is our belief that Apple will enforce those terms as they apply to content created with Flash CS5."
+
+On Thursday, however, Apple reversed course and said it would relax all restrictions on the development tools used to create iOS apps, as long as the resulting apps did not download any code.
+
+"This is great news for developers and we're hearing from our developer community that Packager apps are already being approved for the App Store," Adobe said. "We do want to point out that Apple's restriction on Flash content running in the browser on iOS devices remains in place."
+
+Apple and Adobe have not exactly been on the best of terms lately. They got into a very public spat earlier this year when Apple CEO Steve Jobs posted a note on the Apple Web site that said Apple products would not include support for Flash because the technology is closed, unstable, and antiquated. Adobe responded by saying it would focus its attention on Android apps.
+
+Adobe reiterated its commitment to other platforms Friday.
+
+"Adobe will continue to work to bring full web browsing with Flash Player 10.1 as well as standalone applications on AIR to a broad range of devices, working with key industry partners including Google, HTC, Microsoft, Motorola, Nokia, Palm/HP, RIM, Samsung and others," the company said.

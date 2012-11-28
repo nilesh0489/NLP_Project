@@ -1,0 +1,35 @@
+With the Apple v. Samsung patent trial underway, Apple is making its case that Samsung's phones and tablets are ripoffs of the iPhone and iPad. We’ve had extensive coverage of the testimony from our reporter in the courthouse, and we got our hands on some of the trial exhibits Apple is showing the jury.
+
+As the plaintiff, Apple has steered the direction of the early parts of the trial. We’ll get to hear more from Samsung next week when it makes its defense. In the meantime, let’s look at some of the exhibits Apple has either shown the jury or submitted into the case's official record. These include side-by-side comparisons of Samsung and Apple devices, internal planning documents in which Samsung discusses features that are a bit too similar to the iPhone, and an Apple analysis of user interface features that allegedly violate Apple patents.
+
+The above graphic requires little explanation. Apple is showing the jury that once the iPhone hit the market, Samsung’s designs started looking progressively more iPhone-like. After the January 2007 announcement of the iPhone, Samsung started pushing out its own touchscreen phones lacking a keyboard, as you can see in the next part of the trial exhibit:
+
+None of the phones Apple shows from 2008 or 2009 could really be mistaken for an iPhone, but the Samsung models start resembling the iPhone a lot more in 2010 and 2011. The evidence Apple presents is in the picture at the top of this article.
+
+Most people familiar with smartphones will see that those Samsung devices aren’t iPhones, since they include the familiar Android buttons at the bottom rather than a single home button. While Apple is showing Samsung products that hit the market after the iPhone launched, Samsung has evidence demonstrating that it was working on similar designs before the iPhone existed. Some of this evidence was ruled inadmissible because it was submitted too late in the legal process. But not all of Samsung's evidence was ruled out, as this exhibit in the case's official record shows:
+
+Along similar lines, Apple presented a graphic to show what Samsung tablets looked like before and after the iPad was released.
+
+Apple has argued that the Galaxy Tab's shape and look is too similar to the iPad to be a simple coincidence. Notably, the exhibit also includes Samsung's 7-inch Galaxy Tab, which is much too small to be confused with an iPad. The iPad has always been of the larger variety, but Apple is rumored to be building its own 7-inch tablet, and the Apple v. Samsung trial has made public more evidence that a 7-inch iPad is indeed in the works.
+
+The mere fact that Samsung phones and tablets are roughly the same size and shape as the iPhone or iPad likely isn't enough to win a big judgment for Apple. But Cupertino has other evidence, including a lengthy internal Samsung evaluation from March 2010 comparing the S1 to the iPhone. The document recommends changes in the user interface to reduce the impression that icon design was copied from iOS.
+
+The Samsung planning document shows a comparison between the iPhone and the Samsung Galaxy S (or GT-I9000). It compares the Samsung device unfavorably to the iPhone, saying the iPhone's application icons are designed to "represent their functionalities" while Samsung's are "awkward" and cause confusion regarding each application's utility. The slide recommends changes to make the Samsung design more appealing, but doesn't specifically instruct Samsung to copy iPhone design techniques.
+
+The next slide is a bit more damning:
+
+As you can see, the internal Samsung document presented at trial by Apple says the Samsung phone provides a "strong impression that iPhone's icon concept was copied." The "directions for improvement" are that Samsung designers should "Remove a feeling that iPhone's menu icons are copied by differentiating design."
+
+In addition to those internal Samsung documents, Apple has presented its own analysis of how Samsung's user interfaces mimic the iPhone and allegedly infringe Apple patents. For example, this is one of a series of exhibits comparing Samsung devices to Apple's "trade dress" and designs covered in an Apple design patent:
+
+The Apple graphics go on to show a dozen or so Samsung phones, all with nearly identical user interfaces. To demonstrate that there is more than one way to design a touchscreen interface, Apple presented some of the competitors' home screens. These screens are different enough to not violate Apple's IP, in the company's view:
+
+Another Apple document shows how the Samsung Exhibit 4G smartphone violates an Apple patent claim covering—believe it or not—a method of displaying a list of items in an electronic document:
+
+Apple's analysis of how Samsung tablets violate its patent describes at least one feature that anyone who uses a smartphone or tablet probably takes for granted: adjustment of scrolling speed in response to the speed of a user's finger movement. Doing it any other way would seem ridiculous, but Apple says Samsung has violated its patent by scrolling documents at a speed that is "essentially the same as the speed with which the user's finger moves." This graphic actually refers to the same patent covering the list feature, but focuses on a different claim:
+
+The patent, covering 'List scrolling and document translation, scaling, and rotation on a touchscreen display," was filed for in December 2007 and awarded to Apple in December 2008.
+
+We'll have to assume Samsung will argue this is obvious functionality that should never have been patented in the first place. Samsung strategy officer Justin Denison has already called the notion that Samsung copied Apple designs "offensive"—although Apple lawyers forced him to explain an e-mail he sent to Samsung employees criticizing them for not making user interfaces as attractive as Apple's.
+
+There's a break in the trial today and tomorrow, and testimony will resume Friday. Get your popcorn ready.

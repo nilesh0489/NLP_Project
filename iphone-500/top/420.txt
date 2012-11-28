@@ -1,0 +1,49 @@
+BOSTON ? Wanderers with phones and other devices that have GPS chips can figure out where they are using signals from satellites thousands of miles up, but those are easily blocked by walls or trees. The founders of Skyhook Wireless discovered some alternative navigational beacons: the signals coming from the Wi-Fi network in the coffee shop across the street, or the apartment upstairs.
+
+Skyhook uses the chaotic patchwork of the world’s Wi-Fi networks, as well as cell towers, as the basis for a location lookup service that is built into every iPhone, making it easier to pull up a map or find Chinese food nearby.
+
+The start-up was founded in 2003 by Ted Morgan and Michael Shean, who traveled frequently for work and noticed the proliferation of wireless signals each time they cracked open their laptops to check their e-mail.
+
+“We were amazed by the sheer growth of Wi-Fi,” Mr. Morgan said in an interview in April at the company’s offices here. “We knew there had to be a new model for mapping location using those signals.”
+
+Wi-Fi signals travel only a few hundred feet at most, so if you have a map of the Wi-Fi networks in a given area, you can use those signals to pinpoint a phone’s location.
+
+Making that map is the tricky part. When Mr. Morgan and Mr. Shean decided to pursue their idea, they started building a database of Wi-Fi access points, along with cellphone towers, which have much more powerful signals.
+
+At first they tried paying taxi drivers to carry equipment that silently recorded the locations of networks as they roamed the streets, Mr. Morgan said. Then they hired full-time drivers to cover ground systematically, much as Google does for its Street View service. Skyhook says it has scanned areas containing 70 percent of the country’s population.
+
+“It doesn’t seem realistic to drive up and down every street in the U.S.,” Mr. Morgan said. “But you can.”
+
+Skyhook now employs a fleet of 500 drivers to feed a database that spans North America, Asia and Europe. The landscape of signals changes constantly as people and businesses set up and take down wireless networks, so the scanning process never ends.
+
+Each Skyhook car contains a laptop outfitted with antennas and equipment that sends out short blasts of radio waves, called probe requests, to detect nearby cell towers and Wi-Fi networks. The system calculates the source of the signals based on their strength and the location of the car. That information is logged in the Skyhook database, which includes more than 100 million wireless networks and 700,000 cellular towers.
+
+Skyhook’s big break came in August 2007 when Steven P. Jobs, Apple’s chief executive, requested a meeting with the company. Mr. Morgan said he initially deleted Mr. Jobs’s voice mail message, dismissing it as a prank, but soon realized his mistake.
+
+Since then, Apple has sold 37 million iPhones and iPod Touches worldwide, all with Skyhook’s software on them. Mr. Morgan declined to detail specifics of Skyhook’s financial agreement with Apple, other than to say that his company collects a commission for each device sold.
+
+When an iPhone owner starts up an application that involves location ? like the restaurant finder Urbanspoon or the forecast service WeatherBug ? the phone calculates whether it is likely to get the best and fastest information from its own GPS chip or from Skyhook’s system. Skyhook says it can provide a fix on location in seconds, versus up to a minute for GPS, although Skyhook is less useful in areas with few Wi-Fi networks.
+
+Skyhook checks a list of nearby Wi-Fi access points and cell towers against its database and triangulates the device’s location within 30 to 60 feet. The company says it is not connecting to those Wi-Fi networks, just detecting their presence. (As a backup, the iPhone can also use cell tower information from Google.)
+
+Any new access points and cell towers detected by the iPhone are automatically added to the Skyhook database, making it, in Mr. Morgan’s words, “self-healing.”
+
+Apart from Apple, Skyhook also has partnerships with AOL to allow people to see the location of their chat buddies, and with Navteq, a maker of car navigation systems. Skyhook is even embedded into Eye-Fi memory cards for digital cameras, where it keeps track of where photos are taken. The company says it handles 250 million location requests a day.
+
+Skyhook has raised $16.8 million in venture capital financing from investors including Bain Capital Ventures and Intel Capital. Mr. Morgan said it was not seeking more financing right now and was working on expanding the business. “If we do that successfully, there will be plenty of good choices for us,” he said, perhaps including a public offering.
+
+As Skyhook finds success and more gadgets become “location-aware,” competitors are likely to stake out their own share of the market, said Chetan Sharma, an independent telecommunications industry researcher.
+
+Mr. Sharma says that Mexens Technology has a system that relies on user contributions to build a signal map. And a Google service called My Location works on many phones and uses a combination of GPS, cellphone towers and Wi-Fi. A Google spokeswoman, Katie Watson, said the company collected its signal data from several sources, including phones running its software.
+
+“Skyhook is certainly ahead of the curve with its service,” Mr. Sharma said. “Whether they will sustain their momentum for the next five years remains to be seen. But they have a lot of opportunities to make it work.”
+
+Charles S. Golvin, a principal analyst at Forrester Research specializing in mobile devices and telecommunications, agreed that Skyhook was well positioned. “There are so many more phones coming to the market that have GPS and Wi-Fi,” he said.
+
+Mr. Golvin added: “Think about all the other devices with Wi-Fi, like the Nintendo DS, Sony PSP, netbooks, digital cameras.”
+
+Mr. Morgan and Mr. Shean are trying to get Skyhook onto as many devices as they can. Programmers who want to build location-based applications for phones other than the iPhone can license its software, and several do. The company has deals to put its software into chips made by Qualcomm and Broadcom, and it plans to announce a partnership with a major manufacturer of netbooks by the end of the year.
+
+Mr. Morgan is aware of the competition. “There’s always the threat that Google or some other company will just give that information away for free,” he said. To that end, the company has filed for multiple patents, including ones to protect its methodology for updating its database. Several framed patents hang on the walls of its offices.
+
+“But we’re hoping that our six years of driving around in cars, mapping out the various countries, will pay off,” he said. “We’ve done more than 2,000 cities. They have a long way to go.”

@@ -1,0 +1,35 @@
+Apple says there is nothing to see here: The problem with the iPhone 4’s antenna isn’t a problem, but just more of the same poorly-displayed signal strength that, the company recently discovered, also beset every previous generation of iPhone. But a bigger mystery remains: Even if there is no antenna problem per se, how did the iPhone 4’s problem of falsely-positive signal strength pass Apple’s vaunted quality assurance process -- where the buck stops with none other than CEO Steve Jobs himself?
+
+A scientist presented Wired with an intriguing theory that can be summed up as “cleanliness is next to FAIL.”
+
+A post-doctoral biochemistry fellow at a leading American university claims that dampness and naturally-occurring salts on the hands of the general populace help them form a better connection with the iPhone 4’s exposed antenna than the clean hands of testers in Apple’s sterile lab environment would have done.
+
+The biochemist, who asked not to be identified, forwarded us a copy of an email apparently sent to several people at Apple, including Steve Jobs, claiming that simple electrochemistry explains the problem, which drops calls and curtails data bandwidth when users hold the phone near the bottom so that the hand bridges the two sides of the antenna that runs along the side of the device.
+
+Apple blamed the problem on a software glitch, but it appears to be hardware-related. Tests have shown that the iPhone 4’s signal grows significantly weaker when held in certain ways.
+
+“Apple’s explanation for iPhone 4 signal reception problem is inaccurate at best, and disingenuous at worst,” reads the email. “iPhone users are in some of the hottest and most humid parts of the country this summer, and have salty, damp hands -- especially at events such as baseball games, barbecues, or other outdoor activities. Having bare metal antennae purposely handled will absolutely short [circuit] the signal.
+
+“This problem will be difficult to reproduce in Apple’s labs, because the engineers are required to wash their hands before touching devices, which also strips off the natural hand electrolytes that are ever-present in the field on a hot day.”
+
+This would also explain why certain users experience the problem, while others -- who may have washed their hands more recently -- can’t seem to replicate it.
+
+A rubber case sold by Apple for £25 solves the problem by interrupting contact between the hand and the antenna, though Apple customer support has apparently been told not to offer them for free to complaining users. So, how should Apple address the issue, if this biochemist is right?
+
+The company need not redesign the antenna, he says, but should add “an electrically insulating organic hydrophobic layer atop the bare metal,” such as the thin layer of plastic that encases fizzy drinks cans.
+
+If the problem can be solved by spraying a thin, dampness-blocking coating on the metal antenna, perhaps Apple could offer to apply it for free at its retail locations, which would sure beat a product recall. A group of iPhone 4 owners sued Apple and US mobile phone network AT&T over the iPhone 4’s signal issue, seeking class-action status for the lawsuit, which would apply any remedies to all US purchasers.
+
+We’ve asked Apple whether it is examining this as a potential cause of the issue, and hope to have an update soon. In the meantime, here’s the email the biochemist apparently sent to Steve Jobs and two Apple staffers:
+
+"Subject: HowToFix for minimal cost -- hydrophobic organic thin film layer
+
+Hi,
+
+In truth, Apple’s explanation for iPhone 4 signal reception problem is inaccurate at best and disingenuous at worst. iPhone users are in some of the hottest and most humid parts of the country this summer and have salty, damp hands especially at events such as baseball games, barbecues, or other outdoor activities. having bare metal antennae purposely handled will absolutely short the signal. This problem will be difficult to reproduce in Apple’s labs because the engineers are required to wash their hands before touching devices, which also strips off the natural hand electrolytes that are ever-present in the field on a hot day.
+
+Anyway, the solution is not a redesign of the phone, but rather an electrically insulating organic hydrophobic layer atop the bare metal. a variety of plastics will work, such as polyethers, polystyrenes, or nylons. you could even use the plastic labels ever-present on aluminum soda cans, which likewise have an electrically insulating effect when holding said cans. these plastic coatings can be very very thin films which do not ruin the aesthetics of the device, and would require a minimal change of your production line. More importantly, this coating in no way affects the ability to recycle the aluminum -- the organic thin film layer will burn away cleanly during the aluminum remelt process. Phones that have already shipped could easily be coated with this new layer at any Apple retail store or with a simple kit you could send to your customers.
+
+In summary, this is a problem of electrochemistry, and certainly NOT a problem of software design, nor one that can possibly be solved by a software update.
+
+Apple needs to hire some chemists."

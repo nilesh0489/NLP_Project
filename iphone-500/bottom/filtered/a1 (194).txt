@@ -1,0 +1,27 @@
+About 3-6 months before the iPhone debuted I received a Nokia N800 web tablet as part of the company's blogger relations program. I loved the device. It was one of the most powerful gadgets per pound and square inch I had ever used. I marveled at it.Nokia N800
+
+It wasn't the easiest device in the world to use but it had an internal camera which rotated allowing you to use the tablet to videoconference or take photos of your surroundings. It also supported Flash which the iPhone still doesn't.
+
+Other journalists and bloggers were blown away by the gadget as well.
+
+Then later an N810 device was released which supported WiMAX and had a keyboard built-in.
+
+But recently there have been reports which discuss the fact that Nokia is discontinuing the device. One article is from Evan Koblentz who used to work in TMC labs but now WirelessWeek, while another is from Michelle Robert who currently works for TMC. There is also excellent analysis from Greg Galitzine a senior TMCnet editor.Nokia N810 
+
+While I read the news I inquired with Nokia about the status of the device and received the following statement from Molly Schonthal at the company:
+
+The Nokia N810 WiMAX Edition has reached the expected end of its lifecycle. We will continue to follow the WiMAX network development and new product development decisions will be considered based on the evolution of the business.
+
+Any company that sells products doesn't discontinue them if they are profitable. The interesting takeaway here is that if Nokia is still selling the N800 - which it seems to be doing, the incremental cost of making the N810 has to be insignificant. This is the case as long as they are selling some of these units.
+
+We have to surmise that virtually none of these devices were selling. This leads us to wonder about WiMAX. Nokia is smart enough to continue investing in a market if it sees the pot of gold at the end of the rainbow. Did the economy coupled with LTE kill this pot of gold?
+
+You may be aware my company TMC has partnered with Carl Ford and the team over at CrossFire Media to put on a 4G event called 4G Wireless Evolution (4GWE) in less than a month in Miami. At this conference we will be discussing the ramifications of the world's largest mobile phone company pulling out of WiMAX. How significant is this development to carriers looking to deploy WiMAX?
+
+Does this news mean there needs to be an increased focus on LTE by the entire wireless market? What about the WiMAX equipment providers? Will they make it through a financial storm if the devices aren't there to support them?
+
+Remember that Richard Lowe who heads up Nortel's Carrier Networks pretty much blames the lack of devices for lost sales in the wireless space. If there are few WiMAX devices, why would consumers even consider the technology for mobile solutions when they are getting comfortable with 3G-enabled (soon 4G) devices which give them tremendous computing power in the palms of their hands?
+
+This two sentence statement by Nokia is worth a trillion dollars of investment in frequencies and equipment. This really changes everything. And it is worth further discussion and analysis.
+
+I truly hope you will be at the 4GWE show with us Feb 2-4, 2009 in Miami before you spend another dime on your future wireless networks. Likewise for investors and equipment manufacturers. In this economic environment you need a clear read on where things are going and 4GWE is the one event which will help answer your questions.

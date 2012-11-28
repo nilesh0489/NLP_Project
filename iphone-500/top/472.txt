@@ -1,0 +1,35 @@
+Can you believe that only two or three years ago, the trope of cellphones used in America being so far inferior to what was available in Korea or even Europe was pounded to the point of cliché? Now, it’s on its head: the complete opposite is true. And for that, a lot of thanks goes to Apple. No doubt about that.
+
+But the Pre and especially its webOS software is so interesting because it’s the first phone to actually build on the trail blazed by the iPhone in some truly key areas of functionality. And what’s more American than some good ol’ fashioned competition begetting forward-looking innovation that elevates the playing field for all?
+
+Here's where the Pre has won major points with me after using it for 5 days instead of my iPhone:
+
+Arguably the Pre’s biggest draw is its super-elegant multitasking schema—apps fill up “cards” as they’re launched, which you can quickly scroll through horizontally by pressing the main button, which zooms out into a “card”view. Closing apps is done by flicking it off the top of the screen, which feels great. Aside from the five icons in a quick-launch bar and those within the three drawers of the app launcher, there is no icons-on-a-desktop conceit.
+
+I love it, when it works. Say what you will about the iPhone OS’s easy app-switching—there are still tons of instances when I wish I could come back to an app right where I left it when I went on to do something else. Even with the iPhone 3.0 update’s background notifications which can send messages from non-active apps, you still have to quit most apps entirely to stop and do something else. Not so on the Pre.
+
+That said, multitasking isn’t perfect yet on the Pre’s webOS. A lot of things work—swapping cards is beautifully intuitive, the notification tray at the bottom gives you quick access to basic controls for the music player or jumps you to your email when you get a new message—all great. But it won’t be long until you hit a dreaded message when you try to open an app telling you to close some cards before doing so, as the system is out of memory. Sometimes this happens when you would expect, with a lot of apps open, and other times it persists even after you flick away all of your cards, leaving you stuck (this has happened to me once, and a reboot fixed it). There's clearly some work still to be done in the memory management department for future software updates.
+
+And aside from the memory bug, launching new apps and switching between them can occasionally be slow. There’s a good one or two second pause before a new card pops up, no matter the app. And most annoyingly, incoming phone calls (remember those?) can often send the phone into unresponsiveness for a few seconds.
+
+But overall, it’s the most elegant solution to multitasking we’ve seen on a phone yet; the next closest contender, Google’s Android, does a fair job, but it’s not nearly as slick an implementation, with apps often running in the background whether you like it or not, without fun-to-flip cards to shut them down.
+
+Everything wrong with the Pre's multitasking can be refined or even fixed outright via software updates, though, which is an encouraging sign.
+
+Palm’s webOS, at almost every turn, offers you the chance to log in to your pre-existing web service accounts like calendars, email, contacts, Facebook, etc, which are immediately integrated into your phone over the Web. Immediately. No hassle.
+
+No other phone is doing this so smoothly. Android syncs with Google and only Google; the iPhone has Mobile Me, which is even more limited and is still trying to bounce back after one of the rockiest product launches Apple’s ever presided over. But here’s the Pre, automatically pulling my contacts’ Facebook photos and displaying them whenever they pop up in my phone in messages or calls, just for starters. Awesome.
+
+A downside to this can be information overload—syncing a Google contacts account, for instance, results in every email address you’ve ever corresponded with being entered into your phone as a contact. But that’s where webOS’s Universal Search comes in—at almost any point, you can simply start typing the name of a contact on the keyboard and his/her info will pop to the screen (brilliant that they’ve limited keyboard use in many key places to make this possible). I can’t scroll through a master list of contacts anymore (because between Google and Facebook, there are hundreds), but I don’t want to. Universal search is much easier.
+
+Whoa, what, someone beat Apple at design? Really? What??
+
+While the aesthetics of a user interface are often subject to preference, there’s not a lot about the Pre’s design I would think of changing. And no, it certainly doesn’t blow away the iPhone’s drop-dead simple aesthetic, and in some places, it’s harder to simply pick up and use without a glance at the instructions (or the surprisingly helpful “Help” app). But where the Pre lacks simplicity, it makes up for it in all other aspects of its design implementation. Even the hardware, which was a common gripe with most of the early reviewers, I find incredibly satisfying. The size and weight are perfect, the rounded edges, the fact that the screen almost completely disappears into the face of the phone, and yes, the plastic edges—I still can’t stop running it through my hands. Not everything has to be made of glass and metal to be considered pleasing, let’s remember.
+
+But again, it’s almost shocking to utter the words “beautiful design” and “Palm” so closely together (or the name of any predominantly Western cellphone marque, for that matter), but that’s a great indication of how far we’ve come in the last few years.
+
+And here’s the thing: iPhone OS hasn’t changed in a major way for over two years. Cellphones move faster than that, especially now, and people are getting bored. Jason Chen over at Gizmodo speaks for a lot of us:
+
+The core functionality [of the iPhone] and design have remained the same for the last two years, and since 3.0 is just more of the same, and—barring some kind of June surprise [nope!]—that's another year of the same old icons and swiping and pinching. It's time for something different.
+
+And the Pre delivered. From the typography and icons to the multitasking cards metaphor to, yes, the hardware, the Pre is an incredibly well thought-out phone, if not the most well thought out, and just like everywhere else in life, good design makes for a fun product to use. Period.

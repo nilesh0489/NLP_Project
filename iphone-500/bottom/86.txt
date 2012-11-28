@@ -1,0 +1,11 @@
+Recently, AT&T has been vocally combating Verizon’s ad campaign by using semantics and Luke Wilson to paint their competitor’s 3G network as inferior. Now, Ralph de la Vega, chief executive of AT&T Mobility, is taking on a new opponent: customers.
+
+De la Vega has come out to candidly admit that wireless coverage in Manhattan and San Francisco is, as most customers already know, subpar (but, they’re working on it). However, while discussing efforts to improve the AT&T experience in those cities, de la Vega also insinuated that the carrier could start treating some customers differently, with different pricing plans that financially reward or penalize based on data usage.
+
+The Wall Street Journal is reporting that heavy smartphone users only represent about 3 percent of the customer base, but their mobile activities are accounting for 40 percent of data traffic. That imbalance is disconcerting to AT&T, and they’re going to do everything in their power — reportedly inline with net-neutrality and FCC regulations — to, as de la Vega says, “keep those subscribers from hampering the experience for everyone else.”
+
+So what will AT&T do to curtail their users? Apparently de la Vega is considering offering these data hogs (i.e. me) incentives to alter their mobile consumption rates. The incentives sound more like a warning:
+
+“Many customers don’t know how much bandwidth they’re consuming, Mr. de la Vega added. When AT&T conducted a broadband test, customers often reduced their data use. Longer-term, he said, a pricing scheme based on usage is likely, though it will be determined by industry competition and regulatory guidelines.”
+
+Although the details are vague, we can’t imagine iPhone owners, who are the most likely culprits here, will be keen on de la Vega’s “incentives.”s

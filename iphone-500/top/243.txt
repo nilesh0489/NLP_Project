@@ -1,0 +1,75 @@
+When I was in college, a productive day was actually making it to class and getting a date to the football game on Sunday.  For Alan Schaaf, he sets his bar a little higher.  Alan , a 21 year old college student,  has managed to create one of the fastest growing sites on the internet and THE picture hosting site for social media, Imgur, all while going to college full time and working at the radio station.  He also has been creating an iPhone app for Imgur called Imgur Mobile, and as of today, it’s been approved and released.  If you’ve ever been to Reddit.com and even Digg, you’ll notice most of the images submitted to the site are hosted on one site, Imgur.  Each month,  millions of photos,  and millions of people visit the site because of its clean, easy to use interface.  Because of the quick load time and the ability to post with no ads, Imgur quickly grew into the image host of choice, leaving tinyPic, Imageshack, and Photobucket in the dust.  As a domain owner and a site creator, I am always interested in talking to the people that develop great businesses and sites, so I sent Alan and email asking a few questions. I like many Reddit users was curious, who and what was behind the site. It didn’t take long to realize that I had found one of the new young web entrepreneur’s of the future so I figured I’d get an interview while I could.
+
+I read you are a college student.  What year are you and what’s your degree going to be in?
+
+I’m currently a senior studying computer science. When I started imgur I was in the middle of my junior year.
+
+The idea came to me while I was bored out of my mind during a two and a half lecture class, so it was originally something I was doing just to pass the time, but it quickly became much more than that. I guess I picked an image host because, in my opinion, the existing ones were really lacking in some key features and functionality and I knew that I could do a better job. It also seemed like they didn’t care about the images they hosted or their customers, taking down images randomly and putting bandwidth caps on specific high traffic sites such as reddit. I think they real kicker was when TinyPIC started redirecting everyone coming from reddit to their slow ad-ridden pages, and half the time it would just take you to their homepage. There had to be a better option, and I wanted to provide it.
+
+Was imgur your first choice in a domain name?  What were some of the other names you thought of?
+
+I made a list of about 20 names, then went through them to see which ones were available and which ones weren’t. I really liked imgur because it sort of puts two abbreviations together; img for image, and ur for your. So it doubles as Your Imager. I know it’s a little confusing, but I still like it
+
+I’ve noticed some typos of your name out there held by other people. Does that bother you and do you wish you bought the .net and .org?
+
+No, I don’t really mind. All you have to do is type ‘imgur’ into your address bar and it will take you to imgur.com (with Firefox anyway). It would be different if those sites were also image hosts, but it’s very clear that they’re  just squatters when you visit them.
+
+How [much] money did you use to start imgur?
+
+$7 for the domain name. I already had a cheap hosting plan for my personal site, alanschaaf.com. Needless to say, I’m no longer on that hosting plan. In fact, my account was terminated 3 days after imgur was first released due to too much traffic.
+
+Were you friends with any of the reddit people or just liked reddit?
+
+I spent most of my time on reddit, and still do. There really should be a Redditers Anonymous.
+
+Do you have anyone else helping you with the site? Maintenance, coding etc?
+
+Nope, it’s just me. However, I would like to thank everyone who’s created awesome imgur apps with the API
+
+How long did it take you to produce the original site and how many hours a week do you work on it now?
+
+I just worked on it during my free time, so it took me much longer than it would have had I treated it like a full time job. It probably took a little over a month. I don’t know how many hours a week I work on it now, I guess it all depends on how my classes are going.
+
+I read your biography on reddit.  Now that your hosting is cheaper, are you making any money?
+
+Not yet, but making money is not very important to me right now and since I’m not losing money either, I’d rather spend my time making imgur even better.
+
+There are rumors Reddit (or some of the guys from Reddit) is backing you? Is it true ? Do you have any investors now? If not, do you plan to take on any?
+
+I haven’t heard any of those rumors. If you mean backing financially, then no, these rumors are not true. I have no investors and don’t plan on taking any at the moment. I don’t really have any reason to right now. However, this could change in the future.
+
+Would you mind giving me some quick stats, uniques per month, pageviews? Or perhaps some unusual stats that you find interesting or funny.
+
+Imgur has been growing steadily since it launched.  Alexa.com says it’s currently the 609 biggest site in the word based on traffic, and 215 in the US. Here is this months data, taken from Google Analytics and my own server stats:
+
+• I’mma let you finish, but Imgur had the most image uploads of all time the day that Kanye meme started.
+
+What’s in the future for imgur? I know you plan to have a flickr type approach to user owned photos. Anything else you can hint at?
+
+Nothing is set in stone right now, so I shouldn’t really say anything on this.
+
+Do you own any other domain names or sites?
+
+I have alanschaaf.com, and I’m the webmaster for a local radio station (acrn.com), but I don’t have any other major sites like imgur. Imgur was really the first site I’ve made for myself.
+
+What are your other hobbies besides coding and computers?
+
+I’m a DJ and the Web Director for the All Campus Radio Network (acrn.com) – a local radio station on campus. I’ve been hosting a talk show called Tech Talk on ACRN for over two years. You should tune in I also like to play Ultimate and just hang out with friends.
+
+Other than the social media sites, what are some of your favorite sites on the net?
+
+I usually just read RSS feeds from various sites if I’m not on reddit. Some of my favorites are: Coding Horror, Tech Crunch, Slashdot, Engadget and Lifehacker.
+
+Last but not least, why did you choose Mr. Grim as a username?
+
+Mr. Grim was my favorite character from Twisted Metal Black. I guess the name just sort of stuck with me.
+
+Other “facts”  about Alan and Imgur
+
+Half of revenue comes from ads, the other from donations.  At this point Imgur breaks even
+
+Imgur at this point keeps all photos indefinitely and backs up twice daily
+
+The reason why the first image from Imgur was posted on Digg as told by Alan:   “There’s some conspiracy theory going around that I actually created it for Digg. So, here’s what happened. I posted it on Reddit, Digg, and a couple forums that I frequent at the same time. The server actually ended up going down and the Reddit post got spammed with “It doesn’t work!!”. So, I deleted the thread, corrected the problems, and posted it again the next day. I didn’t bother deleting the Digg thread; that’s why it has a timestamp one day before the Reddit one. “
+
+Imgur strips EXIF off all the pictures so everything on the site is anonymous.

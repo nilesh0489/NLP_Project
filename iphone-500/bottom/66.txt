@@ -1,0 +1,67 @@
+I am not a lawyer. But I do play one on the weekends.
+
+More importantly, over the years I’ve become intimately familiar with the law as it affects journalists on both sides of the pond. I’ve covered cases like the “trade secrets” disputes between Apple and various news sources, and even had a couple of cases where companies (including one or two very big ones) have wanted to sue me. I’ve learned about this stuff because I’ve had to, in order to avoid ending up in court.
+
+With that in mind, I’ve been looking through the various statutes which might just affect Gizmodo’s legal case over the putative new iPhone.
+
+Jared Earle pointed me in the general direction of the Economic Espionage Act of 1996, which makes it an offence to steal or (and this is important) misappropriate a trade secret. There’s no doubt that a new iPhone prototype constitutes a trade secret – so isn’t Gizmodo guilty here?
+
+I spent a long time looking at the issue of trade secrets back when the Think Secret/PowerPage case was going on, which gave me a little insight into the issue. And my take on it is no, Apple can’t claim violation of trade secrets because Gizmodo published the details of the phone.
+
+Why not? Because in order to be classed as a trade secret, you need to “take reasonable steps” to keep it secret. In this case, unless the Apple employee had actually stolen the phone, by allowing it out in public Apple did not take reasonable steps – and hence cannot enjoy the full protection of trade secrets law.
+
+The classic case law in this is all about cars. Car makers go to great lengths to keep the designs of new cars secret. However, inevitably, they want to test them on public roads – there’s only so much testing you can do on private tracks. So they drive them around on quiet roads, usually with some element of “disguise” like fake bodywork added. This is an exact parallel to what Apple did with the new iPhone. It disguised it, and allowed it out into public spaces.
+
+When something is tested internally, it is a trade secret and you are not allowed to takes pictures of it and distribute them, or even write a description of it. There’s plenty of cases which make this clear.
+
+However, if something is seen from a public space, it loses its trade secret protection. You can photograph it, describe it, or examine it in any way which doesn’t violate any other laws. You probably can’t open up a car and poke around in its innards, but that wouldn’t be because it was a trade secret – it would be because you can’t do that with someone else’s property.
+
+So, in my view, neither Gizmodo nor the finder of the phone have a trade secrets case to answer. By testing the phone in public, even under a disguise, Apple lost its trade secret protection.
+
+(UPDATE: Jonathan Ballerano has a good rejoinder to my points about trade secrets, with some insightful comments on how California law specifically affects the issue.)
+
+In California, what you have to do with lost property is covered by the California Civil Code section 2080. Compared to many US laws, it’s actually a model of clarity, but there’s plenty of clauses and sub-clauses to trip the unwary.
+
+The code sets out a pretty clear set of responsibilities for someone who finds lost property. First, within a “reasonable” amount of time, you have to contact the owner if you know or suspect who it is. Second, if you don’t know who it is or the owner “has not claimed the property”, you have to hand it over to the police – again, “within a reasonable time”.
+
+In the Gizmodo case, assuming all statements made by Gizmodo are accurate, the finder attempted to contact Apple and hadn’t had a response within a few weeks. So far, he’s done the right thing. And note that while he has possession of the phone, the law says he has the rights and obligations of a “depositary for hire”. These are defined in section 1852 of the code as showing “at least ordinary care for the preservation of the thing deposited” – in other words, you can’t break it, dump it in the river, leave it lying in the street, and so on.
+
+The legal problem that the finder will face in this case is showing that, in selling it, he was acting in accordance of the duties of a depositary for hire. I don’t think, in fact, that he can: selling property you know you don’t own when you are the depositary is analogous to you leaving something with a storage company for safe keeping and them selling it (storage companies are, in fact, literally “depositaries for hire”).
+
+Secondly, by selling it, he clearly violated his secondary duty (after attempting to contact the owner) of giving it in to the police, which is established under section 2080.1. So there’s a double-oops here.
+
+But it also gets a lot worse – and our finder may have got himself into criminal trouble. Section 485 of the California Penal Code says that anyone who finds lost property and “appropriates such property to his own use, or to the use of another person not entitled thereto, without first making reasonable and just efforts to find the owner and to restore the property to him, is guilty of theft.”
+
+Oh dear. Suddenly, we’ve moved from a civil matter between Apple and the finder to a criminal matter between the State of California and the finder. Oops.
+
+Of course, were such a charge to be brought, everything would hinge on whether the actions taken by the finder amounted to being “reasonable and just”. Much will depend on exactly what he did. Personally, I think that “reasonable and just” would involve more than a couple of phone calls and raising an automated support ticket – I’d be driving over to One Infinite Loop and walking into reception demanding to see someone (and hoping I got a free new phone when they came out for my trouble).
+
+Up till now, we’ve mostly been talking about the potential legal issues regarding the guy who found the phone. Gizmodo didn’t find the phone, so arguably doesn’t have the responsibilities of a finder with regard to lost property. As outlined, I also think they’re in the clear with regard to trade secrets.
+
+But if Section 485 does, in fact, mean that the phone is stolen, Gizmodo is placing itself in the potential position of being in violation of California Penal Code section 496, which deals with receipt of stolen property. To be guilty, you must knowingly obtain the goods – being in receipt of stolen goods when you believe them to be legally-obtained is the classic defence.
+
+On the face of it, this would be a good defence for Gizmodo. However, it may not be enough to cover them.
+
+A classic example of how the courts test for this is the “back alley” thought experiment. If you buy an expensive watch from a shady-looking guy in a back alley, it’s reasonable to for the court to believe that you know it’s stolen, or at least strongly suspect it is. In this case, the circumstances make it impossible to believe you could have formed a reasonable judgement that the watch wasn’t hot.
+
+In the Gizmodo case, a prosecutor would argue that the site should have known about the law on lost property, and in particular Section 485 of the Penal Code which makes it theft to appropriate lost property. We are, after all, talking about a multi-million dollar organisation that can, at the very least, afford some lawyers.
+
+If successfully argued, that would make Gizmodo guilty of knowingly being in receipt of stolen property – at which point, some of them could end up going to jail for a year. Perhaps more painfully, Apple would be entitled to claim up to three times any losses it had suffered because of the theft and receipt – and I suspect it would argue that the losses it had suffered amounted to many millions of dollars. The bill would be far more painful to Gizmodo that any likely criminal sanctions.
+
+This case is very much not like the earlier ones that Apple brought against Think Secret and PowerPage. There’s no issue about trade secrets here. Once that phone is out in public, even disguised, it’s no longer got much in the way of trade secret protection.
+
+By my count, our unnamed iPhone finder has violated California’s lost property law in two different ways, and could easily be charged with theft because in doing so he misappropriated lost property pretty wilfully. On the statements that Gizmodo have made about the efforts he made to contact Apple, I’m pretty certain that he didn’t do enough, and even if he did, once he got no response he should have handed it over to the police rather than selling it.
+
+Gizmodo, on the other hand, gets off relatively lightly by only being up for a potential charge of receiving stolen goods (assuming the theft charge is also brought). A year inside for Messers Denton and Chen, and a big enough set of damages to bankrupt the company may ensue.
+
+Or it may not. In fact, I think the odds are that Apple will make no attempt to get criminal charges pressed (and it’s pretty unlikely the police would pick it up otherwise), and will take no civil action against the finder of the phone.
+
+Why not? Because I don’t think there’s any benefit to them to doing so. Getting dragged into what would undoubtedly be a long-running case, involving a website which would undoubtedly play the “chilling effects” “press freedom” card wouldn’t benefit them.
+
+But you can bet that Gawker won’t be getting any press access to anything from Apple soon.
+
+As a reporter – and make no doubt, Gizmodo is reporting here, actually doing journalism red in tooth and claw – you inevitably end up walking close to the edge of what’s legal every now and then. Whether it’s being in receipt of confidential information, publishing something that’s potentially defamatory, or standing closer to the front line of a protest than the police would like, you occasionally have to put yourself in some legally-risky positions.
+
+What I’ve talked about here is purely the legal position. I’m not making any judgements about the ethics of it. In (potentially) breaking the law, has Gizmodo overstepped the line that journalists occasionally have to dance around? In paying $5000 for the iPhone, did it do something that isn’t justifiable?
+
+I’ll save that for another post. Suffice to say, it’s complicated.

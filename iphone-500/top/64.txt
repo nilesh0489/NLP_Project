@@ -1,0 +1,6 @@
+Apple has rejected Eucalyptus, an ebook reader that facilitates downloading public domain books from Project Gutenberg, because some Victorian books mention sex (many of these same books can be bought as ebooks through the iPhone Kindle reader or purchased as audiobooks from the iTunes store). It's amazing to think that in 2009 a phone manufacturer wants to dictate which literature its customers should be allowed to download and read on their devices.
+
+Thank you for submitting Eucalyptus -- classic books, to go. to the App Store. We've reviewed Eucalyptus -- classic books, to go. and determined that we cannot post this version of your iPhone application to the App Store because it contains inappropriate sexual content and is in violation of Section 3.3.12 from the iPhone SDK Agreement which states:
+"Applications must not contain any obscene, pornographic, offensive or defamatory content or materials of any kind (text, graphics, images, photographs, etc.), or other content or materials that in Apple's reasonable judgement may be found objectionable by iPhone or iPod touch users."
+
+Remember, Apple is also petitioning the government to make it illegal to install any application on your phone that they haven't approved.

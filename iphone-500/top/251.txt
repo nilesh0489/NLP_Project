@@ -1,0 +1,37 @@
+Once upon a time, Steve Ballmer blasted Apple for asking its customers to pay $500 for an Apple logo. This was the “Apple Tax“, the price difference between the solid, professional workmanship of a laptop running on Windows, and Apple’s needlessly elegant MacBooks.
+
+Following last week’s verdict against Samsung, the kommentariat have raised the specter of an egregious new Apple Tax, one that Apple will levy on other smartphone makers who will have no choice but to pass the burden on to you. The idea is this: Samsung’s loss means it will now have to compete against Apple with its dominant hand — a lower price tag — tied behind its back. This will allow Apple to exact higher prices for its iPhones (and iPads) and thus inflict even more pain and suffering on consumers.
+
+There seems to be a moral aspect, here, as if Apple should be held to a higher standard. Last year, Apple and Nokia settled an IP “misunderstanding” that also resulted in a “Tax”…but it was Nokia that played the T-Man role: Apple paid Nokia more than $600M plus an estimated $11.50 per iPhone sold. Where were the handwringers who now accuse Apple of abusing the patent system when the Nokia settlement took place? Where was the outrage against the “evil”, if hapless, Finnish company? (Amusingly, observers speculate that Nokia has made more money from these IP arrangements than from selling its own Lumia smartphones.)
+
+Even where the moral tone is muted, the significance of the verdict (which you can read in full here) is over-dramatized. For instance, see this August 24th Wall Street Journal story sensationally titled After Verdict, Prepare for the ‘Apple Tax’:
+
+After its stunning victory against rival device-makerSamsung ElectronicsCo., experts say consumers should expect smartphones, tablets and other mobile devices that license variousAppleInc., design and software innovations to be more expensive to produce.
+
+“There may be a big Apple tax,” said IDC analyst Al Hilwa. “Phones will be more expensive.”
+
+The reason is that rival device makers will likely have to pay to license the various Apple technologies the company sought to protect in court. The jury found that Samsung infringed as many as seven Apple patents, awarding $1.05 billion in damages.
+
+The $1B sum awarded to Apple sounds impressive, but to the giants involved, it doesn’t really change much. Samsung’s annual marketing budget is about $2.75B (it covers washer-dryers and TVs, but it’s mostly smartphones), and, of course, Apple is sitting on a $100B+ cash hoard.
+
+Then there’s the horror over the open-ended nature of the decision: Apple can continue to seek injunctions against products that infringe on their patents. From the NYT article:
+
+…the decision could essentially force [Samsung] and other smartphone makers to redesign their products to be less Apple-like, or risk further legal defeats.
+
+Certainly, injunctions couldposea real threat. They could remove competitors, make Apple more dominant, give it morepricing power to the consumer’s detriment…but none of this is a certainty. Last week’s verdict and any follow-up injunctions are sure to be appealed and appealed again until all avenues are exhausted. The Apple Tax won’t be enforced for several years, if ever.
+
+And even if the “Tax” is assessed, will it have a deleterious impact on device manufacturers and consumers? Last year, about half of all Android handset makers — including ZTE, HTC, Sharp — were handed a Microsoft Tax bill ($27 per phone in ZTE’s case), one that isn’t impeded by an obstacle course of appeals. Count Samsung in this group: The Korean giant reportedly agreed to pay Microsoft “between $10 and $15 – for each Android smartphone or tablet computer it sells.” Sell 100M devices and the tax bill owed to Ballmer and Co. exceeds $1B. Despite this onerous surcharge, Android devices thrive, and Samsung has quickly jumped to the lead in the Android handset race (from Informa, Telecoms & Media):
+
+Amusingly, the Samsung verdict prompted this gloating tweet from Microsoft exec Bill Cox:
+
+Windows Phone is looking gooooood right now.
+
+(Or, as AllThingsD interpreted it: Microsoft to Samsung. Mind if I Revel in Your Misfortune for a Moment?)
+
+The subtext is clear: Android handset makers should worry about threats to the platform and seek safe harbor with the “Apple-safe” Windows Phone 8. This will be a “goooood” thing all around: If more handset makers offer Windows Phone devices, there will be more choices, fewer opportunities for Apple to get “unfairly high” prices for its iDevices. The detrimental effects, to consumers, of the “Apple Tax” might not be so bad, after all.
+
+The Samsung trial recalls the interesting peace agreement that Apple and Microsoft forged in 1997, when Microsoft “invested” $150M in Apple as a fig-leaf for an IP settlement (see the end of the Quora article). The interesting part of the accord is the provision in which the companies agree that they won’t “clone” each other’s products. If Microsoft could arrange a cross-license agreement with Apple that includes an anti-cloning provision and eventually come up with its own original work (everyone agrees that Microsoft’s Modern UI is elegant, interesting, not just a knock-off), how come Samsung didn’t reach a similar arrangement and produce its own distinctive look and feel?
+
+Microsoft and Apple saw that an armed peace was a better solution than constant IP conflicts. Can Samsung and Apple decide to do something similar and feed engineers rather than platoons of high-priced lawyers (the real winners in these battles)?
+
+It’s a nice thought but I doubt it’ll happen. Gates and Jobs had known one another for a long time; there was animosity, but also familiarity. There is no such comfort between Apple and Samsung execs. There is, instead, a wide cultural divide.

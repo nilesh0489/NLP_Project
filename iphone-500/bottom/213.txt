@@ -1,0 +1,48 @@
+In 1998, I got to speak at a Palm developers' conference. I'm no programmer, so I thought I'd entertain the audience with some dazzling new apps for the PalmPilot. One of them was Dragon NaturallySpeaking for the Palm.
+
+
+
+The Times's technology columnist, David Pogue, keeps you on top of the industry in his free, weekly email newsletter.
+Sign up | See Sample
+I leaned over to the palmtop and said, "You are witnessing an alpha copy of Dragon NaturallySpeaking for Palm (period). Now (comma), for the first time (comma), I can type as fast as I can speak (comma), while my trusty hand-held secretary takes it all down (period)."
+
+The crowd of programmers was flabbergasted. Remember, this was 1998. The Palm had a black-and-white screen, no microphone and about as much computing power as a pocket calculator--and it could transcribe spoken text?
+
+Well, no, actually. The whole thing was a hoax. I'd had a friend create what was actually a simple animation showing words appearing on the screen as though being transcribed in real time. Then I rehearsed my speech until the timing of my words was perfect.
+
+
+I couldn't help remembering that moment this week as I tried out Dragon Dictation, a new, free, very real app for the iPhone from Nuance. You tap a big central Record button--and you talk. (You still have to speak the punctuation and say "new paragraph" when you want a line break.) When you tap Done, the typed transcription of what you said appears on the screen.
+
+Behind the scenes, your audio is being sent to Nuance's computers, recognized and converted, then flung back to your screen as text. If you have Wi-Fi connection, conversion is almost instantaneous; on a cellular connection, it may take a couple of seconds.
+
+Sometimes there's a misrecognized word (but surprisingly few, considering that you haven't trained the system to recognize your voice and you're using a cellphone). You can make the keyboard pop up for corrections.
+
+Sadly, you can't dictate directly into an e-mail message, a text message, the Notes app or whatever. You have to dictate into the Dragon app. From there, a button offers you the chance to slap the transcribed text into an e-mail or text message, or just to copy it to the clipboard, ready for pasting into another app.
+
+That's a real bummer, an awkward workaround, but it's not Nuance's fault. It's a fact of life as long as the iPhone doesn't let apps run in the background.
+
+Even with that extra step, though, I'm finding Dragon to be a much faster, more efficient way to spit out e-mail messages, notes, text messages and Twitter updates. It's really, really cool.
+
+If you look at the reviews for this app on the iTunes store, though, you'll be astonished--there are over 1,000 one-star reviews! What's going on? They're not judging the app on its design or effectiveness, that's for sure.
+
+Instead, people are freaked out by that "your audio is converted by Nuance's servers" part. They think this is a privacy violation. They fear that someone at Nuance might listen in to the audio. (Nuance says nope, it's just a bunch of computers, maintained in a secure facility, and the audio and transcriptions are not saved.)
+
+They're also alarmed by the welcome screen's note that the names in your address book are uploaded to Nuance, too. Eeks! Nuance will know the names of the people we know!
+
+OK, first of all, this business of your audio being sent to Nuance for transcription rings a very familiar bell. Remember the Gmail brouhaha? When Gmail debuted, it offered a fantastic e-mail account, paid for by small text ads on the side whose subjects are matched to the e-mail contents.
+
+At the time, everyone was hysterical about the supposed privacy violation: Google will be reading my e-mail! Of course, no humans were looking at your e-mail. It was just a bunch of servers analyzing keywords. Today, everybody's forgotten all about it. But now the issue rises again with Dragon Dictation.
+
+As for the names in your Contacts: they're sent to Nuance so that the app will recognize the names when you dictate them. No other information (phone numbers, e-mail, addresses, etc.) is transmitted.
+
+What I don't understand is: Why don't these same people worry that Verizon or AT&T is listening in to their cellphone calls every single day? Why don't they worry that MasterCard is peeking into their buying habits? How do they know Microsoft and Apple aren't slurping down private documents off the hard drive and laughing their heads off?
+
+I mean, if you're gonna be paranoid, at least be rational about it.
+
+Other one-star reviews come from people pointing out that Dragon Dictation doesn't work on the iPod Touch. True, although Nuance never made any claim that it does, and the app is free, so I'm not sure why the anger.
+
+Overall, this is an amazingly fast, impressively accurate 1.0 effort. It has plenty of room to grow; right now, it's bare-bones and simple. (For starters, the company says that it will be adding a checkbox to opt out of the Contacts-uploading thing. Good idea; if privacy nuts want to type out every last name by hand, let them.) Also, at the moment, the app stops listening and presents the text you've dictated so far after every 30 seconds. You can just tap Record again and keep going, but it'd be nice if that 30-second-stopping thing went away.
+
+On the other hand, what do you want for free? (The company says the program won't always be.)
+
+So if you'd like to see a little real magic on your phone, and you're not privacy-paranoid, now's the time to try it. This time, it's not a hoax.

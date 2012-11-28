@@ -1,0 +1,23 @@
+There is something deeply exasperating about the debate, spotlighted Thursday, about whether unlocking an iPhone violates Apple’s copyright on the cellphone’s software. There’s a real issue at stake, but it isn’t fundamentally about copyrights.
+
+The Electronic Frontier Foundation, in a filing with the Copyright Office, argues that the government should allow iPhone owners to circumvent technical barriers meant to keep them from changing the phone’s software, a process called jailbreaking. The Digital Millennium Copyright Act bans people from defeating technical protections for copyrighted materials (such as the encryption on DVDs). The act requires the government to consider exemptions to this ban every three years.
+
+Apple, not surprisingly, filed an objection, saying that jailbreaking a phone indeed violates copyright law and that no exception should be granted.
+
+One of the key legal arguments is whether installing software on an iPhone that is not sold through Apple’s iTunes store is an infringement of Apple’s copyright. The E.F.F. argues that it does not and that Apple’s motivation is simply to preserve its revenue from software sales.
+
+Apple argues that its copyright is infringed, in part because its reputation and potential to profit from iPhone sales in the future is hurt because jailbroken phones may be more subject to bugs and security flaws. The copy protection scheme enforces a “chain of trust” that allows Apple to make sure that harmful software does not get onto the phones. Here is a key summary from its argument, which refers to T.M.P.’s, or technical protection measures, the software meant to keep people from jailbreaking the phone:
+
+It should be clear that the iPhone ecosystem Apple has built is good for developers, good for iPhone users, good for Apple, and good for the policies underlying the copyright laws to encourage the creation of works of authorship. That ecosystem depends upon the “chain of trust” implemented in the iPhone through its T.M.P.’s. The proposed exemption would destroy that chain of trust and threaten many of the benefits the ecosystem affords, and should therefore be rejected.
+
+Stepping back, one of the big issues here is whether Apple has the right to tell people who buy iPhones to use them only in the way it wants them to. Why shouldn’t I be able to run buggy software if I choose to?
+
+But it’s not quite so simple. Jennifer S. Granick, a lawyer for the E.F.F., said that Apple could force buyers of the phone to agree to any conditions it wants to write into a user agreement. But those agreements would be governed by contract law, which would force Apple to sue users and prove actual damages.
+
+Under copyright law, Apple would have the right to claim statutory damages of up to $2,500 “per act of circumvention.” People who jailbreak phones might even be subject to criminal penalties of as long as five years, if they circumvented copyright for a financial gain.
+
+“Apple is bringing the hammer down in a way that Congress never intended and is really severe for something that is just not wrong,” Ms. Granick said. An Apple spokesman declined to comment beyond the company’s legal filing.
+
+The issue will be decided by the Library of Congress by this fall after several hearings in the spring. This is the exasperating part. It’s hardly clear that the Library of Congress, which does look after copyright law, is the right place for this debate. After all, the copyrighted software is really a small part of a cellphone and not really part of the fundamental issue.
+
+This is an issue that Congress may have to take up. Ms. Granick also pointed out that Congress has from time to time limited the ability of companies to use contract law to limit what buyers of their products can do with them. For example, car companies are not allowed to void warranties for people who chose to have repairs done somewhere other than at dealers.

@@ -1,0 +1,3 @@
+I haven't downloaded this yet, just noting the buzz around the blogs today: Plane Finder AR is an iPhone augmented reality app that promises to identify the origin and destination of any plane you might point your phone toward, overhead in the sky. A quick peek at the app's entry in the iTunes store shows some very upset user reactions: the $2.99 app only works with planes carrying ADS-B equipment, and only in areas where the app developer has equipment in place to read those signals. Sounds like Australia is the only country so far with full ADS-B coverage. Again, the developer is not using FAA data, so caveat downloader.
+
+Still: I'll give it, oh, 30 minutes before a US lawmaker flips out over the app as a perceived terror threat.

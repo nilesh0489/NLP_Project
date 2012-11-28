@@ -1,0 +1,11 @@
+Fring, an Israeli startup that has a great VOIP/Chat service for mobile phones (see our February coverage), is launching an iPhone version of the service sometime in the next 24 hours, we’ve heard.
+
+This is not a browser-based chat app like FlickIM or Mundu. It should be a fully functional downloadable version of the application that allows users to access the fring, Skype, MSN Messenger, Google Talk, ICQ, SIP, Twitter, Yahoo and AIM services.
+
+That means they’ll be using the Jailbreak installer, which severely limits the number of iPhone users who will download and use it.
+
+But Fring may also be the first really killer application that can get non-early adopter users to consider using Jailbreak. The ability to make VOIP calls over the data plan in itself is probably worth it (although it may only work over Wifi, not the Edge network).
+
+This is most likely a test run in preparation for the official iPhone app store that will launch this summer. It’s also a risky strategy – some developers I’ve spoken with are avoiding Jailbreak because they don’t want to anger Apple and have their official applications banned down the road.
+
+Fring is doing very well even without the iPhone. The service, which is about a year old, gets 100,000 new active users per month. We’ll update when Fring actually launches the application. Update: It launched. Read about it here. Download it here.
