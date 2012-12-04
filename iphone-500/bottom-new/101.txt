@@ -1,0 +1,30 @@
+Among the world's leading productivity tools is an advanced technology known as paper. Many of the world's top corporations and most active internet users have adopted paper as a method of organizing their daily lives. When they think of something they need to do, they write it down on a piece of paper and keep that piece of paper with them.
+
+Though some advances have been made in paper's effectiveness -- such as the addition of a sticky section that allows you to attach a piece of paper to your monitor, your desktop, or even another piece of paper -- it turns out that paper is pretty hard to improve on, and reigns as a leading task management technology.
+
+
+
+When we set out to build Tasks (now in Gmail Labs), one of our goals was to improve upon paper. With the version of Tasks in Gmail, we focused on making editing very fast and simple -- as close to paper as we could. But despite dual-core CPUs, 30" monitors, and high speed internet connections, many Googlers still found themselves using paper to track their tasks.
+
+We did some competitive analysis and here is what we found.
+
+Paper has a number of popular features:
+Easy editing. Cross out with pen and write something new.
+Works offline. You can read paper even when your PC is not connected to the internet.
+Mobile. Fold paper and stick in pocket.
+Instant boot up. Just pull paper out of pocket -- don't have to wait for it to load.
+
+However, paper does have some limitations:
+Limited availability. You don't always have a pad of paper with you to write new things.
+Not ubiquitous. If you leave a piece of paper in one pair of jeans, you can't access it from the other jeans you're currently wearing.
+Difficult to organize. Eventually turns into a giant mess on your desk.
+
+
+
+We set out to fix this by making Tasks available from your phone with a version optimized for the small screen. And starting today, you can manage your task list from your iPhone or Android device, and access it from any xhtml enabled phone. (Mine's always with me, in whichever jeans I'm wearing.) Just go to gmail.com/tasks from your phone's browser and log in. If you already use the version of Tasks in Gmail Labs, you'll see the same task list that's always in sync. We focused on making it super easy and fast to update your Gmail task list -- you can add new tasks and check off completed ones, no matter where you are (like in a meeting or at the grocery store) even when you're in the bathroom.
+
+
+
+A number of Googlers have told us that with this new mobile UI they've finally scrapped the paper task management that they never really liked but couldn't ever beat. We're interested to hear what you think, and how this compares to paper, so try it out and let us know.
+
+P.S. There's a new gadget version of Tasks too -- so if you want to add your same task list to iGoogle, now you can.

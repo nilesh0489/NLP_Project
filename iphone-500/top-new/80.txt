@@ -1,0 +1,37 @@
+Google's Android OS has gained an astonishing 7 points of market share in the US smartphone market in the past three months, Comscore says
+
+RIM's market share over the same period collapsed, dropping almost 5 points.
+
+Apple's iPhone share increased slightly, but is dead in the water and has now fallen way behind Android (in smartphones).
+
+(If you include iPod touches in the calculation,Apple's share has actually fallen).
+
+Android now has a third of the US market (33%). RIM's share has plummeted to 29%. Apple is holding at 25%.
+
+In the "also ran" category, Microsoft's Windows Phone 7 did nothing to stop its decline, which fell from 9% to 7.7%. And Palm, which is barely worth mentioning anymore, fell another point to 2.8%.
+
+Why do the Android gains matter? Are Apple bulls right that Apple has an insurmountable hold on the "premium" segment of the market and that it doesn't matter who has the other 75%?
+
+The Android gains matter because technology platform markets tend to standardize around a single dominant platform (see Windows in PCs, Facebook in social, Google in search). And the more dominant the platform becomes, the more valuable it becomes and the harder it becomes to dislodge. The network effect kicks in, and developers building products designed to work with the platform devote more and more of their energy to the platform. The reward for building and working with other platforms, meanwhile, drops, and gradually developers stop developing for them.
+
+Importantly, it's not a question of which platform is "better." (This is irrelevant.) It's a question of which platform everyone else uses.  And increasingly, in the smartphone market, barring a radical change in trend, that's Android.
+
+So that's why Android's gains matter. And, yes, Apple fans should be scared to death about them.
+
+Apple is fighting a very similar war to the one it fought--and lost--in the 1990s. It is trying to build the best integrated products, hardware and software, and maintain complete control over the ecosystem around them. This end-to-end control makes it easier for Apple to build products that are "better," but it makes it much harder for the company to compete against a software platform that is standard across many hardware manufacturers (Windows in the 1990s, Android now).
+
+As we explain here, two important things are different about the current Android - iPhone battle than the Mac - Windows war in the 1990s. First, Apple is maintaining price parity (or better) with the leading Android phones. (Macs always cost more than PCs). Second, Android is still a fragmented platform, which significantly reduces the benefits of "interoperability" across multiple manufacturers.
+
+Google is working to fix the second problem, though--enacting much tighter rules about how Android can be used. And if the platform is to become dominant and ubiquitous, it will likely continue to tighten these rules.
+
+And Apple's price parity certainly does not appear to have stopped the Android juggernaut.
+
+The unit and platform numbers below, which show the change in market share from November to February, are not unit sales in the month. They are total usage stats, showing how the platform usage shifted over the period.
+
+So these Android gains should scare the bejeezus out of Apple bulls -- and Apple itself. And Apple's decision to not release the iPhone 5 in June will likely exacerbate rather than slow this trend.
+
+Here's the US handset share, by manufacturer:
+
+And US smartphone platform share (this is the key one):
+
+And, relatedly, a look at what folks are doing with their handsets these days:

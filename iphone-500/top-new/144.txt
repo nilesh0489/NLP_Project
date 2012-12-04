@@ -1,0 +1,9 @@
+I need SmartScreen in my iPhone, an application that allows you to place Dashboard-like widgets on the lock screen, so you can quickly access small pills of information quickly without having to get into applications. Smart, smooth, and oh-so-nice.
+
+I don't know about you, but I wish I could have access to bits of information in my iPhone without having to access the applications themselves. Calendar, Twitter, weather, Facebook updates... widgets that will only display data and, with one click, go straight to the app itself to do an action. That will allow the iPhone to have a customized front end like the Motoblur in the new Motorola Cliq.
+
+Sadly, it won't be available from the Apple iTunes Store: It requires to jailbreak your phone. However, it's completely worth the effort, especially if they include some useful widgets with it. The developer is going to publish an SDK for it:
+
+A SmartScreen SDK will be available to everyone in November 2009 but widget developers are being selected to participate in a Beta programme, if you feel you could participate and would like to produce widgets, please email dev@media-phone.ch and we will consider you early access to the programme.
+
+I'm looking forward to the widgets people can come up with. I just hope SmartScreen doesn't require me to paint my nails with glitter in order to use it. I like my current fluorescent green, thank you very much.

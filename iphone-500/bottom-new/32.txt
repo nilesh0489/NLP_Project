@@ -1,0 +1,9 @@
+Apple has quietly enabled a mobile ads tracking system in iOS 6, with unique per-device identifiers that provide advertisers with more user information than ever before. Having blocked developers from using UDID codes – device-specific codes that could be monitored to see if adverts led to app downloads – Apple replaced the unofficial functionality with an official version, IFA/IFDA (Identifier For Advertising) that comes automatically set active, Business Insider reports.
+
+Unlike UDID numbers, which are assigned to the device and cannot be changed, IFA codes are designed to be ephemeral. Created randomly and then anonymously assigned to a phone or tablet, they transiently link publishers serving up adverts and the ad servers so that an appropriate advert is displayed on subsequent browsing.
+
+If you go on to download an app, the ad server can see what led you to that download, something which was impossible to track previously. There’s no personally-identifiable data, but the fact that Apple has it turned on by default might frustrate or upset some privacy advocates.
+
+IFA can be switched off on iOS 6 devices, though the setting to do so isn’t where you’d perhaps first expect. Rather than being part of the Privacy options, it’s under General > About > Advertising, and labeled “Limit Ad Tracking”; for IFA to be deactivated, the switch must – arguably counter-intuitively – be set to “on” rather than “off.”
+
+“The biggest thing we’re excited about is that it’s on by default, so we expect most people will leave it on” ad provider Mobile Theory’s CEO Scott Swanson told BI, saying that while the data was personally non-identifiable, it nonetheless provided “a really meaningful inference of behavior” previously unavailable to advertisers.

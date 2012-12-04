@@ -1,0 +1,15 @@
+Apple‘s iCloud service brings a whole raft of services — email, calendar, contacts, ‘Find My iPhone” and cloud storage — and stores them behind a single username and password. This is very convenient, but if that username and password falls into the wrong hands, you can find yourself very quickly in a world of pain.
+
+This is what happened to Mat Honan, former journalist for Gizmodo and former contributing editor to WIRED magazine. Before the hackers gained access to his Twitter account and that of Gizmodo, the hackers first gained access to his iCloud account, where they caused irrevocable havoc.
+
+At 4:50 PM, someone got into my iCloud account, reset the password and sent the confirmation message about the reset to the trash. My password was a 7 digit alphanumeric that I didn’t use elsewhere. When I set it up, years and years ago, that seemed pretty secure at the time. But it’s not. Especially given that I’ve been using it for, well, years and years. My guess is they used brute force to get the password, and then reset it to do the damage to my devices. The backup email address on my Gmail account is that same .mac email address. At 4:52 PM, they sent a Gmail password recovery email to the .mac account. Two minutes later, an email arrived notifying me that my Google Account password had changed. At 5:00 PM, they remote wiped my iPhone At 5:01 PM, they remote wiped my iPad At 5:05, they remote wiped my MacBook Air.
+
+I still can’t get into Gmail. My phone and iPads are down (but are restoring). Apple tells me that the remote wipe is likely irrecoverable without serious forensics. Because I’m a jerk who doesn’t back up data, I’ve lost at more than a year’s worth of photos, emails, documents, and more. And, really, who knows what else.
+
+To do all the damage all the hackers needed to do was to get their hands on a single username and password. Honan believes that this was done by a process called brute forcing, that is, trying passwords until you get lucky. It’s a long process, but if the password is simple or short enough, it’s doable. Short passwords are almost as bad as no password at all, in fact, they’re worse because they lull you into a false sense of security.
+
+As pointed out in the comments on Honan’s post, another problem with iCloud is that you only need a username and password to access the account, while Google accounts can be protected by a 2-step verification. Here, along with your username and password, you can set your Google account  to ask you for a six-digit code that Google will send via text message to your phone. While this is no doubt more hassle than just using just the username and password, it dramatically improves account security.
+
+If you have an iCloud account, let this be a warning to you. I suggest you change your password, and pick something long and random — I know I have.
+
+It’s a dangerous place out there!

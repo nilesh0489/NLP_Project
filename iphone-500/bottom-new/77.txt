@@ -1,0 +1,13 @@
+SAN FRANCISCO, Oct. 19 (UPI) --Some iPhone owners have begun reporting a bug that has their handsets showing the wrong date and time, a U.S. tech website reports.
+
+The majority of complaints appear to be coming from Verizon iPhone subscribers, Tom's Hardware Guide reported Friday.
+
+Some iPhone owners are complaining about the date and time being off by a day, while others report dates off by as much as two weeks.
+
+"Mine isn't just off by 30 min," one iPhone owner wrote on the Apple Support Communities website. "Today the black one was off by 15 days plus 6 hours and 12 minutes when I pulled it off the charger. The white one is my wife's and she complained yesterday evening that she had to fix the time four times throughout the day."
+
+"I've had the phone for about two weeks and have noticed the time drifting slowly off by 3-5 minutes," another user wrote. "Tonight [Tuesday] at 10:40 p.m. it changed itself to September 28th 4:35pm."
+
+Many of the complaining owners say the issue is occurring at their home, suggesting inconsistent WiFi or LTE coverage.
+
+Several purported fixes have been suggested by users, including changing the date and time updating from automatic to manual, turning off LTE, resetting the device or toggling the Airplane mode.

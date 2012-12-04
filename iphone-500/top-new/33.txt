@@ -1,0 +1,13 @@
+ Bill Nye the Science Guy was gracious enough to elbow Matt out of the way and write a Giz Explains column, in which he tackles the science of "oleophobia," and its relation to the new iPhone screen.
+
+The new 3GS iPhone has a coating that helps you leave no, well hardly any, prints–-fingerprints. The glass screen is coated with a polymer, a plastic that human skin oil doesn't adhere to very well. People in the chemical bonding business like to call the finished surface "oleophobic."
+
+Such a lovely Greek cognate may sound like it means "afraid of oil." And, it does, but it also connotes (or carries with) "aversion" or "not-like-to-be-around-tivity," if I may. Instead of sticking to the bonded-plastic surface of your new phone, the oil from you fingers or cheekbone or tip of your nose stays more or less together as its own smooshed droplet.
+
+The Applers were able to do this by bonding this oleophobic polymer to glass. The polymer is an organic (from organisms) compound, carbon-based. The glass is nominally inorganic, silicon-based… solid rock. The trick is getting the one to stick to the other. Although it is nominally proprietary, this is probably done with a third molecule that sticks to silicon on one side and to carbon-based polymers on the other side. Chemical engineers get it to stay stuck by inducing compounds to diffuse or "inter-penetrate" into the polymer. The intermediate chemical is a "silane," a molecule that has silicon and alkanes (chains of carbon atoms).
+
+If you'd like—and I hope you will—take a moment and think about droplets, like water droplets, on a surface. Deep in the droplet, water molecules stick to each other. On the surface though, they stick to each other as well, but they also have to opportunity to stick or not to stick to the surface they're resting on. When they stick, say to the nylon fibers in a bikini strap, the swimsuit feels wet (or so I'm told). When they don't stick to the surface they're resting on, they bead up, like in the car wax commercials.
+
+Well, the polymer that the 3GS iPhone screen is coated with doesn't let the oil of your skin stick to it very much. So, you don't leave fingerprints. The key is in the intermediate compounds, the silanes that hold the plastic to the glass.
+
+So grab a hold of one, and for a change, watch almost nothing happen. It's chemistry.

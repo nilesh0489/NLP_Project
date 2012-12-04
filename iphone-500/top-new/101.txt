@@ -1,0 +1,11 @@
+Spyware developed by a U.K. group can take control of a number of mobile devices, including iPhones and BlackBerrys, turning on microphones and cameras, tracking locations and monitoring emails, text messages and voice calls.
+
+Gamma International specializes in “governmental IT intrusion and remote monitoring solutions,” as its website says. The company’s FinFisher software can infect personal computers as well, intercepting Skype calls and recording keystrokes, and was recently used to suppress dissent in Bahrain. The company says it did not sell the product to Bahrain’s government.
+
+“People are walking around with tools for surveillance in their pockets,” said John Scott-Railton, a doctoral student at UCLA’s Luskin School of Public Affairs who researched the software. “These are the tools that can be used to turn on your microphone and turn your phone into a tracking device.”
+
+The findings—which are consistent with Gamma’s own promotional materials for a FinFisher product called FinSpy Mobile—illustrate how the largely unregulated trade in offensive hacking tools is transforming surveillance, making it more intrusive as it reaches across borders and peers into peoples’ digital devices. FinFisher products can secretly monitor computers, intercepting Skype calls, turning on Web cameras and recording keystrokes. They are marketed by Gamma for law enforcement and government use. “I can confirm that Gamma supplies a piece of mobile intrusion software—FinSpy Mobile,” Gamma International GmbH Managing Director Martin J. Muench said in an Aug. 28 e-mail. “I certainly don’t intend to discuss how or on what platforms it works. I do not wish to inform criminals of how any of our detection systems are used against them.”
+
+More Below the Ad
+
+If you have trouble leaving a comment, review this help page. Still having problems? Let us know. If you find yourself moderated, take a moment to review our comment policy.

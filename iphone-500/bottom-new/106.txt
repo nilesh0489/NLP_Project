@@ -1,0 +1,15 @@
+Njection Mobile announced that they soon will be allowing for companies to push discounts and coupons through their free Njection Mobile (NMobile)[iTunes] iPhone application for use for their members. What would this mean?  It could mean a boon for local businesses and major retailers and a withdraw from local newspapers and old school paper coupon mailers. 
+
+If you recall, NMobile already uses GPS to mark and locate speed traps around the world. Adding on to their business model by adding GPS location-based coupons appears to be a perfect fit. Participating stores can sign up their locations via the website and have them geocoded for use on the NMobile network. At that point, vendors can create coupons they want to attach to a store and generate barcodes that will appear on the phone. There are several different bar code types that are currently in use ranging from UPC-A and E bar codes  used for all retail products to EAN bar code that is used in Europe. 
+
+NMobile searches you area for the best deals and displays a scannable coupon on your iPhone.  Say goodbye to newspaper inserts.
+
+  
+Coupons are used to get people inside of the stores and track the effectiveness of different kinds of promotions.  10% off for different product and services can encourage people to buy other items at that location with the savings they get with the offers they receive. There have been several reports of people using the iPhone for a boarding pass for air plane flights so one would conclude using it for coupons wouldn't be any different. One of the issues that Njection has to overcome is the use of two different ways that coupons can be redeemed. One way is the more traditional way is to produce a barcode on the screen of the cell phone and allow the scanner at the store to scan the face of the cell phone to register the transaction.  
+
+However, because of the reflective surface of the iPhone, some laser scanners may not allow the scan to take place but most CCD bar code readers will see it just fine. To work around that setback, the second way is to allow for a confirmation code to be entered into the phone to register the transaction as well. All of the stats and transactions are tracked anonymously online and allow for business to quickly measure the effectiveness of their promotions.
+
+
+NMobile's Njection Ads Finds You The Best Local Deals, Gets You The Barcode
+
+So there you have it, another nail in the coffin for print media advertising. Njection Mobile says they'll be launching the application officially on July 20th, just in time for the back to school shopping season.  And this is just the beginning, since GPS technology is pretty much ubiquitous for the smartphone handset arena.  We're told the company is eyeballing Windows Mobile, Blackberry, Palm and Android versions as well.  Ladies and Gentlemen, start your shopping engines now.  The application is free, so it's a no brainer.
