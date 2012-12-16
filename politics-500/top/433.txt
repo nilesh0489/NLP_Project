@@ -1,7 +1,0 @@
-Free Press confirms installation, secret justification of uncertified last minute election tabulation reporting software in Ohio by Gerry Bello and Bob Fitrakis November 2, 2012
-
-The Free Press has obtained internal memos from the senior staff of the Ohio Secretary of State’s office confirming the installation of untested and uncertified election tabulation software. Yesterday, the Free Press reported that “experimental” software patches were installed on ES&S voting machines in 39 Ohio counties. (see Will “experimental” software patches affect the Ohio vote?).
-
-Election Counsel Brandi Laser Seske circulated a memo dated November 1st renewing the already shaky justification for installing software made by Election Systems and Solutions on vote tabulation equipment used in 39 Ohio counties. The letter to Ohio Secretary of State personnel Matt Masterson, Danielle Sellars, Myra Hawkins, Betsy Schuster, and Ohio’s Director of Elections Matthew Damschroder, clarified the dubious justification for not complying with the legal requirements for the examination of all election related equipment.
-
-Seske begins by explaining what she purports to be the purpose of the software patch: “Its function is to aid in the reporting of results that are already uploaded into the county’s system. The software formats results that have already been uploaded by the county into a format that can be read by the Secretary of State’s election night reporting system.”

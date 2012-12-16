@@ -1,5 +1,0 @@
-As we reported yesterday,  Microsoft has released IE10 platform preview for Windows 7. The download can be found at our source link below but if you are on a production class machine, you may want to wait until the final build of IE 10 for Windows 7 is released.
-
-IE10 is Microsoft’s next generation platform that will go head-to-head with Google’s Chrome and Mozilla’s Firefox browser. Microsoft has been fighting to stop the marketshare bleed that Internet Explorer has been experiencing the past few years as Google’s Chrome has quickly become a crowd favorite.
-
-The bigger challenge Microsoft has is the branding of the browser. Much like Hotmail, Internet Explorer has a negative connotation around it from the woes of yesterday. While we do not expect Microsoft to rebrand its browser, it must find a way to regain consumer confidence if it hopes to return the glory days of being the end-all solution for browsing the Internet.

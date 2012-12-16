@@ -1,9 +1,0 @@
-Update: Skype has resolved this issue, the company says, by updating the password reset procedure and reaching out to the small number of users affected.
-
-Skype faced a fairly serious security threat today, thanks to a flaw in the system replicated by The Next Web that allowed people to sign up with email addresses already in use by other users and then force password resets for any accounts associated with those emails. Reset tokens could be delivered to the Skype client itself, meaning people didn’t need access to email accounts to reset passwords associated with them.
-
-The flaw actually surfaced a few months ago, but seems to have led to a spike in attacks only recently. The issue has caught the attention of Skype and Microsoft, however, and the good news is that they’ve already stepped in with a temporary measure to halt this bug from being exploited any further, by removing its password reset page for the time being. That means users are safe for the moment, and no action should be required on your part in terms of protecting yourself from attack at this stage.
-
-As a long-term fix, Skype will likely either turn off password reset tokens being delivered to clients, or make sure that email addresses can’t be associated with more than one Skype account at a time. It really isn’t a tricky hole to plug, in terms of implementing a lasting solution to address this specific issue, and again, the company has already moved quickly to come up with a temporary fix.
-
-Still, the issue did apparently come up two months ago and has been possible to replicate since, so you have to wonder why it took until now to zap. If you’ve been affected, let us know in the comments, and also let us know if and how Skype resolved any account hijacking that went on.

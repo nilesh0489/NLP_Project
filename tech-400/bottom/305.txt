@@ -1,9 +1,0 @@
-Isn’t it about time for a credit card for the 21st century? Mastercard has done just that with its new “Display Card.” It’s the same size and has the same functionality as a regular credit card, but it also has a digital display on the front as well as a numerical keypad.
-
-The main purpose is to allow customers to create a one-time password for online transactions. In many countries, due to heightened security concerns, it is common for customers to carry around a separate fob device that generates one-time passwords for them. Card transactions and banking access are restricted for these users unless they provide this password.
-
-With the Mastercard Display Card, though, users would need to key in an authentication code on the card itself, rendering it useless if it falls into the wrong hands. The card is currently being introduced in Singapore.
-
-When you think about it, credit cards are the backbone of the American economy. The stuff that consumers buy with them have certainly evolved, but the technology used to make those purchases has not fundamentally changed since the post-World War II era.
-
-The industry is finally starting to shift a little bit with mobile payments, but those have only been successfully rolled out in a few regions. Introducing new technology into a format that users are already comfortable and familiar with is a much easier way to implement widespread adoption, and this could be the stepping stone that gets users to realize payment technology is in the process of a huge transformation.

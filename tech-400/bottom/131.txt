@@ -1,9 +1,0 @@
-If you keep all of your contacts in Google you might be interested in seeing a map showing their locations. Tech weblog Digital Inspiration shows how you can use their script to connect to your Google account and display a map of your contacts in Google Maps or Google Earth.
-
-You'll need to copy this spreadsheet to your Google Drive account. Inside the spreadsheet will be a custom menu labelled as Google Contacts. Click on that, choose Initialize, and authorize the script to run. When that is done click again on the Google Contacts menu and choose Generate KML file. The file will be generated and automatically emailed to your Gmail address.
-
-If you have Google Earth installed you can just open the file on your computer to view the map but if you'd prefer to use online Google Maps you'll just need to upload the file and then copy the link into Google Maps. I used Dropbox.
-
-You'll see a standard Google map with all of your contacts that have an address listed on their contact entry. For most of us this may be more gimmick than tool but if you have a list of customers you need to visit having such a list already in Google Maps may cut down on your travel preparations.
-
-See All Your Google Contacts on a Google Map | Digital Inspiration

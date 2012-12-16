@@ -1,9 +1,0 @@
-With your help last summer we helped defeat Senator Lieberman'sCybersecurity Act. But for some reason, Senate Majority Leader Reid decided to call for another vote on the bill in the lame duck session today. After an hour's debate, the full Senate voted 51 to 47 against cloture for the Cybersecurity Act, meaning it can't move forward for a vote.
-
-We've spent months going over thevariousfaultsin the bill—and ofthe faults in the other proposedCybersecurity bills. We were particularly concerned because the Cybersecurity Act included overlyvague definitionsfor key terms like "cybersecurity threat," "cybersecurity threat indicator," and even "countermeasures."
-
-EFF believes in strong privacy and security for networked devices—that's why we champion technologies like Tor and HTTPS Everywhere. But we believe that legislation in the arena of cybersecurity should not provide broad, vague powers that allow companies to skirt existing privacy law.  
-
-"We're looking forward to having a more informed debate about cybersecurity next session, and hope Congress will bear in mind the serious privacy interests of individual Internet users. We don't need to water down existing privacy law to address the challenges of cybersecurity," said Senior Staff Attorney Lee Tien.
-
-Today, the Senate votedcorrectly by not proceeding on the Cybersecurity Act. After pushing the same bill on two different occasions, Senator Reid finally declared: "All cybersecurity bills dead for this Congress." That's in large part thanks to the outcry of EFF supporters who spoke out against the bill. Thank you for your support.

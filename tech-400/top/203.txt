@@ -1,1 +1,0 @@
-Get Twitter messages redirected to your phone and send Tweets by text. Make sure to link your mobile phone to your Twitter account and locate the Twitter short code for your country. Then you can send a text message containing your Tweet to that short code and it will be posted to your profile.

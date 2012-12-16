@@ -1,9 +1,0 @@
-Meanwhile, YouTube represented more than one-fifth of all the downstream traffic on mobile networks in Europe.
-
-Despite all the streaming video in North America and Europe, both were outstripped by Internet usage in Asia. According to the study, people there consumed 659 MB of data per month, up 10 percent over the same period last year.
-
-The firm expects that, even with high-speed LTE networks launching and expanding across the world, wireless networks will still face congestion problems as mobile device use increases — particularly on tablets.
-
-“In order to be effective, traffic and congestion management practices for newly- launched LTE networks must be implemented at day zero to maximize subscriber quality of experience (QoE) and ensure a great, high-speed experience for all subscribers,” the report said.
-
-Looking ahead, Sandvine predicted that real-time entertainment will be one of the biggest areas of growth when it comes to data consumption — and that the 2014 World Cup will be the “most streamed event in Internet history.”

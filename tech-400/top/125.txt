@@ -1,1 +1,0 @@
-All of the Tor Browser Bundles have been updated with the latest Firefox 10.0.10esr release and all of the alpha packages, including the alpha Tor Browser Bundles, have been updated with the latest release of Tor 0.2.3.24-rc.

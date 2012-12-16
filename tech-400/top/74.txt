@@ -1,3 +1,0 @@
-You may remember that, a year ago, Pakistan announced they were banning encryption online. Not that any such ban would likely to be effective, but it seems to fit in with the claim that the government has told PTCL, the Pakistani telco, that within 90 days it must monitor basically all communications that go across the Pakistani border:
-
-Yeah, sure, just to "curb blasphemous and obscene websites." I'm sure all that monitoring won't be abused otherwise at all... right? Somehow, despite that earlier ban, I'm guessing that encryption technologies just became a lot more popular in Pakistan.

@@ -1,5 +1,0 @@
-As we predicted in May, (and Apple supplier/competitor Samsung curiously stated in its ad today), the iPhone 5 appears to have 1GB of RAM. AnandTech translated the markings on the A6 chip shown both at the iPhone 5 announcement and on Apple’s current page.
-
-Apple thankfully didn’t obscure the details of its A6 slide at the launch event, which gave us a Samsung part number: K3PE7E700F-XGC2. Through crafty navigation of Samsung’s product guide, Brian Klug got us the details. The K3P tells us we’re looking at a dual-channel LPDDR2 package with 32-bit channels. The E7E7 gives us the density of each of the two DRAM die (512MB per die, 1GB total). The final two characters in the part number give us the cycle time/data rate, which in this case is 1066MHz.
-
-The post noted the iPhone 5′s memory bandwidth surpasses the iPhone 4S handily, but it is not quite as speedy as the iPad 3 (table below).

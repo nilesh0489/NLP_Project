@@ -1,7 +1,0 @@
-Partially overshadowed by the dislocations of Hurricane Sandy was Oak Ridge National Laboratory’s unveiling of its Titan supercomputer, a 20-petaflop Cray XK7 that will crunch massive numbers to run simulations  in materials science, combustion, and, appropriately, climate change. (In the shadow of the storm, it’s interesting to note how many of Titan’s non-weather applications also have environmental implications.)
-
-The system contains 18,688 nodes, each containing a 16-core AMD Opteron 6274 CPU and an NVIDIA Tesla K20 graphics processing unit. The design is 10 times as powerful as ORNL’s previous supercomputer, the Jaguar, but it fits into the same space and uses only a little more power.
-
-“Combining GPUs and CPUS in a single system requires less power than CPUs alone, and is a responsible move towards lowering our carbon footprint,” said ORNL associate director Jeff Nichols in the debut announcement. Titan’s 299,008 CPUs will guide the complex simulations, while the even faster multi-core GPUs will handle the details.
-
-It will take a while before Titan finishes acceptance testing. When it goes online, its biggest client will be the Department of Energy’s INCITE (Innovative and Novel Computational Impact on Theory and Experiment) program.

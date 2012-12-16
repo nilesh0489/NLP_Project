@@ -1,9 +1,0 @@
-Forget what comes after infinity, we at GigaOm were worried about a smaller problem, namely what comes after a yottabyte. Well now we know the answer to that problem — a 10 followed by 27 zeros (a yottabyte only has 24 zeros), otherwise known as a brontobyte.
-
-An exabyte of data is created on the Internet each day, which equates to 250 million DVDs worth of information. And the idea of even larger amounts of data — a zettabyte — isn’t too far off when it comes to the amount of info traversing the web in any one year. Cisco estimates we’ll see a 1.3 zettabytes of traffic annually over the internet in 2016 — and soon enough, we might to start talking about even bigger volumes.
-
-After a zettabyte comes yottabytes, which big data scientists use to talk about how much government data the NSA or FBI have on people altogther. Put it in terms of DVDs, a yottabyte would require 250 trillion of them. But we’ll eventually have to think bigger, and thanks to a presentation from Shantanu Gupta, director of Connected Intelligent Solutions at Intel, we now know the next-generation prefixes for going beyond the yottabyte: a brontobyte and a gegobyte.
-
-A brontobyte, which isn’t an official SI prefix but is apparently recognized by some people in the measurement community, is a 10 followed by 27 zeros. Gupta uses it to describe the type of sensor data we’ll get from the internet of things. A gegobyte is 10 to the power of 30. It’s meaningless to think about how many DVDs that would be, but suffice it to say it’s more than I could watch in a lifetime.
-
-And to drive home the influx of data, Gupta offered the following stats (although in the case of CERN, the SKA telescope and maybe the jet engine sensors, not all of that data needs to be stored):

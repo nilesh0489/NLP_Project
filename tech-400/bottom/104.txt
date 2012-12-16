@@ -1,7 +1,0 @@
-HootSuite just took another big step towards becoming the one dashboard you need to manage your social news feeds.
-
-The company announced Tuesday that it has added support for five additional social platforms including Reddit and StumblUpon to its social media dashboard. Now, users can view and share content from both of these services directly from HootSuite.
-
-With the Reddit add-on, users can see a stream of the most popular posts on the social news website, as well as any subreddits they may be subscribed to, and share posts to their social networks. Likewise, the StumbleuUpon add-on lets users view pages from the social network in their HootSuite stream and track how many times a page has been Stumbled.
-
-In addition to Reddit and StumbleUpon, HootsSuite added support for Scoop.it, CMP.LY and Nexalogy. In total, Hootsuite now offers support for 35 applications, including Flickr, Tumblr, YouTube and Instagram.

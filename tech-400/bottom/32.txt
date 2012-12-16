@@ -1,5 +1,0 @@
-With our datacenter stabilized, we're going to continue our previously planned maintenances.
-
-We will be migrating a subset of our customers to new hardware this weekend. The maintenance window opens promptly at 0300 UTC (2200 EST) and will continue until 0600 UTC (0100 EST). Service interruptions for individual accounts will be between 5 and 30 minutes (depending on the size of the account) and may occur at any time during the window. During the service interruption, both FogBugz and Kiln will be inaccessible. If you need to know if you will be part of the migration, please don't hestiate to contact us.
-
-We will also be performing some routine software maintenance on our Kiln servers at the same time. This will cause approximately 5 minutes of interruption for all Kiln customers, and may occur at any time during the maintenance window.

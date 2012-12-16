@@ -1,5 +1,0 @@
-Quotes are real-time for NASDAQ, NYSE and AMEX. See delay times for other exchanges.
-
-Fundamental company data and historical chart data provided by Thomson Reuters (click for restrictions). Real-time quotes provided by BATS Exchange. Real-time index quotes and delayed quotes supplied by Interactive Data Real-Time Services. Fund summary, fund performance and dividend data provided by Morningstar Inc. Analyst recommendations provided by Zacks Investment Research. StockScouter data provided by Verus Analytics. IPO data provided by Hoover's Inc. Index membership data provided by SIX Financial Information.
-
-Japanese stock price data provided by Nomura Research Institute Ltd.; quotes delayed 20 minutes. Canadian fund data provided by CANNEX Financial Exchanges Ltd.

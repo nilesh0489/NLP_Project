@@ -1,5 +1,0 @@
-Puzzlebox Orbit is an educational toy that combines a brain-controlled helicopter with open hardware, software, and teaching material.
-
-Puzzlebox Orbit, as the helicopter is called, is spherical in shape and launches from a base pyramid that also acts as a wireless relay between your brain and the copter itself. To make the helicopter fly, users just put on an EEG headset and focus. The more focused you are, the higher the helicopter flies. As you lose focus, it begins to descend back to earth.
-
-For more info, check out the video below and the Puzzlebox Orbit official project page on Kickstarter….

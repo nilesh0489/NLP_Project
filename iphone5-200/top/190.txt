@@ -1,9 +1,0 @@
-Sprint has entered into an agreement with Apple to purchase over $20 billion worth of iPhones over the next four years, the Wall Street Journal reports -- around 30 million iPhones. 
-It’s said that Sprint won’t even break even on the transaction until 2014, which is surely a huge risk on Sprint’s part. So why make the deal? 
-BGR.com has been told that Sprint will be getting the iPhone 5 -- yes the real iPhone 5, not the iPhone 4S -- as an exclusive. And it will be a 4G WiMAX device. AT&T and Verizon will launch the iPhone 4S and get the iPhone 5 some time in the first quarter of next year as an LTE device. Globally, the iPhone 5 might be available as a 4G HSPA+ device.
-In this scenario, the iPhone 4S Apple will introduce tomorrow will feature the following:
-A low voltage Apple A5 CPU (it won’t be the same as the iPad 2 chip, clock for clock).
-Updated front and back camera sensors. FaceTime HD in the front, 8-megapixel 1080p HD video recording in the back.
-Multiband 3G Qualcomm chipset — North American & international bands for AT&T and global carriers, North American CDMA & international bands for Verizon and Sprint.
-NFC support.
-Metal or “premium” plastic on the back case.

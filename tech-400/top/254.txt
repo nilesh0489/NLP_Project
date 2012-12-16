@@ -1,7 +1,0 @@
-You've seen the leaks, but now it's real. HTC and Verizon have just announced the Droid DNA, a 5-inch behemoth sporting an incredible 1080p Super LCD3 display. Powering those pixels is the capable Snapdragon S4 Pro SoC, familiar to us as the APQ8064 with 4 Krait cores running at 1.5GHz and last seen in the Nexus 4. For modem, the Droid DNA is using MDM9615 which makes this HTC's first Qualcomm Fusion 3 based device. The Droid DNA also includes ImageChip and the usual ImageSense features, and brings the 2.1 MP F/2.0 camera we saw on the HTC 8X as well. There's 2 GB of RAM onboard as well.
-
-The style of the phone alludes to its Incredible forebears, but only in the bright red accents. The design is sleeker, with a smooth back and thin profile. On the long edges of the phone are large red grills, though stereo speakers are not in order. What is available to audiophiles, is a 2.55v built-in headphone amp, not a common find in a smartphone but something that will go a long way to improving the listening experience. 
-
-Wireless charging is also being introduced to the Droid line for the first time. It's unclear whether this will be  on the increasingly common Qi standard, but if Brian's growing enthusiasm for the technology is any indication, this could be a popular feature. 
-
-As is the norm, the HTC Droid DNA will be available on-contract for $199, and pre-orders start today with shipments expected by November 21st. We'll be hands-on shortly, and give some impressions of the device. 
