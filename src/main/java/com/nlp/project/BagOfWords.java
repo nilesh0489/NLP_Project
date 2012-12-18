@@ -11,6 +11,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -20,19 +21,19 @@ import opennlp.tools.sentdetect.SentenceModel;
 import opennlp.tools.tokenize.TokenizerME;
 import opennlp.tools.tokenize.TokenizerModel;
 
-public class BigramCreator {
+public class BagOfWords {
 	
-	public BigramCreator() {
+	public BagOfWords() {
 		
 	}
 	
 	public void createMap() {
 		for(int combination = 1; combination <= 5; combination++) {		
-			HashMap<String, Double> globalMap = new HashMap<String, Double>();
+			Map<String, Double> globalMap = new HashMap<String, Double>();
 			ArrayList<HashMap<String, Double>> mapList = new ArrayList<HashMap<String, Double>>();
 			ArrayList<HashMap<String, Double>> testMapList = new ArrayList<HashMap<String, Double>>();
-			String fileName = "iphone-500/new-train/train-fold-" + combination + ".txt";	
-			String testFile = "iphone-500/new-test/test-fold-" + combination + ".txt";
+			String fileName = "iphone-500/top-train/train-fold-" + combination + ".txt";	
+			String testFile = "iphone-500/top-test/test-fold-" + combination + ".txt";
 			try{
 				BufferedReader br = new BufferedReader(new FileReader(fileName));
 				String str;
@@ -81,24 +82,22 @@ public class BigramCreator {
 						}
 										
 						TokenizerME t = new TokenizerME(tokenModel);
-			//			LemmaTest lt = new LemmaTest();					
+											
 						for(String oneLine : lines) {
 							oneLine = oneLine.replaceAll("[^0-9a-zA-Z\\s\\.]", " ");
 							oneLine = oneLine.toLowerCase();
-							Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
+							Pattern stopWords = Pattern.compile("\\b(?:u|my|a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with|this|have|has|you|we|i|their|our|they|what|any|had|them)\\b\\s*", Pattern.CASE_INSENSITIVE);
 							Matcher matcher = stopWords.matcher(oneLine);
 							oneLine = matcher.replaceAll(" ");
-						//	List<String> words = new ArrayList<String>();
-						//	words = lt.lemmatize(oneLine);
 							String words[] = t.tokenize(oneLine);				
-							for(int j = 0; j < words.length - 1; j++) {
-								String word = words[j] + words[j + 1];									
+							for(int j = 0; j < words.length; j++) {
+								String word = words[j];					
 								if(!m.containsKey(word)) {
 									m.put(word, 1.0);
 								}
 								if(!globalMap.containsKey(word)) {
 									globalMap.put(word, 1.0);
-								}
+								}								
 							}
 						}
 						mapList.add(m);
@@ -156,18 +155,16 @@ public class BigramCreator {
 						}
 										
 						TokenizerME t = new TokenizerME(tokenModel);
-			//			LemmaTest lt = new LemmaTest();					
+											
 						for(String oneLine : lines) {
 							oneLine = oneLine.replaceAll("[^0-9a-zA-Z\\s\\.]", " ");
-							oneLine = oneLine.toLowerCase();
-							Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
+							Pattern stopWords = Pattern.compile("\\b(?:u|my|a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with|this|have|has|you|we|i|their|our|they|what|any|had|them)\\b\\s*", Pattern.CASE_INSENSITIVE);
 							Matcher matcher = stopWords.matcher(oneLine);
 							oneLine = matcher.replaceAll(" ");
 							String words[] = t.tokenize(oneLine);
-						//	List<String> words = new ArrayList<String>();
-						//	words = lt.lemmatize(oneLine);
-							for(int j = 0; j < words.length - 1; j++) {
-								String word = words[j] + words[j + 1];									
+				
+							for(int j = 0; j < words.length; j++) {
+								String word = words[j];									
 								if(!m.containsKey(word)) {
 									m.put(word, 1.0);
 								}							
@@ -184,8 +181,8 @@ public class BigramCreator {
 			System.out.println(mapList.size());
 			System.out.println(testMapList.size());
 			
-			String training_file = "iphone-500/training-bi-" + combination + ".arff";
-			String test_file = "iphone-500/test-bi-" + combination + ".arff";
+			String training_file = "iphone-500/training-bogtop-" + combination + ".arff";
+			String test_file = "iphone-500/test-bogtop-" + combination + ".arff";
 			try{
 				File file = new File(training_file);
 				file.createNewFile();
@@ -203,25 +200,38 @@ public class BigramCreator {
 				
 				out1.write("@RELATION blog-posts");
 				out1.write("\n");
-				out1.write("\n");
-
+				out1.write("\n");											
+				
 				Set<String> set = globalMap.keySet();
 				Iterator<String> its = set.iterator();
-
-				while(its.hasNext()) {				
-					String key = its.next();				
-					out.write("@ATTRIBUTE " + key + " NUMERIC");
-					out.write("\n");
-					out1.write("@ATTRIBUTE " + key + " NUMERIC");
-					out1.write("\n");
-					double count = 0;
-					for(HashMap<String, Double> gm : mapList) {
+				double count = 0;
+				String key = null;
+				
+				while(its.hasNext()) {
+					count = 0;
+					key = its.next();
+					for(HashMap<String, Double> gm : mapList) {						
 						if(gm.containsKey(key)) {
 							count++;
 						}
 					}
 					globalMap.put(key, count);
-				}
+				}				
+				
+				globalMap = MapUtil.sortByValue(globalMap);
+				
+				int mapCount = 1;
+				its = set.iterator();
+				while(its.hasNext() && mapCount <= 200) {
+					key = its.next();
+					out.write("@ATTRIBUTE " + key + " NUMERIC");
+					out.write("\n");
+					out1.write("@ATTRIBUTE " + key + " NUMERIC");
+					out1.write("\n");
+					
+					mapCount++;
+				}							
+				
 				out.write("@ATTRIBUTE post-popular {True, False}");
 				out.write("\n");				
 
@@ -232,20 +242,17 @@ public class BigramCreator {
 				Set<String> checkSet = globalMap.keySet();
 				
 				for(HashMap<String, Double> gm : mapList) {
+					mapCount = 1;
 					Iterator<String> it = checkSet.iterator();
 					StringBuffer strbuf = new StringBuffer();
-					while(it.hasNext()) {
-						String key = it.next();						
-						double DF = globalMap.get(key);
-						double TF = 0.0;
+					while(it.hasNext() && mapCount <= 200) {
+						key = it.next();						
+						double tfidf = 0.0;
 						if(gm.containsKey(key)) {
-							TF = gm.get(key);
-						}						
-						double TFIDF = (TF/gm.size()) * (215/DF);
-						if(TFIDF == 0) {
-							TFIDF = 0.05;
-						}                            
-						strbuf.append(TFIDF + ",");
+							tfidf = 1;
+						}						                            
+						strbuf.append(tfidf + ",");
+						mapCount++;
 					}					
 					if(flag == true) {					
 						strbuf.append("False");
@@ -266,21 +273,19 @@ public class BigramCreator {
 				out1.write("@DATA");
 				out1.write("\n");
 				flag = true;
+				
 				for(HashMap<String, Double> test : testMapList) {
+					mapCount = 1;
 					Iterator<String> it = checkSet.iterator();
 					StringBuffer strbuf = new StringBuffer();
-					while(it.hasNext()) {
-						String key = it.next();
-						double DF = globalMap.get(key);
+					while(it.hasNext() && mapCount <= 200) {
+						key = it.next();
 						double TF = 0.0;
 						if(test.containsKey(key)) {
-							TF = test.get(key);
+							TF = 1;
 						}
-						double TFIDF = (TF/test.size()) * (160/DF);
-						if(TFIDF == 0) {
-							TFIDF = 0.05;
-						}
-						strbuf.append(TFIDF + ",");
+						strbuf.append(TF + ",");
+						mapCount++;
 					}
 					if(flag == true) {
 						strbuf.append("False");
@@ -294,6 +299,7 @@ public class BigramCreator {
 					out1.write("\n");
 				}	
 				out1.close();
+								
 			}catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -301,7 +307,7 @@ public class BigramCreator {
 	}
 	
 	public static void main(String args[]) {
-		BigramCreator uc = new BigramCreator();
+		BagOfWords uc = new BagOfWords();
 		uc.createMap();
 	}
 }

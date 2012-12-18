@@ -21,7 +21,7 @@ public class Content_Extractor {
 		int file_number = 1;
 		String s;		
 		while ((s = br.readLine()) != null){
-			PrintWriter out = new PrintWriter(new File(mode + "/" +  file_number + ".txt"));
+			PrintWriter out = new PrintWriter(new File("tech-400/" + mode + "/" +  file_number + ".txt"));
 			Goose goose = new Goose(new Configuration());
 			try {				
 				Article article = goose.extractContent(s);
@@ -37,7 +37,7 @@ public class Content_Extractor {
 	
 	public static void main(String args[]) throws IOException {
 		Content_Extractor ce = new Content_Extractor();
-		ce.extract("url-top-150.txt", "top");
-		ce.extract("url-bottom-150.txt", "bottom");
+		ce.extract("tech-400/url-top-400.txt", "top");
+		ce.extract("tech-400/url-bottom-400.txt", "bottom");
 	}
 }

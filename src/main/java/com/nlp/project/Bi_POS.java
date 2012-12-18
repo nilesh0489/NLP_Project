@@ -46,7 +46,7 @@ public class Bi_POS {
 					if(!(str.isEmpty() || str.equals("### END ###"))) {
 						HashMap<String, Double> m = new HashMap<String, Double>();
 						str = str.replaceAll("\\W", " ");
-						Pattern stopWords = Pattern.compile("\\b(?:|a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
+						Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
 						Matcher matcher = stopWords.matcher(str);
 						str = matcher.replaceAll(" ");
 						InputStream modelIn = new FileInputStream("se-sent.bin");

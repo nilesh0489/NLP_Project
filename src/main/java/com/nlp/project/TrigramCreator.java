@@ -156,6 +156,7 @@ public class TrigramCreator {
 											
 						for(String oneLine : lines) {
 							oneLine = oneLine.replaceAll("[^0-9a-zA-Z\\s\\.]", " ");
+							oneLine = oneLine.toLowerCase();
 							Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
 							Matcher matcher = stopWords.matcher(oneLine);
 							oneLine = matcher.replaceAll(" ");

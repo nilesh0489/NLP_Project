@@ -36,8 +36,8 @@ public class POS {
 			HashMap<String, Double> globalMap = new HashMap<String, Double>();
 			ArrayList<HashMap<String, Double>> mapList = new ArrayList<HashMap<String, Double>>();
 			ArrayList<HashMap<String, Double>> testMapList = new ArrayList<HashMap<String, Double>>();											   
-			String fileName = "tech-150/train/train-fold-" + combination + ".txt";	
-			String testFile = "tech-150/test/test-fold-" + combination + ".txt";
+			String fileName = "iphone-500/new-train/train-fold-" + combination + ".txt";	
+			String testFile = "iphone-500/new-test/test-fold-" + combination + ".txt";
 			
 			try{
 				BufferedReader br = new BufferedReader(new FileReader(fileName));
@@ -46,9 +46,6 @@ public class POS {
 					if(!(str.isEmpty() || str.equals("### END ###"))) {
 						HashMap<String, Double> m = new HashMap<String, Double>();
 						str = str.replaceAll("\\W", " ");
-						Pattern stopWords = Pattern.compile("\\b(?:|a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
-						Matcher matcher = stopWords.matcher(str);
-						str = matcher.replaceAll(" ");
 						InputStream modelIn = new FileInputStream("se-sent.bin");
 						SentenceModel model = null;
 						try {
@@ -91,6 +88,11 @@ public class POS {
 						TokenizerME t = new TokenizerME(tokenModel);
 											
 						for(String oneLine : lines) {
+							oneLine = oneLine.replaceAll("[^0-9a-zA-Z\\s\\.]", " ");
+							oneLine = oneLine.toLowerCase();
+							Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
+							Matcher matcher = stopWords.matcher(oneLine);
+							oneLine = matcher.replaceAll(" ");
 							String words[] = t.tokenize(oneLine);
 							String tags[] = tagger.tag(words);
 							Pattern p = Pattern.compile("[^a-zA-Z0-9]");
@@ -120,10 +122,7 @@ public class POS {
 				while((str = br.readLine()) != null) {
 					if(!(str.isEmpty() || str.equals("### END ###"))) {
 						HashMap<String, Double> m = new HashMap<String, Double>();
-						str = str.replaceAll("\\W", " ");
-						Pattern stopWords = Pattern.compile("\\b(?:|a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
-						Matcher matcher = stopWords.matcher(str);
-						str = matcher.replaceAll(" ");
+						str = str.replaceAll("\\W", " ");						
 						InputStream modelIn = new FileInputStream("se-sent.bin");
 						SentenceModel model = null;
 						try {
@@ -166,6 +165,11 @@ public class POS {
 						TokenizerME t = new TokenizerME(tokenModel);
 											
 						for(String oneLine : lines) {
+							oneLine = oneLine.replaceAll("[^0-9a-zA-Z\\s\\.]", " ");
+							oneLine = oneLine.toLowerCase();
+							Pattern stopWords = Pattern.compile("\\b(?:a|an|and|are|as|at|be|by|for|from|has|he|in|it|is|its|of|on|that|the|to|was|where|will|with)\\b\\s*", Pattern.CASE_INSENSITIVE);
+							Matcher matcher = stopWords.matcher(oneLine);
+							oneLine = matcher.replaceAll(" ");
 							String words[] = t.tokenize(oneLine);
 							String tags[] = tagger.tag(words);
 							Pattern p = Pattern.compile("[^a-zA-Z0-9]");
@@ -186,8 +190,8 @@ public class POS {
 				e.printStackTrace();
 			}
 			
-			String training_file = "tech-150/training-pos-" + combination + ".arff";
-			String test_file = "tech-150/test-pos-" + combination + ".arff";
+			String training_file = "iphone-500/training-pos-" + combination + ".arff";
+			String test_file = "iphone-500/test-pos-" + combination + ".arff";
 			try{
 				File file = new File(training_file);
 				file.createNewFile();

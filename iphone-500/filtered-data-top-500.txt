@@ -1,3884 +1,3884 @@
 domain: "pastebin.com"
-title: "FBI has 12 MILLION iPhone user's data - Unique Device IDentifiers, Address, Full Name, APNS tokens, phone numbers.. you are being tracked."
 score: 3147
 permalink: "/r/technology/comments/zbrfc/fbi_has_12_million_iphone_users_data_unique/"
 created: 09/04/2012 04:49:39
+url: "http://pastebin.com/nfVT7b0Z"
 created_utc: 09/04/2012 03:49:39
 
 
 domain: "bgr.com"
-title: "Samsung: Whether or not we ripped off Apple\u2019s tech, Apple stole it to begin with -- Provides video evidence of a tablet built by Mitsubishi to show that Apple's patent on pinch-to-zoom technology should not be valid because it already existed for years before the first iPhone launched"
 score: 2821
 permalink: "/r/technology/comments/y7dgn/samsung_whether_or_not_we_ripped_off_apples_tech/"
 created: 08/14/2012 11:53:29
+url: "http://www.bgr.com/2012/08/14/apple-samsung-patent-trial-rebuttal-diamond-touch/"
 created_utc: 08/14/2012 10:53:29
 
 
 domain: "androidandme.com"
-title: "Samsung, HTC to block US, EU sales of iPhone 5 using LTE patents"
 score: 2634
 permalink: "/r/technology/comments/zs0ls/samsung_htc_to_block_us_eu_sales_of_iphone_5/"
 created: 09/12/2012 15:27:03
+url: "http://androidandme.com/2012/09/smartphones-2/samsung-htc-to-block-us-eu-sales-of-iphone-5-using-lte-patents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=samsung-htc-to-block-us-eu-sales-of-iphone-5-using-lte-patents"
 created_utc: 09/12/2012 14:27:03
 
 
 domain: "digitaltrends.com"
-title: "Google\u2019s Motorola division has filed a new patent lawsuit against Apple claiming they are infringing on seven of its patents and wants to block iPhone, iPad, and Mac computers from being imported to the U.S.\n"
 score: 2625
 permalink: "/r/technology/comments/yg9lq/googles_motorola_division_has_filed_a_new_patent/"
 created: 08/18/2012 21:40:44
+url: "http://www.digitaltrends.com/mobile/google-files-patent-lawsuit-against-apple/"
 created_utc: 08/18/2012 20:40:44
 
 
 domain: "bgr.com"
-title: "Chinese company uses leaked photos to copy and patent iPhone 5 design"
 score: 2453
 permalink: "/r/technology/comments/zhxr0/chinese_company_uses_leaked_photos_to_copy_and/"
 created: 09/07/2012 05:35:01
+url: "http://www.bgr.com/2012/09/05/iphone-5-design-copied-patented-goophone-i5/"
 created_utc: 09/07/2012 04:35:01
 
 
 domain: "savetheinternet.com"
-title: "Thousands Urge Apple to Pull Censorship Patent: A few months ago, Cupertino filed a patent for technology that would allow concert promoters to remotely disable concertgoers\u2019 iPhone cameras. Imagine if police or repressive govts used the same technology to stop citizens from documenting abuses"
 score: 2375
 permalink: "/r/technology/comments/jqc5f/thousands_urge_apple_to_pull_censorship_patent_a/"
 created: 08/22/2011 03:03:32
+url: "http://www.savetheinternet.com/blog/11/08/19/thousands-urge-apple-pull-censorship-patent"
 created_utc: 08/22/2011 02:03:32
 
 
 domain: "bgr.com"
-title: "Samsung: \"Apple, which sold its first iPhone nearly twenty years after Samsung started developing mobile phone technology, could not have sold a single iPhone without the benefit of Samsung\u2018s patented technology.\""
 score: 2224
 permalink: "/r/technology/comments/x4s7j/samsung_apple_which_sold_its_first_iphone_nearly/"
 created: 07/25/2012 11:40:39
+url: "http://www.bgr.com/2012/07/25/samsung-apple-patent-lawsuit-documents-revealed/"
 created_utc: 07/25/2012 10:40:39
 
 
 domain: "wired.com"
-title: "Now Samsung is Suing Apple Over the iPhone 5"
 score: 2104
 permalink: "/r/technology/comments/10tubn/now_samsung_is_suing_apple_over_the_iphone_5/"
 created: 10/02/2012 15:25:50
+url: "http://www.wired.com/gadgetlab/2012/10/samsung-adds-iphone-5-to-its-lawsuit-against-apple/"
 created_utc: 10/02/2012 14:25:50
 
 
 domain: "news.cnet.com"
-title: "Sales of the galaxy SIII actually rose after the iphone 5 was revealed"
 score: 2032
 permalink: "/r/technology/comments/1272qu/sales_of_the_galaxy_siii_actually_rose_after_the/"
 created: 10/28/2012 04:05:04
+url: "http://news.cnet.com/8301-1035_3-57541312-94/samsung-feels-the-power-as-galaxy-note-2-lifts-off/?ttag=fbwp"
 created_utc: 10/27/2012 20:05:04
 
 
 domain: "bgr.com"
-title: "4,000 Foxconn workers on strike over iPhone 5 quality control measures, inadequate training\n"
 score: 1885
 permalink: "/r/technology/comments/111hmb/4000_foxconn_workers_on_strike_over_iphone_5/"
 created: 10/06/2012 17:50:51
+url: "http://www.bgr.com/2012/10/05/iphone-5-foxconn-workers-strike-quality-control-measures-cited/"
 created_utc: 10/06/2012 09:50:51
 
 
 
 
 domain: "businessinsider.com"
-title: "INCONVENIENT TRUTH: Your iPhone Was Built, In Part, By 13 Year-Olds Working 16 Hours A Day For 70 Cents An Hour"
 score: 1811
 permalink: "/r/technology/comments/oic0y/inconvenient_truth_your_iphone_was_built_in_part/"
 created: 01/15/2012 16:47:44
+url: "http://www.businessinsider.com/apple-child-labor-2012-1"
 created_utc: 01/15/2012 15:47:44
 
 
 domain: "9to5mac.com"
-title: "T-Mobile to advertise to unlocked iPhone customers, sway them away from AT&amp;T promising $1500 savings over 2 years"
 score: 1784
 permalink: "/r/technology/comments/z85db/tmobile_to_advertise_to_unlocked_iphone_customers/"
 created: 09/02/2012 08:00:33
+url: "http://9to5mac.com/2012/08/28/t-mobile-to-advertise-to-unlocked-iphone-customers-sway-them-away-from-att-promising-1500-savings-over-2-years/"
 created_utc: 09/02/2012 07:00:33
 
 
 domain: "gizmodo.com"
-title: "How a 15-yo Kid Tricked Apple With a Disguised iPhone Tethering App"
 score: 1699
 permalink: "/r/technology/comments/cs1xr/how_a_15yo_kid_tricked_apple_with_a_disguised/"
 created: 07/21/2010 11:32:28
+url: "http://gizmodo.com/5592521/how-a-guy-tricked-apple-with-a-disguised-iphone-tethering-app?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29"
 created_utc: 07/21/2010 10:32:28
 
 
 domain: "bloomberg.com"
-title: "January 14, 2007 - Apple will sell a few to its fans, but the iPhone won't make a long-term mark on the industry. "
 score: 1656
 permalink: "/r/technology/comments/sesvf/january_14_2007_apple_will_sell_a_few_to_its_fans/"
 created: 04/17/2012 17:50:52
+url: "http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=aRelVKWbMAv0"
 created_utc: 04/17/2012 16:50:52
 
 
 domain: "aljazeera.com"
-title: "S Korea Court bans iPhone 4, iPad, Samsung GalaxyS2, and others, claiming both companies infringed on each other's patents"
 score: 1618
 permalink: "/r/technology/comments/yr0q3/s_korea_court_bans_iphone_4_ipad_samsung_galaxys2/"
 created: 08/24/2012 09:24:30
+url: "http://www.aljazeera.com/business/2012/08/201282452423992519.html"
 created_utc: 08/24/2012 08:24:30
 
 
 domain: "news.cnet.com"
-title: "Awesome BestBuy employee makes iPhone-EVO video, was asked to quit, says No! Let's support this dude!"
 score: 1566
 permalink: "/r/technology/comments/clgux/awesome_bestbuy_employee_makes_iphoneevo_video/"
 created: 07/02/2010 19:40:47
+url: "http://news.cnet.com/8301-17938_105-20009618-1.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20"
 created_utc: 07/02/2010 18:40:47
-title: "iPhone4 vs HTC Evo"
+url: "http://www.youtube.com/watch?v=FL7yD-0pqZg%22"
 
 
 domain: "bgr.com"
-title: " A student from the U.K. has created a 'virtual' keyboard for the iPhone by using its built-in accelerometer. Here's a video of how it works."
 score: 1504
 permalink: "/r/technology/comments/131m65/a_student_from_the_uk_has_created_a_virtual/"
 created: 11/11/2012 23:37:30
+url: "http://bgr.com/2012/11/10/iphone-virtual-keyboard-accelerometer-powered/"
 created_utc: 11/11/2012 22:37:30
 
 
 domain: "linuxoniphone.blogspot.com"
-title: "Android running on the iPhone!"
 score: 1449
 permalink: "/r/technology/comments/buegc/android_running_on_the_iphone/"
 created: 04/21/2010 23:30:38
+url: "http://linuxoniphone.blogspot.com/2010/04/ive-been-working-on-this-quietly-in.html"
 created_utc: 04/21/2010 22:30:38
 
 
 domain: "imgur.com"
-title: "With call phone from Gmail, I was so close to turn my iPad into an giant iPhone, and...FFFFFFUUUUU"
 score: 1418
 permalink: "/r/technology/comments/d6d3d/with_call_phone_from_gmail_i_was_so_close_to_turn/"
 created: 08/27/2010 20:17:10
+url: "http://imgur.com/5U2v2.jpg"
 created_utc: 08/27/2010 19:17:10
 
 
 domain: "bgr.com"
-title: "A pair of workers who claim to have been poisoned by toxins in a Suzhou, China factory while assembling touchscreens for Apple\u2019s iPhone have written an open letter begging consumers to demand reform. "
 score: 1405
 permalink: "/r/technology/comments/q1bq1/a_pair_of_workers_who_claim_to_have_been_poisoned/"
 created: 02/22/2012 15:44:17
+url: "http://www.bgr.com/2012/02/22/poisoned-iphone-factory-workers-beg-for-reform-in-open-letter/"
 created_utc: 02/22/2012 14:44:17
 
 
 domain: "techcrunch.com"
-title: "Jon Stewart Rips Into Apple Over Lost iPhone Debacle. - \u201cYou guys are busting down doors in Palo Alto while Commandant Gates is ridding the world of mosquitoes. What the fuck is going on?\u201d"
 score: 1356
 permalink: "/r/technology/comments/bxrif/jon_stewart_rips_into_apple_over_lost_iphone/"
 created: 04/29/2010 08:23:35
+url: "http://techcrunch.com/2010/04/28/jon-stewart-rips-into-apple-over-lost-iphone-debacle-thats-going-to-leave-a-mark/?"
 created_utc: 04/29/2010 07:23:35
 
 
 domain: "theverge.com"
-title: "iPhone 5 owners report scuffs and scratches out of \nthe box"
 score: 1354
 permalink: "/r/technology/comments/10dyed/iphone_5_owners_report_scuffs_and_scratches_out/"
 created: 09/24/2012 15:10:10
+url: "http://www.theverge.com/2012/9/24/3381462/iphone-5-scuff-damage-aluminum"
 created_utc: 09/24/2012 07:10:10
 
 
 domain: "courthousenews.com"
-title: "AT&amp;T Mobility faces another federal class action claiming that \"AT&amp;T's bills systematically overstate the amount of data used on each data transaction involving an iPhone or iPad account,\" and bills customers for data transactions even if they disable their phones and leave them untouched..."
 score: 1275
 permalink: "/r/technology/comments/lv6pw/att_mobility_faces_another_federal_class_action/"
 created: 10/31/2011 11:41:28
+url: "http://www.courthousenews.com/2011/01/31/33742.htm"
 created_utc: 10/31/2011 10:41:28
 
 
 domain: "droid-life.com"
-title: "Samsung: If Apple Releases an LTE iPhone, We\u2019re Ready to Sue"
 score: 1218
 permalink: "/r/technology/comments/z3r26/samsung_if_apple_releases_an_lte_iphone_were/"
 created: 08/30/2012 19:56:43
+url: "http://www.droid-life.com/2012/08/30/samsung-if-apple-releases-an-lte-iphone-were-ready-to-sue/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+DroidLife+%28droid+life%29"
 created_utc: 08/30/2012 18:56:43
 
 
 domain: "mashable.com"
-title: "\"In 2007 Jobs said the iPhone was 5 years ahead of its time. That's now. And it hasn't changed an awful lot since\""
 score: 1171
 permalink: "/r/technology/comments/v6baw/in_2007_jobs_said_the_iphone_was_5_years_ahead_of/"
 created: 06/17/2012 07:54:56
+url: "http://mashable.com/2012/06/16/disappointments-ios-6/"
 created_utc: 06/17/2012 06:54:56
 
 
 domain: "guardian.co.uk"
-title: "Damn you, Apple! Apple Macs as little as three years old are now unable to work with new iPhones or iPods, whereas you could use a 10 year old PC with either... "
 score: 1152
 permalink: "/r/technology/comments/hh9h6/damn_you_apple_apple_macs_as_little_as_three/"
 created: 05/22/2011 08:12:28
+url: "http://www.guardian.co.uk/money/2011/may/21/apple-upgrades-itunes-version"
 created_utc: 05/22/2011 07:12:28
 
 
 domain: "latimesblogs.latimes.com"
-title: "Eight people bought a $999 featureless iPhone app called \"I Am Rich\" before Apple shut it down."
 score: 1086
 permalink: "/r/technology/comments/6vese/eight_people_bought_a_999_featureless_iphone_app/"
 created: 08/08/2008 01:23:39
+url: "http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html"
 created_utc: 08/08/2008 00:23:39
 
 
 domain: "news.cnet.com"
-title: "... or you could not give a fucking iphone to your 9-year-old!"
 score: 1069
 permalink: "/r/technology/comments/grri8/or_you_could_not_give_a_fucking_iphone_to_your/"
 created: 04/16/2011 21:19:06
+url: "http://news.cnet.com/8301-31021_3-20054432-260.html"
 created_utc: 04/16/2011 20:19:06
 
 
 domain: "androidandme.com"
-title: "Galaxy S III beats out iPhone 4S as top selling device in US"
 score: 1068
 permalink: "/r/technology/comments/ze35g/galaxy_s_iii_beats_out_iphone_4s_as_top_selling/"
 created: 09/05/2012 10:07:29
+url: "http://androidandme.com/2012/09/smartphones-2/galaxy-s-iii-beats-out-iphone-4s-as-top-selling-device-in-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=galaxy-s-iii-beats-out-iphone-4s-as-top-selling-device-in-us"
 created_utc: 09/05/2012 09:07:29
 
 
 domain: "msnbc.msn.com"
-title: "Consumer Reports won't recommend iPhone 4 due to reception problems"
 score: 995
 permalink: "/r/technology/comments/cop2u/consumer_reports_wont_recommend_iphone_4_due_to/"
 created: 07/12/2010 13:56:52
+url: "http://www.msnbc.msn.com/id/38205967/"
 created_utc: 07/12/2010 12:56:52
 
 
 domain: "feeds.gawker.com"
-title: "This Is How You Steal 23 MacBook Pros, 14 iPhones, and 9 iPods In 31 Seconds"
 score: 985
 permalink: "/r/technology/comments/9gt5j/this_is_how_you_steal_23_macbook_pros_14_iphones/"
 created: 09/03/2009 01:15:18
+url: "http://feeds.gawker.com/~r/gizmodo/full/~3/zfFyZAMWap8/this-is-how-you-steal-23-macbook-pros-14-iphones-and-9-ipods-in-31-seconds"
 created_utc: 09/03/2009 00:15:18
 
 
 domain: "self.technology"
-title: "Dropbox raised their referral limit to 8GB. Let's have a party to celebrate! (again)"
 score: 946
 permalink: "/r/technology/comments/blihh/dropbox_raised_their_referral_limit_to_8gb_lets/"
 created: 04/02/2010 03:36:44
+url: "http://www.reddit.com/r/technology/comments/blihh/dropbox_raised_their_referral_limit_to_8gb_lets/"
 created_utc: 04/02/2010 02:36:44
 
 
 domain: "engadget.com"
-title: "Steve Jobs to iPhone 4 user with bad reception: \"Just avoid holding it in that way.\""
 score: 941
 permalink: "/r/technology/comments/cir9p/steve_jobs_to_iphone_4_user_with_bad_reception/"
 created: 06/24/2010 21:17:42
+url: "http://www.engadget.com/2010/06/24/apple-responds-over-iphone-4-reception-issues-youre-holding-th/"
 created_utc: 06/24/2010 20:17:42
 
 
 domain: "theregister.co.uk"
-title: "Eric Schmidt:  No Google Maps app for iPhone 5."
 score: 934
 permalink: "/r/technology/comments/10g39z/eric_schmidt_no_google_maps_app_for_iphone_5/"
 created: 09/25/2012 16:37:38
+url: "http://www.theregister.co.uk/2012/09/25/google_maps_on_ios6/"
 created_utc: 09/25/2012 08:37:38
 
 
 domain: "i.imgur.com"
-title: "tl;dr: iPhone4S"
 score: 850
 permalink: "/r/technology/comments/l0td6/tldr_iphone4s/"
 created: 10/04/2011 16:15:53
+url: "http://i.imgur.com/D27Ha.jpg"
 created_utc: 10/04/2011 15:15:53
 
 
 domain: "theonion.com"
-title: "Apple Claims New iPhone Only Visible To Most Loyal Of Customers"
 score: 839
 permalink: "/r/technology/comments/cq4ic/apple_claims_new_iphone_only_visible_to_most/"
 created: 07/15/2010 22:47:49
+url: "http://www.theonion.com/articles/apple-claims-new-iphone-only-visible-to-most-loyal,2772/"
 created_utc: 07/15/2010 21:47:49
 
 
 domain: "gigaom.files.wordpress.com"
-title: "Who is getting rich off the iPhone? [PIC]"
 score: 802
 permalink: "/r/technology/comments/ae9d2/who_is_getting_rich_off_the_iphone_pic/"
 created: 12/13/2009 16:42:03
+url: "http://gigaom.files.wordpress.com/2009/12/go-iphone-r7.png?w=600&amp;h=5275"
 created_utc: 12/13/2009 15:42:03
 
 
 domain: "geek.com"
-title: "Raspberry Pi ($25 PC) GPU beats Tegra 2, doubles iPhone 4S performance"
 score: 780
 permalink: "/r/technology/comments/ow1w0/raspberry_pi_25_pc_gpu_beats_tegra_2_doubles/"
 created: 01/25/2012 10:17:25
+url: "http://www.geek.com/articles/mobile/raspberry-pi-gpu-beats-tegra-2-doubles-iphone-4s-performance-20120125/"
 created_utc: 01/25/2012 09:17:25
 
 
 domain: "self.technology"
-title: "I comment that Gizmodo revealing that kids personal info was a douche move, Jesus Diaz bans me... HAHAHA... "
 score: 756
 permalink: "/r/technology/comments/bth9s/i_comment_that_gizmodo_revealing_that_kids/"
 created: 04/20/2010 05:07:22
+url: "http://www.reddit.com/r/technology/comments/bth9s/i_comment_that_gizmodo_revealing_that_kids/"
 created_utc: 04/20/2010 04:07:22
 
 
 domain: "cnn.com"
-title: "Digg makes CNN's top 10 biggest tech 'fails' for 2010 (along with iPhone 4, iTunes \"Ping\", and Google \"Buzz\")"
 score: 743
 permalink: "/r/technology/comments/esreu/digg_makes_cnns_top_10_biggest_tech_fails_for/"
 created: 12/28/2010 18:29:46
+url: "http://www.cnn.com/2010/TECH/innovation/12/28/tech.fails.year/index.html?eref=rss_tech&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+rss/cnn_tech+(RSS:+Technology)"
 created_utc: 12/28/2010 17:29:46
 
 
 domain: "forbes.com"
-title: "Yes, We Can Make iPhones in America"
 score: 743
 permalink: "/r/technology/comments/zjz8x/yes_we_can_make_iphones_in_america/"
 created: 09/08/2012 10:41:29
+url: "http://www.forbes.com/sites/baizhuchen/2012/09/07/yes-we-canmake-iphones-in-america/"
 created_utc: 09/08/2012 09:41:29
 
 
 domain: "dailytech.com"
-title: "Samsung to seek sales ban on iPhone 5 for its violation of Samsung's wireless technology-related patents"
 score: 739
 permalink: "/r/technology/comments/kklkw/samsung_to_seek_sales_ban_on_iphone_5_for_its/"
 created: 09/19/2011 13:26:04
+url: "http://www.dailytech.com/Samsung+to+Seek+Sales+Ban+on+iPhone+5/article22772.htm"
 created_utc: 09/19/2011 12:26:04
 
 
 domain: "self.technology"
-title: "I bought a WP7 device 3 weeks ago. I have never seen so much hate in my entire life."
 score: 703
 permalink: "/r/technology/comments/g5iap/i_bought_a_wp7_device_3_weeks_ago_i_have_never/"
 created: 03/16/2011 20:58:00
+url: "http://www.reddit.com/r/technology/comments/g5iap/i_bought_a_wp7_device_3_weeks_ago_i_have_never/"
 created_utc: 03/16/2011 19:58:00
 
 
 domain: "padraig.tumblr.com"
-title: "Philip Kirwan Ripped Off My iPhone App Content"
 score: 701
 permalink: "/r/technology/comments/au3z1/philip_kirwan_ripped_off_my_iphone_app_content/"
 created: 01/25/2010 20:02:06
+url: "http://padraig.tumblr.com/post/352537653/philip-kirwan-ripped-off-my-iphone-app-content"
 created_utc: 01/25/2010 19:02:06
 
 
 domain: "techeye.net"
-title: "Kid makes a kit to convert black iPhones to white ones - Apple sends the troops in to stop him. "
 score: 685
 permalink: "/r/technology/comments/e81iv/kid_makes_a_kit_to_convert_black_iphones_to_white/"
 created: 11/18/2010 07:05:51
+url: "http://www.techeye.net/mobile/apple-leans-on-kid-for-doing-what-it-cant"
 created_utc: 11/18/2010 06:05:51
 
 
 domain: "bgr.com"
-title: "Major iPhone security flaw uncovered by hacker"
 score: 672
 permalink: "/r/technology/comments/ydjvp/major_iphone_security_flaw_uncovered_by_hacker/"
 created: 08/17/2012 10:49:30
+url: "http://www.bgr.com/2012/08/17/iphone-sms-security-flaw/"
 created_utc: 08/17/2012 09:49:30
 
 
 domain: "engadget.com"
-title: "If you're left-handed and considering buying the iPhone 4, you may have problems"
 score: 669
 permalink: "/r/technology/comments/ciisj/if_youre_lefthanded_and_considering_buying_the/"
 created: 06/24/2010 09:17:57
+url: "http://www.engadget.com/2010/06/24/some-iphone-4-models-see-signals-drop-to-0-when-held-left-handed/"
 created_utc: 06/24/2010 08:17:57
-title: "iPhone 4 Drops Calls when Left Corner is Touched"
+url: "http://www.youtube.com/watch?v=03PQyWp0mWE%22"
 
 
 domain: "forbes.com"
-title: "iCloud password hacked.. iPhone, iPad, and MacBook Air wiped. This is why we need 2-step verification. \"The Dangerous Side Of Apple's iCloud - Forbes\""
 score: 652
 permalink: "/r/technology/comments/xofms/icloud_password_hacked_iphone_ipad_and_macbook/"
 created: 08/04/2012 14:58:48
+url: "http://www.forbes.com/sites/adriankingsleyhughes/2012/08/04/the-dangerous-side-of-apples-icloud/"
 created_utc: 08/04/2012 13:58:48
 
 
 domain: "channelnewsasia.com"
-title: "Some iPhone 4 users got off to a bad start in the New Year when the alarm function of their phones failed to go off, apparently due to a bug in the smart phone's operating system"
 score: 629
 permalink: "/r/technology/comments/euhvc/some_iphone_4_users_got_off_to_a_bad_start_in_the/"
 created: 01/01/2011 05:23:40
+url: "http://www.channelnewsasia.com/stories/singaporelocalnews/view/1102193/1/.html"
 created_utc: 01/01/2011 04:23:40
 
 
 domain: "msnbc.msn.com"
-title: "\u201cWe sell iPhones in over a hundred countries,\u201d a current Apple executive said. \u201cWe don\u2019t have an obligation to solve America\u2019s problems.\""
 score: 626
 permalink: "/r/technology/comments/orpf4/we_sell_iphones_in_over_a_hundred_countries_a/"
 created: 01/22/2012 15:02:03
+url: "http://www.msnbc.msn.com/id/46091572/ns/business-us_business/"
 created_utc: 01/22/2012 14:02:03
 
 
 domain: "geekculture.com"
-title: "iPhone or Millionaire? [comic]"
 score: 599
 permalink: "/r/technology/comments/6r38d/iphone_or_millionaire_comic/"
 created: 07/10/2008 05:15:58
+url: "http://www.geekculture.com/joyoftech/joyarchives/1125.html"
 created_utc: 07/10/2008 04:15:58
 
 
 domain: "news.bbc.co.uk"
-title: "Apple announces cheaper 3G iPhone"
 score: 594
 permalink: "/r/technology/comments/6mnjt/apple_announces_cheaper_3g_iphone/"
 created: 06/09/2008 15:50:34
+url: "http://news.bbc.co.uk/1/hi/technology/7443543.stm"
 created_utc: 06/09/2008 14:50:34
 
 
 domain: "flickr.com"
-title: "There's a new update for Google Mobile on the iPhone. The changelog cracks me up! [Pic]"
 score: 580
 permalink: "/r/technology/comments/7kd4v/theres_a_new_update_for_google_mobile_on_the/"
 created: 12/18/2008 13:30:36
+url: "http://flickr.com/photos/zorlack/3117903647/"
 created_utc: 12/18/2008 12:30:36
 
 
 domain: "hosted.ap.org"
-title: "Apple says iPhone 5 preorders topped 2 million in 24 hours, more than double the amount of iPhone 4S preorders"
 score: 565
 permalink: "/r/technology/comments/100rvh/apple_says_iphone_5_preorders_topped_2_million_in/"
 created: 09/17/2012 17:34:15
+url: "http://hosted.ap.org/dynamic/stories/U/US_APPLE_IPHONE_5?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2012-09-17-09-17-00"
 created_utc: 09/17/2012 09:34:15
 
 
 domain: "furbo.org"
-title: "Gizmodo have behaved shamefully (especially about the guy who lost the iPhone prototype), shitlist them to show you care (at least until they apologize publicly)"
 score: 553
 permalink: "/r/technology/comments/btj03/gizmodo_have_behaved_shamefully_especially_about/"
 created: 04/20/2010 07:53:59
+url: "http://furbo.org/2010/04/19/an-apology/"
 created_utc: 04/20/2010 06:53:59
 
 
 domain: "neowin.net"
-title: "Chinese clone maker wants to sue Apple over iPhone \n5 design "
 score: 529
 permalink: "/r/technology/comments/zdqto/chinese_clone_maker_wants_to_sue_apple_over/"
 created: 09/05/2012 03:17:08
+url: "http://www.neowin.net/news/chinese-clone-maker-wants-to-sue-apple-over-iphone-5-design"
 created_utc: 09/05/2012 02:17:08
 
 
 domain: "thestreet.com"
-title: "Apple makes over $400 in profits from each iPhone 5 it sells"
 score: 533
 permalink: "/r/technology/comments/10mrdy/apple_makes_over_400_in_profits_from_each_iphone/"
 created: 09/28/2012 22:55:45
+url: "http://www.thestreet.com/story/11718458/1/heres-how-much-apple-makes-per-iphone-5.html?cm_ven_int=obinsite"
 created_utc: 09/28/2012 14:55:45
 
 
 domain: "blog.nobi.cc"
-title: "The japanese hate the iphone... not? Turns out Wired wasn't exactly honest."
 score: 528
 permalink: "/r/technology/comments/816cc/the_japanese_hate_the_iphone_not_turns_out_wired/"
 created: 03/01/2009 06:26:34
+url: "http://blog.nobi.cc/2009/02/my-view-of-how-iphone-is-doing-in-japan-by-nobi-nobuyuki-hayashi.html"
 created_utc: 03/01/2009 05:26:34
 
 
 domain: "bgr.com"
-title: "For the first time since its release in 2007, iPhone user loyalty drops in both the United States and  Europe \n"
 score: 513
 permalink: "/r/technology/comments/12clos/for_the_first_time_since_its_release_in_2007/"
 created: 10/30/2012 22:17:55
+url: "http://bgr.com/2012/10/30/iphone-user-loyalty-drops-europe-united-states/"
 created_utc: 10/30/2012 14:17:55
 
 
 domain: "msnbc.msn.com"
-title: "27,000 South Koreans are suing Apple for $26 million for privacy violations from the collection of iPhone user location information. "
 score: 501
 permalink: "/r/technology/comments/jlini/27000_south_koreans_are_suing_apple_for_26/"
 created: 08/17/2011 09:07:52
+url: "http://www.msnbc.msn.com/id/44170018#.TkuusGNjRBl"
 created_utc: 08/17/2011 08:07:52
 
 
 domain: "droid-life.com"
-title: "HTC could win ban against new iPad and new iPhone based on LTE patents"
 score: 500
 permalink: "/r/technology/comments/zpj36/htc_could_win_ban_against_new_ipad_and_new_iphone/"
 created: 09/11/2012 11:14:43
+url: "http://www.droid-life.com/2012/09/10/htc-could-win-ban-against-new-ipad-and-new-iphone-based-on-lte-patents/"
 created_utc: 09/11/2012 10:14:43
 
 
 domain: "boingboing.net"
-title: "Apple says no Project Gutenberg for iPhone claims it is because some old books are \"dirty\" - While simultaniously petitioning the Government to make it illegal to install any application on your phone that they haven't approved. "
 score: 486
 permalink: "/r/technology/comments/8n9mc/apple_says_no_project_gutenberg_for_iphone_claims/"
 created: 05/26/2009 06:25:49
+url: "http://www.boingboing.net/2009/05/22/apple-says-no-projec.html"
 created_utc: 05/26/2009 05:25:49
 
 
 domain: "nytimes.com"
-title: "NY Times compares Apple secrecy to Church of Scientology, questions next gen iPhone leak response"
 score: 488
 permalink: "/r/technology/comments/bzfjy/ny_times_compares_apple_secrecy_to_church_of/"
 created: 05/03/2010 11:40:49
+url: "http://www.nytimes.com/2010/05/03/business/media/03carr.html?ref=business"
 created_utc: 05/03/2010 10:40:49
 
 
 domain: "arstechnica.com"
-title: "Lawsuit: Apple purposely crippled the iPhone 3G with its introduction of iOS 4 in order to boost iPhone 4 sales"
 score: 469
 permalink: "/r/technology/comments/e0rkp/lawsuit_apple_purposely_crippled_the_iphone_3g/"
 created: 11/03/2010 15:56:26
+url: "http://arstechnica.com/apple/news/2010/11/lawsuit-apple-turned-iphone-3gs-into-ibricks-to-boost-iphone-4.ars"
 created_utc: 11/03/2010 14:56:26
 
 
 domain: "gizmodo.com"
-title: "  Bill Nye Explains The iPhone 3GS's Oleophobic Screen \n"
 score: 457
 permalink: "/r/technology/comments/8vg4u/bill_nye_explains_the_iphone_3gss_oleophobic/"
 created: 06/25/2009 01:47:10
+url: "http://gizmodo.com/5302097/giz-bill-nye-explains-the-iphone-3gss-oleophobic-screen"
 created_utc: 06/25/2009 00:47:10
 
 
 domain: "nytimes.com"
-title: "How U.S. Lost Out on iPhone Work and Why jobs are not coming back to America."
 score: 439
 permalink: "/r/technology/comments/oqyju/how_us_lost_out_on_iphone_work_and_why_jobs_are/"
 created: 01/21/2012 22:20:34
+url: "http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?_r=2&amp;hp"
 created_utc: 01/21/2012 21:20:34
 
 
 domain: "eweek.com"
-title: "Your GPS location coordinates, Wifi access point and GSM tower data is constantly saved by Apple iPhone, iPad, iPod Touch, Snow Leopard and Safari browsers (also Windows version) and sent to Apple in batches every 12 hours"
 score: 435
 permalink: "/r/technology/comments/crkp4/your_gps_location_coordinates_wifi_access_point/"
 created: 07/20/2010 08:22:15
+url: "http://www.eweek.com/c/a/Web-Services-Web-20-and-SOA/Apple-Tells-Congressmen-it-Batches-Encrypts-Location-Data-411968/"
 created_utc: 07/20/2010 07:22:15
 
 
 domain: "money.cnn.com"
-title: "IPhone 5 WiFi bug leads to giant cellular data overages"
 score: 421
 permalink: "/r/technology/comments/10rth3/iphone_5_wifi_bug_leads_to_giant_cellular_data/"
 created: 10/01/2012 15:31:34
+url: "http://money.cnn.com/2012/10/01/technology/iphone-5-data-overage/index.html"
 created_utc: 10/01/2012 14:31:34
 
 
 domain: "engadget.com"
-title: "Apple deleting mentions of Consumer Reports' iPhone 4 piece on forums"
 score: 419
 permalink: "/r/technology/comments/coucv/apple_deleting_mentions_of_consumer_reports/"
 created: 07/12/2010 21:43:34
+url: "http://www.engadget.com/2010/07/12/apple-deleting-mentions-of-consumer-reports-iphone-4-piece-on-f/"
 created_utc: 07/12/2010 20:43:34
 
 
 domain: "pcadvisor.co.uk"
-title: "Apple forced to stop selling iPhone 4 and iPad 2 in Germany"
 score: 408
 permalink: "/r/technology/comments/p96df/apple_forced_to_stop_selling_iphone_4_and_ipad_2/"
 created: 02/03/2012 08:32:37
+url: "http://www.pcadvisor.co.uk/news/apple/3334970/apple-forced-stop-selling-iphone-ipad-in-germany/"
 created_utc: 02/03/2012 07:32:37
 
 
 domain: "reghardware.com"
-title: "Woz praises Android, blasts iPhone limitations "
 score: 383
 permalink: "/r/technology/comments/oktwt/woz_praises_android_blasts_iphone_limitations/"
 created: 01/17/2012 10:04:45
+url: "http://www.reghardware.com/2012/01/17/woz_praises_android_highlights_iphone_limitations/"
 created_utc: 01/17/2012 09:04:45
 
 
 domain: "mashable.com"
-title: "iPhone 5 Compared With Competitors [CHART]"
 score: 377
 permalink: "/r/technology/comments/zs10i/iphone_5_compared_with_competitors_chart/"
 created: 09/12/2012 15:33:18
+url: "http://mashable.com/2012/09/12/iphone-5-compared/"
 created_utc: 09/12/2012 14:33:18
 
 
 domain: "forums.macrumors.com"
-title: "1/3 of iPhone users think they have 4g"
 score: 373
 permalink: "/r/technology/comments/inrnk/13_of_iphone_users_think_they_have_4g/"
 created: 07/12/2011 17:45:15
+url: "http://forums.macrumors.com/showthread.php?t=1186604"
 created_utc: 07/12/2011 16:45:15
 
 
 domain: "self.technology"
-title: "The Google phone is just like a cool Youtube Video - Not available in your Country."
 score: 367
 permalink: "/r/technology/comments/am08e/the_google_phone_is_just_like_a_cool_youtube/"
 created: 01/05/2010 21:05:19
+url: "http://www.reddit.com/r/technology/comments/am08e/the_google_phone_is_just_like_a_cool_youtube/"
 created_utc: 01/05/2010 20:05:19
 
 
 domain: "venturebeat.com"
-title: "Official Reddit iPhone app to be released!"
 score: 362
 permalink: "/r/technology/comments/7rfiv/official_reddit_iphone_app_to_be_released/"
 created: 01/21/2009 15:44:58
+url: "http://venturebeat.com/2009/01/20/preview-reddit-strikes-back-with-its-official-iphone-app/"
 created_utc: 01/21/2009 14:44:58
 
 
 domain: "cbsnews.com"
-title: "Android crushes iPhone, makes Google $5 billion"
 score: 335
 permalink: "/r/technology/comments/nlc5n/android_crushes_iphone_makes_google_5_billion/"
 created: 12/21/2011 11:50:08
+url: "http://www.cbsnews.com/8301-505124_162-57346049/android-crushes-iphone-makes-google-$5-billion/"
 created_utc: 12/21/2011 10:50:08
 
 
 domain: "gizmodo.com"
-title: "The Man Responsible for the iPhone and iPad CPU Just Left Apple for AMD"
 score: 338
 permalink: "/r/technology/comments/xih84/the_man_responsible_for_the_iphone_and_ipad_cpu/"
 created: 08/01/2012 13:46:17
+url: "http://gizmodo.com/5930795/the-man-responsible-for-the-iphone-and-ipad-cpu-just-left-apple-for-amd"
 created_utc: 08/01/2012 12:46:17
 
 
 domain: "bgr.com"
-title: "Since Apple\u2019s stock hit a record high when the iPhone 5 launched,it has lost more than $130 billion in market value \u2014 closing on Wednesday down nearly 21%. Why is Apple\u2019s stock tanking as the company continues to break record after record? Wall Street."
 score: 332
 permalink: "/r/technology/comments/12uxd9/since_apples_stock_hit_a_record_high_when_the/"
 created: 11/08/2012 18:08:46
+url: "http://bgr.com/2012/11/08/apple-analysis-wall-street/"
 created_utc: 11/08/2012 10:08:46
 
 
 domain: "consumerist.com"
-title: "AT&amp;T has found a solution to the cell network congestion in NYC!! Unfortunately, the solution is apparently to stop selling the iPhone there. "
 score: 335
 permalink: "/r/technology/comments/aj00y/att_has_found_a_solution_to_the_cell_network/"
 created: 12/27/2009 18:52:48
+url: "http://consumerist.com/2009/12/att-customer-service-new-york-city-is-not-ready-for-the-iphone.html"
 created_utc: 12/27/2009 17:52:48
 
 
 domain: "blogote.com"
-title: "Alien Blue: Free Reddit App for iPhone, iPad and iPod touch"
 score: 318
 permalink: "/r/technology/comments/ewl20/alien_blue_free_reddit_app_for_iphone_ipad_and/"
 created: 01/05/2011 09:39:35
+url: "http://blogote.com/2011/apple/alien-blue-free-reddit-app-for-iphone-ipad-and-ipod-touch-download.html"
 created_utc: 01/05/2011 08:39:35
 
 
 domain: "techcrunch.com"
-title: "Steve Jobs Reiterates: \u201cwe do believe we have a moral responsibility to keep porn off the iPhone.\u201d Better, is what he said next: \u201cFolks who want porn can buy and [sic] Android phone.\u201c"
 score: 303
 permalink: "/r/technology/comments/bti1u/steve_jobs_reiterates_we_do_believe_we_have_a/"
 created: 04/20/2010 06:25:45
+url: "http://techcrunch.com/2010/04/19/steve-jobs-android-porn/"
 created_utc: 04/20/2010 05:25:45
 
 
 domain: "washingtonpost.com"
-title: "BarMax: The $1,000 iPhone App That Might Actually Be Worth It"
 score: 289
 permalink: "/r/technology/comments/aqtr1/barmax_the_1000_iphone_app_that_might_actually_be/"
 created: 01/17/2010 22:37:46
+url: "http://www.washingtonpost.com/wp-dyn/content/article/2010/01/17/AR2010011701824.html"
 created_utc: 01/17/2010 21:37:46
 
 
 domain: "engadget.com"
-title: "iPhone DST bug causing alarms to fail across Europe"
 score: 278
 permalink: "/r/technology/comments/dzeph/iphone_dst_bug_causing_alarms_to_fail_across/"
 created: 11/01/2010 05:39:30
+url: "http://www.engadget.com/2010/11/01/iphone-dst-bug-causing-alarms-to-fail-across-europe/"
 created_utc: 11/01/2010 04:39:30
 
 
 domain: "thisismynext.com"
-title: "Apple announces iPhone 4S - Outside design unchanged"
 score: 285
 permalink: "/r/technology/comments/l0qjw/apple_announces_iphone_4s_outside_design_unchanged/"
 created: 10/04/2011 15:03:21
+url: "http://thisismynext.com/2011/10/04/new-iphone--4s-release-date/"
 created_utc: 10/04/2011 14:03:21
 
 
 domain: "kogeto.com"
-title: "My uncle started a company that produces a panoramic lens attachment for the iPhone called \"Dot\".  Here is a user upload of hang gliding in Rio."
 score: 282
 permalink: "/r/technology/comments/xxpal/my_uncle_started_a_company_that_produces_a/"
 created: 08/09/2012 09:25:37
+url: "http://www.kogeto.com/dotspots/DMH31UWK9UWN?query=&amp;page=1&amp;hp=1&amp;sort=featured#.UCOr3I5RJUQ"
 created_utc: 08/09/2012 08:25:37
 
 
 domain: "techland.time.com"
-title: "Why It\u2019s Unnecessary to Completely Reinvent the iPhone Year After Year"
 score: 270
 permalink: "/r/technology/comments/104tur/why_its_unnecessary_to_completely_reinvent_the/"
 created: 09/19/2012 17:10:28
+url: "http://techland.time.com/2012/09/17/why-its-unnecessary-to-completely-reinvent-the-iphone-year-after-year/?iid=tl-main-lede&amp;hpt=hp_bn16"
 created_utc: 09/19/2012 09:10:28
 
 
 domain: "thepittsburghchannel.com"
-title: "CMU students tracks down muggers using \"Find My iPhone\""
 score: 271
 permalink: "/r/technology/comments/9fure/cmu_students_tracks_down_muggers_using_find_my/"
 created: 08/31/2009 10:55:36
+url: "http://www.thepittsburghchannel.com/news/20631440/detail.html"
 created_utc: 08/31/2009 09:55:36
 
 
 domain: "wired.com"
-title: "In wake of iPhone tracking, US Senator Al Franken has called upon Apple and Google to participate in a hearing on Privacy, Technology and the Law in order to discuss consumer privacy"
 score: 268
 permalink: "/r/technology/comments/gxu7s/in_wake_of_iphone_tracking_us_senator_al_franken/"
 created: 04/26/2011 12:42:24
+url: "http://www.wired.com/epicenter/2011/04/apple-google-summoned-to-senate-hearing-on-mobile-device-privacy/"
 created_utc: 04/26/2011 11:42:24
 
 
 domain: "engadget.com"
-title: "Apple unveils new novelty-size iPhone"
 score: 259
 permalink: "/r/technology/comments/auuur/apple_unveils_new_noveltysize_iphone/"
 created: 01/27/2010 14:16:41
+url: "http://www.engadget.com/2010/01/27/the-apple-ipad/"
 created_utc: 01/27/2010 13:16:41
 
 
 domain: "engadget.com"
-title: "Apple iOS 4 for iPhone records all your travels to a secret file, then syncs it to desktop when connected to iTunes"
 score: 257
 permalink: "/r/technology/comments/guigt/apple_ios_4_for_iphone_records_all_your_travels/"
 created: 04/20/2011 12:12:01
+url: "http://www.engadget.com/2011/04/20/researchers-find-ios-4-records-your-location-in-system-file-syn/"
 created_utc: 04/20/2011 11:12:01
 
 
 domain: "news.cnet.com"
-title: "New Facebook Camera app goes on strike if you disable GPS tracking on the iPhone, as it refuses to access local photos unless location services are turned on. Yes, it's another bizarre privacy flub by the social network."
 score: 255
 permalink: "/r/technology/comments/u4vub/new_facebook_camera_app_goes_on_strike_if_you/"
 created: 05/25/2012 16:05:39
+url: "http://news.cnet.com/8301-1023_3-57441791-93/facebook-camera-app-really-really-wants-to-know-your-location/"
 created_utc: 05/25/2012 15:05:39
 
 
 domain: "wired.com"
-title: "iPhone's location-data collection can't be turned off; continues to store location data even when location services are disabled, contrary to Apple's previous claims"
 score: 242
 permalink: "/r/technology/comments/gx62f/iphones_locationdata_collection_cant_be_turned/"
 created: 04/25/2011 15:58:09
+url: "http://www.wired.com/gadgetlab/2011/04/iphone-location-opt-out/"
 created_utc: 04/25/2011 14:58:09
 
 
 domain: "self.technology"
-title: "Nokia N900 vs. iPhone 3GS specs, side by side - because I couldn't find them, perhaps my Google-fu is broken"
 score: 241
 permalink: "/r/technology/comments/9eyag/nokia_n900_vs_iphone_3gs_specs_side_by_side/"
 created: 08/28/2009 04:04:50
+url: "http://www.reddit.com/r/technology/comments/9eyag/nokia_n900_vs_iphone_3gs_specs_side_by_side/"
 created_utc: 08/28/2009 03:04:50
 
 
 domain: "engadget.com"
-title: "Verizon iPhone Officially announced "
 score: 239
 permalink: "/r/technology/comments/f0a0h/verizon_iphone_officially_announced/"
 created: 01/11/2011 12:16:01
+url: "http://www.engadget.com/apple/verizon-iphone/"
 created_utc: 01/11/2011 11:16:01
 
 
 domain: "consumerist.com"
-title: "The New $199 iPhone Is $160 More Expensive Than The $399 iPhone It Replaced"
 score: 234
 permalink: "/r/technology/comments/6nhuh/the_new_199_iphone_is_160_more_expensive_than_the/"
 created: 06/15/2008 20:37:54
+url: "http://consumerist.com/tag/iphone/?i=5014850&amp;t=the-new-199-iphone-is-160-more-expensive-than-the-399-iphone-it-replaced-what"
 created_utc: 06/15/2008 19:37:54
 
 
 domain: "theregister.co.uk"
-title: "iPhone 4 experiences significant drop in signal strength when you HOLD IT"
 score: 229
 permalink: "/r/technology/comments/ciisn/iphone_4_experiences_significant_drop_in_signal/"
 created: 06/24/2010 09:18:14
+url: "http://www.theregister.co.uk/2010/06/24/iphone_antenna/"
 created_utc: 06/24/2010 08:18:14
-title: "iPhone 4 Reception Issue with Holding the Phone"
+url: "http://www.youtube.com/watch?v=-ixIHyEPO5g%22"
 
 
 domain: "blog.iphone-dev.org"
-title: "iPhone Dev Team have cracked the latest firmware update from Apple... sim free for all!"
 score: 231
 permalink: "/r/technology/comments/7ms51/iphone_dev_team_have_cracked_the_latest_firmware/"
 created: 01/01/2009 08:36:27
+url: "http://blog.iphone-dev.org/post/67797811/dont-eat-yellowsn0w"
 created_utc: 01/01/2009 07:36:27
 
 
 domain: "engadget.com"
-title: "Want to sync your iPhone over wifi? There's an app for that. Except that Apple has banned it."
 score: 229
 permalink: "/r/technology/comments/c4436/want_to_sync_your_iphone_over_wifi_theres_an_app/"
 created: 05/14/2010 12:35:49
+url: "http://www.engadget.com/2010/05/14/wi-fi-sync-rejected-headed-to-cydia-for-9-99/"
 created_utc: 05/14/2010 11:35:49
 
 
 domain: "self.technology"
-title: "An objection to \"If you don't like it, don't buy it and \r\nstop bitching\" reasoning"
 score: 224
 permalink: "/r/technology/comments/bpjmg/an_objection_to_if_you_dont_like_it_dont_buy_it/"
 created: 04/11/2010 21:12:38
+url: "http://www.reddit.com/r/technology/comments/bpjmg/an_objection_to_if_you_dont_like_it_dont_buy_it/"
 created_utc: 04/11/2010 20:12:38
 
 
 domain: "arstechnica.com"
-title: "Remember the guy who got butthurt over AT&amp;T opening his iPhone 5 box? He did jail time for defrauding Apple for $700k back in 2009"
 score: 222
 permalink: "/r/technology/comments/10ax4o/remember_the_guy_who_got_butthurt_over_att/"
 created: 09/22/2012 13:57:02
+url: "http://arstechnica.com/apple/2009/08/ipod-repair-scammer-hit-with-restitution-jail-time/"
 created_utc: 09/22/2012 12:57:02
 
 
 domain: "arstechnica.com"
-title: "iPhone 4 unveiled: gets HD video, LED flash, dual cameras"
 score: 211
 permalink: "/r/technology/comments/ccfhx/iphone_4_unveiled_gets_hd_video_led_flash_dual/"
 created: 06/07/2010 15:59:50
+url: "http://arstechnica.com/apple/news/2010/06/iphone-4-unveiled-gets-hd-video-led-flash-dual-cameras.ars"
 created_utc: 06/07/2010 14:59:50
 
 
 domain: "vimeo.com"
-title: "OpenMoko FreeRunner is an iPhone killer... No wait, that other thing, a badly engineered UI nightmare (video mini-review)"
 score: 218
 permalink: "/r/technology/comments/6sknz/openmoko_freerunner_is_an_iphone_killer_no_wait/"
 created: 07/19/2008 20:29:56
+url: "http://www.vimeo.com/1366042"
 created_utc: 07/19/2008 19:29:56
 
 
 domain: "bgr.com"
-title: "iPhone 5 production -- China forcing students to work at Foxconn"
 score: 217
 permalink: "/r/technology/comments/zgtvc/iphone_5_production_china_forcing_students_to/"
 created: 09/06/2012 17:27:25
+url: "http://www.bgr.com/2012/09/06/iphone-5-production-china-foxconn-students/#disqus_thread"
 created_utc: 09/06/2012 16:27:25
 
 
 domain: "crave.cnet.co.uk"
-title: "Samsung Galaxy S3 outsells iPhone 5 in UK, say new figures"
 score: 211
 permalink: "/r/technology/comments/10rv1h/samsung_galaxy_s3_outsells_iphone_5_in_uk_say_new/"
 created: 10/01/2012 22:55:14
+url: "http://crave.cnet.co.uk/mobiles/samsung-galaxy-s3-outsells-iphone-5-in-uk-say-new-figures-50009353/"
 created_utc: 10/01/2012 14:55:14
 
 
 domain: "anandtech.com"
-title: "AnandTech  - The iPhone 5's A6 SoC: Not A15 or A9, a Custom Apple Core Instead"
 score: 208
 permalink: "/r/technology/comments/zxrd4/anandtech_the_iphone_5s_a6_soc_not_a15_or_a9_a/"
 created: 09/15/2012 16:20:12
+url: "http://www.anandtech.com/show/6292/iphone-5-a6-not-a15-custom-core"
 created_utc: 09/15/2012 15:20:12
 
 
 domain: "techcrunch.com"
-title: "Google Files New Patent Lawsuit Against Apple, Seeks To Block iPhone, iPad &amp; Mac Imports To U.S.  |  TechCrunch"
 score: 207
 permalink: "/r/technology/comments/yeno5/google_files_new_patent_lawsuit_against_apple/"
 created: 08/17/2012 21:59:27
+url: "http://techcrunch.com/2012/08/17/google-files-new-patent-lawsuit-against-apple-seeks-to-block-iphone-ipad-mac-imports-to-u-s/"
 created_utc: 08/17/2012 20:59:27
 
 
 domain: "appleinsider.com"
-title: "Apple scrambles to keep Samsung from revealing confidential iPhone, iPad sales documents"
 score: 208
 permalink: "/r/technology/comments/xmjj9/apple_scrambles_to_keep_samsung_from_revealing/"
 created: 08/03/2012 13:27:53
+url: "http://www.appleinsider.com/articles/12/08/03/apple_scrambles_to_keep_samsung_from_revealing_confidential_iphone_ipad_sales_documents.html"
 created_utc: 08/03/2012 12:27:53
 
 
 domain: "code.google.com"
-title: "Animated GIFs are to Android as Flash is to iPhone"
 score: 206
 permalink: "/r/technology/comments/bt07e/animated_gifs_are_to_android_as_flash_is_to_iphone/"
 created: 04/19/2010 07:10:42
+url: "http://code.google.com/p/android/issues/detail?id=3422"
 created_utc: 04/19/2010 06:10:42
 
 
 domain: "online.wsj.com"
-title: "Your Apps Are Watching You \u2014 A Journal investigation finds that iPhone and Android apps are breaching the privacy of smartphone users"
 score: 203
 permalink: "/r/technology/comments/enx32/your_apps_are_watching_you_a_journal/"
 created: 12/18/2010 10:46:31
+url: "http://online.wsj.com/article/SB10001424052748704694004576020083703574602.html"
 created_utc: 12/18/2010 09:46:31
 
 
 domain: "self.technology"
-title: "Reddit, the dealership told me that pirated music (played via iPhone and auxiliary cord) had corrupted my car stereo system. How is this possible?"
 score: 202
 permalink: "/r/technology/comments/fj04r/reddit_the_dealership_told_me_that_pirated_music/"
 created: 02/10/2011 16:58:09
+url: "http://www.reddit.com/r/technology/comments/fj04r/reddit_the_dealership_told_me_that_pirated_music/"
 created_utc: 02/10/2011 15:58:09
 
 
 domain: "cultofmac.com"
-title: "Apple's security team impersonated SFPD and illegally searched man's house looking for missing iPhone 5 prototype"
 score: 200
 permalink: "/r/technology/comments/k2s0m/apples_security_team_impersonated_sfpd_and/"
 created: 09/02/2011 16:25:02
+url: "http://www.cultofmac.com/apple-officials-impersonated-police-says-man-in-lost-iphone-5-investigation/111973"
 created_utc: 09/02/2011 15:25:02
 
 
 domain: "boygeniusreport.com"
-title: "iPhone 4 bursts into flames, burns hand"
 score: 197
 permalink: "/r/technology/comments/cnf2d/iphone_4_bursts_into_flames_burns_hand/"
 created: 07/08/2010 16:54:14
+url: "http://www.boygeniusreport.com/2010/07/08/iphone-4-catches-fire/"
 created_utc: 07/08/2010 15:54:14
 
 
 domain: "theatlantic.com"
-title: "A Blind User's Profound Review of the iPhone"
 score: 198
 permalink: "/r/technology/comments/dhwed/a_blind_users_profound_review_of_the_iphone/"
 created: 09/23/2010 13:26:50
+url: "http://www.theatlantic.com/technology/archive/2010/09/a-blind-users-profound-review-of-the-iphone/63400/"
 created_utc: 09/23/2010 12:26:50
 
 
 domain: "theregister.co.uk"
-title: "Apple-v-Samsung $1bn iPhone fine: 'Jury foreman was biased'"
 score: 184
 permalink: "/r/technology/comments/12wuyg/applevsamsung_1bn_iphone_fine_jury_foreman_was/"
 created: 11/09/2012 16:54:47
+url: "http://www.theregister.co.uk/2012/11/09/samsung_apple_jury_foreman_biased/"
 created_utc: 11/09/2012 08:54:47
 
 
 domain: "dailytech.com"
-title: "Apple Urges Government to Outlaw iPhone Unlocking Over Terrorist, Drug Dealing Risks"
 score: 185
 permalink: "/r/technology/comments/96khp/apple_urges_government_to_outlaw_iphone_unlocking/"
 created: 08/01/2009 05:24:09
+url: "http://www.dailytech.com/Apple%2BUrges%2BGovernment%2Bto%2BOutlaw%2BiPhone%2BUnlocking%2BOver%2BTerrorist%2BDrug%2BDealing%2BRisks/article15825.htm"
 created_utc: 08/01/2009 04:24:09
 
 
 domain: "brainstormtech.blogs.fortune.cnn.com"
-title: "Ad wars: Droid manly; iPhone girly "
 score: 188
 permalink: "/r/technology/comments/abyjd/ad_wars_droid_manly_iphone_girly/"
 created: 12/07/2009 09:16:40
+url: "http://brainstormtech.blogs.fortune.cnn.com/2009/12/04/ad-wars-droid-manly-iphone-girly/"
 created_utc: 12/07/2009 08:16:40
 
 
 domain: "gadgets.boingboing.net"
-title: "Unlocking an iPhone 3G the Vietnamese way"
 score: 186
 permalink: "/r/technology/comments/7javk/unlocking_an_iphone_3g_the_vietnamese_way/"
 created: 12/13/2008 15:53:04
+url: "http://gadgets.boingboing.net/2008/12/01/unlocking-an-iphone.html"
 created_utc: 12/13/2008 14:53:04
 
 
 domain: "guardian.co.uk"
-title: "Steve Jobs responds to iPhone tracking concerns, and accuses Google"
 score: 175
 permalink: "/r/technology/comments/gxs8p/steve_jobs_responds_to_iphone_tracking_concerns/"
 created: 04/26/2011 11:21:50
+url: "http://www.guardian.co.uk/technology/blog/2011/apr/25/steve-jobs-responds-iphone-tracking"
 created_utc: 04/26/2011 10:21:50
 
 
 domain: "engadget.com"
-title: "iPhone to get Flash. Now all it needs is copy'n'paste, more Bluetooth profiles, MMS, video recording,  MP3 ringtones ..."
 score: 177
 permalink: "/r/technology/comments/7u06b/iphone_to_get_flash_now_all_it_needs_is/"
 created: 02/01/2009 05:43:42
+url: "http://www.engadget.com/2009/01/31/apple-teams-up-with-adobe-for-iphone-flash-at-long-last/"
 created_utc: 02/01/2009 04:43:42
 
 
 domain: "businessinsider.com"
-title: "Samsung to run anti-iPhone 5 advertisements in newspapers nation-wide tomorrow"
 score: 172
 permalink: "/r/technology/comments/zyafk/samsung_to_run_antiiphone_5_advertisements_in/"
 created: 09/15/2012 22:29:57
+url: "http://www.businessinsider.com/samsung-galaxy-s-iii-anti-iphone-5-ad-2012-9?utm_source=twbutton&amp;utm_medium=social&amp;utm_campaign=sai"
 created_utc: 09/15/2012 21:29:57
 
 
 domain: "pcmag.com"
-title: "Apple iPhone Patent a Huge Blow to Rival Smartphone Makers"
 score: 161
 permalink: "/r/technology/comments/i6cf8/apple_iphone_patent_a_huge_blow_to_rival/"
 created: 06/22/2011 14:14:08
+url: "http://www.pcmag.com/article2/0,2817,2387401,00.asp"
 created_utc: 06/22/2011 13:14:08
 
 
 domain: "indiegogo.com"
-title: "Print sweet stuff in 3D for less than the cost of a 64GB iPhone (xpost from shutupandtakemymoney)"
 score: 161
 permalink: "/r/technology/comments/uupxp/print_sweet_stuff_in_3d_for_less_than_the_cost_of/"
 created: 06/10/2012 13:29:05
+url: "http://www.indiegogo.com/tantillus"
 created_utc: 06/10/2012 12:29:05
 
 
 domain: "osnews.com"
-title: "Samsung reveals its pre-iPhone concepts: 10 touchscreen devices"
 score: 159
 permalink: "/r/technology/comments/xglyr/samsung_reveals_its_preiphone_concepts_10/"
 created: 07/31/2012 15:22:09
+url: "http://www.osnews.com/story/26230/Samsung_reveals_its_pre-iPhone_concepts_10_touchscreen"
 created_utc: 07/31/2012 14:22:09
 
 
 domain: "nytimes.com"
-title: "Apple will no longer let books be read on the iPad or iPhone, unless they get a 30% cut of the purchase price. "
 score: 154
 permalink: "/r/technology/comments/fdlb8/apple_will_no_longer_let_books_be_read_on_the/"
 created: 02/02/2011 00:48:16
+url: "http://www.nytimes.com/2011/02/02/technology/02apple.html?_r=1&amp;hpw"
 created_utc: 02/01/2011 23:48:16
 
 
 domain: "gigaom.com"
-title: "Three months ago, AT&amp;T wanted to punish iPhone owners for using too much bandwidth. How do they expect to handle the iPad also?"
 score: 150
 permalink: "/r/technology/comments/auwf6/three_months_ago_att_wanted_to_punish_iphone/"
 created: 01/27/2010 16:03:01
+url: "http://gigaom.com/2009/12/09/att-exec-stop-streaming-dammit/"
 created_utc: 01/27/2010 15:03:01
 
 
 domain: "wired.com"
-title: "FBI Denies Having Ever Had File of iPhone UDID's"
 score: 154
 permalink: "/r/technology/comments/zcu0b/fbi_denies_having_ever_had_file_of_iphone_udids/"
 created: 09/04/2012 18:18:28
+url: "http://www.wired.com/threatlevel/2012/09/fbi-says-laptop-wasnt-hacked-never-possessed-file-of-apple-device-ids"
 created_utc: 09/04/2012 17:18:28
 
 
 domain: "theregister.co.uk"
-title: "The EU is readying a new set of directives that could spell trouble for Apple's iPhone and any other gadget that lacks an easily removable power pack."
 score: 147
 permalink: "/r/technology/comments/75vtu/the_eu_is_readying_a_new_set_of_directives_that/"
 created: 10/08/2008 05:15:23
+url: "http://www.theregister.co.uk/2008/10/07/eu_batter_directive_spells_trouble/"
 created_utc: 10/08/2008 04:15:23
 
 
 domain: "xkcd.com"
-title: "iPhone or Droid? (xkcd)"
 score: 146
 permalink: "/r/technology/comments/a3w8o/iphone_or_droid_xkcd/"
 created: 11/13/2009 01:17:32
+url: "http://xkcd.com/662/"
 created_utc: 11/13/2009 00:17:32
 
 
 domain: "slate.com"
-title: "Apple profit margins: You\u2019re paying way, way too much to get a little more space on your iPad and iPhone."
 score: 149
 permalink: "/r/technology/comments/wm5h8/apple_profit_margins_youre_paying_way_way_too/"
 created: 07/15/2012 20:39:52
+url: "http://www.slate.com/articles/technology/technology/2012/07/apple_profit_margins_you_re_paying_way_way_too_much_to_get_a_little_more_space_on_your_ipad_and_iphone_.html?wpisrc=obinsite"
 created_utc: 07/15/2012 19:39:52
 
 
 domain: "guardian.co.uk"
-title: "Samsung overtakes Nokia - and possibly outsells Apple's iPhone"
 score: 143
 permalink: "/r/technology/comments/swq6d/samsung_overtakes_nokia_and_possibly_outsells/"
 created: 04/28/2012 09:57:43
+url: "http://www.guardian.co.uk/technology/2012/apr/27/samsung-overtakes-nokia-apple"
 created_utc: 04/28/2012 08:57:43
 
 
 domain: "arstechnica.com"
-title: "Microsoft enables Silverlight video streaming to iPhones"
 score: 143
 permalink: "/r/technology/comments/a98v7/microsoft_enables_silverlight_video_streaming_to/"
 created: 11/29/2009 15:27:31
+url: "http://arstechnica.com/apple/news/2009/11/microsoft-enables-silverlight-video-streaming-to-iphones.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
 created_utc: 11/29/2009 14:27:31
 
 
 domain: "arstechnica.com"
-title: "Apple \"screwing\" iPhone users to block them from opening the hardware they paid for."
 score: 141
 permalink: "/r/technology/comments/f5xh4/apple_screwing_iphone_users_to_block_them_from/"
 created: 01/20/2011 14:02:28
+url: "http://arstechnica.com/apple/news/2011/01/apple-screwing-new-iphones-out-of-simple-diy-repair.ars"
 created_utc: 01/20/2011 13:02:28
 
 
 domain: "news.cnet.com"
-title: "Petition tells Apple:\"We want an ethical iphone 5\""
 score: 139
 permalink: "/r/technology/comments/p4wm9/petition_tells_applewe_want_an_ethical_iphone_5/"
 created: 01/31/2012 15:14:50
+url: "http://news.cnet.com/8301-27076_3-57368964-248/petition-tells-apple-we-want-an-ethical-iphone-5/"
 created_utc: 01/31/2012 14:14:50
 
 
 domain: "foxtrot.com"
-title: "FoxTrot Comic Strip: iPhones and Androids combined!"
 score: 139
 permalink: "/r/technology/comments/dpdde/foxtrot_comic_strip_iphones_and_androids_combined/"
 created: 10/10/2010 14:43:06
+url: "http://www.foxtrot.com/2010/10/10102010/"
 created_utc: 10/10/2010 13:43:06
 
 
 domain: "thingiverse.com"
-title: "We have to get used to stuff like this: download an open source iPhone 5 case and print it with your 3D printer!"
 score: 137
 permalink: "/r/technology/comments/10rtzu/we_have_to_get_used_to_stuff_like_this_download/"
 created: 10/01/2012 22:39:29
+url: "http://www.thingiverse.com/thing:31561"
 created_utc: 10/01/2012 14:39:29
 
 
 domain: "theregister.co.uk"
-title: "Apple eyes kill switch for jailbroken iPhones"
 score: 139
 permalink: "/r/technology/comments/d3y2z/apple_eyes_kill_switch_for_jailbroken_iphones/"
 created: 08/21/2010 21:35:36
+url: "http://www.theregister.co.uk/2010/08/20/apple_jailbreak_patent/"
 created_utc: 08/21/2010 20:35:36
 
 
 domain: "gigaom.com"
-title: "Android Outsells iPhone in the US (2010Q1)"
 score: 138
 permalink: "/r/technology/comments/c270j/android_outsells_iphone_in_the_us_2010q1/"
 created: 05/10/2010 13:56:03
+url: "http://gigaom.com/2010/05/10/why-u-s-android-handset-sales-are-outpacing-the-iphone/"
 created_utc: 05/10/2010 12:56:03
 
 
 domain: "arstechnica.com"
-title: "Verizon quietly begins throttling data as iPhone launch looms"
 score: 135
 permalink: "/r/technology/comments/feqhv/verizon_quietly_begins_throttling_data_as_iphone/"
 created: 02/03/2011 16:44:27
+url: "http://arstechnica.com/gadgets/news/2011/02/verizon-quietly-begins-throttling-data-as-iphone-launch-looms.ars"
 created_utc: 02/03/2011 15:44:27
 
 
 domain: "self.technology"
-title: "The Internet - Website Database."
 score: 128
 permalink: "/r/technology/comments/m1hdi/the_internet_website_database/"
 created: 11/05/2011 13:19:25
+url: "http://www.reddit.com/r/technology/comments/m1hdi/the_internet_website_database/"
 created_utc: 11/05/2011 12:19:25
 
 
 domain: "bgr.com"
-title: "AT&amp;T reportedly orders retail staff to sell anything but the iPhone to show people Android and Windows Phone devices as well, so they can \u201cmake an informed decision.\u201d"
 score: 127
 permalink: "/r/technology/comments/xic06/att_reportedly_orders_retail_staff_to_sell/"
 created: 08/01/2012 12:23:35
+url: "http://www.bgr.com/2012/08/01/att-iphone-sales-decrease-managers-orders/"
 created_utc: 08/01/2012 11:23:35
 
 
 domain: "engadget.com"
-title: "Google puts Chrome on iPhone and iPad"
 score: 126
 permalink: "/r/technology/comments/vr0vk/google_puts_chrome_on_iphone_and_ipad/"
 created: 06/28/2012 14:31:30
+url: "http://www.engadget.com/2012/06/28/google-puts-chrome-on-iphone-and-ipad/"
 created_utc: 06/28/2012 13:31:30
 
 
 domain: "mediumjones.com"
-title: " $23/month iPhone Sim Card Hack"
 score: 128
 permalink: "/r/technology/comments/8elgk/23month_iphone_sim_card_hack/"
 created: 04/22/2009 15:06:28
+url: "http://mediumjones.com/my-23month-iphone/249"
 created_utc: 04/22/2009 14:06:28
 
 
 domain: "betanews.com"
-title: "Apple claiming iPhone 3G is 'really fast' deemed false by UK regulators"
 score: 125
 permalink: "/r/technology/comments/7fur2/apple_claiming_iphone_3g_is_really_fast_deemed/"
 created: 11/26/2008 13:41:47
+url: "http://www.betanews.com/article/Apple_claiming_iPhone_3G_is_really_fast_deemed_false_by_UK_regulators/1227715753"
 created_utc: 11/26/2008 12:41:47
 
 
 domain: "blog.wired.com"
-title: "Why Apple Won't Allow Adobe Flash on iPhone"
 score: 124
 permalink: "/r/technology/comments/7e19s/why_apple_wont_allow_adobe_flash_on_iphone/"
 created: 11/18/2008 00:53:00
+url: "http://blog.wired.com/gadgets/2008/11/adobe-flash-on.html"
 created_utc: 11/17/2008 23:53:00
 
 
 domain: "economist.com"
-title: "iPhone, uCopy, iSue: not every innovation deserves a patent, not every copycat deserves a punishment."
 score: 123
 permalink: "/r/technology/comments/zhswr/iphone_ucopy_isue_not_every_innovation_deserves_a/"
 created: 09/07/2012 03:02:57
+url: "http://www.economist.com/node/21561888?fsrc=scn/fb/wl/pe/iphoneucopyisue"
 created_utc: 09/07/2012 02:02:57
 
 
 domain: "cultofmac.com"
-title: "Purported quality control QR code left behind in \nnew iPhone 5's camera roll, displays defective units \nshipped to consumers"
 score: 121
 permalink: "/r/technology/comments/10nqd4/purported_quality_control_qr_code_left_behind_in/"
 created: 09/29/2012 10:35:25
+url: "http://www.cultofmac.com/193155/how-apple-tracks-your-iphone-through-foxconn/"
 created_utc: 09/29/2012 02:35:25
 
 
 domain: "wired.com"
-title: "No More IPhones in NYC: Good Job AT&amp;T"
 score: 120
 permalink: "/r/technology/comments/aj882/no_more_iphones_in_nyc_good_job_att/"
 created: 12/28/2009 12:30:01
+url: "http://www.wired.com/gadgetlab/2009/12/att-stops-iphone-sales-in-nyc/"
 created_utc: 12/28/2009 11:30:01
 
 
 domain: "arstechnica.com"
-title: "Apple's case that Samsung copied the iPhone and iPad\u2014in pictures"
 score: 116
 permalink: "/r/technology/comments/xvsdd/apples_case_that_samsung_copied_the_iphone_and/"
 created: 08/08/2012 11:46:08
+url: "http://arstechnica.com/tech-policy/2012/08/apples-case-that-samsung-copied-the-iphone-and-ipad-in-pictures/"
 created_utc: 08/08/2012 10:46:08
 
 
 domain: "tomsguide.com"
-title: "Mozilla is moving to back the EFF against Apple to make iPhone jailbreaking legal and no longer considered copyright infringement. Firefox for iPhone FTW!"
 score: 118
 permalink: "/r/technology/comments/7zpd6/mozilla_is_moving_to_back_the_eff_against_apple/"
 created: 02/23/2009 18:23:19
+url: "http://www.tomsguide.com/us/iphone-jailbreak-unlock-dmca-drm,news-3493.html"
 created_utc: 02/23/2009 17:23:19
 
 
 domain: "techcrunch.com"
-title: "Apple's iPhone App Refund Policies Could Bankrupt Developers"
 score: 118
 permalink: "/r/technology/comments/87k3h/apples_iphone_app_refund_policies_could_bankrupt/"
 created: 03/25/2009 23:36:35
+url: "http://www.techcrunch.com/2009/03/25/apples-iphone-app-refund-policies-could-bankrupt-developers/"
 created_utc: 03/25/2009 22:36:35
 
 
 domain: "businessinsider.com"
-title: "Android Is Destroying Everyone, Especially RIM -- iPhone Dead In Water"
 score: 117
 permalink: "/r/technology/comments/giff4/android_is_destroying_everyone_especially_rim/"
 created: 04/04/2011 13:52:42
+url: "http://www.businessinsider.com/android-iphone-market-share-2011-4"
 created_utc: 04/04/2011 12:52:42
 
 
 domain: "mashable.com"
-title: "Apple Officially Responds to iPhone 5 Purple Haze Complaints"
 score: 115
 permalink: "/r/technology/comments/113ba9/apple_officially_responds_to_iphone_5_purple_haze/"
 created: 10/07/2012 20:21:52
+url: "http://mashable.com/2012/10/07/apple-response-purple-haz/"
 created_utc: 10/07/2012 12:21:52
 
 
 domain: "techcrunch.com"
-title: "Google Voice Is Coming Back To The iPhone"
 score: 113
 permalink: "/r/technology/comments/aiaaj/google_voice_is_coming_back_to_the_iphone/"
 created: 12/24/2009 15:44:00
+url: "http://www.techcrunch.com/2009/12/24/voicecentral-iphone-browser/"
 created_utc: 12/24/2009 14:44:00
 
 
 domain: "blogs.ittoolbox.com"
-title: "Dear Apple, Why Doesn't My iPhone Have A Scramble Pad?"
 score: 105
 permalink: "/r/technology/comments/6j5o4/dear_apple_why_doesnt_my_iphone_have_a_scramble/"
 created: 05/13/2008 01:02:35
+url: "http://blogs.ittoolbox.com/security/investigator/archives/dear-apple-why-doesnt-my-iphone-have-a-scramble-pad-24597"
 created_utc: 05/13/2008 00:02:35
 
 
 domain: "arstechnica.com"
-title: "Apple says \"no\" to iPhone Opera browser"
 score: 107
 permalink: "/r/technology/comments/7aqcp/apple_says_no_to_iphone_opera_browser/"
 created: 11/01/2008 16:09:53
+url: "http://arstechnica.com/journals/apple.ars/2008/10/31/apple-says-no-to-iphone-opera-browser"
 created_utc: 11/01/2008 15:09:53
 
 
 domain: "engadget.com"
-title: "From the lab: Lumia 920 low-light shootout with Nokia 808, iPhone 5, HTC One X and Galaxy S III"
 score: 104
 permalink: "/r/technology/comments/10ikua/from_the_lab_lumia_920_lowlight_shootout_with/"
 created: 09/26/2012 21:25:37
+url: "http://www.engadget.com/2012/09/26/lumia-920-low-light-shootout/"
 created_utc: 09/26/2012 13:25:37
 
 
 domain: "gigaom.com"
-title: "IPhone owners can\u2019t sue Apple over broken glass, court rules"
 score: 105
 permalink: "/r/technology/comments/zh6g0/iphone_owners_cant_sue_apple_over_broken_glass/"
 created: 09/06/2012 20:40:11
+url: "http://gigaom.com/2012/09/06/iphone-owners-cant-sue-apple-over-broken-glass-court-rules/"
 created_utc: 09/06/2012 19:40:11
 
 
 domain: "guardian.co.uk"
-title: "Forget Google \u2013 it's Apple that is turning into the evil empire - You may think you own your iPad or iPhone but in reality an invisible string links it back to Apple HQ\n"
 score: 101
 permalink: "/r/technology/comments/fyutv/forget_google_its_apple_that_is_turning_into_the/"
 created: 03/07/2011 02:39:18
+url: "http://www.guardian.co.uk/commentisfree/2011/mar/06/john-naughton-apple-dominates-market"
 created_utc: 03/07/2011 01:39:18
 
 
 domain: "wired.com"
-title: "Apple's Secret iPhone Developer Agreement Goes Public"
 score: 102
 permalink: "/r/technology/comments/bb9tz/apples_secret_iphone_developer_agreement_goes/"
 created: 03/09/2010 15:45:45
+url: "http://www.wired.com/gadgetlab/2010/03/iphone-developer-agreement/"
 created_utc: 03/09/2010 14:45:45
 
 
 domain: "androidcommunity.com"
-title: "Samsung plays offense, will sue Apple if they release an LTE iPhone"
 score: 98
 permalink: "/r/technology/comments/z3zqf/samsung_plays_offense_will_sue_apple_if_they/"
 created: 08/30/2012 22:19:53
+url: "http://androidcommunity.com/samsung-plays-offense-will-sue-apple-if-they-release-an-lte-iphone-20120830/"
 created_utc: 08/30/2012 21:19:53
 
 
 domain: "gadgets.boingboing.net"
-title: "Apple fans denounce Wired article. Japanese still not buying many iPhones."
 score: 96
 permalink: "/r/technology/comments/81aq7/apple_fans_denounce_wired_article_japanese_still/"
 created: 03/01/2009 21:23:01
+url: "http://gadgets.boingboing.net/2009/02/28/angry-apple-fans-den.html"
 created_utc: 03/01/2009 20:23:01
 
 
 domain: "blogs.forbes.com"
-title: "LulzSec hack reveals cops\u2019 least favorite iPhone apps"
 score: 96
 permalink: "/r/technology/comments/i86bj/lulzsec_hack_reveals_cops_least_favorite_iphone/"
 created: 06/24/2011 13:24:30
+url: "http://blogs.forbes.com/andygreenberg/2011/06/24/lulzsec-hack-reveals-cops-least-favorite-iphone-apps/"
 created_utc: 06/24/2011 12:24:30
 
 
 domain: "self.technology"
-title: "I emailed the writer of the Gizmodo article about the guy that lost the iPhone prototype. Here is his response."
 score: 96
 permalink: "/r/technology/comments/btxp8/i_emailed_the_writer_of_the_gizmodo_article_about/"
 created: 04/21/2010 02:01:50
+url: "http://www.reddit.com/r/technology/comments/btxp8/i_emailed_the_writer_of_the_gizmodo_article_about/"
 created_utc: 04/21/2010 01:01:50
 
 
 domain: "reuters.com"
-title: "Oxford professor says 'sealed, sterile' gadgets (iphone, blackberry, etc) threaten Internet's future"
 score: 93
 permalink: "/r/technology/comments/6izk4/oxford_professor_says_sealed_sterile_gadgets/"
 created: 05/11/2008 17:07:38
+url: "http://www.reuters.com/article/newsOne/idUSL0875110620080508?sp=true"
 created_utc: 05/11/2008 16:07:38
 
 
 domain: "bbc.co.uk"
-title: "Chinese workers injured while making touchscreens for mobile devices, including iPhones, have written to Apple asking it to do more to help them"
 score: 94
 permalink: "/r/technology/comments/fqzwa/chinese_workers_injured_while_making_touchscreens/"
 created: 02/23/2011 08:32:12
+url: "http://www.bbc.co.uk/news/technology-12550429"
 created_utc: 02/23/2011 07:32:12
 
 
 domain: "engadget.com"
-title: "Google adds support for push Gmail via Exchange ActiveSync! For iPhones too!!!"
 score: 94
 permalink: "/r/technology/comments/9n0bm/google_adds_support_for_push_gmail_via_exchange/"
 created: 09/22/2009 13:53:47
+url: "http://www.engadget.com/2009/09/22/google-adds-support-for-push-gmail-via-exchange-activesync/"
 created_utc: 09/22/2009 12:53:47
 
 
 domain: "theregister.co.uk"
-title: "Assange: 'iPhone, Blackberry, Gmail users - you're all screwed'"
 score: 91
 permalink: "/r/technology/comments/mw7nd/assange_iphone_blackberry_gmail_users_youre_all/"
 created: 12/01/2011 11:49:17
+url: "http://www.theregister.co.uk/2011/12/01/julian_assange_surveillance/"
 created_utc: 12/01/2011 10:49:17
 
 
 domain: "bloomberg.com"
-title: "Apple Engineer Told Jobs In the Early Design Phase IPhone Antenna Might Cut Calls"
 score: 92
 permalink: "/r/technology/comments/cpvn0/apple_engineer_told_jobs_in_the_early_design/"
 created: 07/15/2010 10:46:42
+url: "http://www.bloomberg.com/news/2010-07-15/apple-engineer-said-to-have-told-jobs-last-year-about-iphone-antenna-flaw.html"
 created_utc: 07/15/2010 09:46:42
 
 
 domain: "buzzfeed.com"
-title: "Why Is The Government Afraid Of This iPhone App?"
 score: 90
 permalink: "/r/technology/comments/117uw7/why_is_the_government_afraid_of_this_iphone_app/"
 created: 10/10/2012 02:14:18
+url: "http://www.buzzfeed.com/tommywilhelm/why-is-the-government-afraid-of-this-iphone-app"
 created_utc: 10/09/2012 18:14:18
 
 
 domain: "bbc.co.uk"
-title: "BBC Viewpoint: Apple's iPhone launches no longer excite"
 score: 91
 permalink: "/r/technology/comments/zr7ob/bbc_viewpoint_apples_iphone_launches_no_longer/"
 created: 09/12/2012 04:00:26
+url: "http://www.bbc.co.uk/news/technology-19557497"
 created_utc: 09/12/2012 03:00:26
 
 
 domain: "finance.yahoo.com"
-title: "The Verizon iPhone is nearly the same as AT&amp;T\u2019s iPhone 4 \u2014 but it doesn\u2019t drop calls."
 score: 85
 permalink: "/r/technology/comments/feox9/the_verizon_iphone_is_nearly_the_same_as_atts/"
 created: 02/03/2011 15:34:02
+url: "http://finance.yahoo.com/news/For-iPhone-Almost-nytimes-1849951090.html"
 created_utc: 02/03/2011 14:34:02
 
 
 domain: "nytimes.com"
-title: "$1 iPhone app has the potential to shake up an entire industry."
 score: 85
 permalink: "/r/technology/comments/bi72g/1_iphone_app_has_the_potential_to_shake_up_an/"
 created: 03/25/2010 14:55:13
+url: "http://www.nytimes.com/2010/03/25/technology/personaltech/25pogue.html?hp"
 created_utc: 03/25/2010 13:55:13
 
 
 domain: "washingtonpost.com"
-title: "Why The FCC Wants To Smash Open The iPhone"
 score: 89
 permalink: "/r/technology/comments/96o25/why_the_fcc_wants_to_smash_open_the_iphone/"
 created: 08/01/2009 15:30:56
+url: "http://www.washingtonpost.com/wp-dyn/content/article/2009/08/01/AR2009080101074.html"
 created_utc: 08/01/2009 14:30:56
 
 
 domain: "blog.reddit.com"
-title: "At last! Our iPhone app update has been approved"
 score: 84
 permalink: "/r/technology/comments/87ijm/at_last_our_iphone_app_update_has_been_approved/"
 created: 03/25/2009 19:43:59
+url: "http://blog.reddit.com/2009/03/at-last-our-iphone-app-update-has-been.html"
 created_utc: 03/25/2009 18:43:59
 
 
 domain: "washingtonpost.com"
-title: "Google phone would break industry model, works on any network, challenges Apple's iPhone"
 score: 83
 permalink: "/r/technology/comments/aewe8/google_phone_would_break_industry_model_works_on/"
 created: 12/15/2009 09:51:03
+url: "http://www.washingtonpost.com/wp-dyn/content/article/2009/12/14/AR2009121403454.html?wprss=rss_technology"
 created_utc: 12/15/2009 08:51:03
 
 
 domain: "forbes.com"
-title: "Intel To Build Chips Apple 'Can't Ignore,' For iPad, iPhone, CEO Says"
 score: 80
 permalink: "/r/technology/comments/tkmbt/intel_to_build_chips_apple_cant_ignore_for_ipad/"
 created: 05/13/2012 02:08:38
+url: "http://www.forbes.com/sites/briancaulfield/2012/05/10/intel-to-insure-apple-cant-ignore-its-mobile-chips-for-ipad-iphone-ceo-says/"
 created_utc: 05/13/2012 01:08:38
 
 
 domain: "engadget.com"
-title: "iPhone 4S vs. the smartphone elite: Galaxy S II, Bionic and Titan"
 score: 82
 permalink: "/r/technology/comments/l0y6p/iphone_4s_vs_the_smartphone_elite_galaxy_s_ii/"
 created: 10/04/2011 18:21:51
+url: "http://www.engadget.com/2011/10/04/iphone-4s-vs-the-smartphone-elite-galaxy-s-ii-bionic-and-tita"
 created_utc: 10/04/2011 17:21:51
 
 
 domain: "thestreet.com"
-title: "At&amp;t New Customer Growth Collapses After Losing Exclusive iPhone Deal!"
 score: 83
 permalink: "/r/technology/comments/gtp0r/att_new_customer_growth_collapses_after_losing/"
 created: 04/19/2011 13:20:09
+url: "http://www.thestreet.com/story/11085995/1/atts-subscriber-growth-nears-zero.html?kval=dontmiss?CM_VEN=AD|FB"
 created_utc: 04/19/2011 12:20:09
 
 
 domain: "gizmodo.com"
-title: "Apple Rejects Official Google Voice iPhone App"
 score: 80
 permalink: "/r/technology/comments/956ho/apple_rejects_official_google_voice_iphone_app/"
 created: 07/28/2009 02:07:50
+url: "http://gizmodo.com/5324268/apple-rejected-official-google-voice-iphone-app?skyline=true&amp;s=i"
 created_utc: 07/28/2009 01:07:50
 
 
 domain: "blogs.wsj.com"
-title: "Burglars steal 191 iPhone 5 from 3 stores just the night before their launch in Japan."
 score: 80
 permalink: "/r/technology/comments/108wan/burglars_steal_191_iphone_5_from_3_stores_just/"
 created: 09/21/2012 10:30:04
+url: "http://blogs.wsj.com/japanrealtime/2012/09/21/burglars-in-japan-first-to-get-hands-on-iphone-5/"
 created_utc: 09/21/2012 09:30:04
 
 
 domain: "ismashphone.com"
-title: "The Only One Reason to Jailbreak Your iPhone: Full Internet Tethering"
 score: 80
 permalink: "/r/technology/comments/73q24/the_only_one_reason_to_jailbreak_your_iphone_full/"
 created: 09/26/2008 12:46:13
+url: "http://www.ismashphone.com/2008/09/pdanet.html"
 created_utc: 09/26/2008 11:46:13
 
 
 domain: "engadget.com"
-title: "\tIPhone 3.0 has tons of great stuff--subscriptions, micropayments, P2P, accessory control, maps, push, etc "
 score: 76
 permalink: "/r/technology/comments/85dt5/iphone_30_has_tons_of_great_stuffsubscriptions/"
 created: 03/17/2009 14:48:13
+url: "http://www.engadget.com/2009/03/17/live-from-apples-iphone-os-3-0-preview-event/#continued"
 created_utc: 03/17/2009 13:48:13
 
 
 domain: "awfulmarketing.com"
-title: "Verizon's gonna have a field day with this - AT&amp;T rep says, \"New York City Is Not Ready For The iPhone\""
 score: 79
 permalink: "/r/technology/comments/aj26j/verizons_gonna_have_a_field_day_with_this_att_rep/"
 created: 12/28/2009 00:28:16
+url: "http://awfulmarketing.com/index.php/2009/12/28/att-new-york-is-not-ready-for-the-iphone/"
 created_utc: 12/27/2009 23:28:16
 
 
 domain: "mashable.com"
-title: "Apple Files for Patent to Disable Jailbroken iPhones - potential privacy nightmare as they can pull your personal data to their servers."
 score: 80
 permalink: "/r/technology/comments/d4iw9/apple_files_for_patent_to_disable_jailbroken/"
 created: 08/23/2010 15:53:53
+url: "http://mashable.com/2010/08/22/apple-jailbreaking-patent/"
 created_utc: 08/23/2010 14:53:53
 
 
 domain: "self.technology"
-title: "How far do you guys figure we are from our mobile communication plans, i.e. cell phones, being pure data, for calls, texts, email, web, etc. - and is the hold up purely about telecom profits?"
 score: 80
 permalink: "/r/technology/comments/ch1fk/how_far_do_you_guys_figure_we_are_from_our_mobile/"
 created: 06/20/2010 13:23:14
+url: "http://www.reddit.com/r/technology/comments/ch1fk/how_far_do_you_guys_figure_we_are_from_our_mobile/"
 created_utc: 06/20/2010 12:23:14
 
 
 domain: "engadget.com"
-title: "iPhone vulnerability leaves your data wide open, even when using a PIN -- Engadget"
 score: 79
 permalink: "/r/technology/comments/c8n29/iphone_vulnerability_leaves_your_data_wide_open/"
 created: 05/27/2010 08:48:11
+url: "http://www.engadget.com/2010/05/27/iphone-vulnerability-leaves-your-data-wide-open-even-when-using/"
 created_utc: 05/27/2010 07:48:11
 
 
 domain: "gearlog.com"
-title: "Thief steals an iPhone with a prototype GPS tracking, gets caught in 10 mins"
 score: 76
 permalink: "/r/technology/comments/csidu/thief_steals_an_iphone_with_a_prototype_gps/"
 created: 07/22/2010 13:06:16
+url: "http://www.gearlog.com/2010/07/phone_thief_caught_after_steal.php"
 created_utc: 07/22/2010 12:06:16
 
 
 domain: "gizmodo.com"
-title: "Want to drive your Oldsmobile from the roof using an iPhone?   There's an app for that"
 score: 79
 permalink: "/r/technology/comments/a3e6p/want_to_drive_your_oldsmobile_from_the_roof_using/"
 created: 11/11/2009 17:03:20
+url: "http://gizmodo.com/5402152/surfing-the-road-on-an-iphone+controlled-oldsmobile"
 created_utc: 11/11/2009 16:03:20
 
 
 domain: "truthdig.com"
-title: "Spyware developed by a UK group can take control of a number of mobile devices, including iPhones and BlackBerrys and computers, turning on microphones and cameras, tracking locations and monitoring emails, text messages and voice calls. Gamma International specializes in governmental IT intrusion. "
 score: 80
 permalink: "/r/technology/comments/z8dcv/spyware_developed_by_a_uk_group_can_take_control/"
 created: 09/02/2012 12:22:47
+url: "http://www.truthdig.com/eartotheground/item/british_malware_can_take_over_iphones_20120901/"
 created_utc: 09/02/2012 11:22:47
 
 
 domain: "extremetech.com"
-title: "iPhone 5 A6 SoC reverse engineered, reveals rare hand-made custom CPU, and a tri-core GPU"
 score: 78
 permalink: "/r/technology/comments/10ggnq/iphone_5_a6_soc_reverse_engineered_reveals_rare/"
 created: 09/25/2012 20:40:52
+url: "http://www.extremetech.com/computing/136749-iphone-5-a6-soc-reverse-engineered-reveals-rare-hand-made-custom-cpu-and-a-tri-core-gpu"
 created_utc: 09/25/2012 12:40:52
 
 
 domain: "bgr.com"
-title: "\"Revolutionary\" new Nokia smartphone to combat the 'poorly designed' and 'convoluted' iPhone, according to a Nokia executive"
 score: 78
 permalink: "/r/technology/comments/r53ln/revolutionary_new_nokia_smartphone_to_combat_the/"
 created: 03/20/2012 11:32:57
+url: "http://www.bgr.com/2012/03/20/nokia-is-building-a-revolutionary-new-phone-to-combat-the-poorly-designed-iphone/"
 created_utc: 03/20/2012 10:32:57
 
 
 domain: "bgr.com"
-title: "Another quality control issue hits Apple as iPhone 5 owners report light leaks\n"
 score: 77
 permalink: "/r/technology/comments/10e72k/another_quality_control_issue_hits_apple_as/"
 created: 09/24/2012 18:50:54
+url: "http://www.bgr.com/2012/09/24/iphone-5-light-leak-apple-defect/"
 created_utc: 09/24/2012 10:50:54
 
 
 domain: "patentlyapple.com"
-title: "Class Action Filed against Apple for locking iPhones to AT&amp;amp;T Network - Patently Apple"
 score: 72
 permalink: "/r/technology/comments/11ud5k/class_action_filed_against_apple_for_locking/"
 created: 10/21/2012 10:48:03
+url: "http://www.patentlyapple.com/patently-apple/2012/10/class-action-filed-against-apple-for-locking-iphones-to-att-network.html"
 created_utc: 10/21/2012 09:48:03
 
 
 domain: "geek.com"
-title: "49 workers poisoned at Apple's iPhone touchscreen supplier Wintek "
 score: 71
 permalink: "/r/technology/comments/ef5d2/49_workers_poisoned_at_apples_iphone_touchscreen/"
 created: 12/02/2010 14:59:07
+url: "http://www.geek.com/articles/mobile/49-workers-poisoned-at-apples-iphone-touchscreen-supplier-wintek-20100222/"
 created_utc: 12/02/2010 13:59:07
 
 
 domain: "wired.com"
-title: "Opera Mini for iPhone is Fast Like a Rocket"
 score: 72
 permalink: "/r/technology/comments/b2c8t/opera_mini_for_iphone_is_fast_like_a_rocket/"
 created: 02/15/2010 13:30:09
+url: "http://www.wired.com/gadgetlab/2010/02/opera-mini-for-iphone-is-fast-like-a-rocket/"
 created_utc: 02/15/2010 12:30:09
 
 
 domain: "pcworld.com"
-title: "Skype launching iPhone application"
 score: 72
 permalink: "/r/technology/comments/88kxx/skype_launching_iphone_application/"
 created: 03/30/2009 10:37:35
+url: "http://www.pcworld.com/article/162179/sneak_peek_at_skype_for_iphone_available_tuesday.html"
 created_utc: 03/30/2009 09:37:35
 
 
 domain: "arstechnica.com"
-title: "To all the Nokia Lumia 920 PureView haters, Ars has an impressive real life lowlight comparison vs. iphone. Pretty amazing how impressive the 920 is."
 score: 74
 permalink: "/r/technology/comments/zg99z/to_all_the_nokia_lumia_920_pureview_haters_ars/"
 created: 09/06/2012 11:50:34
+url: "http://arstechnica.com/gadgets/2012/09/test-driving-nokia-lumia-920s-body-and-pureview-camera/"
 created_utc: 09/06/2012 10:50:34
 
 
 domain: "medialoper.com"
-title: "How Apple Took The Fun Out of Owning an iPhone"
 score: 71
 permalink: "/r/technology/comments/crihx/how_apple_took_the_fun_out_of_owning_an_iphone/"
 created: 07/20/2010 03:36:24
+url: "http://medialoper.com/how-apple-took-the-fun-out-of-owning-an-iphone/"
 created_utc: 07/20/2010 02:36:24
 
 
 domain: "boingboing.net"
-title: "Behold, the \"point your iPhone at a plane and know where it's headed\" app!"
 score: 69
 permalink: "/r/technology/comments/dh437/behold_the_point_your_iphone_at_a_plane_and_know/"
 created: 09/21/2010 21:46:32
+url: "http://www.boingboing.net/2010/09/20/behold-the-point-you.html"
 created_utc: 09/21/2010 20:46:32
 
 
 domain: "money.cnn.com"
-title: "Most iPhone users love AT&amp;T -- Could this be flawed research? I have never met someone who has an iPhone and is happy with AT&amp;T service"
 score: 72
 permalink: "/r/technology/comments/cu8ic/most_iphone_users_love_att_could_this_be_flawed/"
 created: 07/27/2010 11:31:15
+url: "http://money.cnn.com/2010/07/23/technology/iphone_4_att/index.htm"
 created_utc: 07/27/2010 10:31:15
 
 
 domain: "gizmodo.com"
-title: "iPhone OS 4: All the New Features"
 score: 73
 permalink: "/r/technology/comments/bo9t4/iphone_os_4_all_the_new_features/"
 created: 04/08/2010 15:16:49
+url: "http://gizmodo.com/5512635/iphone-os-4-all-the-new-features"
 created_utc: 04/08/2010 14:16:49
 
 
 domain: "businessinsider.com"
-title: "Google Android Is An Unstoppable Beast, And The Verizon iPhone Won't Change That"
 score: 71
 permalink: "/r/technology/comments/f144v/google_android_is_an_unstoppable_beast_and_the/"
 created: 01/12/2011 16:54:28
+url: "http://www.businessinsider.com/why-verizons-new-iphone-completely-misses-the-point-2011-1"
 created_utc: 01/12/2011 15:54:28
 
 
 domain: "bgr.com"
-title: "Carriers blame the iPhone for data caps and increased upgrade fees"
 score: 71
 permalink: "/r/technology/comments/xrnuw/carriers_blame_the_iphone_for_data_caps_and/"
 created: 08/06/2012 12:10:45
+url: "http://www.bgr.com/2012/08/06/iphone-data-caps-upgrade-fees-att-verizon/"
 created_utc: 08/06/2012 11:10:45
 
 
 domain: "theregister.co.uk"
-title: "Apple axes Samsung RAM order for iPhone 5"
 score: 70
 permalink: "/r/technology/comments/zi7do/apple_axes_samsung_ram_order_for_iphone_5/"
 created: 09/07/2012 10:46:13
+url: "http://www.theregister.co.uk/2012/09/07/apple_cut_samsung_contract/"
 created_utc: 09/07/2012 09:46:13
 
 
 domain: "techcrunch.com"
-title: "Even Arrington is dropping the iPhone, over the Apple &amp; AT&amp;T decision regarding Google Voice"
 score: 68
 permalink: "/r/technology/comments/96aa2/even_arrington_is_dropping_the_iphone_over_the/"
 created: 07/31/2009 07:26:11
+url: "http://www.techcrunch.com/2009/07/31/i-quit-the-iphone/"
 created_utc: 07/31/2009 06:26:11
 
 
 domain: "techdirt.com"
-title: "Steve Jobs Was Willing To 'Rip Off' Everyone Else... But Was Pissed About Android Copying iPhone?"
 score: 71
 permalink: "/r/technology/comments/ll0vy/steve_jobs_was_willing_to_rip_off_everyone_else/"
 created: 10/22/2011 11:45:39
+url: "http://www.techdirt.com/blog/innovation/articles/20111021/16380816459/steve-jobs-was-willing-to-rip-off-everyone-else-was-pissed-about-android-copying-iphone.shtml"
 created_utc: 10/22/2011 10:45:39
 
 
 domain: "consumeraffairs.com"
-title: "Your iPhone Could Be Disabled During The Next Protest You Attend"
 score: 67
 permalink: "/r/technology/comments/12oe9p/your_iphone_could_be_disabled_during_the_next/"
 created: 11/05/2012 13:55:10
+url: "http://www.consumeraffairs.com/news04/2012/09/your-iphone-could-be-disabled-during-the-next-protest-you-attend.html"
 created_utc: 11/05/2012 12:55:10
 
 
 domain: "cnn.com"
-title: "\"The iPhone features an integrated Web browser, tiltable 7.4-inch gray scale touchscreen, an e-mail client, a 56-kilobits-per-second modem, two phone jacks, a full duplex speaker phone, and a keyboard that slides under the phone to save space\""
 score: 71
 permalink: "/r/technology/comments/bugaj/the_iphone_features_an_integrated_web_browser/"
 created: 04/22/2010 02:12:51
+url: "http://www.cnn.com/TECH/computing/9906/10/iphone.idg/index.html"
 created_utc: 04/22/2010 01:12:51
 
 
 domain: "consumerist.com"
-title: "Reader Gets AT&amp;T to Admit Their Towers Suck, Not the iPhone"
 score: 63
 permalink: "/r/technology/comments/malq6/reader_gets_att_to_admit_their_towers_suck_not/"
 created: 11/13/2011 05:09:29
+url: "http://consumerist.com/2011/11/reader-gets-att-to-admit-its-their-towers-that-suck-not-the-iphone.html"
 created_utc: 11/13/2011 04:09:29
 
 
 domain: "extremetech.com"
-title: "How hackers will jailbreak the iPhone 5 "
 score: 67
 permalink: "/r/technology/comments/108nfv/how_hackers_will_jailbreak_the_iphone_5/"
 created: 09/21/2012 12:20:03
+url: "http://www.extremetech.com/computing/136435-how-hackers-will-jailbreak-the-iphone-5"
 created_utc: 09/21/2012 04:20:03
 
 
 domain: "nytimes.com"
-title: "Each employee was given a biscuit and a cup of tea, guided to a workstation and within half an hour started a 12-hour shift fitting glass screens into beveled frames. Within 96 hours, the plant was producing over 10,000 iPhones a day. "
 score: 60
 permalink: "/r/technology/comments/oqmoq/each_employee_was_given_a_biscuit_and_a_cup_of/"
 created: 01/21/2012 17:18:12
+url: "http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?_r=1"
 created_utc: 01/21/2012 16:18:12
 
 
 domain: "i.imgur.com"
-title: "Better late than never? Apple now hiring Antenna Engineers for iPad &amp; iPhone (pic)"
 score: 65
 permalink: "/r/technology/comments/ckcbl/better_late_than_never_apple_now_hiring_antenna/"
 created: 06/29/2010 20:39:17
+url: "http://i.imgur.com/bdDpv.png"
 created_utc: 06/29/2010 19:39:17
 
 
 domain: "pcmag.com"
-title: "Apple &amp; AT&amp;T being sued over iPhone 4 \"death grip\", accused of negligence, fraud, and deceptive trade practices."
 score: 62
 permalink: "/r/technology/comments/ckzm8/apple_att_being_sued_over_iphone_4_death_grip/"
 created: 07/01/2010 13:41:50
+url: "http://www.pcmag.com/article2/0,2817,2365940,00.asp"
 created_utc: 07/01/2010 12:41:50
 
 
 domain: "appleinsider.com"
-title: "Hackers release new 'jailbreak' for Apple's iPhone 3GS, iPad"
 score: 58
 permalink: "/r/technology/comments/bzead/hackers_release_new_jailbreak_for_apples_iphone/"
 created: 05/03/2010 09:57:45
+url: "http://www.appleinsider.com/articles/10/05/03/hackers_release_new_jailbreak_for_apples_iphone_3gs_ipad.html"
 created_utc: 05/03/2010 08:57:45
 
 
 domain: "nytimes.com"
-title: "20 Years Ago Today: Speculations about iPhone like device"
 score: 57
 permalink: "/r/technology/comments/wu6l9/20_years_ago_today_speculations_about_iphone_like/"
 created: 07/19/2012 18:14:12
+url: "http://www.nytimes.com/1992/07/19/business/the-executive-computer-mother-of-all-markets-or-a-pipe-dream-driven-by-greed.html"
 created_utc: 07/19/2012 17:14:12
 
 
 domain: "greatergreaterwashington.org"
-title: "New York Metropolitan Transit Authority's lawyers are going after a local blogger for developing an iPhone app with train schedules. They claim the schedules are copyrighted. "
 score: 57
 permalink: "/r/technology/comments/9cwdy/new_york_metropolitan_transit_authoritys_lawyers/"
 created: 08/21/2009 16:11:55
+url: "http://greatergreaterwashington.org/post.cgi?id=3263"
 created_utc: 08/21/2009 15:11:55
 
 
 domain: "informationweek.com"
-title: "Apple TV teardown reveals $64 manufacturing cost as well as the same internal design and components as the iPad, iPhone 4, and iPod Touch."
 score: 57
 permalink: "/r/technology/comments/dnls8/apple_tv_teardown_reveals_64_manufacturing_cost/"
 created: 10/06/2010 12:21:30
+url: "http://www.informationweek.com/news/security/reviews/showArticle.jhtml?articleID=227700198&amp;subSection=News"
 created_utc: 10/06/2010 11:21:30
 
 
 domain: "cnn.com"
-title: "Samsung Galaxy S III dethrones iPhone as world's top seller - CNN.com"
 score: 61
 permalink: "/r/technology/comments/12wb28/samsung_galaxy_s_iii_dethrones_iphone_as_worlds/"
 created: 11/09/2012 07:05:53
+url: "http://www.cnn.com/2012/11/08/tech/mobile/samsung-galaxy-iphone/index.html?hpt=hp_t3"
 created_utc: 11/08/2012 23:05:53
 
 
 domain: "slashgear.com"
-title: "Google: We want 2.25% of the iPhone sticker price."
 score: 59
 permalink: "/r/technology/comments/phpbr/google_we_want_225_of_the_iphone_sticker_price/"
 created: 02/09/2012 08:38:50
+url: "http://www.slashgear.com/google-we-want-2-25-of-the-iphone-sticker-price-09212763/"
 created_utc: 02/09/2012 07:38:50
 
 
 domain: "news.cnet.com"
-title: "On iPhone, beware of that AT&amp;T Wi-Fi hot spot"
 score: 57
 permalink: "/r/technology/comments/bx7bt/on_iphone_beware_of_that_att_wifi_hot_spot/"
 created: 04/28/2010 08:34:57
+url: "http://news.cnet.com/8301-27080_3-20003455-245.html"
 created_utc: 04/28/2010 07:34:57
 
 
 domain: "techcrunch.com"
-title: "iPhone 5 Pre-order Sells Out in 60 Minutes - TechCrunch"
 score: 56
 permalink: "/r/technology/comments/zvkae/iphone_5_preorder_sells_out_in_60_minutes/"
 created: 09/14/2012 11:02:04
+url: "http://techcrunch.com/2012/09/14/iphone-5-pre-order-sells-out-20x-faster-than-4-and-4s-further-highlighting-apples-dominance/"
 created_utc: 09/14/2012 10:02:04
 
 
 domain: "nytimes.com"
-title: "iPhone sales up 58% year over year - NYT"
 score: 54
 permalink: "/r/technology/comments/127w5c/iphone_sales_up_58_year_over_year_nyt/"
 created: 10/28/2012 11:16:59
+url: "http://www.nytimes.com/2012/10/26/technology/apple-profits-rise-24-on-iphone-5-sales.html"
 created_utc: 10/28/2012 10:16:59
 
 
 domain: "infoworld.com"
-title: "Locked iPhones can be unlocked without a password"
 score: 57
 permalink: "/r/technology/comments/6y96i/locked_iphones_can_be_unlocked_without_a_password/"
 created: 08/27/2008 10:16:46
+url: "http://www.infoworld.com/article/08/08/27/Locked_iPhones_can_be_unlocked_without_a_password_1.html"
 created_utc: 08/27/2008 09:16:46
 
 
 domain: "huffingtonpost.com"
-title: "iPhone Class Action: Judge Approves Lawsuit Against Apple, AT&amp;T "
 score: 58
 permalink: "/r/technology/comments/conng/iphone_class_action_judge_approves_lawsuit/"
 created: 07/12/2010 12:08:32
+url: "http://www.huffingtonpost.com/2010/07/12/iphone-class-action-judge_n_642552.html"
 created_utc: 07/12/2010 11:08:32
 
 
 domain: "theinquirer.net"
-title: "Apple\u2019s Iphone and Ipad could be banned in Germany - Motorola won a temporary injunction in the Mannheim Regional Court"
 score: 61
 permalink: "/r/technology/comments/n69hm/apples_iphone_and_ipad_could_be_banned_in_germany/"
 created: 12/09/2011 10:49:28
+url: "http://www.theinquirer.net/inquirer/news/2131488/apple-s-iphone-ipad-banned-germany"
 created_utc: 12/09/2011 09:49:28
 
 
 domain: "news.com.au"
-title: "Apple's official response to iPhone 4 signal problems: \"Software showed too many bars to begin with!\""
 score: 55
 permalink: "/r/technology/comments/clbjv/apples_official_response_to_iphone_4_signal/"
 created: 07/02/2010 11:19:32
+url: "http://www.news.com.au/breaking-news/apple-blames-software-error-for-iphone-4-signal-problems/story-e6frfku0-1225887335590"
 created_utc: 07/02/2010 10:19:32
 
 
 domain: "informationweek.com"
-title: "Apple Considering Making Bing New Default Search Engine in Iphone!  Grrr.... They Better Make It Easy to Switch Back to Google...."
 score: 54
 permalink: "/r/technology/comments/as0ub/apple_considering_making_bing_new_default_search/"
 created: 01/20/2010 14:21:24
+url: "http://www.informationweek.com/news/services/saas/showArticle.jhtml?articleID=222301617"
 created_utc: 01/20/2010 13:21:24
 
 
 domain: "huffingtonpost.com"
-title: "iPhone 4S Battery Life Problems Befuddle Apple Engineers, Owners - The Huffington Post"
 score: 54
 permalink: "/r/technology/comments/ltcgu/iphone_4s_battery_life_problems_befuddle_apple/"
 created: 10/29/2011 14:40:51
+url: "http://www.huffingtonpost.com/mobileweb/2011/10/28/iphone-4s-battery-life-problems_n_1064532.html"
 created_utc: 10/29/2011 13:40:51
 
 
 domain: "businessinsider.com"
-title: "Apple To End AT&amp;T iPhone Exclusivity On Wednesday -- Good thing I just signed a two year contract"
 score: 59
 permalink: "/r/technology/comments/au4oy/apple_to_end_att_iphone_exclusivity_on_wednesday/"
 created: 01/25/2010 21:11:15
+url: "http://www.businessinsider.com/henry-blodget-apple-to-end-att-iphone-exclusivity-on-wednesday-report-2010-1"
 created_utc: 01/25/2010 20:11:15
 
 
 domain: "bgr.com"
-title: "How to stop Apple from tracking your iPhone and iPad usage to serve targeted iAds"
 score: 50
 permalink: "/r/technology/comments/11b7kv/how_to_stop_apple_from_tracking_your_iphone_and/"
 created: 10/11/2012 18:53:58
+url: "http://www.bgr.com/2012/10/11/iad-tracking-targeted-ads-iphone-ipad/"
 created_utc: 10/11/2012 10:53:58
 
 
 domain: "intomobile.com"
-title: "Halliburton dumps BlackBerry, starts distributing iPhones to workers"
 score: 58
 permalink: "/r/technology/comments/phjpn/halliburton_dumps_blackberry_starts_distributing/"
 created: 02/09/2012 03:24:10
+url: "http://www.intomobile.com/2012/02/08/halliburton-dumps-blackberrys-starts-distributing-iphones-workers/"
 created_utc: 02/09/2012 02:24:10
 
 
 domain: "thisismynext.com"
-title: "Samsung\u2019s lawyers demand to see the iPhone 5 and iPad 3"
 score: 54
 permalink: "/r/technology/comments/hmlwq/samsungs_lawyers_demand_to_see_the_iphone_5_and/"
 created: 05/29/2011 00:07:05
+url: "http://thisismynext.com/2011/05/28/samsung-apple-iphone-5-ipad-3/"
 created_utc: 05/28/2011 23:07:05
 
 
 domain: "pcworld.com"
-title: "How Android Phones Became a Hit? Android has officially hit the big time now that sales of its devices exceeded the Apple iPhone over the past quarter."
 score: 53
 permalink: "/r/technology/comments/c4nja/how_android_phones_became_a_hit_android_has/"
 created: 05/16/2010 00:24:09
+url: "http://www.pcworld.com/article/196391/how_android_phones_became_a_hit.html"
 created_utc: 05/15/2010 23:24:09
 
 
 domain: "tech.yahoo.com"
-title: "Mozilla and Skype support jailbreaking of the iPhone"
 score: 51
 permalink: "/r/technology/comments/7ynet/mozilla_and_skype_support_jailbreaking_of_the/"
 created: 02/19/2009 10:51:46
+url: "http://tech.yahoo.com/news/macworld/20090218/tc_macworld/mozillaskypesupportdmcajailbreakingexemption"
 created_utc: 02/19/2009 09:51:46
 
 
 domain: "brainstormtech.blogs.fortune.cnn.com"
-title: "The great iPhone death watch - how to be really wrong"
 score: 53
 permalink: "/r/technology/comments/a9xxz/the_great_iphone_death_watch_how_to_be_really/"
 created: 12/01/2009 13:41:27
+url: "http://brainstormtech.blogs.fortune.cnn.com/2009/12/01/the-great-iphone-death-watch/"
 created_utc: 12/01/2009 12:41:27
 
 
 domain: "markolson.github.com"
-title: "Visualize you iPhone's location tracking map in 100% client-side Javascript"
 score: 56
 permalink: "/r/technology/comments/gxsk8/visualize_you_iphones_location_tracking_map_in/"
 created: 04/26/2011 11:36:50
+url: "http://markolson.github.com/js-sqlite-map-thing/"
 created_utc: 04/26/2011 10:36:50
 
 
 domain: "loopinsight.com"
-title: "Lawsuit claims AT&amp;T overstates iPhone data usage up to 300%"
 score: 54
 permalink: "/r/technology/comments/hfcrl/lawsuit_claims_att_overstates_iphone_data_usage/"
 created: 05/19/2011 18:05:46
+url: "http://www.loopinsight.com/2011/05/19/lawsuit-claims-att-overcharges-iphone-data-users-up-to-300/"
 created_utc: 05/19/2011 17:05:46
 
 
 domain: "eetimes.com"
-title: "Apple's best evidence against Samsung in the iPhone patent wars. It shows is that Samsung looked at their competition to remain competitive; not that they violated patents that demonstrated any uniqueness at all."
 score: 49
 permalink: "/r/technology/comments/y1yx8/apples_best_evidence_against_samsung_in_the/"
 created: 08/11/2012 14:24:16
+url: "http://eetimes.com/electronics-news/4392004/Apple-s-strongest-evidence-on-Samsung?cid=NL_EETimesDaily"
 created_utc: 08/11/2012 13:24:16
 
 
 domain: "abcnews.go.com"
-title: "Apple iPhone Leak: The Appalling Reactions"
 score: 47
 permalink: "/r/technology/comments/bzdp8/apple_iphone_leak_the_appalling_reactions/"
 created: 05/03/2010 09:05:13
+url: "http://abcnews.go.com/Business/apple-iphone-leak-appalling-reactions/story?id=10523213"
 created_utc: 05/03/2010 08:05:13
 
 
 domain: "domainshane.com"
-title: "Alan Schaaf, creator of Imgur, releases new iPhone App and answers other questions"
 score: 52
 permalink: "/r/technology/comments/a9ztd/alan_schaaf_creator_of_imgur_releases_new_iphone/"
 created: 12/01/2009 16:13:51
+url: "http://domainshane.com/meet-alan-schaaf-creater-designer-coder-of-one-of-the-fastest-growing-sites-on-the-net-imgur-com/"
 created_utc: 12/01/2009 15:13:51
 
 
 domain: "mifieurope.com"
-title: "Steve Wozniak on the iPhone4: \"If you can afford it, carry a second Verizon phone for backup\""
 score: 52
 permalink: "/r/technology/comments/cpwy6/steve_wozniak_on_the_iphone4_if_you_can_afford_it/"
 created: 07/15/2010 12:23:52
+url: "http://www.mifieurope.com/2010/07/15/wozniak/"
 created_utc: 07/15/2010 11:23:52
-title: "MiFi 2352 meets Eye-Fi Geo: send photos without cables or pc/laptop"
+url: "http://www.youtube.com/watch?v=lqIi7UOCMZc\""
 
 
 domain: "huliq.com"
-title: "iPhone SMS Hack. Every iPhone in the world at risk. No fix yet."
 score: 51
 permalink: "/r/technology/comments/960ka/iphone_sms_hack_every_iphone_in_the_world_at_risk/"
 created: 07/30/2009 12:15:49
+url: "http://www.huliq.com/3257/84257/sms-hack-can-hijack-every-iphone-world"
 created_utc: 07/30/2009 11:15:49
 
 
 domain: "online.wsj.com"
-title: "Citigroup Discloses Massive Security Flaw in Its iPhone App"
 score: 50
 permalink: "/r/technology/comments/ctxf9/citigroup_discloses_massive_security_flaw_in_its/"
 created: 07/26/2010 16:42:17
+url: "http://online.wsj.com/article/SB10001424052748703700904575391273536355324.html#articleTabs%3Darticle"
 created_utc: 07/26/2010 15:42:17
 
 
 domain: "osnews.com"
-title: "Apple Not Accepting Opera Mini on iPhone. Anyone surprised?"
 score: 51
 permalink: "/r/technology/comments/7agre/apple_not_accepting_opera_mini_on_iphone_anyone/"
 created: 10/31/2008 04:35:03
+url: "http://www.osnews.com/story/20455/Apple_Not_Accepting_Opera_Mini_on_iPhone"
 created_utc: 10/31/2008 03:35:03
 
 
 domain: "money.cnn.com"
-title: "The IPhone is a nightmare for carriers"
 score: 48
 permalink: "/r/technology/comments/pg7ys/the_iphone_is_a_nightmare_for_carriers/"
 created: 02/08/2012 09:52:48
+url: "http://money.cnn.com/2012/02/08/technology/iphone_carrier_subsidy/"
 created_utc: 02/08/2012 08:52:48
 
 
 domain: "guardian.co.uk"
-title: "Apple plans iPhone that will support both 3G and CDMA2000, enabling the iPhone \"to work anywhere in the world\""
 score: 49
 permalink: "/r/technology/comments/a3mly/apple_plans_iphone_that_will_support_both_3g_and/"
 created: 11/12/2009 09:45:17
+url: "http://www.guardian.co.uk/business/2009/nov/11/apple-worldwide-iphone-plan"
 created_utc: 11/12/2009 08:45:17
 
 
 domain: "mondaynote.com"
-title: "TIL Nokia charges Apple $11.50 per iPhone sold and probably makes more from Apple than their own phones"
 score: 48
 permalink: "/r/technology/comments/zelyz/til_nokia_charges_apple_1150_per_iphone_sold_and/"
 created: 09/05/2012 15:40:47
+url: "http://www.mondaynote.com/2012/08/26/the-apple-tax-part-ii/#"
 created_utc: 09/05/2012 14:40:47
 
 
 domain: "globalpost.com"
-title: "Google yanks new Gmail iPhone app within minutes of launch"
 score: 48
 permalink: "/r/technology/comments/lz0zu/google_yanks_new_gmail_iphone_app_within_minutes/"
 created: 11/03/2011 11:55:56
+url: "http://www.globalpost.com/dispatch/news/business-tech/technology-news/111102/gmail-iphone-app-not-working"
 created_utc: 11/03/2011 10:55:56
 
 
 domain: "blog.wired.com"
-title: "Secret URL Allows Apple to Delete Your iPhone Apps Remotely"
 score: 49
 permalink: "/r/technology/comments/6ve6z/secret_url_allows_apple_to_delete_your_iphone/"
 created: 08/07/2008 22:14:07
+url: "http://blog.wired.com/gadgets/2008/08/secret-url-allo.html"
 created_utc: 08/07/2008 21:14:07
 
 
 domain: "self.technology"
-title: "My iPhone has been secretly tracking me!  Here is a video of where've been in the last 8 months."
 score: 50
 permalink: "/r/technology/comments/guik6/my_iphone_has_been_secretly_tracking_me_here_is_a/"
 created: 04/20/2011 12:16:01
+url: "http://www.reddit.com/r/technology/comments/guik6/my_iphone_has_been_secretly_tracking_me_here_is_a/"
 created_utc: 04/20/2011 11:16:01
 
 
 domain: "securitywatch.pcmag.com"
-title: "How to Delete Carrier IQ From Your Android Phone or iPhone"
 score: 46
 permalink: "/r/technology/comments/n18gl/how_to_delete_carrier_iq_from_your_android_phone/"
 created: 12/05/2011 12:35:20
+url: "http://securitywatch.pcmag.com/none/291327-how-to-delete-carrier-iq-from-your-android-phone-or-iphone"
 created_utc: 12/05/2011 11:35:20
 
 
 domain: "dailymail.co.uk"
-title: "WTF Apple...how hard is it to fix this???? Iphone screws up alarms for change to British Summer Time...again"
 score: 49
 permalink: "/r/technology/comments/gds8r/wtf_applehow_hard_is_it_to_fix_this_iphone_screws/"
 created: 03/29/2011 04:55:07
+url: "http://www.dailymail.co.uk/sciencetech/article-1370760/iPhone-British-Summer-Time-glitch-leavesmany-hour-late-work.html"
 created_utc: 03/29/2011 03:55:07
 
 
 domain: "theage.com.au"
-title: "HTC has filed a law suit against Apple seeking a ban on imports of Asian-manufactured iPhones, iPods and iPads into the United States"
 score: 51
 permalink: "/r/technology/comments/c3g7j/htc_has_filed_a_law_suit_against_apple_seeking_a/"
 created: 05/13/2010 03:07:31
+url: "http://www.theage.com.au/technology/biz-tech/htc-sues-apple-wants-ban-on-ipad-sales-20100513-uyyy.html"
 created_utc: 05/13/2010 02:07:31
 
 
 domain: "news.bbc.co.uk"
-title: "PlayStation 3 'hacked' by iPhone cracker"
 score: 45
 permalink: "/r/technology/comments/atzir/playstation_3_hacked_by_iphone_cracker/"
 created: 01/25/2010 13:52:35
+url: "http://news.bbc.co.uk/1/hi/technology/8478764.stm"
 created_utc: 01/25/2010 12:52:35
 
 
 domain: "mclov.in"
-title: "Path uploads your entire iPhone address book to its servers"
 score: 44
 permalink: "/r/technology/comments/pf1yo/path_uploads_your_entire_iphone_address_book_to/"
 created: 02/07/2012 15:30:56
+url: "http://mclov.in/2012/02/08/path-uploads-your-entire-address-book-to-their-servers.html"
 created_utc: 02/07/2012 14:30:56
 
 
 domain: "macobserver.com"
-title: "iOS 6: iPhone 4 &amp; 4S Users Report Excessive Battery Drain"
 score: 45
 permalink: "/r/technology/comments/10q8zn/ios_6_iphone_4_4s_users_report_excessive_battery/"
 created: 09/30/2012 18:50:30
+url: "http://www.macobserver.com/tmo/article/many-iphone-4-and-4s-users-report-excessive-battery-drain-using-ios-6"
 created_utc: 09/30/2012 17:50:30
 
 
 domain: "arstechnica.com"
-title: "40% of Blackberry users willing to trade in for an iPhone"
 score: 44
 permalink: "/r/technology/comments/bdquc/40_of_blackberry_users_willing_to_trade_in_for_an/"
 created: 03/15/2010 17:03:20
+url: "http://arstechnica.com/apple/news/2010/03/40-of-blackberry-users-willing-to-trade-in-for-an-iphone.ars"
 created_utc: 03/15/2010 16:03:20
 
 
 domain: "appleinsider.com"
-title: "SFPD now says police officers did join in search for lost iPhone 5 prototype."
 score: 44
 permalink: "/r/technology/comments/k31lf/sfpd_now_says_police_officers_did_join_in_search/"
 created: 09/02/2011 21:15:10
+url: "http://www.appleinsider.com/articles/11/09/02/sfpd_now_says_plainclothes_officers_did_join_in_search_for_lost_iphone_5_prototype.html"
 created_utc: 09/02/2011 20:15:10
 
 
 domain: "mobilecrunch.com"
-title: "Vietnam: Yet another prototype iPhone slips from Apple's clutches"
 score: 47
 permalink: "/r/technology/comments/c313o/vietnam_yet_another_prototype_iphone_slips_from/"
 created: 05/12/2010 06:59:46
+url: "http://www.mobilecrunch.com/2010/05/12/yet-another-prototype-iphone-slips-from-apples-clutches/"
 created_utc: 05/12/2010 05:59:46
 
 
 domain: "news.cnet.com"
-title: "AT&amp;T mistakenly announces free Wi-Fi for iPhone users...again"
 score: 43
 permalink: "/r/technology/comments/6sf8k/att_mistakenly_announces_free_wifi_for_iphone/"
 created: 07/18/2008 13:32:57
+url: "http://news.cnet.com/8301-1035_3-9994170-94.html"
 created_utc: 07/18/2008 12:32:57
 
 
 domain: "huffingtonpost.com"
-title: "iPhone 5 clone already on sale, threats to sue apple"
 score: 45
 permalink: "/r/technology/comments/zmyx4/iphone_5_clone_already_on_sale_threats_to_sue/"
 created: 09/10/2012 01:16:00
+url: "http://www.huffingtonpost.com/2012/09/07/goophone-i5-iphone-5-knockoff-china-copyright-battle_n_1865764.html?utm_hp_ref=technology"
 created_utc: 09/10/2012 00:16:00
 
 
 domain: "gizmodo.com"
-title: "Widgets on the iPhone home screen....but only if you jailbreak! Damn you Apple!"
 score: 43
 permalink: "/r/technology/comments/9ns17/widgets_on_the_iphone_home_screenbut_only_if_you/"
 created: 09/24/2009 16:55:25
+url: "http://gizmodo.com/5366931/note-to-apple-please-put-this-in-the-iphone-now"
 created_utc: 09/24/2009 15:55:25
 
 
 domain: "smh.com.au"
-title: "It's on: Samsung sues to block iPhone 4S in Australia claiming it breaches three patents including HSPA and WCDMA."
 score: 43
 permalink: "/r/technology/comments/letyl/its_on_samsung_sues_to_block_iphone_4s_in/"
 created: 10/17/2011 02:28:51
+url: "http://www.smh.com.au/digital-life/mobiles/samsung-sues-to-block-iphone-4s-in-australia-20111017-1lszh.html"
 created_utc: 10/17/2011 01:28:51
 
 
 domain: "techcrunch.com"
-title: "Some Early iPhone 5 Adopters Report Odd Screen Issues "
 score: 45
 permalink: "/r/technology/comments/109kkj/some_early_iphone_5_adopters_report_odd_screen/"
 created: 09/21/2012 17:17:51
+url: "http://techcrunch.com/2012/09/21/iphone-5-screen-problems"
 created_utc: 09/21/2012 16:17:51
 
 
 domain: "gizmodo.com"
-title: "While testing the iPhone 4 reception issue, Gizmodo reviewer actually drops and shatters his phone"
 score: 44
 permalink: "/r/technology/comments/civ21/while_testing_the_iphone_4_reception_issue/"
 created: 06/25/2010 04:41:37
+url: "http://gizmodo.com/5572227/fuuuuuu-gizmodos-first-accidentally-dropped-iphone"
 created_utc: 06/25/2010 03:41:37
 
 
 domain: "reuters.com"
-title: "Nokia: Iphone infringed on 10 patents. We want 1 billion."
 score: 46
 permalink: "/r/technology/comments/9xefb/nokia_iphone_infringed_on_10_patents_we_want_1/"
 created: 10/24/2009 15:57:26
+url: "http://www.reuters.com/article/newsOne/idUSTRE59L3QU20091023"
 created_utc: 10/24/2009 14:57:26
 
 
 domain: "wired.com"
-title: "Hacker Says iPhone 3GS Encryption Is \u2018Useless\u2019 for Businesses"
 score: 44
 permalink: "/r/technology/comments/940lu/hacker_says_iphone_3gs_encryption_is_useless_for/"
 created: 07/23/2009 20:55:58
+url: "http://www.wired.com/gadgetlab/2009/07/iphone-encryption/"
 created_utc: 07/23/2009 19:55:58
 
 
 domain: "m.techcrunch.com"
-title: "Google Files New Patent Lawsuit Against Apple, Seeks To Block iPhone, iPad &amp; Mac Imports To U.S."
 score: 46
 permalink: "/r/technology/comments/yeok8/google_files_new_patent_lawsuit_against_apple/"
 created: 08/17/2012 22:16:41
+url: "http://m.techcrunch.com/2012/08/17/google-files-new-patent-lawsuit-against-apple-seeks-to-block-iphone-ipad-mac-imports-to-u-s/"
 created_utc: 08/17/2012 21:16:41
 
 
 domain: "news.yahoo.com"
-title: "Inattentive parents shocked by kids racking up charges on Ipad/Iphone games."
 score: 42
 permalink: "/r/technology/comments/eixhp/inattentive_parents_shocked_by_kids_racking_up/"
 created: 12/09/2010 10:18:46
+url: "http://news.yahoo.com/s/ap/20101209/ap_on_hi_te/us_tec_apple_expensive_smurfberries"
 created_utc: 12/09/2010 09:18:46
 
 
 domain: "arstechnica.com"
-title: "Throttled iPhone user balks at AT&amp;T settlement request, vows to help others"
 score: 40
 permalink: "/r/technology/comments/qwcpo/throttled_iphone_user_balks_at_att_settlement/"
 created: 03/14/2012 13:36:29
+url: "http://arstechnica.com/apple/news/2012/03/throttled-iphone-user-balks-at-att-settlement-request-vows-to-help-others.ars"
 created_utc: 03/14/2012 12:36:29
 
 
 domain: "news.cnet.com"
-title: "Judge Clifford Cretan reverses his earlier ruling -- orders unsealing of records involving the criminal investigation into what may have been a prototype iPhone "
 score: 43
 permalink: "/r/technology/comments/c46lq/judge_clifford_cretan_reverses_his_earlier_ruling/"
 created: 05/14/2010 15:32:16
+url: "http://news.cnet.com/8301-13579_3-20005018-37.html?tag=mncol"
 created_utc: 05/14/2010 14:32:16
 
 
 domain: "techcrunch.com"
-title: "DA Withdraws iPhone 4 Warrant, Returns Gizmodo Editor Jason Chen's Possessions"
 score: 41
 permalink: "/r/technology/comments/cr16f/da_withdraws_iphone_4_warrant_returns_gizmodo/"
 created: 07/18/2010 21:36:58
+url: "http://techcrunch.com/2010/07/16/gizmodo-iphone-warrant/"
 created_utc: 07/18/2010 20:36:58
 
 
 domain: "technewsworld.com"
-title: "Google's brand-new Android developer advocate, Tim Bray, wasn't afraid to start his first day on the company's payroll by taking some shots at a rival. \"A sterile Disney-fied walled garden surrounded by sharp-toothed lawyers\" were the words he used to describe Apple's iPhone platform."
 score: 41
 permalink: "/r/technology/comments/be1bh/googles_brandnew_android_developer_advocate_tim/"
 created: 03/16/2010 10:08:21
+url: "http://www.technewsworld.com/story/69549.html?wlc=1268744650"
 created_utc: 03/16/2010 09:08:21
 
 
 domain: "arstechnica.com"
-title: "Pwn2Own day 2: iPhone, BlackBerry beaten; Chrome, Firefox no-shows"
 score: 42
 permalink: "/r/technology/comments/g1ywu/pwn2own_day_2_iphone_blackberry_beaten_chrome/"
 created: 03/11/2011 11:23:18
+url: "http://arstechnica.com/security/news/2011/03/pwn2own-day-2-iphone-blackberry-beaten-chrome-firefox-no-shows.ars"
 created_utc: 03/11/2011 10:23:18
 
 
 domain: "smh.com.au"
-title: "China's \"human flesh search engine\" is in hot pursuit of an unnamed Chinese factory worker after photographs of her showed up unexpectedly on a new iPhone 3G purchased recently in Britain."
 score: 37
 permalink: "/r/technology/comments/6yfmx/chinas_human_flesh_search_engine_is_in_hot/"
 created: 08/28/2008 09:22:11
+url: "http://www.smh.com.au/news/iphone-insider/human-flesh-search-engine-in-hot-pursuit/2008/08/28/1219516602946.html"
 created_utc: 08/28/2008 08:22:11
 
 
 domain: "thedailybeast.com"
-title: "Apple co-founder prefers Android over iPhone"
 score: 39
 permalink: "/r/technology/comments/ojbfc/apple_cofounder_prefers_android_over_iphone/"
 created: 01/16/2012 10:46:05
+url: "http://www.thedailybeast.com/articles/2012/01/14/even-woz-thinks-the-android-bests-the-iphone.html"
 created_utc: 01/16/2012 09:46:05
 
 
 domain: "pcworld.com"
-title: "Nokia Sues Apple Over iPad - Nokia claims both the iPhone and iPad violate five patents held by the electronics company"
 score: 42
 permalink: "/r/technology/comments/c23hr/nokia_sues_apple_over_ipad_nokia_claims_both_the/"
 created: 05/10/2010 09:30:52
+url: "http://www.pcworld.com/article/195862/nokia_sues_apple_over_ipad.html"
 created_utc: 05/10/2010 08:30:52
 
 
 domain: "wired.co.uk"
-title: "A biochemist explains why your iPhone is dropping calls, when the test-engineer's wasn't: your hands are dirty. [Also, the fix can be found on drinks cans]"
 score: 36
 permalink: "/r/technology/comments/cmuxv/a_biochemist_explains_why_your_iphone_is_dropping/"
 created: 07/07/2010 10:02:26
+url: "http://www.wired.co.uk/news/archive/2010-07/7/apple-s-clean-hands-may-have-dirtied-iphone-4-signal"
 created_utc: 07/07/2010 09:02:26
 
 
 domain: "12160.info"
-title: "Apple granted a patent to wirelessly disable cameras on iphones in certain locations"
 score: 40
 permalink: "/r/technology/comments/zarck/apple_granted_a_patent_to_wirelessly_disable/"
 created: 09/03/2012 17:56:03
+url: "http://12160.info/group/thepolicestateexposed/forum/topics/apple-granted-a-patent-to-wirelessly-disable-cameras-on-iphones-i"
 created_utc: 09/03/2012 16:56:03
 
 
 domain: "theverge.com"
-title: "European carriers: Lumia phones are 'not good enough' to compete with iPhone and Android "
 score: 42
 permalink: "/r/technology/comments/se38r/european_carriers_lumia_phones_are_not_good/"
 created: 04/17/2012 09:23:19
+url: "http://www.theverge.com/2012/4/17/2954174/european-carriers-say-lumia-phones-not-good-enough"
 created_utc: 04/17/2012 08:23:19
 
 
 domain: "news.cnet.com"
-title: "What's in a name? Apple pulls 'SuperAgent' iPhone app over the name 'Ari.'"
 score: 37
 permalink: "/r/technology/comments/alrzq/whats_in_a_name_apple_pulls_superagent_iphone_app/"
 created: 01/05/2010 09:14:25
+url: "http://news.cnet.com/8301-17852_3-10423505-71.html"
 created_utc: 01/05/2010 08:14:25
 
 
 domain: "news.cnet.com"
-title: "Unlocking iPhone 3Gs--the Vietnamese way"
 score: 39
 permalink: "/r/technology/comments/7gx3x/unlocking_iphone_3gsthe_vietnamese_way/"
 created: 12/02/2008 13:56:12
+url: "http://news.cnet.com/8301-17938_105-10107580-1.html"
 created_utc: 12/02/2008 12:56:12
 
 
 domain: "news.yahoo.com"
-title: "Why are analysts so fucking stupid?  IDC analyst says Apple needs a new product for CEO Tim Cook to \"mark his stamp\" -- \"That could come in the form of launching a smaller iPad with a longer battery life, for instance.\"  YOU MEAN LIKE AN IPHONE?  How do these \"analysts\" have jobs?"
 score: 37
 permalink: "/r/technology/comments/r0spp/why_are_analysts_so_fucking_stupid_idc_analyst/"
 created: 03/17/2012 11:10:53
+url: "http://news.yahoo.com/apple-touches-record-high-ipad-3-sales-run-025858495.html"
 created_utc: 03/17/2012 10:10:53
 
 
 domain: "modmyi.com"
-title: "self healing iphone case!?!?!?"
 score: 35
 permalink: "/r/technology/comments/vheeo/self_healing_iphone_case/"
 created: 06/23/2012 11:16:51
+url: "http://modmyi.com/content/6618-nissan-develops-self-healing-iphone-case.html"
 created_utc: 06/23/2012 10:16:51
 
 
 domain: "npr.org"
-title: "Wipeout: When Your Company Kills Your iPhone "
 score: 39
 permalink: "/r/technology/comments/ea91r/wipeout_when_your_company_kills_your_iphone/"
 created: 11/22/2010 20:59:30
+url: "http://www.npr.org/2010/11/22/131511381/wipeout-when-your-company-kills-your-iphone"
 created_utc: 11/22/2010 19:59:30
 
 
 domain: "appleinsider.com"
-title: "Nokia CEO stepping down as company sinks... replaced by Microsoft veteran... this is their plan to combat iPhone: use Microsoft experience as a winner in the mobile market to fight Apple."
 score: 40
 permalink: "/r/technology/comments/dc4jk/nokia_ceo_stepping_down_as_company_sinks_replaced/"
 created: 09/10/2010 12:53:08
+url: "http://www.appleinsider.com/articles/10/09/10/nokia_ceo_to_step_down_as_company_still_struggles_to_combat_iphone.html"
 created_utc: 09/10/2010 11:53:08
 
 
 domain: "geek-news.mtv.com"
-title: "Steve Jobs Frozen In Carbonite iPhone Case Is Awesome, The Cease and Desist Is Not!"
 score: 40
 permalink: "/r/technology/comments/hhr66/steve_jobs_frozen_in_carbonite_iphone_case_is/"
 created: 05/23/2011 00:31:55
+url: "http://geek-news.mtv.com/2011/04/27/steve-jobs-frozen-in-carbonite-iphone-case-is-awesome-the-cease-and-desist-is-not/"
 created_utc: 05/22/2011 23:31:55
 
 
 domain: "business.time.com"
-title: "Apple Exec: \u201cWe\u2019ve known about labor abuses in factories for four years... but the system works for us. Suppliers would change everything tomorrow if Apple told them they didn\u2019t have another choice. If half of iPhones were malfunctioning, do you think Apple would let it go on for four years?\u201d"
 score: 37
 permalink: "/r/technology/comments/oy6p7/apple_exec_weve_known_about_labor_abuses_in/"
 created: 01/26/2012 17:59:50
+url: "http://business.time.com/2012/01/26/should-americans-care-about-apples-iphone-factory-conditions/?xid=gonewsedit&amp;google_editors_picks=true"
 created_utc: 01/26/2012 16:59:50
 
 
 domain: "bgr.com"
-title: "Apple is already prepping its next-generation iPhone for a mid-2013 launch, according to new report\n"
 score: 38
 permalink: "/r/technology/comments/13g9o6/apple_is_already_prepping_its_nextgeneration/"
 created: 11/19/2012 17:46:15
+url: "http://bgr.com/2012/11/19/iphone-5s-release-date-rumor-2/"
 created_utc: 11/19/2012 09:46:15
 
 
 domain: "geek.com"
-title: "Awesome new app turns an iPhone into a 3D scanner"
 score: 34
 permalink: "/r/technology/comments/exhdw/awesome_new_app_turns_an_iphone_into_a_3d_scanner/"
 created: 01/06/2011 17:25:39
+url: "http://www.geek.com/articles/mobile/trimensional-a-3d-scanner-for-iphone-using-just-an-app-2011016/"
 created_utc: 01/06/2011 16:25:39
 
 
 domain: "slate.com"
-title: "\"The new iPhone looks pretty much like the old iPhone\""
 score: 39
 permalink: "/r/technology/comments/y7osg/the_new_iphone_looks_pretty_much_like_the_old/"
 created: 08/14/2012 14:49:54
+url: "http://www.slate.com/articles/technology/technology/2012/08/iphone_5_leaks_what_all_of_the_leaked_photos_tell_us_about_apple_s_latest_device_.single.html"
 created_utc: 08/14/2012 13:49:54
 
 
 domain: "googlevoiceblog.blogspot.com"
-title: "Official Google Voice iPhone app now available"
 score: 37
 permalink: "/r/technology/comments/e73s8/official_google_voice_iphone_app_now_available/"
 created: 11/16/2010 15:14:48
+url: "http://googlevoiceblog.blogspot.com/2010/11/google-voice-for-iphone.html"
 created_utc: 11/16/2010 14:14:48
 
 
 domain: "theregister.co.uk"
-title: "\"Apple 'hasn't really run out of iPhone 5s AT ALL'\" - tongue in cheek from \"The Register\" - but I've always wondered if the \"shortages\" were part of the marketing strategy. "
 score: 39
 permalink: "/r/technology/comments/102mih/apple_hasnt_really_run_out_of_iphone_5s_at_all/"
 created: 09/18/2012 07:03:13
+url: "http://www.theregister.co.uk/2012/09/17/apple_iphone_5_shortage/"
 created_utc: 09/18/2012 06:03:13
 
 
 domain: "hothardware.com"
-title: "Sprint's CEO Takes Pay Cut After Backlash From iPhone Deal"
 score: 36
 permalink: "/r/technology/comments/t9uot/sprints_ceo_takes_pay_cut_after_backlash_from/"
 created: 05/06/2012 13:55:29
+url: "http://hothardware.com/News/Sprints-CEO-Takes-Pay-Cut-After-Backlash-From-iPhone-Deal/"
 created_utc: 05/06/2012 12:55:29
 
 
 domain: "digitaldaily.allthingsd.com"
-title: "Another network crippled by the iPhone, this time O2's London network.  "
 score: 34
 permalink: "/r/technology/comments/ajmvg/another_network_crippled_by_the_iphone_this_time/"
 created: 12/29/2009 15:23:41
+url: "http://digitaldaily.allthingsd.com/20091229/iphone-strains-o2s-london-network/?mod=ATD_rss"
 created_utc: 12/29/2009 14:23:41
 
 
 domain: "mobilecrunch.com"
-title: "Newly discovered Safari bug could mean big fees for some iPhone users"
 score: 36
 permalink: "/r/technology/comments/a0nrr/newly_discovered_safari_bug_could_mean_big_fees/"
 created: 11/03/2009 19:04:01
+url: "http://www.mobilecrunch.com/2009/11/03/newly-discovered-safari-bug-could-mean-big-fees-for-some-iphone-users/"
 created_utc: 11/03/2009 18:04:01
 
 
 domain: "techie-buzz.com"
-title: "Apple Classifies Opera Mini As Porn App on iPhone"
 score: 33
 permalink: "/r/technology/comments/c6oqu/apple_classifies_opera_mini_as_porn_app_on_iphone/"
 created: 05/21/2010 10:53:16
+url: "http://techie-buzz.com/tech-news/apple-marks-opera-mini-as-porn-app.html"
 created_utc: 05/21/2010 09:53:16
 
 
 domain: "theverge.com"
-title: "This is what Microsoft Office for iPhone, iPad and Android looks like"
 score: 37
 permalink: "/r/technology/comments/12spja/this_is_what_microsoft_office_for_iphone_ipad_and/"
 created: 11/07/2012 17:19:10
+url: "http://www.theverge.com/2012/11/7/3612422/microsoft-office-mobile-ipad-iphone-android-screenshots"
 created_utc: 11/07/2012 09:19:10
 
 
 domain: "nytimes.com"
-title: "Apple faced questions on Wednesday about the security of its iPhone and iPad after a report that the devices regularly record their locations in a hidden file. \r\n\r\n"
 score: 36
 permalink: "/r/technology/comments/guzcq/apple_faced_questions_on_wednesday_about_the/"
 created: 04/20/2011 23:12:09
+url: "http://www.nytimes.com/2011/04/21/business/21data.html"
 created_utc: 04/20/2011 22:12:09
 
 
 domain: "self.technology"
-title: "Hey reddit, just had my first iPad application approved and I want to give as many of you free copies as I can.  Works on iPhone/iPod Touch too."
 score: 38
 permalink: "/r/technology/comments/bnw2i/hey_reddit_just_had_my_first_ipad_application/"
 created: 04/07/2010 21:16:05
+url: "http://www.reddit.com/r/technology/comments/bnw2i/hey_reddit_just_had_my_first_ipad_application/"
 created_utc: 04/07/2010 20:16:05
 
 
 domain: "nytimes.com"
-title: "Apple\u2019s Maps and the Shadow of Steve Jobs -- The bundling of Apple\u2019s maps with the iPhone 5, which reflects Steve Jobs\u2019s obsession with control, brings to mind the Microsoft-Netscape antitrust fight of the 1990s"
 score: 35
 permalink: "/r/technology/comments/110hxz/apples_maps_and_the_shadow_of_steve_jobs_the/"
 created: 10/05/2012 18:34:55
+url: "http://www.nytimes.com/2012/10/06/business/apples-map-app-could-raise-antitrust-concerns.html?_r=1&amp;hp"
 created_utc: 10/05/2012 17:34:55
 
 
 domain: "blog.wired.com"
-title: "With GPS Expected on the New iPhone, Portable Nav Suppliers Are \"Scared %#*@-less\""
 score: 36
 permalink: "/r/technology/comments/6mgm6/with_gps_expected_on_the_new_iphone_portable_nav/"
 created: 06/07/2008 22:02:09
+url: "http://blog.wired.com/cars/2008/06/portable-nav-da.html"
 created_utc: 06/07/2008 21:02:09
 
 
 domain: "news.cnet.com"
-title: "Apple loses another unreleased iPhone"
 score: 33
 permalink: "/r/technology/comments/k0k67/apple_loses_another_unreleased_iphone/"
 created: 08/31/2011 17:26:24
+url: "http://news.cnet.com/8301-13579_3-20099899-37/apple-loses-another-unreleased-iphone-exclusive/"
 created_utc: 08/31/2011 16:26:24
 
 
 domain: "wired.com"
-title: "I tracked down the woman taking my picture from her iPhone geotag"
 score: 36
 permalink: "/r/technology/comments/7sp4i/i_tracked_down_the_woman_taking_my_picture_from/"
 created: 01/27/2009 03:23:36
+url: "http://www.wired.com/gadgets/wireless/magazine/17-02/lp_guineapig"
 created_utc: 01/27/2009 02:23:36
 
 
 domain: "networkworld.com"
-title: "Apple removes Google branding on Mobile Safari in iPhone OS 4"
 score: 32
 permalink: "/r/technology/comments/bph42/apple_removes_google_branding_on_mobile_safari_in/"
 created: 04/11/2010 16:21:31
+url: "http://www.networkworld.com/community/node/59970"
 created_utc: 04/11/2010 15:21:31
 
 
 domain: "allthingsd.com"
-title: "Samsung Release Excluded iPhone Evidence in Apple Patent Case - Judge gets angry and forbids Samsung to make evidence available to the public"
 score: 38
 permalink: "/r/technology/comments/xhr3t/samsung_release_excluded_iphone_evidence_in_apple/"
 created: 08/01/2012 02:46:36
+url: "http://allthingsd.com/20120731/samsung-goes-public-with-excluded-evidence-to-undercut-apples-design-claims/"
 created_utc: 08/01/2012 01:46:36
 
 
 domain: "hothardware.com"
-title: "Google Android-Based iPhone Killer Launches 9/23"
 score: 32
 permalink: "/r/technology/comments/72wfx/google_androidbased_iphone_killer_launches_923/"
 created: 09/22/2008 19:27:07
+url: "http://www.hothardware.com/News/Google-AndroidBased-iPhone-Killer-Launches-923/"
 created_utc: 09/22/2008 18:27:07
 
 
 domain: "crave.cnet.co.uk"
-title: "iPhone 4 is 'the new Vista'"
 score: 35
 permalink: "/r/technology/comments/cpumc/iphone_4_is_the_new_vista/"
 created: 07/15/2010 09:10:22
+url: "http://crave.cnet.co.uk/mobiles/0,39029453,49306174,00.htm?s_cid=96"
 created_utc: 07/15/2010 08:10:22
-title: "Fonzie jumps the shark"
+url: "http://www.youtube.com/watch?v=MpraJYnbVtE\""
 
 
 domain: "self.technology"
-title: "so my 8-year-old Nokia gets better reception than my new iPhone... is it faulty or has Apple screwed me over?"
 score: 31
 permalink: "/r/technology/comments/atdfs/so_my_8yearold_nokia_gets_better_reception_than/"
 created: 01/23/2010 18:22:52
+url: "http://www.reddit.com/r/technology/comments/atdfs/so_my_8yearold_nokia_gets_better_reception_than/"
 created_utc: 01/23/2010 17:22:52
 
 
 domain: "nytimes.com"
-title: "Foxconn Denies Report of Unrest at iPhone Factory"
 score: 34
 permalink: "/r/technology/comments/1130kc/foxconn_denies_report_of_unrest_at_iphone_factory/"
 created: 10/07/2012 07:57:50
+url: "http://www.nytimes.com/2012/10/07/business/foxconn-denies-report-of-unrest-at-iphone-factory.html"
 created_utc: 10/07/2012 06:57:50
 
 
 domain: "gadgetloop.com"
-title: "Skype for iPhone gets limited to WiFi only - No 3G Support"
 score: 37
 permalink: "/r/technology/comments/88u0y/skype_for_iphone_gets_limited_to_wifi_only_no_3g/"
 created: 03/31/2009 07:26:37
+url: "http://gadgetloop.com/2009/03/skype-for-iphone-review/"
 created_utc: 03/31/2009 06:26:37
 
 
 domain: "pitchfork.com"
-title: "Apple blocks German band Atari Teenage Riot' iPhone app because it could cause riots. No kidding."
 score: 32
 permalink: "/r/technology/comments/c0vsh/apple_blocks_german_band_atari_teenage_riot/"
 created: 05/07/2010 00:29:37
+url: "http://pitchfork.com/news/38719-atari-teenage-riot-beef-with-apple-over-riot-inducing-iphone-app/?"
 created_utc: 05/06/2010 23:29:37
 
 
 domain: "mobilecrunch.com"
-title: "Verizon to announce Moto Tao next week? Phone to drop Dec. 1? Will have Android 2.0 and be thinest slider at 15mm thicker than the iPhone"
 score: 33
 permalink: "/r/technology/comments/9pxnr/verizon_to_announce_moto_tao_next_week_phone_to/"
 created: 10/01/2009 14:46:20
+url: "http://www.mobilecrunch.com/2009/10/01/verizon-to-announce-moto-tao-next-week-phone-to-drop-dec-1/"
 created_utc: 10/01/2009 13:46:20
 
 
 domain: "news.yahoo.com"
-title: "Apple to give iPhone buyers free cases"
 score: 35
 permalink: "/r/technology/comments/cqdc1/apple_to_give_iphone_buyers_free_cases/"
 created: 07/16/2010 14:35:54
+url: "http://news.yahoo.com/s/ap/20100716/ap_on_hi_te/us_tec_apple_iphone;_ylt=AjlH29YsZFYnfZSlM0Q6yZys0NUE;_ylu=X3oDMTNqcTFxc2FtBGFzc2V0A2FwLzIwMTAwNzE2L3VzX3RlY19hcHBsZV9pcGhvbmUEY2NvZGUDbW9zdHBvcHVsYXIEY3BvcwMyBHBvcwM3BHB0A2hvbWVfY29rZQRzZWMDeW5fdG9wX3N0b3J5BHNsawNhcHBsZXRvZ2l2ZWk-"
 created_utc: 07/16/2010 13:35:54
 
 
 domain: "bgr.com"
-title: "AT&amp;T pays disgruntled iPhone user in throttling case"
 score: 30
 permalink: "/r/technology/comments/r44ed/att_pays_disgruntled_iphone_user_in_throttling/"
 created: 03/19/2012 19:24:15
+url: "http://www.bgr.com/2012/03/19/att-pays-disgruntled-iphone-user-in-throttling-case/"
 created_utc: 03/19/2012 18:24:15
 
 
 domain: "learnix.net"
-title: "Palm Pre gains flash ability with 10.1 beta while the iPhone is still left in the dark"
 score: 30
 permalink: "/r/technology/comments/b79hs/palm_pre_gains_flash_ability_with_101_beta_while/"
 created: 02/27/2010 15:11:55
+url: "http://learnix.net/palm-pre-gains-flash-ability-with-10-1-beta-while-the-iphone-is-still-left-in-the-dark/"
 created_utc: 02/27/2010 14:11:55
 
 
 domain: "gizmodo.com"
-title: "iPhone Windows Vista Skin Makes Steve Jobs Cry Tears of Blood"
 score: 33
 permalink: "/r/technology/comments/6k75p/iphone_windows_vista_skin_makes_steve_jobs_cry/"
 created: 05/21/2008 05:14:23
+url: "http://gizmodo.com/391688/iphone-windows-vista-skin-makes-steve-jobs-cry-tears-of-blood"
 created_utc: 05/21/2008 04:14:23
 
 
 domain: "reuters.com"
-title: "Nokia could get $1 billion from Apple if it wins a lawsuit on the technologies used in iPhones"
 score: 36
 permalink: "/r/technology/comments/9x2my/nokia_could_get_1_billion_from_apple_if_it_wins_a/"
 created: 10/23/2009 13:00:50
+url: "http://www.reuters.com/article/ousivMolt/idUSTRE59L3QU20091023"
 created_utc: 10/23/2009 12:00:50
 
 
 domain: "lifehacker.com"
-title: "Android Phones Surpass iPhone in Web Traffic"
 score: 35
 permalink: "/r/technology/comments/bwwlp/android_phones_surpass_iphone_in_web_traffic/"
 created: 04/27/2010 17:03:55
+url: "http://lifehacker.com/5525578/android-phones-surpass-iphone-in-web-traffic"
 created_utc: 04/27/2010 16:03:55
 
 
 domain: "news.cnet.com"
-title: "New details: Steve Jobs personally appealed for return of iPhone, finder was to get $5k more from Gizmodo in July, roommate reported him to police"
 score: 33
 permalink: "/r/technology/comments/c48ah/new_details_steve_jobs_personally_appealed_for/"
 created: 05/14/2010 17:48:41
+url: "http://news.cnet.com/8301-13579_3-20005018-37.html"
 created_utc: 05/14/2010 16:48:41
 
 
 domain: "mashable.com"
-title: "The Apple-Adobe War Escalates: Using Flash to Build iPhone Apps Banned"
 score: 32
 permalink: "/r/technology/comments/bodjb/the_appleadobe_war_escalates_using_flash_to_build/"
 created: 04/08/2010 19:57:31
+url: "http://mashable.com/2010/04/08/apple-adobe-flash-compiler/"
 created_utc: 04/08/2010 18:57:31
 
 
 domain: "reddit.com"
-title: "iReddit (the official reddit iPhone app) now available! (2 bobblehead prizes remain)"
 score: 33
 permalink: "/r/technology/comments/7xi76/ireddit_the_official_reddit_iphone_app_now/"
 created: 02/15/2009 02:51:49
+url: "http://reddit.com/iphone"
 created_utc: 02/15/2009 01:51:49
 
 
 domain: "googlemobile.blogspot.com"
-title: "You can now use Google Googles to solve Sudoku puzzles (on Android and iPhone)"
 score: 30
 permalink: "/r/technology/comments/ezp10/you_can_now_use_google_googles_to_solve_sudoku/"
 created: 01/10/2011 15:24:31
+url: "http://googlemobile.blogspot.com/2011/01/google-goggles-gets-faster-smarter-and.html"
 created_utc: 01/10/2011 14:24:31
 
 
 domain: "wired.com"
-title: "The iPhone 4\u2019s screen may be the best mobile display yet, but its resolution does not exceed the human retina, as Steve Jobs claims."
 score: 35
 permalink: "/r/technology/comments/cdk0i/the_iphone_4s_screen_may_be_the_best_mobile/"
 created: 06/10/2010 11:38:41
+url: "http://www.wired.com/gadgetlab/2010/06/iphone-4-retina/"
 created_utc: 06/10/2010 10:38:41
 
 
 domain: "google.com"
-title: "Judge OKs iPhone class action against Apple, AT&amp;T"
 score: 32
 permalink: "/r/technology/comments/cofg4/judge_oks_iphone_class_action_against_apple_att/"
 created: 07/11/2010 19:52:00
+url: "http://www.google.com/hostednews/ap/article/ALeqM5gfyDQCdkZXsZNTgnX2TERmFrZx7AD9GT46I00"
 created_utc: 07/11/2010 18:52:00
 
 
 domain: "mashable.com"
-title: "Droid vs iPhone: The Comparison Chart [PIC]"
 score: 30
 permalink: "/r/technology/comments/9zzxg/droid_vs_iphone_the_comparison_chart_pic/"
 created: 11/01/2009 21:38:26
+url: "http://mashable.com/2009/10/29/droid-vs-iphone/"
 created_utc: 11/01/2009 20:38:26
 
 
 domain: "engadget.com"
-title: "The new 'Droid X' = makes the new iPhone look like a VCR "
 score: 32
 permalink: "/r/technology/comments/cfdx1/the_new_droid_x_makes_the_new_iphone_look_like_a/"
 created: 06/15/2010 19:13:44
+url: "http://www.engadget.com/2010/06/15/exclusive-motorola-droid-x-preview/"
 created_utc: 06/15/2010 18:13:44
 
 
 domain: "micgadget.com"
-title: "The cost of your iPhones, iPods, and other Apple products. A look into the hell factory that runs 24/7, employing close to half a million workers."
 score: 26
 permalink: "/r/technology/comments/c60oq/the_cost_of_your_iphones_ipods_and_other_apple/"
 created: 05/19/2010 15:52:04
+url: "http://micgadget.com/3793/the-real-truth-behind-foxconns-suicide-cluster/"
 created_utc: 05/19/2010 14:52:04
-title: "MacBook Air Knockoff"
+url: "http://www.youtube.com/watch?v=V7rilZHjH00\""
 
 
 domain: "appleoutsider.com"
-title: "Apple makes a tiny compromise on the matter of interpreters in iPhone apps"
 score: 31
 permalink: "/r/technology/comments/cejqr/apple_makes_a_tiny_compromise_on_the_matter_of/"
 created: 06/13/2010 13:49:23
+url: "http://www.appleoutsider.com/2010/06/10/hello-lua/"
 created_utc: 06/13/2010 12:49:23
 
 
 domain: "news.cnet.com"
-title: "Samsung tries to get Apple to talk iPhone 5"
 score: 32
 permalink: "/r/technology/comments/xmvpn/samsung_tries_to_get_apple_to_talk_iphone_5/"
 created: 08/03/2012 16:35:07
+url: "http://news.cnet.com/8301-13579_3-57486462-37/samsung-tries-to-get-apple-to-talk-iphone-5/"
 created_utc: 08/03/2012 15:35:07
 
 
 domain: "justinflood.com"
-title: "AT&amp;T Memo detailing iPhone 3g policies leaked"
 score: 30
 permalink: "/r/technology/comments/6mrzq/att_memo_detailing_iphone_3g_policies_leaked/"
 created: 06/10/2008 11:34:37
+url: "http://justinflood.com/?p=165"
 created_utc: 06/10/2008 10:34:37
 
 
 domain: "gizmodo.com"
-title: "Apple Acknowledges iPhone 5 Camera Problem, Says You're Holding It Wrong"
 score: 30
 permalink: "/r/technology/comments/10swqs/apple_acknowledges_iphone_5_camera_problem_says/"
 created: 10/02/2012 09:06:59
+url: "http://gizmodo.com/5947972/apple-acknowledges-iphone-5-camera-problem-says-youre-holding-it-wrong"
 created_utc: 10/02/2012 01:06:59
 
 
 domain: "arstechnica.com"
-title: "Linux on the iPhone: penguin poop in Apple's walled garden"
 score: 26
 permalink: "/r/technology/comments/7gowi/linux_on_the_iphone_penguin_poop_in_apples_walled/"
 created: 12/01/2008 13:50:06
+url: "http://arstechnica.com/news.ars/post/20081201-linux-iphone-port-could-pave-the-way-for-android.html"
 created_utc: 12/01/2008 12:50:06
 
 
 domain: "thenokian9blog.com"
-title: "Is this Nokia\u2019s iPhone Killer?"
 score: 30
 permalink: "/r/technology/comments/ffq3d/is_this_nokias_iphone_killer/"
 created: 02/05/2011 05:38:48
+url: "http://thenokian9blog.com/2011/02/04/is-this-nokias-iphone-killer/"
 created_utc: 02/05/2011 04:38:48
 
 
 domain: "observer.com"
-title: "Will White iPhone 4 Send New York Teen to College ... or to Jail? | The New York Observer"
 score: 31
 permalink: "/r/technology/comments/e7i80/will_white_iphone_4_send_new_york_teen_to_college/"
 created: 11/17/2010 09:53:31
+url: "http://www.observer.com/2010/daily-transom/white-iphone-four-sending-kid-college"
 created_utc: 11/17/2010 08:53:31
 
 
 domain: "att.com"
-title: "AT&amp;T Extends VOIP to 3G Network for iPhone"
 score: 30
 permalink: "/r/technology/comments/9rhqk/att_extends_voip_to_3g_network_for_iphone/"
 created: 10/06/2009 19:49:59
+url: "http://www.att.com/gen/press-room?pid=4800&amp;cdvn=news&amp;newsarticleid=27207"
 created_utc: 10/06/2009 18:49:59
 
 
 domain: "businessinsider.com"
-title: "Suddenly everyone is talking about an iPhone 4 recall"
 score: 28
 permalink: "/r/technology/comments/cp51r/suddenly_everyone_is_talking_about_an_iphone_4/"
 created: 07/13/2010 15:09:50
+url: "http://www.businessinsider.com/suddenly-everyone-is-talking-about-an-iphone-4-recall-2010-7"
 created_utc: 07/13/2010 14:09:50
 
 
 domain: "bbc.co.uk"
-title: "Motorola wins Apple patent fight - Motorola Mobility may try to force Apple to remove its products from Germany's stores after winning a patent case against the iPhone-maker."
 score: 26
 permalink: "/r/technology/comments/n6bqs/motorola_wins_apple_patent_fight_motorola/"
 created: 12/09/2011 11:57:05
+url: "http://www.bbc.co.uk/news/technology-16112259"
 created_utc: 12/09/2011 10:57:05
 
 
 domain: "arstechnica.com"
-title: "Some iPhone owners are discovering that despite their best efforts to wipe their stolen phones, thieves are still able to send and receive iMessages as the original owner\u2014even after remote wiping, changing Apple ID passwords, or even moving the old phone number to a new phone."
 score: 27
 permalink: "/r/technology/comments/ndz3m/some_iphone_owners_are_discovering_that_despite/"
 created: 12/15/2011 13:20:56
+url: "http://arstechnica.com/apple/news/2011/12/stolen-iphone-your-imessages-may-still-be-going-to-the-wrong-place.ars"
 created_utc: 12/15/2011 12:20:56
 
 
 domain: "blog.montgomerie.net"
-title: "New ebook reader iPhone app rejected for having access to the Kama Sutra"
 score: 30
 permalink: "/r/technology/comments/8ma6v/new_ebook_reader_iphone_app_rejected_for_having/"
 created: 05/21/2009 18:20:19
+url: "http://www.blog.montgomerie.net/whither-eucalyptus"
 created_utc: 05/21/2009 17:20:19
 
 
 domain: "scitechie.com"
-title: "Go back to the 19th century with your iPhone"
 score: 26
 permalink: "/r/technology/comments/cqkai/go_back_to_the_19th_century_with_your_iphone/"
 created: 07/17/2010 03:02:45
+url: "http://scitechie.com/07/go-back-to-the-19th-century-with-the-iphone/"
 created_utc: 07/17/2010 02:02:45
 
 
 domain: "nytimes.com"
-title: "Holy cow: \"In every market, AT&amp;T had faster average download speeds and had signal strength of 75 percent or better more frequently than did Verizon.\" is the iPhone's radio a problem?"
 score: 26
 permalink: "/r/technology/comments/ae0z7/holy_cow_in_every_market_att_had_faster_average/"
 created: 12/12/2009 18:21:36
+url: "http://www.nytimes.com/2009/12/13/business/13digi.html?_r=2"
 created_utc: 12/12/2009 17:21:36
 
 
 domain: "news.yahoo.com"
-title: "iPhone-Friendly Watch Gets $500,000 Kickstarter Funding in a Day"
 score: 24
 permalink: "/r/technology/comments/s5xlx/iphonefriendly_watch_gets_500000_kickstarter/"
 created: 04/12/2012 06:17:54
+url: "http://news.yahoo.com/iphone-friendly-watch-gets-500-000-kickstarter-funding-223436517.html"
 created_utc: 04/12/2012 05:17:54
 
 
 domain: "pcmag.com"
-title: "AT&amp;T CEO trash talks Verizon:\"the iPhone is built for speed, but that's not what you get with a CDMA phone. I'm not sure iPhone users are ready for life in the slow lane.\""
 score: 26
 permalink: "/r/technology/comments/f08xi/att_ceo_trash_talks_verizonthe_iphone_is_built/"
 created: 01/11/2011 11:20:28
+url: "http://www.pcmag.com/article2/0,2817,2375513,00.asp"
 created_utc: 01/11/2011 10:20:28
 
 
 domain: "crn.com"
-title: "Google Android Is Apple iPhone's Biggest Threat: Report"
 score: 28
 permalink: "/r/technology/comments/bk88p/google_android_is_apple_iphones_biggest_threat/"
 created: 03/30/2010 12:13:29
+url: "http://www.crn.com/mobile/224200726"
 created_utc: 03/30/2010 11:13:29
 
 
 domain: "gigaom.com"
-title: "DARPA-backed start-up, Tribogenics, builds an iPhone sized X-Ray machine."
 score: 30
 permalink: "/r/technology/comments/n3ula/darpabacked_startup_tribogenics_builds_an_iphone/"
 created: 12/07/2011 08:36:19
+url: "http://gigaom.com/2011/12/06/darpa-backed-start-up-builds-iphone-sized-x-ray-machines/"
 created_utc: 12/07/2011 07:36:19
 
 
 domain: "news.cnet.com"
-title: "Apple iPhone SDK move kills Mac coding conference.  The walls of the walled garden are beginning to crack. [C/Net]"
 score: 30
 permalink: "/r/technology/comments/c3ijg/apple_iphone_sdk_move_kills_mac_coding_conference/"
 created: 05/13/2010 06:36:57
+url: "http://news.cnet.com/8301-30685_3-20004869-264.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20"
 created_utc: 05/13/2010 05:36:57
 
 
 domain: "self.technology"
-title: "There's more to technology than just iPHones and iPads, right?"
 score: 30
 permalink: "/r/technology/comments/bqpjk/theres_more_to_technology_than_just_iphones_and/"
 created: 04/14/2010 07:07:57
+url: "http://www.reddit.com/r/technology/comments/bqpjk/theres_more_to_technology_than_just_iphones_and/"
 created_utc: 04/14/2010 06:07:57
 
 
 domain: "prometheus.med.utah.edu"
-title: "What iPhone 4 screen looks like under a retina scientist's microscope"
 score: 27
 permalink: "/r/technology/comments/cj40o/what_iphone_4_screen_looks_like_under_a_retina/"
 created: 06/25/2010 19:55:39
+url: "http://prometheus.med.utah.edu/~bwjones/2010/06/apple-retina-display/"
 created_utc: 06/25/2010 18:55:39
 
 
 domain: "theregister.co.uk"
-title: "Samsung demands iPhone 4S source code in Aussie row"
 score: 25
 permalink: "/r/technology/comments/lxkp9/samsung_demands_iphone_4s_source_code_in_aussie/"
 created: 11/02/2011 08:10:23
+url: "http://www.theregister.co.uk/2011/11/01/apple_samsung/"
 created_utc: 11/02/2011 07:10:23
 
 
 domain: "businessweek.com"
-title: "Here's an idea:  How about AT&amp;T invests the money to improve their network and customer service... like they should have years ago when they first got the iPhone."
 score: 26
 permalink: "/r/technology/comments/nji84/heres_an_idea_how_about_att_invests_the_money_to/"
 created: 12/20/2011 01:34:55
+url: "http://www.businessweek.com/news/2011-12-19/at-t-has-few-weapons-for-verizon-fight-after-t-mobile-bid-tech.html"
 created_utc: 12/20/2011 00:34:55
 
 
 domain: "welt.de"
-title: "Even critics give Apple a pass on iPhone 3G woes "
 score: 26
 permalink: "/r/technology/comments/6z9td/even_critics_give_apple_a_pass_on_iphone_3g_woes/"
 created: 09/02/2008 16:05:51
+url: "http://www.welt.de/english-news/article2369039/Even-critics-give-Apple-a-pass-on-iPhone-3G-woes.html"
 created_utc: 09/02/2008 15:05:51
 
 
 domain: "news.cnet.com"
-title: "How police have obtained iPhone, iPad tracking logs "
 score: 27
 permalink: "/r/technology/comments/gwjnw/how_police_have_obtained_iphone_ipad_tracking_logs/"
 created: 04/24/2011 19:08:29
+url: "http://news.cnet.com/8301-31921_3-20056344-281.html"
 created_utc: 04/24/2011 18:08:29
 
 
 domain: "resourcenation.com"
-title: "Best Voip Phone System Apps for your iPhone"
 score: 27
 permalink: "/r/technology/comments/7e7kp/best_voip_phone_system_apps_for_your_iphone/"
 created: 11/18/2008 18:05:34
+url: "http://www.resourcenation.com/blog/best-voip-phone-system-apps-for-your-iphone"
 created_utc: 11/18/2008 17:05:34
 
 
 domain: "scribd.com"
-title: "Here is Samsung's 132 page Internal Report unveiled in court today, in which Samsung does nothing but talk about how awesome the iPhone is, and what they can do to copy it."
 score: 25
 permalink: "/r/technology/comments/xv8eh/here_is_samsungs_132_page_internal_report/"
 created: 08/08/2012 02:30:22
+url: "http://www.scribd.com/doc/102317767/44"
 created_utc: 08/08/2012 01:30:22
 
 
 domain: "redferret.net"
-title: "iPhone case adds 20 hours of battery life... And turns your phone into a STUN GUN"
 score: 26
 permalink: "/r/technology/comments/wg1xq/iphone_case_adds_20_hours_of_battery_life_and/"
 created: 07/12/2012 12:41:01
+url: "http://www.redferret.net/?p=32710"
 created_utc: 07/12/2012 11:41:01
 
 
 domain: "i.gizmodo.com"
-title: "Apple Says Jailbreaking iPhones Is Illegal"
 score: 25
 permalink: "/r/technology/comments/7x7xj/apple_says_jailbreaking_iphones_is_illegal/"
 created: 02/13/2009 15:10:38
+url: "http://i.gizmodo.com/5153101/apple-says-jailbreaking-iphones-is-illegal-dammit"
 created_utc: 02/13/2009 14:10:38
 
 
 domain: "mb.softbank.jp"
-title: "iPhone in Japan: SoftBank offers unlimited data BUT restricts speed to certain sites (Net Neutrality weeps)"
 score: 29
 permalink: "/r/technology/comments/6qj9t/iphone_in_japan_softbank_offers_unlimited_data/"
 created: 07/07/2008 00:51:01
+url: "http://mb.softbank.jp/mb/iphone/price_plan/packet/index.html"
 created_utc: 07/06/2008 23:51:01
 
 
 domain: "arstechnica.com"
-title: "IE8, Safari 4, Firefox 3, iPhone fall on day 1 of Pwn2Own"
 score: 28
 permalink: "/r/technology/comments/bi87o/ie8_safari_4_firefox_3_iphone_fall_on_day_1_of/"
 created: 03/25/2010 16:07:53
+url: "http://arstechnica.com/security/news/2010/03/ie8-safari4-firefox3-iphone-fall-on-day-1-of-pwn2own.ars"
 created_utc: 03/25/2010 15:07:53
 
 
 domain: "wired.com"
-title: "Apple agents requested permission to search home of person suspected of finding iPhone.  (No, not for the police to search. For Apple's agents to search.)"
 score: 30
 permalink: "/r/technology/comments/bwyhs/apple_agents_requested_permission_to_search_home/"
 created: 04/27/2010 19:39:35
+url: "http://www.wired.com/threatlevel/2010/04/dude-apple/"
 created_utc: 04/27/2010 18:39:35
 
 
 domain: "spotify.com"
-title: "Spotify for both Android and iPhone finally here"
 score: 23
 permalink: "/r/technology/comments/9hxqc/spotify_for_both_android_and_iphone_finally_here/"
 created: 09/06/2009 20:37:26
+url: "https://www.spotify.com/blog/archives/2009/09/06/spotify-mobile/"
 created_utc: 09/06/2009 19:37:26
 
 
 domain: "blogs.consumerreports.org"
-title: "Consumer Reports - iPhone 4's supposed signal woes aren\u2019t unique, and may not be serious"
 score: 24
 permalink: "/r/technology/comments/clgg5/consumer_reports_iphone_4s_supposed_signal_woes/"
 created: 07/02/2010 18:59:12
+url: "http://blogs.consumerreports.org/electronics/2010/07/apple-iphone-4-antenna-problems-dropped-calls-att-signals-bars-os-software-bugs-glitches-os-os4-iphone4-reception-problems-in.html"
 created_utc: 07/02/2010 17:59:12
 
 
 domain: "voip-sol.com"
-title: "6 Best iPhone VNC Clients &amp; Remote Access Apps"
 score: 28
 permalink: "/r/technology/comments/78rgd/6_best_iphone_vnc_clients_remote_access_apps/"
 created: 10/22/2008 19:11:10
+url: "http://www.voip-sol.com/best-iphone-vnc-clients-remote-access-apps/"
 created_utc: 10/22/2008 18:11:10
 
 
 domain: "mercurynews.com"
-title: "An Apple manager was arrested for accepting more than $1 million in kickbacks from half a dozen Asian suppliers of iPhone and iPod accessories in a federal indictment. "
 score: 25
 permalink: "/r/technology/comments/d1a2a/an_apple_manager_was_arrested_for_accepting_more/"
 created: 08/14/2010 22:43:34
+url: "http://www.mercurynews.com/business/ci_15773966?nclick_check=1"
 created_utc: 08/14/2010 21:43:34
 
 
 domain: "arstechnica.com"
-title: "No human interaction required: AT&amp;T iPhone unlock can be done via iTunes"
 score: 29
 permalink: "/r/technology/comments/s0uea/no_human_interaction_required_att_iphone_unlock/"
 created: 04/09/2012 11:57:35
+url: "http://arstechnica.com/apple/news/2012/04/no-human-interaction-required-att-iphone-unlock-can-be-done-via-itunes.ars"
 created_utc: 04/09/2012 10:57:35
 
 
 domain: "forbes.com"
-title: "Here's How Law Enforcement Cracks Your iPhone/Android's Security"
 score: 25
 permalink: "/r/technology/comments/rh7zu/heres_how_law_enforcement_cracks_your/"
 created: 03/28/2012 03:52:09
+url: "http://www.forbes.com/sites/andygreenberg/2012/03/27/heres-how-law-enforcement-cracks-your-iphones-security-code-video/"
 created_utc: 03/28/2012 02:52:09
 
 
 domain: "infoworld.com"
-title: "AT&amp;T: Strictly for losers-- Shoddy customer service. Poor network coverage. Brain-dead marketing. What's next for AT&amp;T? How about bandwidth caps and metered data plans for iPhone users?"
 score: 25
 permalink: "/r/technology/comments/adr4s/att_strictly_for_losers_shoddy_customer_service/"
 created: 12/11/2009 18:56:46
+url: "http://www.infoworld.com/d/adventures-in-it/att-strictly-losers-808"
 created_utc: 12/11/2009 17:56:46
 
 
 domain: "gizmodo.com"
-title: "As promised, Gizmodo has identified the unfortunate schlub who left his prototype iPhone 4G in a northern Silicon Valley pub."
 score: 27
 permalink: "/r/technology/comments/btcp1/as_promised_gizmodo_has_identified_the/"
 created: 04/19/2010 22:18:40
+url: "http://gizmodo.com/5520438/how-apple-lost-the-next-iphone"
 created_utc: 04/19/2010 21:18:40
 
 
 domain: "wired.com"
-title: "How to fool Apple's iPhone App moderators: hide the functionality inside an easter egg."
 score: 24
 permalink: "/r/technology/comments/94jm6/how_to_fool_apples_iphone_app_moderators_hide_the/"
 created: 07/25/2009 17:25:52
+url: "http://www.wired.com/gadgetlab/2009/05/appstoreeasteregg/"
 created_utc: 07/25/2009 16:25:52
 
 
 domain: "news.yahoo.com"
-title: "US Cellular: We turned down iPhone -- \"the terms were unacceptable from a risk and profitability standpoint.\" "
 score: 24
 permalink: "/r/technology/comments/m13r2/us_cellular_we_turned_down_iphone_the_terms_were/"
 created: 11/05/2011 01:00:00
+url: "http://news.yahoo.com/us-cellular-turned-down-iphone-180551297.html;_ylt=A2KLJIUcrrROe0QAITus0NUE;_ylu=X3oDMTRhbmswb2lrBG1pdANTZWN0aW9uTGlzdCBGUCBUZWNobm9sb2d5BHBrZwM3YTdjYjE1ZC04MzI5LTM5ZTctYjZjZS1jYzU0MjU3ZTFiZTIEcG9zAzIEc2VjA01lZGlhU2VjdGlvbkxpc3QEdmVyA2IzMmM5N2QwLTA3MTQtMTFlMS1iZWFjLWNjODQ2OTY4NTE1MA--;_ylg=X3oDMTFpNzk0NjhtBGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdANob21lBHB0A3NlY3Rpb25z;_ylv=3"
 created_utc: 11/05/2011 00:00:00
 
 
 domain: "wired.com"
-title: "Police closed in on the man who found and sold a prototype 4G iPhone after his roommate called an Apple security official and turned him in, according to a newly unsealed document in the ongoing police investigation."
 score: 22
 permalink: "/r/technology/comments/c48em/police_closed_in_on_the_man_who_found_and_sold_a/"
 created: 05/14/2010 17:57:19
+url: "http://www.wired.com/threatlevel/2010/05/roommate-iphone/"
 created_utc: 05/14/2010 16:57:19
 
 
 domain: "pcworld.com"
-title: "Apple Censors Dalai Lama IPhone Apps in China"
 score: 20
 permalink: "/r/technology/comments/ak2lf/apple_censors_dalai_lama_iphone_apps_in_china/"
 created: 12/30/2009 20:11:09
+url: "http://www.pcworld.com/article/185604/apple_censors_dalai_lama_iphone_apps_in_china.html"
 created_utc: 12/30/2009 19:11:09
 
 
 domain: "theblaze.com"
-title: "Startup sued for making local NY tv available to iPhones and iPads"
 score: 24
 permalink: "/r/technology/comments/qekpm/startup_sued_for_making_local_ny_tv_available_to/"
 created: 03/02/2012 12:00:56
+url: "http://www.theblaze.com/the-wire/12726773/startup-sued-for-sending-local-tv-to-the-iphone/"
 created_utc: 03/02/2012 11:00:56
 
 
 domain: "anandtech.com"
-title: "iPhone 3GS Hardware Exposed &amp; Analyzed - Good read as usual for Anandtech"
 score: 23
 permalink: "/r/technology/comments/8rfv4/iphone_3gs_hardware_exposed_analyzed_good_read_as/"
 created: 06/10/2009 15:53:49
+url: "http://anandtech.com/printarticle.aspx?i=3579"
 created_utc: 06/10/2009 14:53:49
 
 
 domain: "technolog.msnbc.msn.com"
-title: "Russian forensics firm cracks iPhone encryption"
 score: 24
 permalink: "/r/technology/comments/hjdot/russian_forensics_firm_cracks_iphone_encryption/"
 created: 05/24/2011 22:11:47
+url: "http://technolog.msnbc.msn.com/_news/2011/05/24/6709033-russian-forensics-firm-cracks-iphone-encryption"
 created_utc: 05/24/2011 21:11:47
 
 
 domain: "guardian.co.uk"
-title: "Android phones now \"neck and neck\" with iPhone in the US."
 score: 23
 permalink: "/r/technology/comments/f39us/android_phones_now_neck_and_neck_with_iphone_in/"
 created: 01/16/2011 10:32:50
+url: "http://www.guardian.co.uk/technology/2011/jan/16/iphone-android-apple-mobile-phone"
 created_utc: 01/16/2011 09:32:50
 
 
 domain: "news.cnet.com"
-title: "5 charged for taking teen's kidney in return for money so he could buy a new iPhone, iPad "
 score: 24
 permalink: "/r/technology/comments/rwfoj/5_charged_for_taking_teens_kidney_in_return_for/"
 created: 04/06/2012 13:17:28
+url: "http://news.cnet.com/8301-13579_3-57410495-37/5-charged-for-taking-teens-kidney-in-return-for-iphone-ipad/"
 created_utc: 04/06/2012 12:17:28
 
 
 domain: "muktware.com"
-title: "Android Approved By Pentagon For DoD Usage, Major Setback For iPhone"
 score: 24
 permalink: "/r/technology/comments/nr4sm/android_approved_by_pentagon_for_dod_usage_major/"
 created: 12/26/2011 09:27:44
+url: "http://www.muktware.com/news/3145/android-approved-pentagon-dod-usage-major-setback-iphone"
 created_utc: 12/26/2011 08:27:44
 
 
 domain: "anandtech.com"
-title: "AnandTech  - Apple's iPhone 5 Uses A6 SoC: ARM Cortex A15s Inside"
 score: 23
 permalink: "/r/technology/comments/zvfs4/anandtech_apples_iphone_5_uses_a6_soc_arm_cortex/"
 created: 09/14/2012 09:16:12
+url: "http://www.anandtech.com/show/6279/apples-iphone-5-uses-a6-soc-arm-cortex-a15s-inside"
 created_utc: 09/14/2012 08:16:12
 
 
 domain: "self.technology"
-title: "I'm convinced Steve Jobs is two people - one is a genius, the other is an idiot. If he had not locked the iPhone into AT&amp;T, almost everyone would be using an iPhone today.\n--JerseyBama, from Soundoff"
 score: 27
 permalink: "/r/technology/comments/a539d/im_convinced_steve_jobs_is_two_people_one_is_a/"
 created: 11/16/2009 22:11:47
+url: "http://www.reddit.com/r/technology/comments/a539d/im_convinced_steve_jobs_is_two_people_one_is_a/"
 created_utc: 11/16/2009 21:11:47
 
 
 domain: "crazytechnews.com"
-title: "Apple looking for patent to kill jailbroken IPhones "
 score: 24
 permalink: "/r/technology/comments/d66f7/apple_looking_for_patent_to_kill_jailbroken/"
 created: 08/27/2010 12:26:25
+url: "http://www.crazytechnews.com/apple-looking-for-patent-to-kill-jailbroken-iphones.html"
 created_utc: 08/27/2010 11:26:25
-title: "Apple applies for theft deterrent patent"
+url: "http://www.youtube.com/watch?v=pE7mos4f7vs"
 
 
 domain: "meish.org"
-title: "The iPhone makes a great camera"
 score: 23
 permalink: "/r/technology/comments/82txs/the_iphone_makes_a_great_camera/"
 created: 03/07/2009 10:16:32
+url: "http://meish.org/2009/03/04/how-to-squeeze-decent-photos-out-of-an-iphone/"
 created_utc: 03/07/2009 09:16:32
 
 
 domain: "weblog.infoworld.com"
-title: "The iPhone's seven shortcomings -- from an N95 user's perspective"
 score: 19
 permalink: "/r/technology/comments/6puf0/the_iphones_seven_shortcomings_from_an_n95_users/"
 created: 07/01/2008 19:32:14
+url: "http://weblog.infoworld.com/venezia/archives/017682.html"
 created_utc: 07/01/2008 18:32:14
 
 
 domain: "macrumors.com"
-title: "iPhone 5's preorder shipping date got moved back 2 weeks after 1 hour."
 score: 22
 permalink: "/r/technology/comments/zvc5v/iphone_5s_preorder_shipping_date_got_moved_back_2/"
 created: 09/14/2012 07:01:20
+url: "http://www.macrumors.com/2012/09/14/iphone-5-pre-order-shipping-estimates-slip-to-two-weeks/"
 created_utc: 09/14/2012 06:01:20
 
 
 domain: "news.cnet.com"
-title: "iPhone users: Android is ruining our Instagram club"
 score: 22
 permalink: "/r/technology/comments/rtkj1/iphone_users_android_is_ruining_our_instagram_club/"
 created: 04/04/2012 18:32:31
+url: "http://news.cnet.com/8301-1035_3-57409388-94/iphone-users-android-is-ruining-our-instagram-club/"
 created_utc: 04/04/2012 17:32:31
 
 
 domain: "techdraginfo.blogspot.com"
-title: "iPhone Running on Android OS"
 score: 19
 permalink: "/r/technology/comments/dvctj/iphone_running_on_android_os/"
 created: 10/23/2010 13:39:39
+url: "http://techdraginfo.blogspot.com/2010/10/iphone-running-on-android-os.html"
 created_utc: 10/23/2010 12:39:39
-title: "Android running on iPhone"
+url: "http://www.youtube.com/watch?v=5yO2KQHkt4A"
 
 
 domain: "theverge.com"
-title: "Contrary to previous armchair legal speculation, Apple can sell the iPhone in Mexico"
 score: 22
 permalink: "/r/technology/comments/12j768/contrary_to_previous_armchair_legal_speculation/"
 created: 11/02/2012 17:55:25
+url: "http://www.theverge.com/2012/11/2/3591380/iphone-ifone-and-apples-mexican-trademark-standoff-whats-really-going"
 created_utc: 11/02/2012 16:55:25
 
 
 domain: "wiseandroid.com"
-title: "Android News. Smartphone OS Fight Night! Android vs. webOS vs. iPhone OS"
 score: 21
 permalink: "/r/technology/comments/aaqjq/android_news_smartphone_os_fight_night_android_vs/"
 created: 12/03/2009 12:42:30
+url: "http://www.wiseandroid.com/NewsItem.aspx?category=News&amp;path=December&amp;itemid=5"
 created_utc: 12/03/2009 11:42:30
 
 
 domain: "news.cnet.com"
-title: "Apple boots security guru, Charlie Miller, who exposed iPhone exploit"
 score: 19
 permalink: "/r/technology/comments/m4dlm/apple_boots_security_guru_charlie_miller_who/"
 created: 11/07/2011 23:31:25
+url: "http://news.cnet.com/8301-27076_3-57320190-248/apple-boots-security-guru-who-exposed-iphone-exploit/?tag=mncol"
 created_utc: 11/07/2011 22:31:25
 
 
 domain: "online.wsj.com"
-title: "Sprint to 'Bet the Company' on iPhone"
 score: 25
 permalink: "/r/technology/comments/kzmi3/sprint_to_bet_the_company_on_iphone/"
 created: 10/03/2011 15:54:33
+url: "http://online.wsj.com/article/SB10001424052970203405504576603053795839250.html"
 created_utc: 10/03/2011 14:54:33
 
 
 domain: "news.cnet.com"
-title: "Samsung will reportedly sue Apple over LTE use on iPhone 5 "
 score: 23
 permalink: "/r/technology/comments/zp4o3/samsung_will_reportedly_sue_apple_over_lte_use_on/"
 created: 09/11/2012 03:42:30
+url: "http://news.cnet.com/8301-13579_3-57510080-37/samsung-will-reportedly-sue-apple-over-lte-use-on-iphone-5/"
 created_utc: 09/11/2012 02:42:30
 
 
 domain: "edition.cnn.com"
-title: "Samsung files injunction against iPhone 4S sale in Japan, Australia"
 score: 23
 permalink: "/r/technology/comments/lewfz/samsung_files_injunction_against_iphone_4s_sale/"
 created: 10/17/2011 04:15:46
+url: "http://edition.cnn.com/2011/10/17/tech/iphone-injunction/index.html?hpt=hp_t2"
 created_utc: 10/17/2011 03:15:46
 
 
 domain: "wired.com"
-title: "Chinese Knockoff Maker Reportedly Copies, Patents iPhone 5 Design"
 score: 21
 permalink: "/r/technology/comments/zdf7c/chinese_knockoff_maker_reportedly_copies_patents/"
 created: 09/04/2012 23:41:59
+url: "http://www.wired.com/gadgetlab/2012/09/goophone-apple-iphone/"
 created_utc: 09/04/2012 22:41:59
 
 
 domain: "eecs.umich.edu"
-title: "Giving away 20 devices that grab power and bandwidth from the iPhone's headphone jack, new platform for developers."
 score: 21
 permalink: "/r/technology/comments/f2cfh/giving_away_20_devices_that_grab_power_and/"
 created: 01/14/2011 14:07:10
+url: "http://eecs.umich.edu/~prabal/projects/hijack/"
 created_utc: 01/14/2011 13:07:10
 
 
 domain: "ismashphone.com"
-title: "This is how car charger should be integrated for every smartphone - eat that iPhone"
 score: 22
 permalink: "/r/technology/comments/8tned/this_is_how_car_charger_should_be_integrated_for/"
 created: 06/18/2009 14:10:10
+url: "http://www.ismashphone.com/2009/06/baby-you-can-drive-my-pre-is-this-the-future-of-smartphone-car-charging.html"
 created_utc: 06/18/2009 13:10:10
 
 
 domain: "theaustralian.com.au"
-title: "Google Earth, an iPhone compass have been vital to Libya's revolutionary war plan\n\t\t\tThe Australian"
 score: 23
 permalink: "/r/technology/comments/i2huf/google_earth_an_iphone_compass_have_been_vital_to/"
 created: 06/17/2011 19:05:32
+url: "http://www.theaustralian.com.au/news/world/google-earth-an-iphone-compass-and-experience-playing-call-of-duty-have-been-vital-to-libyas-rebel-war-plan/story-e6frg6so-1226076273268"
 created_utc: 06/17/2011 18:05:32
 
 
 domain: "act.rootsaction.org"
-title: "Apple Inc., which has received over $9 million in Pentagon contracts in recent years, has rejected from its App Store, and therefore from all iPhones, a simple informative application that adds a location to a map every time a drone strike is reported in the media and added to a database"
 score: 22
 permalink: "/r/technology/comments/12v665/apple_inc_which_has_received_over_9_million_in/"
 created: 11/08/2012 13:34:19
+url: "http://act.rootsaction.org/p/dia/action/public/?action_KEY=6750"
 created_utc: 11/08/2012 12:34:19
 
 
 domain: "arstechnica.com"
-title: "2000 iMac compared to the 2010 iPhone"
 score: 21
 permalink: "/r/technology/comments/chli5/2000_imac_compared_to_the_2010_iphone/"
 created: 06/22/2010 01:22:31
+url: "http://arstechnica.com/civis/viewtopic.php?f=19&amp;t=1114049&amp;"
 created_utc: 06/22/2010 00:22:31
 
 
 domain: "hosted.ap.org"
-title: "Apple is blocking Google Maps on iPhone.  How is this different than the Microsoft IE antitrust fiasco?"
 score: 25
 permalink: "/r/technology/comments/ux8ix/apple_is_blocking_google_maps_on_iphone_how_is/"
 created: 06/11/2012 23:28:04
+url: "http://hosted.ap.org/dynamic/stories/U/US_TEC_APPLE_CONFERENCE?SITE=ILEDW&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT"
 created_utc: 06/11/2012 22:28:04
 
 
 domain: "business.theatlantic.com"
-title: "Why Is Apple Banning Location-based iPhone Ads?"
 score: 20
 permalink: "/r/technology/comments/ayvt8/why_is_apple_banning_locationbased_iphone_ads/"
 created: 02/06/2010 13:49:30
+url: "http://business.theatlantic.com/2010/02/why_is_apple_banning_location-based_iphone_ads.php"
 created_utc: 02/06/2010 12:49:30
 
 
 domain: "healthystuff.org"
-title: "iPhone 5 Ranks Higher than Galaxy S III in New Study on Toxic Chemicals in Mobile Phones"
 score: 20
 permalink: "/r/technology/comments/10y616/iphone_5_ranks_higher_than_galaxy_s_iii_in_new/"
 created: 10/04/2012 15:31:52
+url: "http://www.healthystuff.org/get-stuff.php?report=+iPhone+5+Ranks+Higher+than+Galaxy+S+III+in+New+Study+on+Toxic+Chemicals+in+Mobile+Phones"
 created_utc: 10/04/2012 14:31:52
 
 
 domain: "boygeniusreport.com"
-title: "Android and iPhone driving smartphone sales by a whopping 56.7% year-over-year with vendors shipping 54.7 million converged devices in Q1 2010 alone"
 score: 20
 permalink: "/r/technology/comments/c1ht2/android_and_iphone_driving_smartphone_sales_by_a/"
 created: 05/08/2010 13:19:58
+url: "http://www.boygeniusreport.com/2010/05/07/android-and-iphone-driving-smartphone-sales/"
 created_utc: 05/08/2010 12:19:58
 
 
 domain: "anandtech.com"
-title: "AnandTech  - The iPhone 5 Performance Preview"
 score: 21
 permalink: "/r/technology/comments/10adve/anandtech_the_iphone_5_performance_preview/"
 created: 09/22/2012 10:12:03
+url: "http://www.anandtech.com/show/6324/the-iphone-5-performance-preview"
 created_utc: 09/22/2012 02:12:03
 
 
 domain: "readwriteweb.com"
-title: "Why You Have to Jailbreak the iPhone"
 score: 21
 permalink: "/r/technology/comments/7pg7b/why_you_have_to_jailbreak_the_iphone/"
 created: 01/13/2009 14:44:15
+url: "http://www.readwriteweb.com/archives/why_you_have_to_jailbreak_the_iphone.php"
 created_utc: 01/13/2009 13:44:15
 
 
 domain: "mobilecrunch.com"
-title: "Fancy an an unlimited free texting app? Don't have an iPhone? TextPlus is now coming to Android"
 score: 19
 permalink: "/r/technology/comments/aliro/fancy_an_an_unlimited_free_texting_app_dont_have/"
 created: 01/04/2010 17:16:21
+url: "http://www.mobilecrunch.com/2010/01/04/kleiner-backed-gogii-releases-textplus-for-android/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=Netvibes"
 created_utc: 01/04/2010 16:16:21
 
 
 domain: "self.technology"
-title: "What is the most useful programming language to learn currently?"
 score: 21
 permalink: "/r/technology/comments/d0057/what_is_the_most_useful_programming_language_to/"
 created: 08/11/2010 14:12:04
+url: "http://www.reddit.com/r/technology/comments/d0057/what_is_the_most_useful_programming_language_to/"
 created_utc: 08/11/2010 13:12:04
 
 
 domain: "self.technology"
-title: "Who all got Google Voice invites this week?"
 score: 21
 permalink: "/r/technology/comments/92npr/who_all_got_google_voice_invites_this_week/"
 created: 07/19/2009 20:17:44
+url: "http://www.reddit.com/r/technology/comments/92npr/who_all_got_google_voice_invites_this_week/"
 created_utc: 07/19/2009 19:17:44
 
 
 domain: "engadget.com"
-title: "Is Apple willfully ignoring trademarks?  After the Cisco iPhone conflict, now Fujitsu claims to already hold trademark on iPad."
 score: 23
 permalink: "/r/technology/comments/avoln/is_apple_willfully_ignoring_trademarks_after_the/"
 created: 01/29/2010 10:30:32
+url: "http://www.engadget.com/2010/01/28/apple-and-fujitsu-inevitably-caught-up-in-ipad-trademark-dispute/"
 created_utc: 01/29/2010 09:30:32
 
 
 domain: "fastcompany.com"
-title: "Realtime voice translater for the iPhone: Speak in English, and it speaks in Arabic. (And vice versa). "
 score: 18
 permalink: "/r/technology/comments/8xfwp/realtime_voice_translater_for_the_iphone_speak_in/"
 created: 07/01/2009 20:06:49
+url: "http://www.fastcompany.com/blog/cliff-kuang/design-innovation/witness-real-life-beta-version-star-treks-universal-translator"
 created_utc: 07/01/2009 19:06:49
 
 
 domain: "macobserver.com"
-title: "Apple co-founder Steve Wozniak on his iPhone: \"I love the beauty of it but I wish it did all the things my Android does, I really do.\""
 score: 20
 permalink: "/r/technology/comments/ot0rr/apple_cofounder_steve_wozniak_on_his_iphone_i/"
 created: 01/23/2012 12:40:57
+url: "http://www.macobserver.com/tmo/article/the_woz_android_has_some_advantages_over_iphone/"
 created_utc: 01/23/2012 11:40:57
 
 
 domain: "slatev.com"
-title: "The iPhone Ad You'll Never See"
 score: 20
 permalink: "/r/technology/comments/8iqdk/the_iphone_ad_youll_never_see/"
 created: 05/07/2009 18:58:35
+url: "http://www.slatev.com/index.html?bcpid=988327350&amp;bclid=20179457001&amp;bctid=22360583001"
 created_utc: 05/07/2009 17:58:35
 
 
 domain: "nytimes.com"
-title: "A Story Behind Skyhook Cellphone Locator System which Needs No Satellite and is Installed in Every iPhone Ever Sold"
 score: 23
 permalink: "/r/technology/comments/8oryy/a_story_behind_skyhook_cellphone_locator_system/"
 created: 06/01/2009 02:00:00
+url: "http://www.nytimes.com/2009/06/01/technology/start-ups/01locate.html"
 created_utc: 06/01/2009 01:00:00
 
 
 domain: "blog.newsweek.com"
-title: "Sayonara, iPhone. Daniel Lyons (Fake Steve Jobs) \r\nswitches to Android"
 score: 18
 permalink: "/r/technology/comments/c6n4w/sayonara_iphone_daniel_lyons_fake_steve_jobs/"
 created: 05/21/2010 07:36:37
+url: "http://blog.newsweek.com/blogs/techtonicshifts/archive/2010/05/20/sayonara-iphone-why-i-m-switching-to-android.aspx"
 created_utc: 05/21/2010 06:36:37
 
 
 domain: "blog.wired.com"
-title: "This Summer's New iPhones May Have OLED Screens"
 score: 18
 permalink: "/r/technology/comments/866e1/this_summers_new_iphones_may_have_oled_screens/"
 created: 03/20/2009 11:09:33
+url: "http://blog.wired.com/gadgets/2009/03/this-summers-ne.html"
 created_utc: 03/20/2009 10:09:33
 
 
 domain: "macrumors.com"
-title: "Apple Holding iPhone 4 Press Conference on Friday at 10 am"
 score: 18
 permalink: "/r/technology/comments/cpoqn/apple_holding_iphone_4_press_conference_on_friday/"
 created: 07/14/2010 22:05:49
+url: "http://www.macrumors.com/2010/07/14/apple-holding-iphone-4-press-conference-on-friday/"
 created_utc: 07/14/2010 21:05:49
 
 
 domain: "strandreports.com"
-title: "John Strand: \"No I do not hate the iPhone, but nor \r\ndo I respect any media or person that believes that \r\nthe world is only populated by Polish people\""
 score: 20
 permalink: "/r/technology/comments/cb0ie/john_strand_no_i_do_not_hate_the_iphone_but_nor/"
 created: 06/03/2010 10:25:57
+url: "http://www.strandreports.com/sw4227.asp"
 created_utc: 06/03/2010 09:25:57
 
 
 
 
 domain: "arstechnica.com"
-title: "Patent troll sue the little guys for milk money; shakes down iPhone app programmers"
 score: 22
 permalink: "/r/technology/comments/hb1kr/patent_troll_sue_the_little_guys_for_milk_money/"
 created: 05/14/2011 00:44:01
+url: "http://arstechnica.com/apple/news/2011/05/patent-troll-shakes-down-iphone-app-programmers.ars"
 created_utc: 05/13/2011 23:44:01
 
 
 domain: "slate.com"
-title: "How Google can knock the iPhone from its perch. - Slate Magazine"
 score: 22
 permalink: "/r/technology/comments/9cjwz/how_google_can_knock_the_iphone_from_its_perch/"
 created: 08/20/2009 16:37:18
+url: "http://www.slate.com/id/2225815/"
 created_utc: 08/20/2009 15:37:18
 
 
 domain: "popularmechanics.com"
-title: "Apple's Secret Tax Revealed: iPod/iPhone Accessory Ripoff!!!"
 score: 20
 permalink: "/r/technology/comments/6r5n2/apples_secret_tax_revealed_ipodiphone_accessory/"
 created: 07/10/2008 13:22:04
+url: "http://www.popularmechanics.com/technology/industry/4272628.html"
 created_utc: 07/10/2008 12:22:04
 
 
 domain: "quotd.com"
-title: "3 developers announce they are leaving the iPhone platform.  Tens of thousands rush to get their spot in the approval process line.  Apple shrugs."
 score: 22
 permalink: "/r/technology/comments/a5af2/3_developers_announce_they_are_leaving_the_iphone/"
 created: 11/17/2009 11:25:32
+url: "http://quotd.com/question/is-apple-shooting-itself-in-the-foot-with-its-slow-app-store-approval-process/"
 created_utc: 11/17/2009 10:25:32
 
 
 domain: "latimes.com"
-title: "3% of iPhone users generate 40% of the data traffic on AT&amp;T's network : \"We've got to get to those customers and have them recognize that they need to change their patterns or have to face other things\"\r\n"
 score: 22
 permalink: "/r/technology/comments/ad38x/3_of_iphone_users_generate_40_of_the_data_traffic/"
 created: 12/10/2009 03:21:01
+url: "http://www.latimes.com/business/la-fi-iphone10-2009dec10,0,4262001.story"
 created_utc: 12/10/2009 02:21:01
 
 
 domain: "latimesblogs.latimes.com"
-title: "Sales of Google's Android beating iPhone in 2010, Nielsen says"
 score: 19
 permalink: "/r/technology/comments/cwn70/sales_of_googles_android_beating_iphone_in_2010/"
 created: 08/02/2010 22:36:47
+url: "http://latimesblogs.latimes.com/technology/2010/08/google-android-apple-iphone-sales-mobile-att-verizon.html"
 created_utc: 08/02/2010 21:36:47
 
 
 domain: "popularmechanics.com"
-title: "Gizmodo Guy: iPhone Clone Innovation is 'Positively Listless'"
 score: 20
 permalink: "/r/technology/comments/6edf6/gizmodo_guy_iphone_clone_innovation_is_positively/"
 created: 04/02/2008 18:51:28
+url: "http://www.popularmechanics.com/technology/industry/4257134.html"
 created_utc: 04/02/2008 17:51:28
 
 
 domain: "bgr.com"
-title: "AT&amp;T has started to appease customers annoyed by its FaceTime policies by announcing that iPhone 5 users will be able to use the video chat application over the carrier\u2019s LTE network even if they don\u2019t have a shared data plan"
 score: 22
 permalink: "/r/technology/comments/12vgaf/att_has_started_to_appease_customers_annoyed_by/"
 created: 11/08/2012 23:04:20
+url: "http://bgr.com/2012/11/08/att-facetime-policy-change/"
 created_utc: 11/08/2012 15:04:20
 
 
 domain: "news.cnet.com"
-title: "Unlocking iPhone 3Gs--the Vietnamese way | Crave - CNET"
 score: 22
 permalink: "/r/technology/comments/7jbau/unlocking_iphone_3gsthe_vietnamese_way_crave_cnet/"
 created: 12/13/2008 17:36:59
+url: "http://news.cnet.com/8301-17938_105-10107580-1.html?part=rss&amp;tag=feed&amp;subj=Crave"
 created_utc: 12/13/2008 16:36:59
 
 
 domain: "associatedcontent.com"
-title: "iPods and iPhones explode; Apple offers customers full refunds in exchange for staying quiet."
 score: 20
 permalink: "/r/technology/comments/9clgv/ipods_and_iphones_explode_apple_offers_customers/"
 created: 08/20/2009 19:35:27
+url: "http://www.associatedcontent.com/article/2083829/warning_exploding_ipods_and_iphones.html?cat=3"
 created_utc: 08/20/2009 18:35:27
 
 
 domain: "latimes.com"
-title: "iPhone 5 camera might be flawed, shows purple light."
 score: 21
 permalink: "/r/technology/comments/10jgr1/iphone_5_camera_might_be_flawed_shows_purple_light/"
 created: 09/26/2012 22:38:14
+url: "http://www.latimes.com/business/technology/la-fi-tn-iphone-5-camera-purple-20120926,0,4988730.story"
 created_utc: 09/26/2012 21:38:14
 
 
 domain: "theverge.com"
-title: "Verizon says iPhone 5 will remain unlocked"
 score: 19
 permalink: "/r/technology/comments/10ekmp/verizon_says_iphone_5_will_remain_unlocked/"
 created: 09/24/2012 15:35:31
+url: "http://www.theverge.com/2012/9/24/3383540/verizon-says-iphone-5-will-remain-unlocked"
 created_utc: 09/24/2012 14:35:31
 
 
 domain: "theatlantic.com"
-title: "How the Blind Are Reinventing the iPhone."
 score: 19
 permalink: "/r/technology/comments/10r97c/how_the_blind_are_reinventing_the_iphone/"
 created: 10/01/2012 08:54:38
+url: "http://www.theatlantic.com/technology/archive/2012/05/how-the-blind-are-reinventing-the-iphone/256589/"
 created_utc: 10/01/2012 07:54:38
 
 
 domain: "engadget.com"
-title: "iPhone alarms still not working, worlds crashing left and right"
 score: 18
 permalink: "/r/technology/comments/evh4m/iphone_alarms_still_not_working_worlds_crashing/"
 created: 01/03/2011 12:41:22
+url: "http://www.engadget.com/2011/01/03/iphone-alarms-still-not-working-worlds-crashing-left-and-right/"
 created_utc: 01/03/2011 11:41:22
 
 
 domain: "nytimes.com"
-title: "Apple's Official iPhone 3G Unlock"
 score: 20
 permalink: "/r/technology/comments/9crvp/apples_official_iphone_3g_unlock/"
 created: 08/21/2009 09:56:57
+url: "http://www.nytimes.com/external/gigaom/2009/08/20/20gigaom-apples-official-iphone-3g-unlock-99791.html"
 created_utc: 08/21/2009 08:56:57
 
 
 domain: "bbc.co.uk"
-title: "Apple is facing a lawsuit brought by 27,000 South Koreans, angry over the collection of location data on iPhones and iPads."
 score: 21
 permalink: "/r/technology/comments/jmmdx/apple_is_facing_a_lawsuit_brought_by_27000_south/"
 created: 08/18/2011 07:43:44
+url: "http://www.bbc.co.uk/news/technology-14571734"
 created_utc: 08/18/2011 06:43:44
 
 
 domain: "online.wsj.com"
-title: "Is iPhone Losing Its Cool Factor?"
 score: 18
 permalink: "/r/technology/comments/kzp16/is_iphone_losing_its_cool_factor/"
 created: 10/03/2011 17:01:29
+url: "http://online.wsj.com/video/is-iphone-losing-its-cool-factor/B3BFEA22-EFC4-4270-AFE1-C12A67B155F9.html"
 created_utc: 10/03/2011 16:01:29
 
 
 domain: "washingtonpost.com"
-title: "Apple\u2019s Siri uses three times more data than earlier iPhones - The Washington Post"
 score: 18
 permalink: "/r/technology/comments/o91st/apples_siri_uses_three_times_more_data_than/"
 created: 01/09/2012 03:29:09
+url: "http://www.washingtonpost.com/business/technology/apples-siri-uses-three-times-more-data-than-earlier-iphones/2012/01/06/gIQAi9YpfP_story.html"
 created_utc: 01/09/2012 02:29:09
 
 
 domain: "news.cnet.com"
-title: "Apple &amp; AT&amp;T Foiled Again - iPhone 3G Unlocked Already"
 score: 19
 permalink: "/r/technology/comments/6rye0/apple_att_foiled_again_iphone_3g_unlocked_already/"
 created: 07/15/2008 22:32:51
+url: "http://news.cnet.com/8301-17938_105-9991672-1.html"
 created_utc: 07/15/2008 21:32:51
 
 
 domain: "businessinsider.com"
-title: "Former SEALs Market iPhone App That The Government Hates. Privacy through Silent Circle"
 score: 19
 permalink: "/r/technology/comments/119h0i/former_seals_market_iphone_app_that_the/"
 created: 10/10/2012 14:57:17
+url: "http://www.businessinsider.com/silent-circle-app-2012-10"
 created_utc: 10/10/2012 13:57:17
 
 
 domain: "eff.org"
-title: "EFF has proposed a 3-year exemption from the DMCA to permit jailbreaking iPhones"
 score: 18
 permalink: "/r/technology/comments/7phow/eff_has_proposed_a_3year_exemption_from_the_dmca/"
 created: 01/13/2009 17:34:06
+url: "http://www.eff.org/deeplinks/2009/01/iphone-developers-support-effs-dmca-exemption-jail"
 created_utc: 01/13/2009 16:34:06
 
 
 domain: "wired.com"
-title: "iPhone helmet works great until you fall and need your helmet for its original use."
 score: 17
 permalink: "/r/technology/comments/9p85d/iphone_helmet_works_great_until_you_fall_and_need/"
 created: 09/29/2009 14:56:29
+url: "http://www.wired.com/gadgetlab/2009/09/bike-helmet-display-for-iphone-shows-heads-up-maps/"
 created_utc: 09/29/2009 13:56:29
 
 
 domain: "voip-news.com"
-title: "GIPS Voice Technology Boosts iPhone's Business Potential "
 score: 19
 permalink: "/r/technology/comments/70xk9/gips_voice_technology_boosts_iphones_business/"
 created: 09/11/2008 14:32:21
+url: "http://www.voip-news.com/feature/gips-iphone-business-potential-081908/"
 created_utc: 09/11/2008 13:32:21
 
 
 domain: "pcworld.com"
-title: "Google Makes iPhone the New eBook Reader: Watch Out Kindle"
 score: 17
 permalink: "/r/technology/comments/7vd7r/google_makes_iphone_the_new_ebook_reader_watch/"
 created: 02/06/2009 09:48:53
+url: "http://www.pcworld.com/article/159067/google_makes_iphone_the_new_ebook_reader_watch_out_kindle.html"
 created_utc: 02/06/2009 08:48:53
 
 
 domain: "au.ibtimes.com"
-title: "Apple Granted Patent to Disable iPhone Recordings Near Government Buildings or Political Events"
 score: 18
 permalink: "/r/technology/comments/100k3f/apple_granted_patent_to_disable_iphone_recordings/"
 created: 09/17/2012 06:07:15
+url: "http://au.ibtimes.com/articles/384874/20120917/apple-granted-patent-disable-iphone-recordings-near.htm#.UFbnuY1lQUA"
 created_utc: 09/17/2012 05:07:15
 
 
 domain: "arstechnica.com"
-title: "Lawsuit: Apple turned iPhone 3Gs into \"bricks\" to boost iPhone 4 sales"
 score: 19
 permalink: "/r/technology/comments/e0ynh/lawsuit_apple_turned_iphone_3gs_into_bricks_to/"
 created: 11/03/2010 23:47:12
+url: "http://arstechnica.com/apple/news/2010/11/lawsuit-apple-turned-iphone-3gs-into-ibricks-to-boost-iphone-4.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
 created_utc: 11/03/2010 22:47:12
 
 
 domain: "news.cnet.com"
-title: "iPhone 5 prototypes reportedly reveal NFC support "
 score: 17
 permalink: "/r/technology/comments/vkpq0/iphone_5_prototypes_reportedly_reveal_nfc_support/"
 created: 06/25/2012 12:27:15
+url: "http://news.cnet.com/8301-13579_3-57459639-37/iphone-5-prototypes-reportedly-reveal-nfc-support/?tag=mncol;editorPicks"
 created_utc: 06/25/2012 11:27:15
 
 
 domain: "computerworld.com"
-title: "Mozilla backs move to decriminalize iPhone jailbreaking"
 score: 16
 permalink: "/r/technology/comments/7y8f1/mozilla_backs_move_to_decriminalize_iphone/"
 created: 02/17/2009 23:08:06
+url: "http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyId=17&amp;articleId=9128119&amp;intsrc=hm_topic"
 created_utc: 02/17/2009 22:08:06
 
 
 domain: "blog.okcupid.com"
-title: "iPhone users have more sex (also, Panasonic cameras make you look good)"
 score: 13
 permalink: "/r/technology/comments/czl8v/iphone_users_have_more_sex_also_panasonic_cameras/"
 created: 08/10/2010 14:51:50
+url: "http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/"
 created_utc: 08/10/2010 13:51:50
 
 
 domain: "news.bbc.co.uk"
-title: "Orange announces UK iPhone deal"
 score: 18
 permalink: "/r/technology/comments/9oqhj/orange_announces_uk_iphone_deal/"
 created: 09/28/2009 05:32:38
+url: "http://news.bbc.co.uk/1/hi/technology/8278073.stm"
 created_utc: 09/28/2009 04:32:38
 
 
 domain: "guardian.co.uk"
-title: "Google admits tracking Safari users on desktops and iPhones"
 score: 19
 permalink: "/r/technology/comments/puzmc/google_admits_tracking_safari_users_on_desktops/"
 created: 02/18/2012 02:36:13
+url: "http://www.guardian.co.uk/technology/2012/feb/17/google-admits-tracking-safari-users?CMP=twt_gu"
 created_utc: 02/18/2012 01:36:13
 
 
 domain: "newsroom.virginmobileusa.com"
-title: "Virgin Mobile USA to Offer iPhone on June 29"
 score: 17
 permalink: "/r/technology/comments/uzcwc/virgin_mobile_usa_to_offer_iphone_on_june_29/"
 created: 06/13/2012 02:22:44
+url: "http://newsroom.virginmobileusa.com/press-release/handsets/virgin-mobile-usa-offer-iphone-june-29"
 created_utc: 06/13/2012 01:22:44
 
 
 domain: "reviews.cnet.com"
-title: "iPhone 5 opens the door for Nokia, Samsung"
 score: 15
 permalink: "/r/technology/comments/zvcpv/iphone_5_opens_the_door_for_nokia_samsung/"
 created: 09/14/2012 07:25:25
+url: "http://reviews.cnet.com/8301-19512_7-57511658-233/iphone-5-opens-the-door-for-nokia-samsung/"
 created_utc: 09/14/2012 06:25:25
 
 
 domain: "wired.com"
-title: "Verizon iPhone Shows You Can't Win: Carriers Hold All the Cards"
 score: 18
 permalink: "/r/technology/comments/fhnlt/verizon_iphone_shows_you_cant_win_carriers_hold/"
 created: 02/08/2011 14:33:24
+url: "http://www.wired.com/gadgetlab/2011/02/iphone-verizon-sucks/"
 created_utc: 02/08/2011 13:33:24
 
 
 domain: "electronista.com"
-title: "Nexus One test: faster, better screen than iPhone."
 score: 18
 permalink: "/r/technology/comments/ai15a/nexus_one_test_faster_better_screen_than_iphone/"
 created: 12/23/2009 20:59:36
+url: "http://www.electronista.com/articles/09/12/23/google.phone.considered.real.challenger/"
 created_utc: 12/23/2009 19:59:36
 
 
 domain: "apple.com"
-title: "Letter from Apple Regarding iPhone 4"
 score: 14
 permalink: "/r/technology/comments/clanx/letter_from_apple_regarding_iphone_4/"
 created: 07/02/2010 09:56:28
+url: "http://www.apple.com/pr/library/2010/07/02appleletter.html"
 created_utc: 07/02/2010 08:56:28
 
 
 domain: "msnbc.msn.com"
-title: "iPhone user wins $850 in AT&amp;T throttling case - Precedent?"
 score: 17
 permalink: "/r/technology/comments/q7w3c/iphone_user_wins_850_in_att_throttling_case/"
 created: 02/27/2012 04:19:27
+url: "http://www.msnbc.msn.com/id/46520148/ns/technology_and_science-tech_and_gadgets/"
 created_utc: 02/27/2012 03:19:27
 
 
 domain: "arstechnica.com"
-title: "iPhone 4S sets new one-day preorder sales record at 1 million"
 score: 17
 permalink: "/r/technology/comments/l74dn/iphone_4s_sets_new_oneday_preorder_sales_record/"
 created: 10/10/2011 12:19:07
+url: "http://arstechnica.com/apple/news/2011/10/iphone-4s-sets-new-one-day-preorder-sales-record-at-1-million.ars"
 created_utc: 10/10/2011 11:19:07
 
 
 domain: "geekword.net"
-title: "Bootlace 2.1 lands on Cydia, lets you install Android directly on your iPhone"
 score: 19
 permalink: "/r/technology/comments/e3ebl/bootlace_21_lands_on_cydia_lets_you_install/"
 created: 11/09/2010 06:17:08
+url: "http://www.geekword.net/bootlace-2.1-install-android-iphone/"
 created_utc: 11/09/2010 05:17:08
 
 
 domain: "cnn.com"
-title: "Apple's secret plan to join iPhones with airport security"
 score: 18
 permalink: "/r/technology/comments/10ekvg/apples_secret_plan_to_join_iphones_with_airport/"
 created: 09/24/2012 15:39:42
+url: "http://www.cnn.com/2012/09/19/travel/mobile-airport-travel-apps/index.html"
 created_utc: 09/24/2012 14:39:42
 
 
 domain: "extremetech.com"
-title: "The iPhone 5: Less innovation than Android and WP8, in a bigger package"
 score: 16
 permalink: "/r/technology/comments/zuudn/the_iphone_5_less_innovation_than_android_and_wp8/"
 created: 09/13/2012 23:25:49
+url: "http://www.extremetech.com/electronics/136100-the-iphone-5-less-innovation-than-android-and-wp8-in-a-bigger-package"
 created_utc: 09/13/2012 22:25:49
 
 
 domain: "resourcenation.com"
-title: "Top iPhone Applications for Business Professionals"
 score: 17
 permalink: "/r/technology/comments/7k4i4/top_iphone_applications_for_business_professionals/"
 created: 12/17/2008 13:23:29
+url: "http://www.resourcenation.com/blog/top-iphone-applications-for-business-professionals"
 created_utc: 12/17/2008 12:23:29
 
 
 domain: "pcworld.com"
-title: "Amazon Releases Kindle for iPhone"
 score: 15
 permalink: "/r/technology/comments/8240b/amazon_releases_kindle_for_iphone/"
 created: 03/04/2009 15:26:26
+url: "http://www.pcworld.com/article/160671/amazon_releases_kindle_for_iphone.html"
 created_utc: 03/04/2009 14:26:26
 
 
 domain: "online.wsj.com"
-title: "Verizon Finally Lands the iPhone"
 score: 17
 permalink: "/r/technology/comments/eyjs5/verizon_finally_lands_the_iphone/"
 created: 01/08/2011 14:12:39
+url: "http://online.wsj.com/article/SB10001424052748704739504576068170230339348.html?mod=WSJ_hp_LEFTTopStories"
 created_utc: 01/08/2011 13:12:39
 
 
 domain: "sfgate.com"
-title: "FTC says app-making companies need to stop copying contacts, phone numbers or e-mail addresses from iPhone address books to company servers."
 score: 18
 permalink: "/r/technology/comments/ptzji/ftc_says_appmaking_companies_need_to_stop_copying/"
 created: 02/17/2012 12:03:46
+url: "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/02/17/BUSO1N8Q0V.DTL&amp;tsp=1"
 created_utc: 02/17/2012 11:03:46
 
 
 domain: "technologizer.com"
-title: "The Commodore 64 vs. the iPhone 3G S: The Ultimate Showdown"
 score: 17
 permalink: "/r/technology/comments/8uxft/the_commodore_64_vs_the_iphone_3g_s_the_ultimate/"
 created: 06/23/2009 12:34:33
+url: "http://technologizer.com/2009/06/21/commodore-vs-iphone/"
 created_utc: 06/23/2009 11:34:33
 
 
 domain: "wired.com"
-title: "Wired Urges Judge to Unseal Gizmodo Search (Bloody iPhone)"
 score: 17
 permalink: "/r/technology/comments/c0j9g/wired_urges_judge_to_unseal_gizmodo_search_bloody/"
 created: 05/06/2010 07:01:27
+url: "http://www.wired.com/threatlevel/2010/05/gizmodo-warrant/"
 created_utc: 05/06/2010 06:01:27
 
 
 domain: "popsci.com"
-title: "Palm Pre Does Better Than the iPhone 3GS"
 score: 13
 permalink: "/r/technology/comments/8srb4/palm_pre_does_better_than_the_iphone_3gs/"
 created: 06/15/2009 18:03:38
+url: "http://www.popsci.com/gear-amp-gadgets/article/2009-06/three-things-palm-pre-does-better-iphone-3gs"
 created_utc: 06/15/2009 17:03:38
 
 
 domain: "consumerist.com"
-title: "Lose Your iPhone 5 Charger And You'll Be Stuck With Expensive, Pretty Brick"
 score: 19
 permalink: "/r/technology/comments/1192yz/lose_your_iphone_5_charger_and_youll_be_stuck/"
 created: 10/10/2012 18:10:13
+url: "http://consumerist.com/2012/10/09/lose-your-iphone-5-charger-youre-get-stuck-with-expensive-pretty-brick/"
 created_utc: 10/10/2012 10:10:13
 
 
 domain: "self.technology"
-title: "Given recent events (lulzsec) I've realized I need to use a password manager. Which should I use"
 score: 16
 permalink: "/r/technology/comments/i4cnl/given_recent_events_lulzsec_ive_realized_i_need/"
 created: 06/20/2011 11:45:57
+url: "http://www.reddit.com/r/technology/comments/i4cnl/given_recent_events_lulzsec_ive_realized_i_need/"
 created_utc: 06/20/2011 10:45:57
 
 
 domain: "gearlog.com"
-title: "New Motorola Droid expect June 23.... A day before iPhone 4's launch"
 score: 15
 permalink: "/r/technology/comments/cfnyv/new_motorola_droid_expect_june_23_a_day_before/"
 created: 06/16/2010 13:22:08
+url: "http://www.gearlog.com/2010/06/verizon_launching_next_motorol.php"
 created_utc: 06/16/2010 12:22:08
 
 
 domain: "abc.net.au"
-title: "Australian claims credit for creating first iPhone virus."
 score: 15
 permalink: "/r/technology/comments/a2e4r/australian_claims_credit_for_creating_first/"
 created: 11/09/2009 04:12:53
+url: "http://www.abc.net.au/news/stories/2009/11/09/2737673.htm"
 created_utc: 11/09/2009 03:12:53
 
 
 domain: "arstechnica.com"
-title: "Irony. iPhone pirating app gets pirated. "
 score: 17
 permalink: "/r/technology/comments/7f18a/irony_iphone_pirating_app_gets_pirated/"
 created: 11/22/2008 12:23:12
+url: "http://arstechnica.com/journals/apple.ars/2008/11/21/in-a-fit-of-irony-iphone-pirating-app-gets-pirated"
 created_utc: 11/22/2008 11:23:12
 
 
 domain: "moneyland.time.com"
-title: "Smartphone? $6 Billion Spent on iPhone Repairs Since 2007"
 score: 15
 permalink: "/r/technology/comments/108xcl/smartphone_6_billion_spent_on_iphone_repairs/"
 created: 09/21/2012 10:52:57
+url: "http://moneyland.time.com/2012/09/20/weve-spent-almost-6-billion-on-iphone-repairs-since-2007/"
 created_utc: 09/21/2012 09:52:57
 
 
 domain: "news.cnet.com"
-title: "Color me prettier: Galaxy S3 display outdoes iPhone 5's"
 score: 15
 permalink: "/r/technology/comments/10tncg/color_me_prettier_galaxy_s3_display_outdoes/"
 created: 10/02/2012 13:38:11
+url: "http://news.cnet.com/8301-13579_3-57524291-37/color-me-prettier-galaxy-s3-display-outdoes-iphone-5/"
 created_utc: 10/02/2012 12:38:11
 
 
 domain: "cultofmac.com"
-title: "T-Mobile Basically Tells Staff They Aren\u2019t Getting The iPhone Again This Year"
 score: 17
 permalink: "/r/technology/comments/yyngz/tmobile_basically_tells_staff_they_arent_getting/"
 created: 08/28/2012 11:27:29
+url: "http://www.cultofmac.com/187401/t-mobile-basically-tells-staff-they-arent-getting-the-iphone-again-this-year/"
 created_utc: 08/28/2012 10:27:29
 
 
 domain: "arstechnica.com"
-title: "At $30/month, Virgin Mobile beats Cricket's prepaid iPhone plans"
 score: 18
 permalink: "/r/technology/comments/uptpd/at_30month_virgin_mobile_beats_crickets_prepaid/"
 created: 06/07/2012 11:46:47
+url: "http://arstechnica.com/apple/2012/06/at-30month-virgin-mobile-beats-crickets-prepaid-iphone-plans/"
 created_utc: 06/07/2012 10:46:47
 
 
 domain: "edition.cnn.com"
-title: "Apple battles 'jailbreakers' over iPhone control"
 score: 15
 permalink: "/r/technology/comments/a4zp7/apple_battles_jailbreakers_over_iphone_control/"
 created: 11/16/2009 15:45:47
+url: "http://edition.cnn.com/2009/TECH/11/16/iphone.jailbreakers/index.html?iref=mpstoryview"
 created_utc: 11/16/2009 14:45:47
 
 
 domain: "dailytech.com"
-title: "Steve Jobs: No Flash on iPhone, iPad"
 score: 18
 permalink: "/r/technology/comments/b4or0/steve_jobs_no_flash_on_iphone_ipad/"
 created: 02/21/2010 12:53:30
+url: "http://www.dailytech.com/article.aspx?newsid=17738"
 created_utc: 02/21/2010 11:53:30
 
 
 domain: "newstribune.com"
-title: "Apple acquires patent to disable iPhones in \"professional and some social settings, where devices could easily bother many people at once\""
 score: 15
 permalink: "/r/technology/comments/109hxg/apple_acquires_patent_to_disable_iphones_in/"
 created: 09/21/2012 16:38:19
+url: "http://www.newstribune.com/news/2012/sep/10/your-iphone-could-be-disabled-during-next-protest-/"
 created_utc: 09/21/2012 15:38:19
 
 
 domain: "fsf.org"
-title: "DefectiveByDesign.org: The 5 real reasons to avoid iPhone 3G"
 score: 14
 permalink: "/r/technology/comments/6ralh/defectivebydesignorg_the_5_real_reasons_to_avoid/"
 created: 07/11/2008 08:57:05
+url: "http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g"
 created_utc: 07/11/2008 07:57:05
 
 
 domain: "newsok.com"
-title: "California iPhone user wins $850 small claims case against AT&amp;T in data throttling "
 score: 14
 permalink: "/r/technology/comments/q5bi8/california_iphone_user_wins_850_small_claims_case/"
 created: 02/25/2012 05:48:25
+url: "http://newsok.com/california-iphone-user-wins-850-small-claims-case-against-att-in-data-throttling/article/3652242"
 created_utc: 02/25/2012 04:48:25
 
 
 domain: "dailynews.com"
-title: "Found a fair review of the Samsung GS3 and the iPhone 5."
 score: 17
 permalink: "/r/technology/comments/11aftv/found_a_fair_review_of_the_samsung_gs3_and_the/"
 created: 10/10/2012 23:53:21
+url: "http://www.dailynews.com/ci_21731314/iphone-5-vs-galaxy-s3-who-wins-battle?source=most_viewed"
 created_utc: 10/10/2012 22:53:21
 
 
 domain: "appleinsider.com"
-title: "Apple sues \"inferior quality\" iPod, iPhone and iPad accessory makers"
 score: 17
 permalink: "/r/technology/comments/cw8hi/apple_sues_inferior_quality_ipod_iphone_and_ipad/"
 created: 08/01/2010 22:25:15
+url: "http://www.appleinsider.com/articles/10/07/30/apple_sues_inferior_quality_ipod_iphone_and_ipad_accessory_makers.html"
 created_utc: 08/01/2010 21:25:15
 
 
 domain: "self.technology"
-title: "Dropbox raised their referral limit to 8GB. Let's have one last party to celebrate!"
 score: 16
 permalink: "/r/technology/comments/bm7r6/dropbox_raised_their_referral_limit_to_8gb_lets/"
 created: 04/04/2010 03:17:40
+url: "http://www.reddit.com/r/technology/comments/bm7r6/dropbox_raised_their_referral_limit_to_8gb_lets/"
 created_utc: 04/04/2010 02:17:40
 
 
 domain: "trueslant.com"
-title: "NYT says iPhone hardware sucks, Daring Fireball says it's the network, so who should we really blame for the crappy user experience?"
 score: 16
 permalink: "/r/technology/comments/aeo2r/nyt_says_iphone_hardware_sucks_daring_fireball/"
 created: 12/14/2009 18:43:30
+url: "http://trueslant.com/marcflores/2009/12/14/iphone-vs-att-vs-verizon-and-the-point-everyone-is-missing/"
 created_utc: 12/14/2009 17:43:30
 
 
 domain: "computerworld.com"
-title: "Unfinished Windows 7 feature turns laptops into Wi-Fi hotspots. Free app lets iPhones, other devices connect to Internet via software-based router"
 score: 14
 permalink: "/r/technology/comments/9zi6v/unfinished_windows_7_feature_turns_laptops_into/"
 created: 10/30/2009 18:49:24
+url: "http://www.computerworld.com/s/article/9140133/Unfinished_Windows_7_feature_turns_laptops_into_Wi_Fi_hotspots"
 created_utc: 10/30/2009 17:49:24
 
 
 domain: "kathika.com"
-title: "Helpful iPhone Travel Apps"
 score: 16
 permalink: "/r/technology/comments/7zuix/helpful_iphone_travel_apps/"
 created: 02/24/2009 08:24:03
+url: "http://kathika.com/tips-planning/20090224-002859/"
 created_utc: 02/24/2009 07:24:03
 
 

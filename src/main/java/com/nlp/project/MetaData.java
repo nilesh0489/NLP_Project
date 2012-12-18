@@ -16,8 +16,8 @@ public class MetaData {
 	public void extractMetadata(String filename, String mode) {
 		try {
 			BufferedReader fp = new BufferedReader(new FileReader(filename));
-			PrintWriter out = new PrintWriter(new File("tech-400/filtered-data-" + mode + "-400.txt"));
-			PrintWriter out1 = new PrintWriter(new File("tech-400/url-" + mode + "-400.txt"));
+			PrintWriter out = new PrintWriter(new File("iphone-500/filtered-data-" + mode + "-500.txt"));
+			PrintWriter out1 = new PrintWriter(new File("iphone-500/url-" + mode + "-500.txt"));
 			String s;
 			boolean flag;
 			while ((s = fp.readLine()) != null){
@@ -73,8 +73,8 @@ public class MetaData {
 	
 	public static void main(String args[]) {
 		MetaData md = new MetaData();
-		md.extractMetadata("tech-400/metadata-bottom-tech-reddit-week-400.txt", "bottom");
-		md.extractMetadata("tech-400/metadata-top-tech-reddit-week-400.txt", "top");
+		md.extractMetadata("iphone-500/metadata-bottom-iphone-reddit-500.txt", "bottom");
+		md.extractMetadata("iphone-500/metadata-top-iphone-reddit-500.txt", "top");
 	}
 
 }

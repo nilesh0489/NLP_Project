@@ -1,5 +1,6 @@
+package com.nlp.project;
+
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.FileWriter;
@@ -18,28 +19,30 @@ public class FoldGenerator
         
     try {
         
-        for(int j = 1; j <= 5; j++)
+        for(int j = 1; j <= 1; j++)
         {
-            FileWriter fop = new FileWriter("train/train-fold-"+ j +".txt");
+            FileWriter fop = new FileWriter("iphone-500/new-train/train-fold-" + j + ".txt");
             PrintWriter out = new PrintWriter(fop);
-            FileWriter fopTest = new FileWriter("test/test-fold-"+ j +".txt");
+            
+            FileWriter fopTest = new FileWriter("iphone-500/new-test/test-fold-"+ j +".txt");
             PrintWriter outTest = new PrintWriter(fopTest);
             
-            for(int i = 1; i <= 150; i++)
+            for(int i = 1; i <= 215; i++)
             {
-                FileInputStream fstream = new FileInputStream("bottom/" + i + ".txt");
+                FileInputStream fstream = new FileInputStream("iphone-500/new-bottom/a1 ("+ i + ").txt");
                 DataInputStream in = new DataInputStream(fstream);
                 BufferedReader br = new BufferedReader(new InputStreamReader(in));
                 
-                FileInputStream fstreamTop = new FileInputStream("top/" + i + ".txt");
+                FileInputStream fstreamTop = new FileInputStream("iphone-500/new-top/a1 (" + i + ").txt");
                 DataInputStream inTop = new DataInputStream(fstreamTop);
                 BufferedReader brTop = new BufferedReader(new InputStreamReader(inTop));
+                
                 
                 String line;
 
                 while((line = br.readLine()) != null)
                 {
-                        if(i > j*30 || i < (j-1)*30)
+                        if(i > j*43 || i <= (j-1)*43)
                         {
                             out.write(line);
                         }
@@ -47,7 +50,7 @@ public class FoldGenerator
                             outTest.write(line);
                 }
               
-                if(i > j*30 || i < (j-1)*30)
+                if(i > j*43 || i <= (j-1)*43)
                 {
                     out.println();
                     out.println("### END ###");
@@ -59,7 +62,7 @@ public class FoldGenerator
                 
                 while((line = brTop.readLine()) != null)
                 {
-                        if(i > j*30 || i < (j-1)*30)
+                        if(i > j*43 || i <= (j-1)*43)
                         {
                             out.write(line);
                         }
@@ -67,7 +70,7 @@ public class FoldGenerator
                             outTest.write(line);
                 }
                 
-                if(i > j*30 || i < (j-1)*30)
+                if(i > j*43 || i <= (j-1)*43)
                 {
                     out.println();
                     out.println("### END ###");
